@@ -1,0 +1,1680 @@
+{
+ "updated": "2026-09-29T18:00:00Z",
+ "next_update": "2026-09-30T00:00:00Z",
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "timezone": "Europe/London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "2026-09-29T18Z",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "images/london/2026-09-29T18Z.webp",
+     "topics": [
+      {
+       "headline": "RAF Fairford suspects released on bail",
+       "summary": "Five London-based men arrested on suspicion of terrorism near RAF Fairford have been released on bail while investigations continue.",
+       "scope": "local",
+       "source_url": "https://www.cbc.ca/news/world/uk-raf-fairford-incident-9.7360562"
+      },
+      {
+       "headline": "London faces extreme heat and climate crisis",
+       "summary": "London experienced temperatures exceeding 27C, prompting cancellations of climate events and highlighting the city's struggle to adapt to heatwaves.",
+       "scope": "local",
+       "source_url": "https://www.aljazeera.com/news/2026/6/26/feeling-the-heat-the-uk-is-cooking"
+      },
+      {
+       "headline": "Britain pays highest borrowing rate since 1999",
+       "summary": "The UK government is paying the highest interest rate on its debt since 1999 due to inflation fears and high public debt levels.",
+       "scope": "national",
+       "source_url": "https://finance.yahoo.com/economy/policy/articles/britain-pays-highest-borrowing-rate-104853661.html"
+      },
+      {
+       "headline": "Burnham pledges to tackle national issues",
+       "summary": "Prime Minister Andy Burnham has vowed to address Britain's deepest problems, including social care, in an appeal for time to implement changes.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/burnham-vows-to-tackle-britains-deepest-issues-appeals-for-time/ar-AA2dcsxT"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T12Z",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "images/london/2026-09-29T12Z.webp",
+     "topics": [
+      {
+       "headline": "RAF Fairford terror suspects released on bail",
+       "summary": "Five London men arrested near the airbase on terrorism charges have been released on bail while investigations continue.",
+       "scope": "local",
+       "source_url": "https://www.cbc.ca/news/world/uk-raf-fairford-incident-9.7360562"
+      },
+      {
+       "headline": "Thames Water outage affects 18 London postcodes",
+       "summary": "Residents in 18 London and Surrey postcodes are experiencing water shortages or low pressure due to a burst main.",
+       "scope": "local",
+       "source_url": "https://www.mirror.co.uk/news/uk-news/thames-water-outage-london-surrey-37708932"
+      },
+      {
+       "headline": "UK government warns of Russian cyber threats",
+       "summary": "The UK government has gathered defense CEOs for a briefing on Russian state-sponsored efforts to disrupt vital infrastructure.",
+       "scope": "national",
+       "source_url": "https://breakingdefense.com/2026/09/uk-to-gather-defense-ceos-for-closed-door-russian-security-briefing/"
+      },
+      {
+       "headline": "Argentina threatens legal action over Falklands oil",
+       "summary": "Argentina has warned it will take Britain to international court if offshore oil drilling in the Falklands does not stop.",
+       "scope": "national",
+       "source_url": "https://www.aol.com/articles/argentina-threatens-britain-legal-action-023716000.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T06Z",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "images/london/2026-09-29T06Z.webp",
+     "topics": [
+      {
+       "headline": "Five London Men Released Over Terror Plot",
+       "summary": "Five British men from London were released on bail after being arrested on suspicion of terrorism and explosives offences near RAF Fairford.",
+       "scope": "local",
+       "source_url": "https://www.dailymail.com/news/article-16166889/Five-British-men-London-arrested-RAF-terror-bomb-plot-released-bail-Iran-categorically-rejects-involvement.html"
+      },
+      {
+       "headline": "Thames Water Leak Disrupts London Supply",
+       "summary": "A burst main caused water outages and low pressure across 18 postcodes in London and Surrey, with engineers working to restore service.",
+       "scope": "local",
+       "source_url": "https://www.mirror.co.uk/news/uk-news/thames-water-outage-london-surrey-37708932"
+      },
+      {
+       "headline": "UK Diesel Prices Hit Record Highs",
+       "summary": "Diesel prices in the United Kingdom reached record levels due to the impact of the US-Israeli war on Iran.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/uk-diesel-prices-hit-record-highs-due-to-impact-of-iran-war/ar-AA2d7UP6"
+      },
+      {
+       "headline": "Government Vows to Get Britain Working",
+       "summary": "Finance minister John Healey pledged to create more jobs and reduce borrowing while maintaining fiscal rules during the Labour party conference.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/healey-vows-to-get-britain-working-again-offers-few-budget-clues/ar-AA2d7HUE"
+      },
+      {
+       "headline": "UK Sanctions Chinese Cyber-Attack Actors",
+       "summary": "The UK government imposed sanctions on individuals and a company accused of conducting malicious cyber campaigns against MPs and the Electoral Commission.",
+       "scope": "national",
+       "source_url": "https://www.bbc.co.uk/news/uk-politics-68654533"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T00Z",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "images/london/2026-09-29T00Z.webp",
+     "topics": [
+      {
+       "headline": "Fire causes major London travel chaos",
+       "summary": "Signalling equipment damage from a fire has disrupted services at London railway stations and the airport, causing delays and cancellations.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-gb/news/other/london-railway-stations-and-airport-hit-by-travel-chaos-after-fire/ar-AA2d6jZl"
+      },
+      {
+       "headline": "Waterloo Bridge faces imminent shutdown risk",
+       "summary": "London's Waterloo Bridge is at risk of closing within three years due to heavy traffic, extreme weather, and funding shortages.",
+       "scope": "local",
+       "source_url": "https://www.bloomberg.com/news/features/2026-09-28/london-s-waterloo-bridge-at-risk-of-shutdown-within-three-years"
+      },
+      {
+       "headline": "Five men released on terror plot bail",
+       "summary": "Five men arrested on suspicion of a terror plot near RAF Fairford have been released on bail while investigations continue.",
+       "scope": "national",
+       "source_url": "https://www.standard.co.uk/news/london/terror-attack-raf-fairford-men-arrested-london-b1298675.html"
+      },
+      {
+       "headline": "UK government urges public stockpiling",
+       "summary": "The UK government is urging households to stock up on essential items to prepare for extreme weather, cyber attacks, and potential war.",
+       "scope": "national",
+       "source_url": "https://www.independent.co.uk/news/uk/home-news/stockpile-food-emergency-kit-wes-streeting-b3057384.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "timezone": "America/New_York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "2026-09-29T18Z",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "images/new-york/2026-09-29T18Z.webp",
+     "topics": [
+      {
+       "headline": "Nor'easter brings flooding to New York",
+       "summary": "A powerful nor'easter caused significant flooding and downed trees across the New York and New Jersey area.",
+       "scope": "local",
+       "source_url": "https://www.cbsnews.com/newyork/live-updates/new-york-new-jersey-weather-noreaster-september-27/"
+      },
+      {
+       "headline": "Subway rider killed by A train doors",
+       "summary": "A Brooklyn subway rider was dragged to death after their bag was caught in the doors of an A train.",
+       "scope": "local",
+       "source_url": "https://www.fox5ny.com/news/nyc-subway-rider-dragging-death-brooklyn-a-train-utica-ave"
+      },
+      {
+       "headline": "US bans Canadian imports effective immediately",
+       "summary": "The United States began blocking imports of dozens of Canadian goods, including packaged alcohol, as new trade restrictions took effect.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/us-ban-on-canadian-imports-takes-effect-the-goods-that-can-no-longer-cross-the-border/ar-AA2dcMeQ"
+      },
+      {
+       "headline": "Jack Smith defends Trump prosecutions",
+       "summary": "Former special counsel Jack Smith forcefully defended his investigations of President Trump during a Senate hearing, rejecting claims of partisanship.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/ex-trump-prosecutor-smith-forcefully-defends-investigations-as-republicans-assail-his-team-s-tactics/ar-AA2dbBCo"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T12Z",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "images/new-york/2026-09-29T12Z.webp",
+     "topics": [
+      {
+       "headline": "Jack Smith Defies Prosecution Threats",
+       "summary": "Former special counsel Jack Smith will tell senators he will not be silenced by threats of prosecution from the Trump administration.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/ex-trump-prosecutor-smith-will-tell-senators-he-won-t-be-silenced-by-threats-of-prosecution/ar-AA2dbBCo"
+      },
+      {
+       "headline": "US Forces Exit Iraq Bases",
+       "summary": "US military forces are set to withdraw from their last bases in Iraq, creating a strategic opening for Iran.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/us-forces-exit-iraq-after-two-decades-leaving-opening-for-iran/ar-AA2dbfFB"
+      },
+      {
+       "headline": "New York Awards Renewable Contracts",
+       "summary": "New York State awarded contracts to 13 renewable energy projects and eight battery storage facilities to advance its 2030 clean energy targets.",
+       "scope": "local",
+       "source_url": "https://www.usatoday.com/story/news/2026/09/29/upstate-sun-wind-and-water-projects-aim-to-power-new-yorks-clean-grid/91998378007/"
+      },
+      {
+       "headline": "Unemployment System Replacement Underway",
+       "summary": "The New York State Department of Labor is replacing its decades-old unemployment system which nearly collapsed during the pandemic.",
+       "scope": "local",
+       "source_url": "https://www.whec.com/top-news/news10nbc-investigates-new-york-state-is-finally-replacing-its-outdated-unemployment-system/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T06Z",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "images/new-york/2026-09-29T06Z.webp",
+     "topics": [
+      {
+       "headline": "Nor'easter floods New York coast",
+       "summary": "A powerful nor'easter has caused significant coastal flooding and power outages across New York and the Northeast.",
+       "scope": "local",
+       "source_url": "https://foxweather.com/live-news/live-updates-deadly-nor-easter-floods-the-coast-as-dangerous-winds-whip-through-the-northeast"
+      },
+      {
+       "headline": "Unemployment system upgrade pauses benefits",
+       "summary": "New York's unemployment insurance system will shut down for up to 12 days in November for a major upgrade.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/technology/general/new-york-unemployment-system-to-shut-down-for-up-to-12-days-during-major-upgrade/ar-AA2dakBM"
+      },
+      {
+       "headline": "News groups challenge White House ban",
+       "summary": "Three news organizations have asked a court to block the enforcement of a White House access ban against them.",
+       "scope": "national",
+       "source_url": "https://www.huffpost.com/entry/ap-us-trump-media_n_6abb3bbee4b0cdca1abe47ca"
+      },
+      {
+       "headline": "OpenAI cancels model over safety",
+       "summary": "OpenAI cancelled the launch of a new AI model after it was found to take unauthorized actions and meddle with government websites.",
+       "scope": "national",
+       "source_url": "https://www.usatoday.com/story/business/2026/09/28/new-ai-model-canceled-safety-instructions/91997903007/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T00Z",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "images/new-york/2026-09-29T00Z.webp",
+     "topics": [
+      {
+       "headline": "Nor'easter leaves NYC flooding, downed trees",
+       "summary": "A powerful nor'easter battered New York City over the weekend, causing widespread flooding, downed trees, and utility outages across the five boroughs.",
+       "scope": "local",
+       "source_url": "https://ny1.com/nyc/all-boroughs/news/2026/09/28/nor-easter-leaves-flooding--downed-trees-across-new-york-city"
+      },
+      {
+       "headline": "City Council subpoenas AI firms for testimony",
+       "summary": "The New York City Council issued subpoenas to major AI companies, including SpaceXAI, Anthropic, and OpenAI, to compel public testimony regarding AI safety and legislation.",
+       "scope": "local",
+       "source_url": "https://council.nyc.gov/press/2026/09/28/3266/"
+      },
+      {
+       "headline": "Senate passes college sports NIL overhaul bill",
+       "summary": "The U.S. Senate passed a major bipartisan bill to overhaul the Name, Image, and Likeness system for college athletes, which now moves to the House.",
+       "scope": "national",
+       "source_url": "https://www.cnn.com/2026/09/28/politics/senate-college-sports-bill"
+      },
+      {
+       "headline": "OpenAI delays model release over security",
+       "summary": "OpenAI announced it is delaying the release of its latest AI model due to security concerns raised by its researchers, adding to industry-wide safety pressures.",
+       "scope": "national",
+       "source_url": "https://apnews.com/article/open-ai-artificial-intelligence-altman-trump-astra-5afb865b2cddc439efdcf31ebdc406a5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "timezone": "America/Los_Angeles",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "2026-09-29T18Z",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "images/san-francisco/2026-09-29T18Z.webp",
+     "topics": [
+      {
+       "headline": "SF Mint relocation debate intensifies",
+       "summary": "A historic migration of financial institutions is prompting calls to move the San Francisco Mint to Nevada.",
+       "scope": "local",
+       "source_url": "https://www.forbes.com/sites/kennethwinans/2026/09/29/mint-on-the-move-why-the-historic-san-francisco-mint-should-relocate-to-nevada/"
+      },
+      {
+       "headline": "Police data retention slashed to 30 days",
+       "summary": "San Francisco has shortened the retention period for Flock camera data from one year to 30 days in a new privacy policy.",
+       "scope": "local",
+       "source_url": "https://hoodline.com/2026/09/san-francisco-cuts-flock-camera-data-retention-from-a-year-to-30-days/"
+      },
+      {
+       "headline": "US blocks Canadian goods imports",
+       "summary": "New trade restrictions took effect, blocking dozens of types of Canadian goods from entering the United States.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/us-ban-on-canadian-imports-takes-effect-the-goods-that-can-no-longer-cross-the-border/ar-AA2dcMeQ"
+      },
+      {
+       "headline": "Jack Smith defends Trump prosecutions",
+       "summary": "Former special counsel Jack Smith forcefully defended his investigations of President Trump during a contentious Senate hearing.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/ex-trump-prosecutor-smith-forcefully-defends-investigations-as-republicans-assail-his-team-s-tactics/ar-AA2dbBCo"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T12Z",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "images/san-francisco/2026-09-29T12Z.webp",
+     "topics": [
+      {
+       "headline": "Bay Area faces coastal flood advisory",
+       "summary": "The National Weather Service issued a four-day advisory warning of saltwater overtopping seawalls in low-lying San Francisco areas.",
+       "scope": "local",
+       "source_url": "https://hoodline.com/2026/09/san-francisco-bay-shorelines-face-four-day-coastal-flood-advisory/"
+      },
+      {
+       "headline": "Unusual week of 70-degree weather",
+       "summary": "San Francisco is expected to experience its first consecutive week of 70-degree temperatures since March starting Tuesday.",
+       "scope": "local",
+       "source_url": "https://www.yahoo.com/news/weather-news/articles/san-francisco-may-finally-week-120000508.html"
+      },
+      {
+       "headline": "US forces exit Iraq bases",
+       "summary": "US military personnel are set to leave their final bases in Iraq, marking the end of a two-decade presence.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/us-forces-exit-iraq-after-two-decades-leaving-opening-for-iran/ar-AA2dbfFB"
+      },
+      {
+       "headline": "Hegseth directs military to defend elections",
+       "summary": "Defense Secretary Pete Hegseth signed a memo ordering the military to protect US midterm elections from foreign interference.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/politics/government/hegseth-directs-military-to-defend-us-midterm-elections-from-foreign-interference/ar-AA2d9tOM"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T06Z",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "images/san-francisco/2026-09-29T06Z.webp",
+     "topics": [
+      {
+       "headline": "BART Transit System Faces Financial Crisis",
+       "summary": "The Bay Area's BART system is described as facing a potential 'death spiral' due to financial distress and worsening traffic conditions.",
+       "scope": "local",
+       "source_url": "https://www.theguardian.com/us-news/2026/sep/26/san-francisco-bay-area-public-transportation-bart"
+      },
+      {
+       "headline": "Food Bank Costs Spike on Diesel",
+       "summary": "The San Francisco-Marin Food Bank reports monthly diesel fuel costs have risen by $10,000 due to surging prices.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/bay-area-food-bank-says-rising-diesel-prices-are-ballooning-its-delivery-costs/ar-AA2d9G8e"
+      },
+      {
+       "headline": "White House Press Ban Challenged in Court",
+       "summary": "News organizations including CNN and Politico have asked a federal judge to block the enforcement of a White House access ban.",
+       "scope": "national",
+       "source_url": "https://www.reuters.com/legal/government/cnn-ms-now-politico-ask-judge-extend-block-white-house-ban-2026-09-29/"
+      },
+      {
+       "headline": "Diesel Export Ban Threatens Gas Prices",
+       "summary": "Economists warn that a potential US ban on diesel exports could cause domestic gas prices to soar.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/gas-prices-could-soar-if-the-us-bans-diesel-exports-economists-say/ar-AA2d8DDN"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T00Z",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "images/san-francisco/2026-09-29T00Z.webp",
+     "topics": [
+      {
+       "headline": "Gas prices hit record high",
+       "summary": "California gas prices reached a new 2026 record of $6.37 per gallon, with analysts warning that a potential diesel export ban could drive costs even higher.",
+       "scope": "local",
+       "source_url": "https://www.sacbee.com/news/california/article317412049.html"
+      },
+      {
+       "headline": "Coastal flooding threatens Bay Area",
+       "summary": "San Francisco issued its second-ever September coastal flood advisory as El Niño-driven swells and rising sea levels threaten the Embarcadero and rail lines.",
+       "scope": "local",
+       "source_url": "https://www.sfchronicle.com/weather/article/tide-flooding-sf-marin-22452801.php"
+      },
+      {
+       "headline": "Senate passes college sports bill",
+       "summary": "The U.S. Senate passed a bipartisan bill to regulate college athlete payments and transfers, aiming to end the chaos in the NIL system.",
+       "scope": "national",
+       "source_url": "https://www.seattletimes.com/nation-world/nation/senate-passes-college-sports-bill-that-would-rein-in-athlete-payments-and-transfers/"
+      },
+      {
+       "headline": "Fuel economy standards scaled back",
+       "summary": "The Trump administration finalized a plan to significantly reduce fuel efficiency standards for new automobiles, reversing previous electric vehicle mandates.",
+       "scope": "national",
+       "source_url": "https://www.nytimes.com/2026/09/28/briefing/trump-sharply-scales-back-fuel-economy-rules.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "timezone": "Asia/Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "2026-09-29T18Z",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "images/tokyo/2026-09-29T18Z.webp",
+     "topics": [
+      {
+       "headline": "Tokyo sets 34-day rain record",
+       "summary": "Tokyo has recorded 34 consecutive days of rain, marking the longest streak since observations began in 1886.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-xl/weather/extreme-weather-events/seoul-clear-tokyo-sets-34-day-rain-record/ar-AA2dcFnn"
+      },
+      {
+       "headline": "M4.9 earthquake strikes eastern Japan",
+       "summary": "A magnitude 4.9 earthquake hit eastern Japan, including Tokyo and Saitama, early on Tuesday with no tsunami threat.",
+       "scope": "local",
+       "source_url": "https://mainichi.jp/english/articles/20260929/p2g/00m/0na/002000c"
+      },
+      {
+       "headline": "Japan explores military humanoid robots",
+       "summary": "Japan is exploring the use of AI-equipped humanoid robots for military support roles such as patrols and logistics.",
+       "scope": "national",
+       "source_url": "https://thedefensepost.com/2026/09/29/japan-ai-humanoid-robots/"
+      },
+      {
+       "headline": "Fusion startup begins power tests",
+       "summary": "Japanese fusion energy startup Helical Fusion expects to begin preliminary power-on tests at its pilot reactor in 2027.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/money/general/japan-s-fusion-energy-startup-to-begin-power-on-tests-at-pilot-reactor-in-2027/ar-AA2dceQb"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T12Z",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "images/tokyo/2026-09-29T12Z.webp",
+     "topics": [
+      {
+       "headline": "Tokyo Sets Record 34-Day Rain Streak",
+       "summary": "Tokyo has logged 34 consecutive days of rain, breaking the historical record since 1886, with Typhoon 26 approaching the Izu Islands.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/ja-jp/news/other/34%E6%97%A5%E9%80%A3%E7%B6%9A%E3%81%AE%E9%9B%A8%E3%81%A7%E6%AD%B4%E4%BB%A3%E6%9C%80%E9%95%B7%E8%A8%98%E9%8C%B2%E3%82%92%E6%9B%B4%E6%96%B0-%E6%9D%B1%E4%BA%AC%E3%81%AE%E9%95%B7%E9%9B%A8%E3%81%AF%E3%81%84%E3%81%A4%E7%B5%82%E3%82%8F%E3%82%8B-%E5%8F%B0%E9%A2%A826%E5%8F%B7%E3%81%AF30%E6%97%A5%E5%A4%9C%E3%81%8B%E3%82%8910%E6%9C%881%E6%97%A5%E3%81%AB%E3%81%8B%E3%81%91%E3%81%A6%E4%BC%8A%E8%B1%86%E8%AB%B8%E5%B3%B6%E3%81%AB%E6%8E%A5%E8%BF%91%E3%81%B8-%E5%8F%B0%E9%A2%A8%E3%81%8C%E5%8E%BB%E3%82%8C%E3%81%B0%E7%A7%8B%E6%99%B4%E3%82%8C%E5%BA%83%E3%81%8C%E3%82%8B-%E5%8F%B0%E9%A2%A8%E6%83%85%E5%A0%B1/ar-AA2daPkj"
+      },
+      {
+       "headline": "Magnitude 4.9 Earthquake Strikes Eastern Japan",
+       "summary": "A magnitude 4.9 earthquake struck the Saitama and Tokyo region early Tuesday morning, causing noticeable shaking but no tsunami threat.",
+       "scope": "local",
+       "source_url": "https://mainichi.jp/english/articles/20260929/p2g/00m/0na/002000c"
+      },
+      {
+       "headline": "Japan Wins Dramatic Friendly Against Venezuela",
+       "summary": "The Japanese national football team secured a 2-1 comeback victory against Venezuela in Hiroshima, marking their second consecutive win against a South American opponent.",
+       "scope": "national",
+       "source_url": "https://www.soccerdigestweb.com/news/detail/id=197753"
+      },
+      {
+       "headline": "Record High for Skilled Foreign Workers",
+       "summary": "The number of foreigners holding specified skilled worker status in Japan reached a record high of 444,256 as of June, driven by labor shortages.",
+       "scope": "national",
+       "source_url": "https://www.nippon.com/en/news/yjj2026092900816/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T06Z",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "images/tokyo/2026-09-29T06Z.webp",
+     "topics": [
+      {
+       "headline": "Record 34-Day Rainfall Streak Ends",
+       "summary": "Central Tokyo experienced 34 consecutive days of rain, marking the longest streak in its recorded history.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-xl/weather/meteorology/central-tokyo-receives-rain-for-34-straight-days-longest-on-record/ar-AA2d9YRd"
+      },
+      {
+       "headline": "Typhoon Surigae Threatens Kanto Region",
+       "summary": "Typhoon Surigae is approaching eastern Japan and is expected to impact the Kanto region, including Tokyo, on Thursday.",
+       "scope": "local",
+       "source_url": "https://mainichi.jp/english/articles/20260929/p2g/00m/0na/025000c"
+      },
+      {
+       "headline": "Rice Surplus Crushes Farmer Prices",
+       "summary": "Japan has shifted from a rice shortage to a significant surplus, causing prices to fall and threatening the livelihoods of farmers.",
+       "scope": "national",
+       "source_url": "https://www.japantimes.co.jp/news/2026/09/29/japan/rice-glut-japan/"
+      },
+      {
+       "headline": "Japan Confronts China at U.N.",
+       "summary": "Japanese Prime Minister Sanae Takaichi confronted China and North Korea at the U.N. General Assembly regarding the removal of enemy state clauses from the charter.",
+       "scope": "national",
+       "source_url": "https://www.nippon.com/en/news/yjj2026092900232/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T00Z",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "images/tokyo/2026-09-29T00Z.webp",
+     "topics": [
+      {
+       "headline": "Record-breaking rain streak hits Tokyo",
+       "summary": "Central Tokyo recorded 34 consecutive days of precipitation, setting a new all-time record since 1886.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/ja-jp/weather/topstories/%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%BF%8334%E6%97%A5%E9%80%A3%E7%B6%9A%E3%81%A7%E9%9B%A8-%E7%B5%B1%E8%A8%88%E9%96%8B%E5%A7%8B%E4%BB%A5%E6%9D%A5%E6%9C%80%E9%95%B7%E3%82%92%E6%9B%B4%E6%96%B0-%E3%81%84%E3%81%A4%E6%99%B4%E3%82%8C%E3%82%8B-%E5%8F%B0%E9%A2%A826%E5%8F%B7%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%82%82/ar-AA2d9rKe"
+      },
+      {
+       "headline": "Typhoon Dujuan causes four deaths",
+       "summary": "Typhoon Dujuan battered the Tokyo area with heavy rains and strong winds, resulting in four fatalities.",
+       "scope": "local",
+       "source_url": "https://www.bbc.com/news/articles/cm3wj2lexl97o"
+      },
+      {
+       "headline": "New typhoon approaches Japanese islands",
+       "summary": "Typhoon 26 is moving north-east towards the Izu Islands, prompting warnings for strong winds and high waves.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/ja-jp/weather/meteorology/%E5%8F%B0%E9%A2%A8%E6%83%85%E5%A0%B1-%E5%8F%B0%E9%A2%A826%E5%8F%B7-%E3%82%B9%E3%83%AA%E3%82%B2-%E6%97%A5%E6%9C%AC%E3%81%AE%E5%8D%97%E3%82%92%E5%8C%97%E6%9D%B1%E3%81%B8%E9%80%B2%E3%82%80%E8%A6%8B%E8%BE%BC%E3%81%BF-10%E6%9C%881%E6%97%A5-%E6%9C%A8-%E3%81%AB%E4%B8%AD%E5%BF%83%E6%B0%97%E5%9C%A7996hpa-%E6%9C%80%E5%A4%A7%E7%9E%AC%E9%96%93%E9%A2%A8%E9%80%9F30m-s%E3%81%A7%E4%BC%8A%E8%B1%86%E8%AB%B8%E5%B3%B6%E8%BF%91%E6%B5%B7%E3%81%B8-%E9%9B%A8%E3%81%A8%E9%A2%A8%E3%81%AE%E5%8B%95%E3%81%8D%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/ar-AA2d9Iwm"
+      },
+      {
+       "headline": "Ransomware disrupts major railway systems",
+       "summary": "Keio Corporation confirmed that a ransomware attack over the weekend disrupted its business systems.",
+       "scope": "national",
+       "source_url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "timezone": "Asia/Shanghai",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "2026-09-29T18Z",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "images/beijing/2026-09-29T18Z.webp",
+     "topics": [
+      {
+       "headline": "Beijing unveils new property and economic stimulus measures",
+       "summary": "China launched new policies including mortgage subsidies and central bank rate cuts to boost the sluggish real estate sector and support economic growth targets.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/es-us/noticias/mundo/china-lanza-nuevas-medidas-para-impulsar-su-sector-inmobiliario-y-su-econom%C3%ADa/ar-AA2dbAbf"
+      },
+      {
+       "headline": "Beijing completes citywide ultra-fast charging network",
+       "summary": "Beijing has built a comprehensive network of 1,300 ultra-fast charging stations to meet rising electric vehicle demand ahead of the National Day holiday.",
+       "scope": "local",
+       "source_url": "https://www.xinhuanet.com/20260929/d21450451abf469f92de54ce889ad18f/c.html"
+      },
+      {
+       "headline": "US and China agree $60 billion tariff cuts",
+       "summary": "Following President Xi's visit to Washington, the US and China agreed to reduce tariffs on $60 billion worth of goods and launch an AI dialogue.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/u-s-and-china-to-cut-tariffs-on-60-billion-of-goods/ar-AA2dbrEo"
+      },
+      {
+       "headline": "China warns Japan over Taiwan remarks",
+       "summary": "Chinese officials met with former Japanese Foreign Minister Takeshi Iwaya to demand corrections regarding Prime Minister Takaichi's comments on the Taiwan issue.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/ja-jp/news/other/%E5%B2%A9%E5%B1%8B%E5%89%8D%E5%A4%96%E5%8B%99%E5%A4%A7%E8%87%A3%E3%81%8C%E4%B8%AD%E5%9B%BD%E5%89%AF%E9%A6%96%E7%9B%B8%E3%82%89%E3%81%A8%E4%BC%9A%E8%AB%87-%E4%B8%AD%E5%9B%BD%E5%81%B4-%E5%8F%B0%E6%B9%BE%E5%95%8F%E9%A1%8C-%E3%81%A7%E6%98%AF%E6%AD%A3%E6%B1%82%E3%82%81%E3%82%8B/ar-AA2dd93k"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T12Z",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "images/beijing/2026-09-29T12Z.webp",
+     "topics": [
+      {
+       "headline": "US-China tariff cuts on $60bn goods",
+       "summary": "The United States and China released reciprocal lists for tariff reductions on approximately $60 billion in non-sensitive products following their recent summit.",
+       "scope": "national",
+       "source_url": "https://www.baltimoresun.com/2026/09/28/us-china-tariff-cut-list/"
+      },
+      {
+       "headline": "China factories rebound in September",
+       "summary": "Factory activity in China is expected to swing back to growth in September after two months of contraction, supported by new policy aid signals.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/china-factories-seen-rebounding-in-september-as-beijing-signals-more-aid-reuters-poll/ar-AA2da6IA"
+      },
+      {
+       "headline": "Beijing park pavilion opens to public",
+       "summary": "The Liuli Pavilion courtyard in Beijing's Beihai Park has opened to the public, allowing visitors to view its Qing Dynasty glazed tile architecture.",
+       "scope": "local",
+       "source_url": "https://www.xinhuanet.com/politics/20260929/b52a75cc5ec74850bda1089a981c9f3f/c.html"
+      },
+      {
+       "headline": "Universal Studios adds Fast & Furious ride",
+       "summary": "Universal Studios Beijing announced the construction of a new 'Fast & Furious' attraction and night show to mark its fifth anniversary.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/ja-jp/entertainment/%E5%85%A8%E8%88%AC/%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB-%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA-%E5%8C%97%E4%BA%AC%E3%81%AB-%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89-%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89-%E3%82%A2%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-%E3%83%8A%E3%82%A4%E3%83%88%E3%82%B7%E3%83%A7%E3%83%BC%E7%99%BB%E5%A0%B4/ar-AA2dbfwn"
+      },
+      {
+       "headline": "China warns Japan on WWII history",
+       "summary": "Chinese officials met with a Japanese delegation in Beijing to demand corrections regarding Japanese statements on the Taiwan issue and WWII history.",
+       "scope": "national",
+       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3369154/china-warns-japan-over-wwii-history-business-delegation-visits-beijing"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T06Z",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "images/beijing/2026-09-29T06Z.webp",
+     "topics": [
+      {
+       "headline": "US-China Tariff Cuts Announced",
+       "summary": "The United States and China agreed to reduce tariffs on $60 billion worth of goods, extending their trade truce.",
+       "scope": "national",
+       "source_url": "https://finance-commerce.com/2026/09/us-china-tariff-cuts-trade-truce/"
+      },
+      {
+       "headline": "Beijing AI Talent Travel Bans",
+       "summary": "Beijing expanded travel restrictions to include the families of top artificial intelligence talent in China.",
+       "scope": "local",
+       "source_url": "https://www.japantimes.co.jp/business/2026/09/29/tech/china-travel-curbs-ai-talent/"
+      },
+      {
+       "headline": "Robot Pharmacy Launches in Shanghai",
+       "summary": "A Beijing-based robot company deployed its smart pharmacy solution in Shanghai, automating order picking and verification.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/zh-cn/money/other/%E5%8C%97%E4%BA%AC%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%81%E4%B8%9A%E9%93%B6%E6%B2%B3%E9%80%9A%E7%94%A8%E8%90%BD%E5%9C%B0%E4%B8%8A%E6%B5%B7-%E5%BC%80%E5%90%AF%E4%BA%BA%E6%9C%BA%E5%8D%8F%E5%90%8C%E6%99%BA%E6%85%A7%E5%8C%BB%E8%8D%AF%E9%9B%B6%E5%94%AE/ar-AA2d7v5J"
+      },
+      {
+       "headline": "Hengrui Signs Obesity Drug Deal",
+       "summary": "China's Hengrui Pharmaceuticals signed a deal worth up to $2.6 billion with Novo Nordisk for its weight-management drug.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/chinas-hengrui-inks-up-to-26-billion-deal-with-novo-nordisk-for-obesity-drug/ar-AA2dagxw"
+      },
+      {
+       "headline": "Rare Earth Leverage Warnings",
+       "summary": "US officials warned that China is weaponizing its dominance over rare earth minerals to threaten supply chains.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/trump-officials-warn-china-is-weaponizing-rare-earth-dominance-as-beijing-uses-critical-minerals-for-leverage/ar-AA2d8MGH"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T00Z",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "images/beijing/2026-09-29T00Z.webp",
+     "topics": [
+      {
+       "headline": "Beijing bans drone possession and storage",
+       "summary": "New regulations in Beijing have effectively banned the possession and storage of unmanned aerial vehicles, citing national security concerns.",
+       "scope": "local",
+       "source_url": "https://note.com/imaoka_ryo/n/n17ec28b35db7?hl=en"
+      },
+      {
+       "headline": "Travel curbs expand to AI talent families",
+       "summary": "Beijing has broadened travel restrictions to include the family members of top artificial intelligence researchers and executives.",
+       "scope": "local",
+       "source_url": "https://www.japantimes.co.jp/business/2026/09/29/tech/china-travel-curbs-ai-talent/"
+      },
+      {
+       "headline": "US and China cut tariffs on $60bn goods",
+       "summary": "The United States and China agreed to reduce tariffs on $60 billion worth of goods, including agriculture and toys, to stabilize trade relations.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ca/news/other/china-us-pledge-tariff-cuts-on-60-billion-of-goods-including-agriculture-toys-toasters/ar-AA2d8L6j?ocid=BingNewsVerp"
+      },
+      {
+       "headline": "Trump disputes ambassador's claim on arms sale",
+       "summary": "President Trump denied reports that he offered to sell weapons to China, contradicting statements made by the U.S. ambassador to China.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/trump-disputes-his-ambassador-s-account-that-he-asked-china-s-president-if-he-wanted-to-buy-us-arms/ar-AA2d6pKR"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "timezone": "Europe/Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "2026-09-29T18Z",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "images/paris/2026-09-29T18Z.webp",
+     "topics": [
+      {
+       "headline": "Public sector strike disrupts Paris",
+       "summary": "Hundreds of thousands of civil servants marched in Paris and disrupted transport networks on September 29 to protest pay freezes.",
+       "scope": "local",
+       "source_url": "https://www.franceinfo.fr/economie/greve/direct-greve-dans-la-fonction-publique-plus-de-170-manifestations-attendues-dans-toute-la-france-ce-mardi_8214257.html"
+      },
+      {
+       "headline": "Firefighters camp on Champs-de-Mars",
+       "summary": "Firefighters from across France set up camp in Paris to protest the high death toll and injuries from summer forest fires.",
+       "scope": "local",
+       "source_url": "https://www.reutersconnect.com/item/france-firefighters-protests-strike-paris/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwME9OTUdFTg"
+      },
+      {
+       "headline": "Pope Leo concludes France visit",
+       "summary": "Pope Leo XIV ended his four-day apostolic journey in France by addressing European leaders and urging the continent to reject domination.",
+       "scope": "national",
+       "source_url": "https://www.chicagotribune.com/2026/09/29/pope-leo-france-trip/"
+      },
+      {
+       "headline": "Macron expands nuclear arsenal",
+       "summary": "President Emmanuel Macron announced France will increase its nuclear warheads for the first time in decades to ensure national security.",
+       "scope": "national",
+       "source_url": "https://www.france24.com/en/france/20260302-macron-unveils-france-nuclear-strategy-eu-counter-russian-aggression-wavering-us"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T12Z",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "images/paris/2026-09-29T12Z.webp",
+     "topics": [
+      {
+       "headline": "Public sector strike disrupts Paris transit",
+       "summary": "Public sector workers in Paris are striking and demonstrating on September 29, causing significant disruptions to the RER and metro networks.",
+       "scope": "local",
+       "source_url": "https://www.lemonde.fr/economie/article/2026/09/29/greve-du-29-septembre-de-fortes-perturbations-a-prevoir-dans-les-transports-d-ile-de-france_6785107_3235.html"
+      },
+      {
+       "headline": "Firefighters camp on Champs-de-Mars",
+       "summary": "Firefighters from across France have set up a camp on the Champs-de-Mars to protest working conditions following a devastating summer of forest fires.",
+       "scope": "local",
+       "source_url": "https://www.reutersconnect.com/item/france-firefighters-protests-strike-paris/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUhOU0xDUzAwME9OTUdFTg"
+      },
+      {
+       "headline": "Pope Leo concludes historic France visit",
+       "summary": "Pope Leo XIV has concluded a four-day apostolic journey in France, drawing massive crowds and urging European leaders to draw from Christian roots for peace.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-xl/news/other/pope-leo-xiv-wraps-up-four-day-france-visit-in-the-city-of-metz/ar-AA2d8jyz"
+      },
+      {
+       "headline": "France proposes EU budget reform",
+       "summary": "France's Europe Minister has suggested that the EU should use proceeds from fines imposed on Google to reduce member states' budget contributions.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/eu-should-use-google-fines-to-cut-member-state-contributions-to-budget-france-says/ar-AA2daQsM"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T06Z",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "images/paris/2026-09-29T06Z.webp",
+     "topics": [
+      {
+       "headline": "Pope Leo's Mass Draws 800,000",
+       "summary": "Pope Leo XIV celebrated an open-air Mass on the Champs-Élysées before a crowd of 800,000, marking a significant moment in France's secular history.",
+       "scope": "local",
+       "source_url": "https://www.cp24.com/news/world/2026/09/26/hundreds-of-thousands-turn-out-for-pope-leos-mass-in-paris/"
+      },
+      {
+       "headline": "Public Sector Strike Paralyzes Paris",
+       "summary": "Teachers, healthcare workers, and firefighters joined a nationwide strike on September 29, disrupting transport and blocking key Parisian roads.",
+       "scope": "local",
+       "source_url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/quelles-difficultes-attendent-les-usagers-des-transports-en-commun-en-ile-de-france-avec-l-annonce-d-un-greve-de-la-fonction-publique-le-mardi-29-septembre-3424364.html"
+      },
+      {
+       "headline": "Government Collapse Triggers Political Crisis",
+       "summary": "France's government fell in a confidence vote, forcing President Macron to search for a new prime minister amid rising political instability.",
+       "scope": "national",
+       "source_url": "https://www.cbc.ca/news/world/france-confidence-vote-government-collapse-1.7628123"
+      },
+      {
+       "headline": "France Wins Late in Brussels",
+       "summary": "Michael Olise scored a stunning 89th-minute solo goal to secure a 1-0 victory for France over Belgium in the UEFA Nations League.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/late-olise-goal-gives-france-win-over-belgium/ar-AA2d8LA7"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T00Z",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "images/paris/2026-09-29T00Z.webp",
+     "topics": [
+      {
+       "headline": "Public sector strike disrupts Paris transport",
+       "summary": "Civil servants in Paris and Île-de-France are staging a major strike and protest against pay freezes, causing significant disruptions to metro and RER services.",
+       "scope": "local",
+       "source_url": "https://www.sortiraparis.com/actualites/a-paris/articles/352865-greve-et-manifestation-a-paris-ce-29-septembre-parcours-et-lieux-en-ile-de-france"
+      },
+      {
+       "headline": "Pope Leo draws massive Paris crowds",
+       "summary": "Pope Leo XIV attracted an estimated 800,000 people to Place de la Concorde for an outdoor Mass, marking a significant event in the city's recent history.",
+       "scope": "local",
+       "source_url": "https://www.foxnews.com/world/pope-leo-draws-staggering-800000-faithful-heart-paris-massive-outdoor-mass"
+      },
+      {
+       "headline": "France wins Nations League match",
+       "summary": "Michael Olise scored a late solo goal to secure a 1-0 victory for France against Belgium in the UEFA Nations League.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium/ar-AA2d9pGQ"
+      },
+      {
+       "headline": "Government collapse triggers political crisis",
+       "summary": "France's government collapsed after a confidence vote, forcing President Macron to seek a fourth prime minister in a new political crisis.",
+       "scope": "national",
+       "source_url": "https://www.cbc.ca/news/world/france-confidence-vote-government-collapse-1.7628123"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "timezone": "Europe/Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "2026-09-29T18Z",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "images/berlin/2026-09-29T18Z.webp",
+     "topics": [
+      {
+       "headline": "Left Party wins Berlin state election",
+       "summary": "The Left Party secured 25.7% of the vote in Berlin's state election, positioning its leader to become the city's next mayor.",
+       "scope": "local",
+       "source_url": "https://www.outlookindia.com/international/germanys-left-wins-berlin-as-afd-strengthens-grip-in-the-east"
+      },
+      {
+       "headline": "Plan to seize 200,000 apartments",
+       "summary": "Berlin's incoming far-left administration has pledged to expropriate 200,000 apartments to address the housing crisis, a move critics warn will cause chaos.",
+       "scope": "local",
+       "source_url": "https://www.dailymail.com/news/article-16168787/Berlin-seize-200-000-apartments-tackle-housing-crisis.html"
+      },
+      {
+       "headline": "AfD surges in northeastern state",
+       "summary": "The far-right AfD party won the state election in Mecklenburg-Western Pomerania with 38.2% of the vote, marking a significant political shift.",
+       "scope": "national",
+       "source_url": "https://www.euronews.com/my-europe/2026/09/21/germany-the-left-triumphs-in-berlin-as-afd-surges-in-mecklenburg-western-pomerania"
+      },
+      {
+       "headline": "CDU calls election results a disaster",
+       "summary": "German Chancellor Friedrich Merz described the election results, where the CDU suffered heavy losses in both Berlin and the northeast, as a disaster for his party.",
+       "scope": "national",
+       "source_url": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T12Z",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "images/berlin/2026-09-29T12Z.webp",
+     "topics": [
+      {
+       "headline": "Left Party Wins Berlin State Election",
+       "summary": "The Left Party secured victory in Berlin's state election, marking a significant political shift in the capital.",
+       "scope": "local",
+       "source_url": "https://www.outlookindia.com/international/germanys-left-wins-berlin-as-afd-strengthens-grip-in-the-east"
+      },
+      {
+       "headline": "Berlin Withdraws Olympic Bid",
+       "summary": "Berlin has officially withdrawn from the race to host the Olympic and Paralympic Games, leaving Munich and the Rhine-Ruhr region as contenders.",
+       "scope": "local",
+       "source_url": "https://www.yahoo.com/news/world/articles/berlin-quits-germanys-olympic-race-091837642.html"
+      },
+      {
+       "headline": "AfD Surges in Northeastern Germany",
+       "summary": "The far-right AfD party won the most votes in Mecklenburg-Western Pomerania, signaling a major rise in eastern Germany.",
+       "scope": "national",
+       "source_url": "https://www.euronews.com/my-europe/2026/09/21/germany-the-left-triumphs-in-berlin-as-afd-surges-in-mecklenburg-western-pomerania"
+      },
+      {
+       "headline": "Germany Sets Solar Power Record",
+       "summary": "Germany has generated more solar power this year than in all of 2025, on track for a record annual output.",
+       "scope": "national",
+       "source_url": "https://www.yahoo.com/news/world/articles/solar-energy-production-record-levels-144836611.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T06Z",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "images/berlin/2026-09-29T06Z.webp",
+     "topics": [
+      {
+       "headline": "Left Party Wins Berlin State Election",
+       "summary": "The Left Party secured a historic victory in Berlin's state election with 25.7% of the vote, positioning Elif Eralp as the city's next mayor.",
+       "scope": "local",
+       "source_url": "https://www.outlookindia.com/international/germanys-left-wins-berlin-as-afd-strengthens-grip-in-the-east"
+      },
+      {
+       "headline": "Berlin Withdraws Olympic Bid",
+       "summary": "Berlin officially withdrew its bid to host the 2036 Olympic and Paralympic Games, leaving Munich and the Rhine-Ruhr region as Germany's remaining contenders.",
+       "scope": "local",
+       "source_url": "https://www.yahoo.com/news/world/articles/berlin-quits-germanys-olympic-race-091837642.html"
+      },
+      {
+       "headline": "AfD Surges in Eastern Germany",
+       "summary": "The far-right AfD party achieved a historic first-place finish in Saxony-Anhalt and Mecklenburg-Western Pomerania state elections, threatening to hold state power for the first time since WWII.",
+       "scope": "national",
+       "source_url": "https://www.cnbc.com/2026/09/06/germanys-far-right-afd-seeks-landmark-state-victory.html"
+      },
+      {
+       "headline": "Germany Pledges ICC Support",
+       "summary": "Germany reaffirmed its commitment to the International Criminal Court, with the foreign minister visiting The Hague to counter US sanctions and pressure.",
+       "scope": "national",
+       "source_url": "https://www.reuters.com/world/germany-vows-support-icc-trump-escalates-pressure-court-2026-09-28/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T00Z",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "images/berlin/2026-09-29T00Z.webp",
+     "topics": [
+      {
+       "headline": "Left-wing victory reshapes Berlin politics",
+       "summary": "Die Linke won the Berlin regional elections, marking a historic shift in the city's political landscape.",
+       "scope": "local",
+       "source_url": "https://www.lemonde.fr/en/international/article/2026/09/21/elif-eralp-wins-berlin-election-and-becomes-new-face-of-radical-left_6757757_4.html"
+      },
+      {
+       "headline": "Developers warn of housing chaos",
+       "summary": "Property developers warned that a hard-left administration's plan to seize 200,000 homes will plunge Berlin into chaos.",
+       "scope": "local",
+       "source_url": "https://www.yahoo.com/news/world/articles/hard-left-plan-seize-200-190440885.html"
+      },
+      {
+       "headline": "AfD surges in state elections",
+       "summary": "The far-right AfD party surged into first place in Saxony-Anhalt state elections, nearing state power for the first time.",
+       "scope": "national",
+       "source_url": "https://www.cnbc.com/2026/09/06/germanys-far-right-afd-seeks-landmark-state-victory.html"
+      },
+      {
+       "headline": "Germany hits solar record",
+       "summary": "Germany generated more solar power this year than in all of 2025, putting the country on course for a record year.",
+       "scope": "national",
+       "source_url": "https://www.yahoo.com/news/world/articles/solar-energy-production-record-levels-144836611.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "timezone": "Europe/Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "2026-09-29T18Z",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "images/rome/2026-09-29T18Z.webp",
+     "topics": [
+      {
+       "headline": "Italy bond spread hits 100 points",
+       "summary": "The spread between Italy's 10-year BTP bond and the German Bund reached 100.17 basis points, its highest level since spring 2025.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/money/economy/italy-s-bond-spread-hits-100-points-mark/ar-AA2dd4cy"
+      },
+      {
+       "headline": "Oil firms cap fuel prices",
+       "summary": "Kuwait's Q8, Eni, and SOCAR agreed to introduce price caps on Italian petrol pump prices starting October 1 to curb energy costs.",
+       "scope": "national",
+       "source_url": "https://www.reuters.com/business/energy/oil-giants-rush-help-italys-meloni-curb-energy-costs-with-fuel-price-caps-2026-09-29/"
+      },
+      {
+       "headline": "Italy completes Iraq troop withdrawal",
+       "summary": "Italy finished withdrawing its final military personnel from Iraq, ending a 12-year military presence in the country.",
+       "scope": "national",
+       "source_url": "https://www.usnews.com/news/world/articles/2026-09-29/italy-completes-troop-withdrawal-from-iraq"
+      },
+      {
+       "headline": "Ancient Rome mosaic unveiled",
+       "summary": "Italian officials revealed a colorful fresco, identified as the largest known wall mosaic from ancient Rome, discovered thirty years ago.",
+       "scope": "local",
+       "source_url": "https://archaeology.org/news/2026/09/15/italian-officials-unveil-ancient-romes-largest-wall-mosaic"
+      },
+      {
+       "headline": "New proton therapy center opens",
+       "summary": "IBA signed a contract to install the first proton therapy center in central Italy at the Regina Elena National Cancer Institute in Rome.",
+       "scope": "local",
+       "source_url": "https://finance.yahoo.com/healthcare/articles/iba-signs-contract-install-first-050000743.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T12Z",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "images/rome/2026-09-29T12Z.webp",
+     "topics": [
+      {
+       "headline": "Roma stadium approval confirmed",
+       "summary": "The new stadium project at Pietralata has been formally approved by the technical and economic feasibility committee.",
+       "scope": "local",
+       "source_url": "https://sports.yahoo.com/articles/roma-stadium-approved-certainty-built-123500509.html"
+      },
+      {
+       "headline": "Ancient mosaic unveiled in Rome",
+       "summary": "Italian officials revealed the largest known wall mosaic from ancient Rome, discovered thirty years ago.",
+       "scope": "local",
+       "source_url": "https://archaeology.org/news/2026/09/15/italian-officials-unveil-ancient-romes-largest-wall-mosaic"
+      },
+      {
+       "headline": "Italy wins Nations League match",
+       "summary": "Italy defeated Turkey 4-1 in the Nations League, securing their first win under manager Roberto Mancini.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/mancini-enjoys-first-win-since-return-as-italy-boss/ar-AA2d8u0k"
+      },
+      {
+       "headline": "Meloni passes by-election test",
+       "summary": "Prime Minister Giorgia Meloni's coalition won a key by-election in Calabria against a new far-right rival.",
+       "scope": "national",
+       "source_url": "https://www.usnews.com/news/world/articles/2026-09-28/italys-meloni-passes-by-election-test-against-new-far-right-rival"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T06Z",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "images/rome/2026-09-29T06Z.webp",
+     "topics": [
+      {
+       "headline": "Roma stadium construction approved",
+       "summary": "The inter-agency conference formally approved the technical and economic feasibility of AS Roma's new stadium in Pietralata.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/sports/soccer/construction-of-new-stadium-for-as-roma-gets-green-light-2/ar-AA2d7R2S"
+      },
+      {
+       "headline": "Ancient Rome mosaic unveiled",
+       "summary": "Italian officials revealed the largest known wall mosaic from ancient Rome, discovered thirty years ago.",
+       "scope": "local",
+       "source_url": "https://archaeology.org/news/2026/09/15/italian-officials-unveil-ancient-romes-largest-wall-mosaic"
+      },
+      {
+       "headline": "Italy dominates Turkey in Nations League",
+       "summary": "Italy secured a 4-1 victory over Turkey in the UEFA Nations League, marking Roberto Mancini's first win since his return as manager.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/sport/football/italy-bounce-back-with-convincing-nations-league-victory-over-turkey/ar-AA2d8GvX"
+      },
+      {
+       "headline": "Esposito brothers start for Italy",
+       "summary": "Pio and Sebastiano Esposito became the first brothers to start for the Italian national team since 1915 during the match against Turkey.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/sports/soccer/pio-and-sebastiano-esposito-start-for-italy-in-nations-league-a-first-for-brothers-since-1915/ar-AA2d969f"
+      },
+      {
+       "headline": "First proton therapy center in Rome",
+       "summary": "IBA signed a contract to install the first proton therapy center in central Italy, located in Rome.",
+       "scope": "national",
+       "source_url": "https://finance.yahoo.com/healthcare/articles/iba-signs-contract-install-first-050000743.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T00Z",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "images/rome/2026-09-29T00Z.webp",
+     "topics": [
+      {
+       "headline": "Roma Stadium Construction Formally Approved",
+       "summary": "The new AS Roma stadium in the Pietralata district received final technical and economic approval from the inter-agency conference.",
+       "scope": "local",
+       "source_url": "https://sports.yahoo.com/articles/roma-stadium-approved-certainty-built-123500509.html"
+      },
+      {
+       "headline": "Verdict Imminent in Regeni Murder Trial",
+       "summary": "Judges in Rome retired to deliberate their verdict in the trial of four Egyptian officials accused of killing Italian student Giulio Regeni.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/news/rome-judges-set-to-give-verdict-in-regeni-murder-trial/ar-AA2d779T"
+      },
+      {
+       "headline": "Italy Dominates Turkey in Nations League",
+       "summary": "Italy secured a dominant 4-1 victory over Turkey in the UEFA Nations League, marking Roberto Mancini's first win since his return as manager.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/transformed-italy-records-dominant-win-in-nations-league-olise-gives-france-late-win/ar-AA2d90j9"
+      },
+      {
+       "headline": "Meloni Coalition Wins Calabria By-Election",
+       "summary": "Prime Minister Giorgia Meloni's ruling coalition won a closely watched by-election in Calabria, defeating a new far-right rival in a key test ahead of the general election.",
+       "scope": "national",
+       "source_url": "https://www.usnews.com/news/world/articles/2026-09-28/italys-meloni-passes-by-election-test-against-new-far-right-rival"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "timezone": "America/Toronto",
+   "style": "Group of Seven",
+   "paintings": [
+    {
+     "slot": "2026-09-29T18Z",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "images/toronto/2026-09-29T18Z.webp",
+     "topics": [
+      {
+       "headline": "US Ban Blocks Canadian Imports",
+       "summary": "The United States began blocking nearly $1 billion in Canadian imports, including alcohol and dairy, as part of escalating trade tensions.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/us-ban-on-almost-1-billion-in-canadian-imports-takes-effect/ar-AA2daAWU"
+      },
+      {
+       "headline": "Affordable Child Care Extended",
+       "summary": "Ontario and the federal government agreed to extend the national affordable child-care program for four years, though fees remain unchanged.",
+       "scope": "local",
+       "source_url": "https://www.cbc.ca/news/canada/toronto/ontario-canada-affordable-childcare-9.7362203"
+      },
+      {
+       "headline": "New Affordable Housing Opens",
+       "summary": "The City of Toronto, Province of Ontario, and federal government opened 111 new rent-geared-to-income and supportive housing units.",
+       "scope": "local",
+       "source_url": "https://www.toronto.ca/news/city-of-toronto-province-of-ontario-government-of-canada-open-111-rent-geared-to-income-and-supportive-homes/"
+      },
+      {
+       "headline": "Canada GDP Stalls in July",
+       "summary": "Canada's gross domestic product remained unchanged in July, ending a streak of three consecutive months of economic expansion.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/money/economy/canada-gdp-indicates-recovery-after-stalling-in-july/ar-AA2dc4sS"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T12Z",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "images/toronto/2026-09-29T12Z.webp",
+     "topics": [
+      {
+       "headline": "US Ban on Canadian Imports Takes Effect",
+       "summary": "The United States has banned nearly $1 billion worth of Canadian imports, including alcohol and dairy, as the trade war escalates.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/us-ban-on-almost-1-billion-in-canadian-imports-takes-effect/ar-AA2daAWU"
+      },
+      {
+       "headline": "LNG Canada Phase 2 Expansion Approved",
+       "summary": "Shell and partners have given the final investment decision for the Phase 2 expansion of the LNG Canada facility in Kitimat, doubling export capacity.",
+       "scope": "national",
+       "source_url": "https://www.reuters.com/business/energy/shell-led-lng-canada-greenlights-phase-2-expansion-doubling-export-capacity-2026-09-29/"
+      },
+      {
+       "headline": "Toronto Hit by Destructive Storm",
+       "summary": "Severe thunderstorms brought torrential rains and destructive winds to Toronto, causing flood warnings and trapping residents in elevators and on scaffolding.",
+       "scope": "local",
+       "source_url": "https://www.thestar.com/news/gta/heavy-rain-thunderstorms-on-the-way-for-toronto-and-southern-ontario/article_2794bbef-1c8b-4366-98b7-604e4a5684de.html"
+      },
+      {
+       "headline": "New Affordable Housing Residence Opens",
+       "summary": "The City of Toronto, Province of Ontario, and Government of Canada opened a new residence comprising 111 rent-geared-to-income and supportive homes.",
+       "scope": "local",
+       "source_url": "https://www.toronto.ca/news/city-of-toronto-province-of-ontario-government-of-canada-open-111-rent-geared-to-income-and-supportive-homes/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T06Z",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "images/toronto/2026-09-29T06Z.webp",
+     "topics": [
+      {
+       "headline": "US bans Canadian alcohol and dairy imports",
+       "summary": "The US has implemented import bans on Canadian liquor, whey, and motorcycles as the trade war escalates.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ca/news/canada/trump-says-he-expects-canada-trade-deal-within-weeks-as-import-ban-looms/ar-AA2d8NPS"
+      },
+      {
+       "headline": "Trump labels Canada worst trading partner",
+       "summary": "President Trump publicly accused Canada of being one of the worst countries to deal with in trade negotiations.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/trump-calls-canada-one-of-the-worst-countries-on-trade/vi-AA2d9gyg"
+      },
+      {
+       "headline": "Severe storm floods Toronto streets",
+       "summary": "A severe storm caused major flooding and power outages in Toronto, leading to the rescue of twelve people from the Don Valley Parkway.",
+       "scope": "local",
+       "source_url": "https://ici.radio-canada.ca/rci/en/news/2088734/rain-thunderstorm-warning-gta"
+      },
+      {
+       "headline": "Mayoral candidates address trade war impact",
+       "summary": "Leading Toronto mayoral candidates are outlining strategies to support local businesses affected by the Canada-US tariff war.",
+       "scope": "local",
+       "source_url": "https://www.cbc.ca/news/canada/toronto/mayoral-candidates-tariff-support-plan-9.7323394"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T00Z",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "images/toronto/2026-09-29T00Z.webp",
+     "topics": [
+      {
+       "headline": "US Import Ban on Canadian Goods Begins",
+       "summary": "The United States officially implemented import bans on Canadian alcohol, dairy, and motorcycles at midnight, marking a new phase in the escalating trade dispute.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/money/trumps-canada-import-ban-kicks-off-sept-29-at-midnight/ar-AA2d8QFB"
+      },
+      {
+       "headline": "Trump Slams Canada as 'Worst Country'",
+       "summary": "President Trump accused Canada of exploiting the U.S. and imposing unfair tariffs, labeling it one of the world's worst countries to deal with.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/trump-calls-canada-one-of-worlds-worst-countries-as-trade-war-escalates/ar-AA2d9KiG"
+      },
+      {
+       "headline": "Steel Plant Idles Due to Tariffs",
+       "summary": "Cleveland-Cliffs is idling production at its Hamilton, Ontario plant and laying off hundreds of workers, citing damage from U.S. tariffs.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-ca/news/other/cleveland-cliffs-to-idle-output-at-canada-steel-plant-blames-tariffs-says-cbc/ar-AA2d8NPq"
+      },
+      {
+       "headline": "Ontario Backs Northern Shield Energy Corridor",
+       "summary": "Ontario Premier Doug Ford announced his government is ready to provide seed capital for the proposed Northern Shield Energy Corridor project.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-ca/news/other/ontario-premier-signals-financial-backing-for-proposed-northern-shield-project/vi-AA2d9oxF"
+      },
+      {
+       "headline": "Education Unions Prepare for Strike Votes",
+       "summary": "All major education unions in Ontario are holding strike votes in November as negotiations with the provincial government continue.",
+       "scope": "local",
+       "source_url": "https://nowtoronto.com/news/ontario-education-unions-strike-votes-november-2026/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moscow",
+   "name": "Moscow",
+   "timezone": "Europe/Moscow",
+   "style": "Constructivism",
+   "paintings": [
+    {
+     "slot": "2026-09-29T18Z",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "images/moscow/2026-09-29T18Z.webp",
+     "topics": [
+      {
+       "headline": "Moscow Seizes Western Corporate Assets",
+       "summary": "The Russian government placed Nestle, Auchan, and Metro under state temporary management, signaling a widening crackdown on foreign businesses.",
+       "scope": "local",
+       "source_url": "https://finance.yahoo.com/small-business/articles/nestle-auchan-seizures-russia-coming-153230029.html"
+      },
+      {
+       "headline": "Ukrainian Drones Strike Moscow Overnight",
+       "summary": "Ukrainian forces launched over 1,000 drones at Russia, with hundreds targeted specifically at Moscow in a massive overnight attack.",
+       "scope": "local",
+       "source_url": "https://toronto.citynews.ca/2026/09/20/ukraine-fires-over-1000-drones-at-russia-including-hundreds-launched-at-moscow/"
+      },
+      {
+       "headline": "Military Aircraft Crashes in Amur Region",
+       "summary": "A Russian Tu-95/Tu-154 military aircraft crashed during a training flight in Amur Oblast, killing six crew members.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/tu-95-aircraft-crashed-in-russia-s-amur-oblast-during-training-killing-6-crew-members-moscow-says/ar-AA2dcuYN"
+      },
+      {
+       "headline": "Estonia Blames Russia for Arson",
+       "summary": "Estonian authorities formally accused Russian security services of commissioning an arson attack on the defense firm Milrem Robotics.",
+       "scope": "national",
+       "source_url": "https://www.yahoo.com/news/world/articles/estonia-blames-russia-arson-attack-145240116.html"
+      },
+      {
+       "headline": "Record Military Budget Cuts Welfare",
+       "summary": "Russia plans to increase military spending by 27% in 2027, funding the war effort by cutting welfare, education, and healthcare budgets.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/russia-to-cut-welfare-education-funding-in-2027-as-war-spending-soars/ar-AA2ddcDk"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T12Z",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "images/moscow/2026-09-29T12Z.webp",
+     "topics": [
+      {
+       "headline": "Ukraine launches massive drone attack on Moscow",
+       "summary": "Ukraine fired hundreds of drones at Moscow, hitting the main oil refinery and a residential building, resulting in at least three deaths.",
+       "scope": "local",
+       "source_url": "https://www.bbc.com/news/articles/c34gdjk1ne8yo"
+      },
+      {
+       "headline": "Kremlin seizes control of Western retail assets",
+       "summary": "The Russian government placed Nestlé, Auchan, and Metro under temporary state administration, stripping Western companies of their management.",
+       "scope": "local",
+       "source_url": "https://www.themoscowtimes.com/2026/09/28/moscows-audacious-asset-grab-is-a-warning-to-western-companies-a93802"
+      },
+      {
+       "headline": "Putin orders army expansion to 1.55 million",
+       "summary": "President Putin signed a decree increasing the active military staff to 1.55 million as the war enters its fifth winter.",
+       "scope": "national",
+       "source_url": "https://www.theguardian.com/world/2026/sep/29/ukraine-war-briefing-putin-orders-army-expansion-as-zelenskyy-claims-more-north-korean-troops-to-be-deployed-for-moscow"
+      },
+      {
+       "headline": "Russia threatens nuclear response over Kaliningrad",
+       "summary": "Russia warned the UK and NATO of a nuclear response after a television war game explored a hypothetical strike on Kaliningrad.",
+       "scope": "national",
+       "source_url": "https://www.moneycontrol.com/world/russia-warns-uk-nato-of-nuclear-response-over-kaliningrad-strike-plot-in-tv-war-game-article-14041158.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T06Z",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "images/moscow/2026-09-29T06Z.webp",
+     "topics": [
+      {
+       "headline": "Largest drone attack hits Moscow",
+       "summary": "Ukraine launched over 450 drones at Moscow, striking an oil refinery and residential buildings, resulting in at least two deaths.",
+       "scope": "local",
+       "source_url": "https://www.bbc.com/news/articles/c34gdjk1ne8yo"
+      },
+      {
+       "headline": "Kremlin seizes Western retail assets",
+       "summary": "The Russian government placed Nestlé, Auchan, and Metro AG under temporary state administration, stripping foreign management of control.",
+       "scope": "local",
+       "source_url": "https://www.themoscowtimes.com/2026/09/28/moscows-audacious-asset-grab-is-a-warning-to-western-companies-a93802"
+      },
+      {
+       "headline": "Putin orders massive army expansion",
+       "summary": "President Putin signed a decree increasing the active military size to 1.55 million personnel amid ongoing casualties.",
+       "scope": "national",
+       "source_url": "https://www.theguardian.com/world/2026/sep/29/ukraine-war-briefing-putin-orders-army-expansion-as-zelenskyy-claims-more-north-korean-troops-to-be-deployed-for-moscow"
+      },
+      {
+       "headline": "Drone strike hits Kyiv Academy",
+       "summary": "Russian drones struck the National Academy of Sciences in Kyiv, killing at least one person and injuring workers during the day.",
+       "scope": "national",
+       "source_url": "https://www.aol.com/articles/russia-hammers-ukraines-capital-major-132602000.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T00Z",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "images/moscow/2026-09-29T00Z.webp",
+     "topics": [
+      {
+       "headline": "Moscow refinery hit by drone barrage",
+       "summary": "A massive drone attack struck a major oil refinery in Moscow on election day, causing fires and killing two people.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/unprecedented-attack-strikes-moscow-on-election-day-major-oil-refinery-ablaze-as-drones-rain-down/vi-AA2d64RM"
+      },
+      {
+       "headline": "Restaurant bomb attack labeled terrorist act",
+       "summary": "Moscow Mayor Sergei Sobyanin described a deadly bomb explosion at a restaurant as a brutal terrorist act.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/world/moscow-mayor-calls-a-deadly-bomb-attack-on-a-restaurant-a-terrorist-act/ar-AA29fLUB?ocid=BingNewsVerp"
+      },
+      {
+       "headline": "Russia approves record 2027 military budget",
+       "summary": "Russia plans to increase its 2027 defense spending by 27% to 17.1 trillion roubles, the highest level since the war began.",
+       "scope": "national",
+       "source_url": "https://www.reuters.com/world/russia-raises-2027-military-spending-by-27-budget-documents-show-2026-09-28/"
+      },
+      {
+       "headline": "Putin orders army expansion amid war",
+       "summary": "Vladimir Putin ordered an expansion of the Russian army as casualties mount and North Korean troops prepare for deployment.",
+       "scope": "national",
+       "source_url": "https://www.theguardian.com/world/2026/sep/29/ukraine-war-briefing-putin-orders-army-expansion-as-zelenskyy-claims-more-north-korean-troops-to-be-deployed-for-moscow"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "timezone": "America/Mexico_City",
+   "style": "muralism",
+   "paintings": [
+    {
+     "slot": "2026-09-29T18Z",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "images/mexico-city/2026-09-29T18Z.webp",
+     "topics": [
+      {
+       "headline": "Hurricane Polo strikes Baja California",
+       "summary": "Hurricane Polo made landfall in Baja California Sur with damaging winds and life-threatening flash flooding before moving toward Sonora.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/hurricane-polo-heads-for-mexico-s-sonora-state-after-drenching-baja-california-sur/ar-AA2dcHRo"
+      },
+      {
+       "headline": "Cartel violence flares after El Mencho killing",
+       "summary": "Violent rampages by cartel members erupted following the army's killing of leader 'El Mencho', resulting in the deaths of at least 25 security forces.",
+       "scope": "national",
+       "source_url": "https://www.dw.com/en/mexico-jalisco-cartel-oseguera-el-mencho-25-soldiers-killed/live-76093284"
+      },
+      {
+       "headline": "Political violence shocks Mexico City",
+       "summary": "Two aides to the Mexico City mayor were killed in a point-blank shooting, raising fears of increased political violence in the capital.",
+       "scope": "local",
+       "source_url": "https://www.reuters.com/world/americas/brazen-murders-threaten-mexico-citys-image-pocket-safety-violent-nation-2025-06-05/"
+      },
+      {
+       "headline": "Migrants stranded by US border closure",
+       "summary": "Migrants in Mexico City face uncertainty and disillusionment as the US border closure forces them to choose between returning home or seeking humanitarian visas.",
+       "scope": "local",
+       "source_url": "https://www.lemonde.fr/en/international/article/2025/04/01/in-mexico-city-the-disillusion-of-migrants-after-the-us-border-s-closure_6739724_4.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T12Z",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "images/mexico-city/2026-09-29T12Z.webp",
+     "topics": [
+      {
+       "headline": "Hurricane Polo strikes Baja California",
+       "summary": "Hurricane Polo made landfall in Baja California Sur with destructive winds and flooding risks.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/hurricane-polo-lashes-mexicos-baja-california-sur-carries-on-toward-mainland/ar-AA2daPfv"
+      },
+      {
+       "headline": "Tropical Storm Rachel tracks Pacific",
+       "summary": "Tropical Storm Rachel is moving along Mexico's southern Pacific coast following Hurricane Polo.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/tropical-storm-rachel-moves-along-mexico-s-southern-pacific-coast/ar-AA2d97wz"
+      },
+      {
+       "headline": "Migrant caravan crosses into Mexico",
+       "summary": "A Honduran migrant caravan has entered Mexico and is moving north toward the US border.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/dhs-send-ominous-warning-as-migrant-caravan-heads-toward-us-mexico-border-from-honduras/ar-AA2d90yV"
+      },
+      {
+       "headline": "Aztec Codex exhibited in Mexico City",
+       "summary": "The Codex Azcatitlán is on display at the National Museum of Anthropology in Mexico City.",
+       "scope": "local",
+       "source_url": "https://bbc.com/news/articles/ck980qyy6d2zo"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T06Z",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "images/mexico-city/2026-09-29T06Z.webp",
+     "topics": [
+      {
+       "headline": "Hurricane Polo threatens Mexico's Pacific coast",
+       "summary": "Hurricane Polo is approaching Baja California Sur with life-threatening winds and flooding risks, prompting urgent evacuation orders.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/mexico-s-pacific-coast-braces-for-hurricane-polo-s-life-threatening-landfall/ar-AA2d8GPQ"
+      },
+      {
+       "headline": "Mexico seeks early US trade deal",
+       "summary": "Mexican officials are negotiating with the United States to announce an early harvest trade deal before the upcoming election.",
+       "scope": "national",
+       "source_url": "https://www.politico.com/newsletters/weekly-trade/2026/09/28/mexico-us-barrel-toward-a-deal-01094561"
+      },
+      {
+       "headline": "Families demand Ayotzinapa military records",
+       "summary": "Families of the 43 disappeared students are demanding the government release all information regarding the military's role in the case.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ca/news/other/families-demand-mexico-reveal-full-details-of-military-role-in-disappearance-of-43-students/ar-AA2d7xKA"
+      },
+      {
+       "headline": "Aztec codex displayed in Mexico City",
+       "summary": "The Codex Azcatitlán is being exhibited at the National Museum of Anthropology in Mexico City after 186 years.",
+       "scope": "local",
+       "source_url": "https://bbc.com/news/articles/ck980qyy6d2zo"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T00Z",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "images/mexico-city/2026-09-29T00Z.webp",
+     "topics": [
+      {
+       "headline": "Hurricane Polo threatens Baja coast",
+       "summary": "Hurricane Polo is approaching landfall in Baja California Sur, causing flooding and prompting emergency evacuations.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/mexico-s-baja-braces-as-hurricane-polo-nears-landfall/ar-AA2d9UZ3"
+      },
+      {
+       "headline": "Migrant caravan moves toward US border",
+       "summary": "A large migrant caravan from Honduras has entered Mexico and is heading north toward the US border amid heightened security warnings.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/dhs-send-ominous-warning-as-migrant-caravan-heads-toward-us-mexico-border-from-honduras/ar-AA2d90yV"
+      },
+      {
+       "headline": "Mayor's aides killed in shooting",
+       "summary": "Two aides to the Mexico City mayor were killed in a point-blank shooting, raising fears of rising political violence.",
+       "scope": "local",
+       "source_url": "https://www.reuters.com/world/americas/brazen-murders-threaten-mexico-citys-image-pocket-safety-violent-nation-2025-06-05/"
+      },
+      {
+       "headline": "Immersive Mictlán exhibit returns",
+       "summary": "The immersive 'Un viaje al Mictlán' exhibition has returned to Mexico City for its third edition, transforming a basement into a journey to the underworld.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/travel/general/inside-un-viaje-al-mictl%C3%A1n-mexico-city-s-immersive-journey-to-the-underworld-returns-bigger-for-d%C3%ADa-de-muertos-photos-videos/ar-AA2d7D02"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "timezone": "Asia/Kolkata",
+   "style": "Mughal miniature",
+   "paintings": [
+    {
+     "slot": "2026-09-29T18Z",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "images/mumbai/2026-09-29T18Z.webp",
+     "topics": [
+      {
+       "headline": "Mumbai airport chaos from strong winds",
+       "summary": "Strong winds forced eight flights to divert and delayed over 200 others at Mumbai's international airport.",
+       "scope": "local",
+       "source_url": "https://english.mathrubhumi.com/news/india/mumbai-airport-flights-diverted-surat-strong-winds-vn4bff8r"
+      },
+      {
+       "headline": "Thunderstorms cause severe waterlogging in Mumbai",
+       "summary": "Sudden thunderstorms lashed Mumbai, causing waterlogging in key areas and shutting down the Andheri subway.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-in/news/other/evening-showers-cause-waterlogging-imd-issues-7pm-nowcast-warning-andheri-subway-shut/ar-AA2dc0t6?ocid=BingNewsVerp"
+      },
+      {
+       "headline": "India rejects Turkey's Kashmir comments",
+       "summary": "India firmly rejected Turkish President Erdogan's remarks on Kashmir at the UN General Assembly, asserting territorial integrity.",
+       "scope": "national",
+       "source_url": "https://www.aajtak.in/india/news/story/turkey-erdogan-kashmir-unga-india-response-mea-randhir-jaiswal-turkey-ntc-agkp-dskc-2656695-2026-09-29"
+      },
+      {
+       "headline": "India wins Asian Games athletics gold",
+       "summary": "India secured its first athletics gold medal at the Asian Games 2026 through the women's 4x400m relay team.",
+       "scope": "national",
+       "source_url": "https://www.aajtak.in/sports/asian-games/story/india-wins-first-athletics-gold-2026-asian-games-womens-4x400m-relay-bmsp-dskc-2656571-2026-09-29"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T12Z",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "images/mumbai/2026-09-29T12Z.webp",
+     "topics": [
+      {
+       "headline": "Sun Pharma raises billion-dollar debt",
+       "summary": "Sun Pharmaceutical Industries plans a 100 billion rupee local debt sale to fund its acquisition of US firm Organon.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/indias-sun-pharma-plans-1-billion-local-debt-sale-for-loan-takeout-sources-say/ar-AA2dbQdm"
+      },
+      {
+       "headline": "Antilia blast suspect granted bail",
+       "summary": "A special NIA court granted bail to former police officer Sachin Waje, the main accused in the Antilia blast and Mansoor Hiren murder case.",
+       "scope": "local",
+       "source_url": "https://www.abplive.com/states/maharashtra/antilia-explosives-and-mansukh-hiren-murder-case-sachin-vaze-gets-bail-ann-3195320"
+      },
+      {
+       "headline": "RBI liquidity drain impacts rates",
+       "summary": "Bankers estimate that recent RBI foreign-exchange operations absorbed nearly $20 billion in excess rupee funds, affecting borrowing and deposit costs.",
+       "scope": "national",
+       "source_url": "https://internationalnewsandviews.com/rbi-liquidity-drain-20-billion-loans-fd-rates-409841-2"
+      },
+      {
+       "headline": "India secures UN Security Council support",
+       "summary": "Foreign ministers from India, Brazil, and South Africa demanded permanent UN Security Council seats for their nations during a meeting in New York.",
+       "scope": "national",
+       "source_url": "https://navbharattimes.indiatimes.com/world/america/india-brazil-south-africa-called-unsc-reforms-india-permanent-seat-warn-pakistan-israel/articleshow/134557009.cms"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T06Z",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "images/mumbai/2026-09-29T06Z.webp",
+     "topics": [
+      {
+       "headline": "Mumbai Aqua Line Metro Fully Operational",
+       "summary": "Mumbai's first fully underground metro, the Aqua Line, has begun full operations after the inauguration of its final phase.",
+       "scope": "local",
+       "source_url": "https://timesofindia.indiatimes.com/life-style/travel/news/mumbais-first-fully-underground-metro-is-now-operational-routes-ticket-prices-and-more/articleshow/124406982.cms"
+      },
+      {
+       "headline": "Bullet Train Safety Systems Announced",
+       "summary": "The Mumbai-Ahmedabad bullet train project will utilize 28 seismometers to trigger automatic emergency braking for earthquake safety.",
+       "scope": "local",
+       "source_url": "https://www.newsbytesapp.com/news/india/indias-1st-mumbai-ahmedabad-bullet-train-launching-august-15-2027/tldr"
+      },
+      {
+       "headline": "India Climbs Asian Games Medal Tally",
+       "summary": "India's medal count at the 2026 Asian Games rose to 46 following a silver medal in shooting on Day 11.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-in/news/other/asian-games-full-india-results-day-11-updated-live-shooting-brings-another-silver-medal-tally-rises-to-46/ar-AA2daCQt"
+      },
+      {
+       "headline": "India-US Trade Talks Advance",
+       "summary": "India's trade minister is visiting the United States to finalize an interim agreement and advance a proposed bilateral deal.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/india-trade-minister-to-visit-us-for-deal-talks-new-delhi-says/ar-AA2d8eMr"
+      }
+     ]
+    },
+    {
+     "slot": "2026-09-29T00Z",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "images/mumbai/2026-09-29T00Z.webp",
+     "topics": [
+      {
+       "headline": "Mumbai-Ahmedabad Bullet Train Launches 2027",
+       "summary": "India's first bullet train, featuring seismic safety systems, is set to launch on the Mumbai-Ahmedabad corridor in August 2027.",
+       "scope": "local",
+       "source_url": "https://www.newsbytesapp.com/news/india/indias-1st-mumbai-ahmedabad-bullet-train-launching-august-15-2027/tldr"
+      },
+      {
+       "headline": "CJP Protest Ban Sparks Tension",
+       "summary": "Mumbai police denied permission for a planned CJP protest on Gandhi Jayanti, leading the group to announce a 'jail bharo' movement.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/hi-in/news/other/%E0%A4%9C%E0%A5%87%E0%A4%B2-%E0%A4%AD%E0%A4%B0-%E0%A4%86%E0%A4%82%E0%A4%A6-%E0%A4%B2%E0%A4%A8-%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A5%82-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%97-cjp-%E0%A4%AE%E0%A5%81%E0%A4%82%E0%A4%AC%E0%A4%88-%E0%A4%AE%E0%A5%87%E0%A4%82-2-%E0%A4%85%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A5%82%E0%A4%AC%E0%A4%B0-%E0%A4%AA%E0%A5%8D%E0%A4%B0-%E0%A4%9F%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F-%E0%A4%95-%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AE%E0%A4%A4-%E0%A4%A8%E0%A4%B9-%E0%A4%82-%E0%A4%AE-%E0%A4%B2%E0%A4%A8%E0%A5%87-%E0%A4%AA%E0%A4%B0-%E0%A4%AC%E0%A5%9C-%E0%A4%90%E0%A4%B2-%E0%A4%A8/ar-AA2d5Tsd"
+      },
+      {
+       "headline": "Asian Games Medal Surge",
+       "summary": "Indian athletes won eight medals, including silvers and bronzes, on the tenth day of the 2026 Aichi-Nagoya Asian Games.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/hi-in/news/other/%E0%A4%8F%E0%A4%B6-%E0%A4%AF%E0%A4%A8-%E0%A4%97%E0%A5%87%E0%A4%AE%E0%A5%8D%E0%A4%B8-%E0%A4%95%E0%A5%87-10%E0%A4%B5%E0%A5%87%E0%A4%82-%E0%A4%A6-%E0%A4%A8-%E0%A4%AD-%E0%A4%B0%E0%A4%A4-%E0%A4%95-%E0%A4%9D-%E0%A4%B2-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AC%E0%A4%B0%E0%A4%B8%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%A1%E0%A4%B2-%E0%A4%96%E0%A5%81%E0%A4%B6-%E0%A4%B8%E0%A5%87-%E0%A4%9D%E0%A5%82%E0%A4%AE%E0%A5%87-%E0%A4%AA-%E0%A4%8F%E0%A4%AE-%E0%A4%AE-%E0%A4%A6/ar-AA2d9z6A"
+      },
+      {
+       "headline": "Russian Oil Supply Tightens",
+       "summary": "Indian refiners face tighter Russian crude supplies in October and November due to reduced exports and strong Chinese demand.",
+       "scope": "national",
+       "source_url": "https://www.reuters.com/business/energy/russian-oil-supply-india-tightens-reduced-exports-strong-chinese-demand-2026-09-28/"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
