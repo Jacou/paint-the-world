@@ -1,0 +1,1753 @@
+{
+ "updated": "2026-10-04T00:00:00Z",
+ "next_update": "2026-10-04T06:00:00Z",
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "timezone": "Europe/London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "2026-10-04T00Z",
+     "window_start": "2026-10-03T18:00:00Z",
+     "window_end": "2026-10-04T00:00:00Z",
+     "image": "images/london/2026-10-04T00Z.webp",
+     "topics": [
+      {
+       "headline": "UK Scraps Jury Trial Cuts",
+       "summary": "The government has abandoned plans to remove jury trials for minor criminal cases following significant legal and political backlash.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/britain-scraps-heavily-criticised-plans-to-curb-jury-trials-after-backlash/ar-AA2dvCbW"
+      },
+      {
+       "headline": "London Child Poverty Crisis",
+       "summary": "New data reveals that 38% of children in London live in relative poverty, the highest rate in England.",
+       "scope": "local",
+       "source_url": "https://www.theguardian.com/society/2026/mar/26/child-poverty-london-housing-crisis"
+      },
+      {
+       "headline": "City Heat Adaptation Debate",
+       "summary": "A central London climate meeting on extreme heat was cancelled due to the intense temperatures it sought to address.",
+       "scope": "local",
+       "source_url": "https://www.aljazeera.com/news/2026/6/26/feeling-the-heat-the-uk-is-cooking"
+      },
+      {
+       "headline": "UK Fourth Largest Exporter",
+       "summary": "The United Kingdom has risen to become the world's fourth-largest exporter, surpassing France in recent reports.",
+       "scope": "national",
+       "source_url": "https://theconversation.com/the-uk-has-become-the-worlds-fourth-largest-exporter-but-can-it-maintain-this-momentum-229053"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T18Z",
+     "window_start": "2026-10-03T12:00:00Z",
+     "window_end": "2026-10-03T18:00:00Z",
+     "image": "images/london/2026-10-03T18Z.webp",
+     "topics": [
+      {
+       "headline": "UK EV sales hit record high",
+       "summary": "UK electric vehicle sales surged 36% in September to a record 99,199 units, marking a significant shift in the automotive market.",
+       "scope": "national",
+       "source_url": "https://electrek.co/2026/10/02/uk-ev-sales-record-september-2026-tesla-model-3/"
+      },
+      {
+       "headline": "Burnham weighs post-Brexit EU options",
+       "summary": "Prime Minister Andy Burnham stated that Britain should consider post-Brexit options, including rejoining the European Union, to address economic and political gaps.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/burnham-says-uk-should-weigh-post-brexit-eu-options-including-rejoining/ar-AA2dfP5r"
+      },
+      {
+       "headline": "London faces extreme heat challenges",
+       "summary": "A central London climate conference on extreme heat was cancelled due to the intense temperatures, highlighting the city's struggle to adapt to rising heat.",
+       "scope": "local",
+       "source_url": "https://www.aljazeera.com/news/2026/6/26/feeling-the-heat-the-uk-is-cooking"
+      },
+      {
+       "headline": "Liverpool Street named best station",
+       "summary": "Liverpool Street station was named the best train station in the UK, surpassing other major transport hubs with an exceptionally high score.",
+       "scope": "local",
+       "source_url": "https://secretldn.com/best-station-uk-london-liverpool-street/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T12Z",
+     "window_start": "2026-10-03T06:00:00Z",
+     "window_end": "2026-10-03T12:00:00Z",
+     "image": "images/london/2026-10-03T12Z.webp",
+     "topics": [
+      {
+       "headline": "Netanyahu brands Britain rogue state",
+       "summary": "Israeli Prime Minister Benjamin Netanyahu accused the UK government of acting as a rogue state in a heated diplomatic dispute.",
+       "scope": "national",
+       "source_url": "https://www.dailymail.com/news/article-16179675/Benjamin-Netanyahu-Britain-information-attacks-Burnham-state.html"
+      },
+      {
+       "headline": "Diesel stockpile emergency talks",
+       "summary": "Britain is holding emergency talks with European partners to release diesel stockpiles as fuel costs hit record levels.",
+       "scope": "national",
+       "source_url": "https://www.thesun.co.uk/news/40552532/britain-fuel-europe-diesel-france/"
+      },
+      {
+       "headline": "Khan wins historic third term",
+       "summary": "Sadiq Khan secured a landmark third consecutive term as Mayor of London, defeating his rival by a significant margin.",
+       "scope": "local",
+       "source_url": "https://www.bbc.co.uk/news/uk-england-london-68952475"
+      },
+      {
+       "headline": "London child poverty data released",
+       "summary": "New data reveals that London has England's highest levels of child poverty, with 38% of children living in relative poverty.",
+       "scope": "local",
+       "source_url": "https://www.theguardian.com/society/2026/mar/26/child-poverty-london-housing-crisis"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T06Z",
+     "window_start": "2026-10-03T00:00:00Z",
+     "window_end": "2026-10-03T06:00:00Z",
+     "image": "images/london/2026-10-03T06Z.webp",
+     "topics": [
+      {
+       "headline": "Khan Secures Historic Third Mayoral Term",
+       "summary": "Sadiq Khan won a landmark third consecutive term as Mayor of London, defeating his rival by a significant margin.",
+       "scope": "local",
+       "source_url": "https://www.bbc.co.uk/news/uk-england-london-68952475"
+      },
+      {
+       "headline": "London Records Highest Child Poverty Levels",
+       "summary": "New data reveals that London has the highest levels of child poverty in England, with 38% of children living in relative poverty.",
+       "scope": "local",
+       "source_url": "https://www.theguardian.com/society/2026/mar/26/child-poverty-london-housing-crisis"
+      },
+      {
+       "headline": "UK EV Sales Hit Record High",
+       "summary": "Electric vehicle sales in the UK surged 36% in September to reach a record 99,199 units, marking a 28.3% market share.",
+       "scope": "national",
+       "source_url": "https://electrek.co/2026/10/02/uk-ev-sales-record-september-2026-tesla-model-3/"
+      },
+      {
+       "headline": "Britain Weighs Post-Brexit EU Rejoining Options",
+       "summary": "Prime Minister Andy Burnham stated that Britain should consider options for rejoining the EU, prompting diplomatic discussions with Germany.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/burnham-says-uk-should-weigh-post-brexit-eu-options-including-rejoining/ar-AA2dfP5r"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "timezone": "America/New_York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "2026-10-04T00Z",
+     "window_start": "2026-10-03T18:00:00Z",
+     "window_end": "2026-10-04T00:00:00Z",
+     "image": "images/new-york/2026-10-04T00Z.webp",
+     "topics": [
+      {
+       "headline": "Cornell Case Prompts State Law Reform",
+       "summary": "New York Governor Kathy Hochul is moving to close a legal loophole in sexual assault statutes following the Cornell University investigation.",
+       "scope": "local",
+       "source_url": "https://www.newsweek.com/new-york-targets-legal-loophole-that-could-doom-cornell-rape-investigation-12518526"
+      },
+      {
+       "headline": "Winter Olympics Bid Gains Momentum",
+       "summary": "State officials are actively assembling a bid for New York to host a future Winter Olympic Games.",
+       "scope": "local",
+       "source_url": "https://www.usatoday.com/story/sports/olympics/2026/05/25/new-york-making-significant-effort-for-winter-olympics-bid/90256060007/"
+      },
+      {
+       "headline": "Trump Pushes Permanent Daylight Saving",
+       "summary": "President Trump is urging lawmakers to make daylight saving time permanent by sharing a senator's contact information to the public.",
+       "scope": "national",
+       "source_url": "https://www.chicagotribune.com/2026/10/03/trump-urges-calls-cotton-daylight-savings/"
+      },
+      {
+       "headline": "Seniors Receive Medicare Cost Relief",
+       "summary": "The administration announced $90 checks for 20 million senior citizens to help offset rising Medicare Part B premiums.",
+       "scope": "national",
+       "source_url": "https://www.upi.com/Top_News/US/2026/10/03/trump-medicare-part-b-checks/9471791064087/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T18Z",
+     "window_start": "2026-10-03T12:00:00Z",
+     "window_end": "2026-10-03T18:00:00Z",
+     "image": "images/new-york/2026-10-03T18Z.webp",
+     "topics": [
+      {
+       "headline": "Judge Blocks Rent-Setting Software Ban",
+       "summary": "A federal judge in Manhattan blocked New York state from enforcing a law prohibiting landlords from using algorithmic rent-setting software.",
+       "scope": "local",
+       "source_url": "https://www.aol.com/articles/judge-blocks-york-rent-setting-153727000.html"
+      },
+      {
+       "headline": "34 Missing Children Found in Operation",
+       "summary": "A three-day, multi-agency operation led by New York state officials successfully located 34 children and teens who had been reported missing.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/34-missing-children-and-teens-were-found-during-a-multi-agency-operation-in-new-york-officials-say/vi-AA2dqVN6"
+      },
+      {
+       "headline": "Supreme Court Hears Climate Wildfire Case",
+       "summary": "The Supreme Court agreed to hear a major climate change case involving a devastating Colorado wildfire, with billions of dollars at stake.",
+       "scope": "national",
+       "source_url": "https://www.huffpost.com/entry/supreme-court-hear-major-climate-change-case-involving-devastating-colorado-wildfire_n_6ac0ee01e4b0e84f838125cd"
+      },
+      {
+       "headline": "Medicare Recipients Receive $90 Payments",
+       "summary": "The president announced a one-time $90 payment to 20 million Medicare recipients to help offset monthly insurance premiums.",
+       "scope": "national",
+       "source_url": "https://www.usatoday.com/story/news/politics/2026/10/03/medicare-recipients-90-part-b-premiums-trump/92077096007/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T06Z",
+     "window_start": "2026-10-03T00:00:00Z",
+     "window_end": "2026-10-03T06:00:00Z",
+     "image": "images/new-york/2026-10-03T06Z.webp",
+     "topics": [
+      {
+       "headline": "Governor appoints special prosecutor for Cornell case",
+       "summary": "New York Governor Kathy Hochul appointed Attorney General Letitia James as special prosecutor to investigate the alleged 2024 gang rape at Cornell University.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/new-york-attorney-general-named-special-prosecutor-in-cornell-rape-probe/ar-AA2drtMJ"
+      },
+      {
+       "headline": "Legislators propose consent law reforms",
+       "summary": "New York state legislators have introduced bills to close loopholes in consent laws that currently prevent victims who voluntarily consumed drugs or alcohol from seeking justice.",
+       "scope": "local",
+       "source_url": "https://wskg.org/category/news/2026-10-02/new-york-state-legislators-will-propose-changes-to-consent-laws-following-revelations-about-cornell-rape-case"
+      },
+      {
+       "headline": "Federal judge blocks border wall",
+       "summary": "A federal judge barred the Trump administration from constructing a border barrier through Big Bend National Park in Texas while environmental lawsuits are considered.",
+       "scope": "national",
+       "source_url": "https://www.usnews.com/news/us/articles/2026-10-02/judge-bars-building-of-texas-mexico-border-barrier-in-big-bend-national-park"
+      },
+      {
+       "headline": "US economy adds few jobs",
+       "summary": "The U.S. economy added only 29,000 jobs in September, indicating a slowdown in labor market growth.",
+       "scope": "national",
+       "source_url": "https://www.cnn.com/2026/10/02/business/video/u-s-jobs-report-september-bachaud-live-100104pseg1-cnni-business-fast"
+      },
+      {
+       "headline": "Missing children found in operation",
+       "summary": "A three-day multi-agency operation led by New York state officials located 34 children and teens who had been reported missing across Long Island and New York City.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/34-missing-children-and-teens-were-found-during-a-multi-agency-operation-in-new-york-officials-say/vi-AA2dqVN6"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T00Z",
+     "window_start": "2026-10-02T18:00:00Z",
+     "window_end": "2026-10-03T00:00:00Z",
+     "image": "images/new-york/2026-10-03T00Z.webp",
+     "topics": [
+      {
+       "headline": "Cornell Case Sparks Justice Reform Debate",
+       "summary": "Governor Hochul appointed a special prosecutor and vowed to close legal loopholes in the Cornell sexual assault case.",
+       "scope": "local",
+       "source_url": "https://www.newsweek.com/new-york-targets-legal-loophole-that-could-doom-cornell-rape-investigation-12518526"
+      },
+      {
+       "headline": "State Forest Expands by 700 Acres",
+       "summary": "New York State added over 700 acres to its forest system in Steuben County through a land transfer.",
+       "scope": "local",
+       "source_url": "https://www.yahoo.com/news/us/articles/york-adds-700-acres-state-175822916.html"
+      },
+      {
+       "headline": "US Economy Adds Few Jobs",
+       "summary": "The US economy added only 29,000 jobs in September, indicating sluggish labor market growth.",
+       "scope": "national",
+       "source_url": "https://www.cnn.com/2026/10/02/business/video/u-s-jobs-report-september-bachaud-live-100104pseg1-cnni-business-fast"
+      },
+      {
+       "headline": "Border Wall Construction Halted",
+       "summary": "A federal judge ordered the Trump administration to stop border wall construction at Big Bend National Park.",
+       "scope": "national",
+       "source_url": "https://www.nbcnews.com/video/judge-orders-trump-administration-to-stop-border-wall-construction-at-big-bend-national-park-270942789587"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "timezone": "America/Los_Angeles",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "2026-10-04T00Z",
+     "window_start": "2026-10-03T18:00:00Z",
+     "window_end": "2026-10-04T00:00:00Z",
+     "image": "images/san-francisco/2026-10-04T00Z.webp",
+     "topics": [
+      {
+       "headline": "Heat Advisory Looms Over Bay Area",
+       "summary": "San Francisco faces a weekend Heat Advisory with highs near 90 degrees before a cooldown.",
+       "scope": "local",
+       "source_url": "https://hoodline.com/2026/10/san-francisco-set-to-sizzle-with-weekend-heat-near-90/"
+      },
+      {
+       "headline": "Rent Crisis Hits Record Highs",
+       "summary": "Median rent in San Francisco has reached a record high, exceeding New York City prices by nearly $1,000.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/san-francisco-rent-crisis-hits-staggering-new-highs-as-median-rent-now-nearly-1k-more-than-nyc/ar-AA2dqP13"
+      },
+      {
+       "headline": "Seniors Receive Medicare Cost Relief",
+       "summary": "President Trump pledged $90 checks to 20 million seniors to help offset Medicare Part B premiums.",
+       "scope": "national",
+       "source_url": "https://www.upi.com/Top_News/US/2026/10/03/trump-medicare-part-b-checks/9471791064087/"
+      },
+      {
+       "headline": "Coast Guard Searches for Missing Plane",
+       "summary": "The U.S. Coast Guard is searching for an air ambulance that lost contact with six people aboard over the Atlantic.",
+       "scope": "national",
+       "source_url": "https://www.chron.com/news/article/coast-guard-searching-for-plane-with-6-aboard-22460816.php"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T18Z",
+     "window_start": "2026-10-03T12:00:00Z",
+     "window_end": "2026-10-03T18:00:00Z",
+     "image": "images/san-francisco/2026-10-03T18Z.webp",
+     "topics": [
+      {
+       "headline": "AI boom reshapes office market",
+       "summary": "The AI industry's expansion is driving a shift in San Francisco's real estate, with companies moving into Class B offices as Class A rents climb.",
+       "scope": "local",
+       "source_url": "https://therealdeal.com/san-francisco/2026/10/03/class-b-offices-in-san-francisco-pick-up-momentum/"
+      },
+      {
+       "headline": "Spare the Air alert issued",
+       "summary": "San Francisco issued a Spare the Air alert for the weekend as hot weather is expected to push ozone levels into the unhealthy range.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/bay-area-air-quality-slips-spare-the-air-alert-issued-for-weekend/ar-AA2drCtr"
+      },
+      {
+       "headline": "Supreme Court hears climate case",
+       "summary": "The U.S. Supreme Court has agreed to hear a major climate change litigation case involving a devastating Colorado wildfire.",
+       "scope": "national",
+       "source_url": "https://www.huffpost.com/entry/supreme-court-hear-major-climate-change-case-involving-devastating-colorado-wildfire_n_6ac0ee01e4b0e84f838125cd"
+      },
+      {
+       "headline": "Unemployment rate climbs slightly",
+       "summary": "The U.S. unemployment rate ticked up last month as employers added a disappointing number of jobs, according to government reports.",
+       "scope": "national",
+       "source_url": "https://www.sfgate.com/business/article/america-in-focus-unemployment-rate-climbs-22460931.php"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T06Z",
+     "window_start": "2026-10-03T00:00:00Z",
+     "window_end": "2026-10-03T06:00:00Z",
+     "image": "images/san-francisco/2026-10-03T06Z.webp",
+     "topics": [
+      {
+       "headline": "Robotaxi Rules Tighten for First Responders",
+       "summary": "California has enacted stricter regulations for driverless vehicles to prevent them from blocking emergency services.",
+       "scope": "local",
+       "source_url": "https://gizmodo.com/california-cracks-down-on-robotaxis-that-block-first-responders-2000821026"
+      },
+      {
+       "headline": "Rent Crisis Reaches Record Highs",
+       "summary": "San Francisco's median rent for one-bedroom apartments has hit a record high, exceeding New York City levels.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/san-francisco-rent-crisis-hits-staggering-new-highs-as-median-rent-now-nearly-1k-more-than-nyc/ar-AA2dqP13"
+      },
+      {
+       "headline": "Judge Blocks Border Wall Construction",
+       "summary": "A federal judge has barred the construction of a border barrier in Big Bend National Park pending environmental review.",
+       "scope": "national",
+       "source_url": "https://www.usnews.com/news/us/articles/2026-10-02/judge-bars-building-of-texas-mexico-border-barrier-in-big-bend-national-park"
+      },
+      {
+       "headline": "Weak Job Growth Reported",
+       "summary": "The U.S. economy added only 29,000 jobs in September, signaling a slowdown in labor market expansion.",
+       "scope": "national",
+       "source_url": "https://www.cnn.com/2026/10/02/business/video/u-s-jobs-report-september-bachaud-live-100104pseg1-cnni-business-fast"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T00Z",
+     "window_start": "2026-10-02T18:00:00Z",
+     "window_end": "2026-10-03T00:00:00Z",
+     "image": "images/san-francisco/2026-10-03T00Z.webp",
+     "topics": [
+      {
+       "headline": "Bay Area faces historic heat wave",
+       "summary": "A heat advisory has been issued for the San Francisco Bay Area as temperatures are expected to reach triple digits for the first time in an October weekend.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/possible-triple-digit-temps-prompt-bay-area-heat-advisory-for-first-weekend-of-october/ar-AA2dqAGe"
+      },
+      {
+       "headline": "AI wealth drives luxury housing boom",
+       "summary": "AI millionaires are fueling demand for San Francisco mansions with high-end amenities like saunas and custom chandeliers, driving up prices for quiet luxury.",
+       "scope": "local",
+       "source_url": "https://nypost.com/2026/10/02/real-estate/ai-execs-flock-to-san-francisco-for-low-tech-homes/"
+      },
+      {
+       "headline": "Weak September jobs report released",
+       "summary": "The U.S. economy added just 29,000 jobs in September, signaling a slowdown in labor market growth.",
+       "scope": "national",
+       "source_url": "https://www.cnn.com/2026/10/02/business/video/u-s-jobs-report-september-bachaud-live-100104pseg1-cnni-business-fast"
+      },
+      {
+       "headline": "Judge halts Big Bend wall construction",
+       "summary": "A federal judge ordered the Trump administration to immediately stop border wall construction at Big Bend National Park due to environmental concerns.",
+       "scope": "national",
+       "source_url": "https://www.nbcnews.com/video/judge-orders-trump-administration-to-stop-border-wall-construction-at-big-bend-national-park-270942789587"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "timezone": "Asia/Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "2026-10-04T00Z",
+     "window_start": "2026-10-03T18:00:00Z",
+     "window_end": "2026-10-04T00:00:00Z",
+     "image": "images/tokyo/2026-10-04T00Z.webp",
+     "topics": [
+      {
+       "headline": "Tokyo Endures Record 35-Day Rain Streak",
+       "summary": "Tokyo has recorded 35 consecutive rainy days, a historic weather event that has driven up prices and caused widespread fatigue among residents.",
+       "scope": "local",
+       "source_url": "https://greekreporter.com/2026/10/03/tokyo-record-rain-35-consecutive-days/"
+      },
+      {
+       "headline": "Court Protects Human Voices in AI Case",
+       "summary": "A Tokyo court granted legal protection to human voices in a landmark case involving a popular anime voice actor and AI cloning.",
+       "scope": "local",
+       "source_url": "https://www.brandonsun.com/business/2026/10/01/tokyo-court-grants-legal-protection-to-human-voices-in-ai-clone-case"
+      },
+      {
+       "headline": "Business Sentiment Rises for Sixth Month",
+       "summary": "The Bank of Japan's quarterly survey reported that large manufacturers' business sentiment rose to 24, marking the sixth consecutive month of improvement.",
+       "scope": "national",
+       "source_url": "https://www.winnipegfreepress.com/business/2026/09/30/survey-by-japans-central-bank-shows-business-sentiments-are-up-for-sixth-straight-month"
+      },
+      {
+       "headline": "Vending Tech Cools AI Data Centers",
+       "summary": "Fuji Electric, Japan's top vending machine maker, has adapted its refrigeration technology to provide energy-efficient cooling for power-hungry AI data centers.",
+       "scope": "national",
+       "source_url": "https://www.ft.com/content/f76adfdd-295e-4d00-ad90-b52b7aab098c?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T18Z",
+     "window_start": "2026-10-03T12:00:00Z",
+     "window_end": "2026-10-03T18:00:00Z",
+     "image": "images/tokyo/2026-10-03T18Z.webp",
+     "topics": [
+      {
+       "headline": "Court Protects Human Voices from AI Clones",
+       "summary": "A Tokyo court granted legal protection to human voices in a landmark case involving an anime voice actor's AI clone.",
+       "scope": "local",
+       "source_url": "https://www.brandonsun.com/business/2026/10/01/tokyo-court-grants-legal-protection-to-human-voices-in-ai-clone-case"
+      },
+      {
+       "headline": "Physical AI Expo Opens at Tokyo Big Sight",
+       "summary": "Japan's largest industrial expo opened at Tokyo Big Sight, focusing on how AI can preserve traditional manufacturing expertise.",
+       "scope": "local",
+       "source_url": "https://www.techtimes.com/articles/328311/20260930/physical-ai-opens-tokyo-big-sight-japans-last-window-save-made-japan.htm"
+      },
+      {
+       "headline": "Government Reassures Markets on Economic Policy",
+       "summary": "Finance Minister Satsuki Katayama stated the government is adjusting its messaging to reassure markets that current policies are not reflationary.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/japan-shifts-messaging-to-counter-view-its-policies-are-reflationary-katayama-says-in-tv-interview/ar-AA2dtaAw"
+      },
+      {
+       "headline": "Business Sentiment Rises for Sixth Month",
+       "summary": "The Bank of Japan's tankan survey reported that large manufacturers' business sentiment rose to 24, marking a sixth consecutive month of improvement.",
+       "scope": "national",
+       "source_url": "https://www.winnipegfreepress.com/business/2026/09/30/survey-by-japans-central-bank-shows-business-sentiments-are-up-for-sixth-straight-month"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T06Z",
+     "window_start": "2026-10-03T00:00:00Z",
+     "window_end": "2026-10-03T06:00:00Z",
+     "image": "images/tokyo/2026-10-03T06Z.webp",
+     "topics": [
+      {
+       "headline": "Vending Tech Cools Tokyo AI Data Centers",
+       "summary": "Fuji Electric is adapting its refrigeration technology from vending machines to provide energy-efficient cooling for AI data centers in Japan.",
+       "scope": "local",
+       "source_url": "https://www.ft.com/content/f76adfdd-295e-4d00-ad90-b52b7aab098c?syn-25a6b1a6=1"
+      },
+      {
+       "headline": "Science Agreement Extended Indefinitely in Tokyo",
+       "summary": "The United States and Japan signed a protocol in Tokyo to indefinitely extend their cooperation agreement on science and technology research.",
+       "scope": "local",
+       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-and-japan-extend-science-and-technology-agreement-indefinitely/"
+      },
+      {
+       "headline": "Government Reassures Markets on Policy Direction",
+       "summary": "Finance Minister Satsuki Katayama stated that the government is recalibrating its messaging to reassure markets that current policies are not reflationary.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/japan-shifts-messaging-to-counter-view-its-policies-are-reflationary-katayama-says-in-tv-interview/ar-AA2dtaAw"
+      },
+      {
+       "headline": "AI Dispute Court Ruling Protects Voices",
+       "summary": "A Tokyo court recognized voice protection in an AI cloning case, setting a precedent for businesses using synthetic voices.",
+       "scope": "national",
+       "source_url": "https://www.techrepublic.com/article/news-ai-voice-cloning-tiktok-apac-japan/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T00Z",
+     "window_start": "2026-10-02T18:00:00Z",
+     "window_end": "2026-10-03T00:00:00Z",
+     "image": "images/tokyo/2026-10-03T00Z.webp",
+     "topics": [
+      {
+       "headline": "Tokyo Court Protects Human Voices in AI",
+       "summary": "A Tokyo court granted legal protection to human voices in a landmark case involving AI cloning of an anime voice actor.",
+       "scope": "local",
+       "source_url": "https://www.brandonsun.com/business/2026/10/01/tokyo-court-grants-legal-protection-to-human-voices-in-ai-clone-case"
+      },
+      {
+       "headline": "AI Demand Boosts Hard-Drive Suppliers",
+       "summary": "Japanese companies are expanding production of hard-disk drive parts to meet the soaring demand driven by artificial intelligence.",
+       "scope": "local",
+       "source_url": "https://asia.nikkei.com/business/electronics/once-in-decline-japan-s-hard-drive-suppliers-ride-soaring-ai-demand"
+      },
+      {
+       "headline": "Business Sentiment Rises for Sixth Month",
+       "summary": "The Bank of Japan reported that large manufacturers' business sentiment rose to 24, marking a sixth consecutive month of improvement.",
+       "scope": "national",
+       "source_url": "https://www.winnipegfreepress.com/business/2026/09/30/survey-by-japans-central-bank-shows-business-sentiments-are-up-for-sixth-straight-month"
+      },
+      {
+       "headline": "Digital Library Access Expands Nationwide",
+       "summary": "The number of Japanese local governments offering e-book lending services has increased sevenfold, providing 70% of the population with round-the-clock access.",
+       "scope": "national",
+       "source_url": "https://www.asahi.com/ajw/articles/16875312"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "timezone": "Asia/Shanghai",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "2026-10-04T00Z",
+     "window_start": "2026-10-03T18:00:00Z",
+     "window_end": "2026-10-04T00:00:00Z",
+     "image": "images/beijing/2026-10-04T00Z.webp",
+     "topics": [
+      {
+       "headline": "Beijing approves autonomous vehicle regulations",
+       "summary": "Beijing passed new regulations to support the advancement of autonomous driving technology in the capital.",
+       "scope": "local",
+       "source_url": "https://global.chinadaily.com.cn/a/202501/02/WS677606a9a310f1265a1d895d.html"
+      },
+      {
+       "headline": "Tech tourism surges during National Day",
+       "summary": "Visitors flocked to Beijing's science centers and smart factories for unique tech experiences during the holiday.",
+       "scope": "local",
+       "source_url": "https://www.sohu.com/a/1083669363_255783"
+      },
+      {
+       "headline": "China opens EU anti-dumping probe",
+       "summary": "China launched an anti-dumping investigation into the EU just before scheduled trade talks, escalating economic tensions.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ca/news/other/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks/ar-AA2dtYhS"
+      },
+      {
+       "headline": "Solid-state battery production target set",
+       "summary": "China aims for mass production of solid-state batteries by 2030, though industry leaders warn of affordability challenges.",
+       "scope": "national",
+       "source_url": "https://autos.yahoo.com/ev-and-future-tech/articles/china-wants-mass-produced-solid-150000590.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T18Z",
+     "window_start": "2026-10-03T12:00:00Z",
+     "window_end": "2026-10-03T18:00:00Z",
+     "image": "images/beijing/2026-10-03T18Z.webp",
+     "topics": [
+      {
+       "headline": "Beijing approves autonomous vehicle regulations",
+       "summary": "Beijing approved new regulations for autonomous vehicles to advance the industry.",
+       "scope": "local",
+       "source_url": "https://global.chinadaily.com.cn/a/202501/02/WS677606a9a310f1265a1d895d.html"
+      },
+      {
+       "headline": "Beijing resilience against extreme rainfall",
+       "summary": "Beijing implemented resilience measures to handle record-breaking rainfall levels.",
+       "scope": "local",
+       "source_url": "https://finance.sina.com.cn/jjxw/2026-09-30/doc-initqzmf2528502.shtml"
+      },
+      {
+       "headline": "China launches EU chemical probe",
+       "summary": "China launched an anti-dumping investigation into European chemical imports.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ph/money/other/china-launches-anti-dumping-probe-into-eu-chemical-imports/ar-AA2du57f"
+      },
+      {
+       "headline": "PLA inaugurates drone warfare colleges",
+       "summary": "The People's Liberation Army inaugurated new training colleges for drone and robotic warfare.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/china-readies-military-for-drone-and-robotic-warfare-with-new-specialized-colleges/ar-AA2du43D"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T06Z",
+     "window_start": "2026-10-03T00:00:00Z",
+     "window_end": "2026-10-03T06:00:00Z",
+     "image": "images/beijing/2026-10-03T06Z.webp",
+     "topics": [
+      {
+       "headline": "Beijing releases 400 million wasps for pest control",
+       "summary": "Beijing deployed 400 million parasitic wasps to biologically control invasive fall webworms in the city.",
+       "scope": "local",
+       "source_url": "https://english.news.cn/20260930/a1db46975f194b279091bf3ce377f8b8/c.html"
+      },
+      {
+       "headline": "National Day floral displays adorn Chang'an Avenue",
+       "summary": "Ten themed floral sculptures were installed along Chang'an Avenue to celebrate the National Day holiday.",
+       "scope": "local",
+       "source_url": "https://english.news.cn/20260930/253b38f9e4054531a43ecd143ac3e4d2/c.html"
+      },
+      {
+       "headline": "China launches anti-dumping probe into EU chemicals",
+       "summary": "China initiated an anti-dumping investigation into EU imports of p-Nitrotoluene, escalating trade tensions with Brussels.",
+       "scope": "national",
+       "source_url": "https://www.chinadaily.com.cn/a/202610/03/WS6ac078d2e4b06d4aa0561472.html"
+      },
+      {
+       "headline": "China mandates universal AI education by 2030",
+       "summary": "Beijing aims to provide artificial intelligence education in all schools by 2030 as part of its tech strategy.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/money/general/while-the-us-debates-ai-risks-china-mandates-universal-training-for-students/ar-AA2doKHJ"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T00Z",
+     "window_start": "2026-10-02T18:00:00Z",
+     "window_end": "2026-10-03T00:00:00Z",
+     "image": "images/beijing/2026-10-03T00Z.webp",
+     "topics": [
+      {
+       "headline": "Beijing deploys 400 million wasps",
+       "summary": "Beijing released 400 million parasitic wasps to control invasive fall webworms in a biological control effort.",
+       "scope": "local",
+       "source_url": "https://english.news.cn/20260930/a1db46975f194b279091bf3ce377f8b8/c.html"
+      },
+      {
+       "headline": "Villages turn viral fame to prosperity",
+       "summary": "Six rural villages in the Beijing region are leveraging viral media fame to drive shared economic prosperity.",
+       "scope": "local",
+       "source_url": "https://www.usatoday.com/press-release/story/46012/decoding-rural-chinas-governance-how-six-villages-turn-viral-fame-into-shared-prosperity-2/"
+      },
+      {
+       "headline": "Novartis signs massive China biotech deal",
+       "summary": "Novartis struck a licensing deal worth up to $7.8 billion with Chinese biotech firm Abogen for mRNA therapies.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/novartis-strikes-up-to-78-billion-mrna-deal-with-chinas-abogen/ar-AA2dpYIR"
+      },
+      {
+       "headline": "Pandas arrive in Atlanta",
+       "summary": "Two giant pandas, Fu Shuang and Ping Ping, arrived in Atlanta, continuing China's panda diplomacy program.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/panda-diplomacy-family-tree-heres-every-pair-loaned-to-the-us-by-china/ar-AA2dr3D7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "timezone": "Europe/Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "2026-10-04T00Z",
+     "window_start": "2026-10-03T18:00:00Z",
+     "window_end": "2026-10-04T00:00:00Z",
+     "image": "images/paris/2026-10-04T00Z.webp",
+     "topics": [
+      {
+       "headline": "Student protests spark national unrest",
+       "summary": "High school students in Paris and across France have staged massive protests over poor school conditions, resulting in thousands of arrests and injuries.",
+       "scope": "local",
+       "source_url": "https://www.reuters.com/world/high-school-students-paris-deprived-suburbs-spark-national-protest-movement-2026-10-03/"
+      },
+      {
+       "headline": "Pope Leo draws vast crowds",
+       "summary": "Pope Leo addressed a massive crowd on the Champs-Élysées, urging faith and happiness during his visit to Paris.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/vast-paris-crowd-cheers-pope-leo-in-largest-event-of-france-tour/ar-AA2d1dkX"
+      },
+      {
+       "headline": "France unveils belt-tightening 2027 budget",
+       "summary": "The French government presented a strict 2027 budget bill aimed at reducing debt amid political instability and investor concerns.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/france-presents-belt-tightening-2027-budget-as-bond-investors-sour-on-french-debt/ar-AA2djYt3"
+      },
+      {
+       "headline": "Macron expands nuclear deterrent",
+       "summary": "President Macron announced plans to increase France's nuclear warhead stockpile for the first time in decades to ensure national security.",
+       "scope": "national",
+       "source_url": "https://www.france24.com/en/france/20260302-macron-unveils-france-nuclear-strategy-eu-counter-russian-aggression-wavering-us"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T18Z",
+     "window_start": "2026-10-03T12:00:00Z",
+     "window_end": "2026-10-03T18:00:00Z",
+     "image": "images/paris/2026-10-03T18Z.webp",
+     "topics": [
+      {
+       "headline": "Paris Pride March Defies Threats",
+       "summary": "Tens of thousands marched in Paris for Pride, with the mayor highlighting ongoing threats to LGBTQ+ venues.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-ph/news/other/tens-of-thousands-of-people-take-to-streets-of-paris-to-march-for-pride/ar-AA2duCK4"
+      },
+      {
+       "headline": "Notre-Dame Bells Ring Again",
+       "summary": "Notre-Dame de Paris will soon resonate with new carillons, including the iconic Olympic bell, after its 2019 silence.",
+       "scope": "local",
+       "source_url": "https://lactualite.com/actualites/notre-dame-de-paris-accueille-la-cloche-emblematique-des-jeux-olympiques-de-paris/"
+      },
+      {
+       "headline": "Student Protests Escalate Nationally",
+       "summary": "Violent student protests over school conditions have spread across France, resulting in thousands of arrests and hundreds of injuries.",
+       "scope": "national",
+       "source_url": "https://www.yahoo.com/news/articles/not-stop-students-blunt-message-100042571.html"
+      },
+      {
+       "headline": "France Records Hottest Day Ever",
+       "summary": "France experienced its hottest day on record during a severe heatwave, leading to tragic drownings and testing climate preparations.",
+       "scope": "national",
+       "source_url": "https://www.aljazeera.com/news/2026/6/23/about-20-drown-in-france-trying-to-escape-heatwave-sweeping-much-of-europe"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T06Z",
+     "window_start": "2026-10-03T00:00:00Z",
+     "window_end": "2026-10-03T06:00:00Z",
+     "image": "images/paris/2026-10-03T06Z.webp",
+     "topics": [
+      {
+       "headline": "Student Protests Force School Closures",
+       "summary": "Violent student protests over underfunded education have led to the closure of approximately 400 schools across France.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/about-400-french-schools-closed-as-some-student-protests-turn-violent/ar-AA2doQCr"
+      },
+      {
+       "headline": "Zidane’s Debut Ends in Draw",
+       "summary": "Zinedine Zidane’s first home match as France head coach ended in a 1-1 draw against Italy at the Stade de France.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/sports/soccer/zidane-s-first-home-game-in-charge-of-france-ends-in-1-1-draw-with-italy/ar-AA2dr1uX"
+      },
+      {
+       "headline": "Paris Pride Parade Returns",
+       "summary": "The Marche des Fiertés returns to Paris this Saturday with a parade through the capital’s streets.",
+       "scope": "local",
+       "source_url": "https://www.sortiraparis.com/actualites/a-paris/articles/327753-marche-des-fiertes-2026-a-paris-des-restrictions-de-circulation-a-prevoir-ce-week-end"
+      },
+      {
+       "headline": "Fashion Week Gold Runway",
+       "summary": "Saint Laurent presented a shimmering gold-themed collection at Paris Fashion Week, featuring a glossy black runway.",
+       "scope": "local",
+       "source_url": "https://apnews.com/article/paris-fashion-week-trends-6bb2a641c5f9a05ef05a139b9f0fbfdd"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T00Z",
+     "window_start": "2026-10-02T18:00:00Z",
+     "window_end": "2026-10-03T00:00:00Z",
+     "image": "images/paris/2026-10-03T00Z.webp",
+     "topics": [
+      {
+       "headline": "Student Protests Close Paris Schools",
+       "summary": "Violent student protests over education conditions have forced the closure of approximately 400 schools in Paris and across France.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/about-400-french-schools-closed-as-some-student-protests-turn-violent/ar-AA2doQCr"
+      },
+      {
+       "headline": "Nvidia Cluster Hosted in Paris",
+       "summary": "Global Switch has been selected to host a large deployment of Nvidia Blackwell hardware at its data center in Paris.",
+       "scope": "local",
+       "source_url": "https://www.datacenterdynamics.com/en/news/global-switch-to-host-large-nvidia-blackwell-deployment-at-paris-data-center/"
+      },
+      {
+       "headline": "Zidane Debut Ends in Draw",
+       "summary": "France drew 1-1 with Italy in Zinedine Zidane's first home match as head coach, with Michael Olise scoring a stunning free kick.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/france-held-1-1-by-italy-in-zidane-home-debut-after-olise-stunner/ar-AA2drARA"
+      },
+      {
+       "headline": "France Boosts Drone Stockpiles",
+       "summary": "France announced plans to increase its stockpiles of explosive drones by 400 percent by 2030 in response to security threats.",
+       "scope": "national",
+       "source_url": "https://www.france24.com/en/europe/20260408-france-ramps-up-rearmament-amid-russia-threat"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "timezone": "Europe/Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "2026-10-04T00Z",
+     "window_start": "2026-10-03T18:00:00Z",
+     "window_end": "2026-10-04T00:00:00Z",
+     "image": "images/berlin/2026-10-04T00Z.webp",
+     "topics": [
+      {
+       "headline": "Left Party Wins Berlin State Election",
+       "summary": "The Left Party secured victory in Berlin's state election with 25.7% of the vote, marking a significant political shift in the capital.",
+       "scope": "local",
+       "source_url": "https://www.outlookindia.com/international/germanys-left-wins-berlin-as-afd-strengthens-grip-in-the-east"
+      },
+      {
+       "headline": "Berlin Withdraws From Olympic Bid",
+       "summary": "Berlin has officially withdrawn from the race to host the 2036 Olympic and Paralympic Games, leaving Munich and Cologne as Germany's remaining candidates.",
+       "scope": "local",
+       "source_url": "https://sports.yahoo.com/articles/berlin-quits-leave-munich-cologne-083341273.html"
+      },
+      {
+       "headline": "AfD Gains Power In Eastern States",
+       "summary": "The far-right AfD party is poised to form its first state government since WWII in Saxony-Anhalt, signaling a major shift in German regional politics.",
+       "scope": "national",
+       "source_url": "https://ici.radio-canada.ca/rci/en/news/2281265/far-right-victory-in-german-state-expected-to-send-shockwaves-throughout-the-world"
+      },
+      {
+       "headline": "Steinmeier Warns Of Democratic Erosion",
+       "summary": "German President Steinmeier warned that disinformation and extremist movements risk pushing Germany back into Weimar-era political divisions.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/germany-risks-weimar-style-divisions-president-steinmeier-warns/ar-AA2dulyt"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T18Z",
+     "window_start": "2026-10-03T12:00:00Z",
+     "window_end": "2026-10-03T18:00:00Z",
+     "image": "images/berlin/2026-10-03T18Z.webp",
+     "topics": [
+      {
+       "headline": "Left Party Wins Berlin State Election",
+       "summary": "The Left Party secured victory in Berlin's state election with 25.7% of the vote, prompting coalition talks with the Greens and SPD.",
+       "scope": "local",
+       "source_url": "https://www.outlookindia.com/international/germanys-left-wins-berlin-as-afd-strengthens-grip-in-the-east"
+      },
+      {
+       "headline": "Berlin Withdraws From Olympic Bid",
+       "summary": "Berlin officially withdrew from the competition to be Germany's candidate for the 2036 Olympic and Paralympic Games.",
+       "scope": "local",
+       "source_url": "https://sports.yahoo.com/articles/berlin-quits-leave-munich-cologne-083341273.html"
+      },
+      {
+       "headline": "President Warns of Weimar Divisions",
+       "summary": "German President Frank-Walter Steinmeier warned that disinformation from antidemocratic extremists risks returning the country to pre-World War II political divisions.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/germany-risks-weimar-style-divisions-president-steinmeier-warns/ar-AA2dulyt"
+      },
+      {
+       "headline": "Ancient Wood Found in Lake Arendsee",
+       "summary": "Archaeologists recovered pieces of worked Mesolithic wood dated to 10,500 years ago from the sediments of Lake Arendsee in Saxony-Anhalt.",
+       "scope": "national",
+       "source_url": "https://archaeology.org/news/2026/10/02/mesolithic-lumber-recovered-in-germanys-lake-arendsee/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T06Z",
+     "window_start": "2026-10-03T00:00:00Z",
+     "window_end": "2026-10-03T06:00:00Z",
+     "image": "images/berlin/2026-10-03T06Z.webp",
+     "topics": [
+      {
+       "headline": "Left Party Wins Berlin State Election",
+       "summary": "The Left Party secured victory in Berlin's state election with 25.7% of the vote, marking a significant political shift in the capital.",
+       "scope": "local",
+       "source_url": "https://www.outlookindia.com/international/germanys-left-wins-berlin-as-afd-strengthens-grip-in-the-east"
+      },
+      {
+       "headline": "Berlin Sends Troops to Poland Border",
+       "summary": "Germany is deploying soldiers to fortify Poland's eastern border to strengthen NATO's eastern flank amid rising security concerns.",
+       "scope": "local",
+       "source_url": "https://www.dw.com/en/germany-news-berlin-sends-soldiers-to-fortify-poland-border/live-75142358"
+      },
+      {
+       "headline": "World's Tallest Wind Turbine Rises",
+       "summary": "A 365-metre wind turbine in Schipkau, Germany, has been erected as the world's tallest, set to begin operations in November.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ae/news/other/worlds-tallest-wind-turbine-rises-to-365-metres-in-germany/ar-AA2dpm4t"
+      },
+      {
+       "headline": "Economy Growth Doubles to One Percent",
+       "summary": "The Bundesbank reports that the German economy may grow by 1% this year, driven by robust exports and government investment.",
+       "scope": "national",
+       "source_url": "https://www.sacbee.com/news/nation-world/national/article317474632.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T00Z",
+     "window_start": "2026-10-02T18:00:00Z",
+     "window_end": "2026-10-03T00:00:00Z",
+     "image": "images/berlin/2026-10-03T00Z.webp",
+     "topics": [
+      {
+       "headline": "Left Party Wins Berlin State Election",
+       "summary": "The Left Party secured victory in Berlin's state election with 25.7% of the vote, triggering coalition talks with the Greens and SPD.",
+       "scope": "local",
+       "source_url": "https://www.outlookindia.com/international/germanys-left-wins-berlin-as-afd-strengthens-grip-in-the-east"
+      },
+      {
+       "headline": "Kenyan Vegetables Thrive in Berlin Gardens",
+       "summary": "A Kenyan farmer successfully cultivates traditional crops like managu and sukuma wiki in Berlin, providing fresh produce to the local diaspora.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-xl/news/other/germany-based-kenyan-woman-excited-after-finding-kenyan-man-selling-managu-sukuma-wiki-in-berlin/ar-AA2drsDw"
+      },
+      {
+       "headline": "World's Tallest Wind Turbine Rises in Germany",
+       "summary": "A 365-metre wind turbine in Schipkau has become the world's tallest, designed to capture stronger winds for renewable energy production.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ae/news/other/worlds-tallest-wind-turbine-rises-to-365-metres-in-germany/ar-AA2dpm4t"
+      },
+      {
+       "headline": "Ancient Lumber Found in Lake Arendsee",
+       "summary": "Archaeologists recovered worked wood pieces dated to 10,500 years ago from the sediments of Lake Arendsee in Saxony-Anhalt.",
+       "scope": "national",
+       "source_url": "https://archaeology.org/news/2026/10/02/mesolithic-lumber-recovered-in-germanys-lake-arendsee/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "timezone": "Europe/Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "2026-10-04T00Z",
+     "window_start": "2026-10-03T18:00:00Z",
+     "window_end": "2026-10-04T00:00:00Z",
+     "image": "images/rome/2026-10-04T00Z.webp",
+     "topics": [
+      {
+       "headline": "Roma Stadium Approval Secured",
+       "summary": "The Conferenza dei Servizi formally approved the technical and economic feasibility for AS Roma's new stadium at Pietralata.",
+       "scope": "local",
+       "source_url": "https://ca.sports.yahoo.com/news/roma-stadium-approved-certainty-built-123500509.html"
+      },
+      {
+       "headline": "Rome Bids for 2032 Euros",
+       "summary": "Italy submitted a dossier to UEFA featuring 14 stadiums, with Rome positioned as a key capital for the 2032 European Championship.",
+       "scope": "local",
+       "source_url": "https://www.ilmessaggero.it/en/rome_s_double_bid_and_the_race_for_italy_s_stadiums-9795744.html"
+      },
+      {
+       "headline": "Italy Raises Growth Forecasts",
+       "summary": "The Italian government raised its economic growth outlook, noting the 2026 budget deficit will fall within EU limits for the first time in seven years.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/money/economy/italy-hikes-growth-outlook-but-budget-deficit-to-rise-from-next-year/ar-AA2drldr"
+      },
+      {
+       "headline": "Meloni Sets Leadership Record",
+       "summary": "Prime Minister Giorgia Meloni's administration became Italy's longest-serving postwar government, surpassing the previous record set by Silvio Berlusconi.",
+       "scope": "national",
+       "source_url": "https://www.cbc.ca/news/world/giorgia-meloni-italy-longest-pm-analysis-9.7329936"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T18Z",
+     "window_start": "2026-10-03T12:00:00Z",
+     "window_end": "2026-10-03T18:00:00Z",
+     "image": "images/rome/2026-10-03T18Z.webp",
+     "topics": [
+      {
+       "headline": "Rome Stadium Project Formally Approved",
+       "summary": "The technical and economic feasibility project for Roma's new stadium at Pietralata has been formally approved by the services conference.",
+       "scope": "local",
+       "source_url": "https://ca.sports.yahoo.com/news/roma-stadium-approved-certainty-built-123500509.html"
+      },
+      {
+       "headline": "Rome Bid for 2032 Euro Championship",
+       "summary": "Italy has submitted a dossier to UEFA featuring 14 stadiums, with Rome positioned as the capital of the next European Championship.",
+       "scope": "local",
+       "source_url": "https://www.ilmessaggero.it/en/rome_s_double_bid_and_the_race_for_italy_s_stadiums-9795744.html"
+      },
+      {
+       "headline": "Italy Funds Water Infrastructure Projects",
+       "summary": "The Italian Ministry of Infrastructure has allocated €1.55 billion to fund 59 water infrastructure projects across 17 regions.",
+       "scope": "national",
+       "source_url": "https://www.wam.ae/en/article/c2k2cfn-italy-allocates-%E2%82%AC155-billion-fund-water"
+      },
+      {
+       "headline": "Italy Raises Economic Growth Outlook",
+       "summary": "Italy raised its economic growth forecasts and reported that this year's budget deficit will fall within EU limits for the first time since 2019.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/italy-hikes-growth-outlook-but-budget-deficit-to-rise-from-next-year/ar-AA2drRXm"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T06Z",
+     "window_start": "2026-10-03T00:00:00Z",
+     "window_end": "2026-10-03T06:00:00Z",
+     "image": "images/rome/2026-10-03T06Z.webp",
+     "topics": [
+      {
+       "headline": "Italy holds France in Paris",
+       "summary": "Italy secured a 1-1 draw against France in the UEFA Nations League, with Alessandro Bastoni scoring to cancel out Michael Olise's goal.",
+       "scope": "national",
+       "source_url": "https://www.yardbarker.com/soccer/articles/we_ruined_their_big_celebration_alessandro_bastoni_sends_fierce_warning_after_italy_silence_paris/s1_17790_44380836"
+      },
+      {
+       "headline": "Rome stadium project formally approved",
+       "summary": "The new stadium for AS Roma at Pietralata has been formally approved following the signing off of its technical and economic feasibility project.",
+       "scope": "local",
+       "source_url": "https://ca.sports.yahoo.com/news/roma-stadium-approved-certainty-built-123500509.html"
+      },
+      {
+       "headline": "Italy scales back defense spending",
+       "summary": "The Italian government has reduced planned defense-spending increases to limit borrowing and keep the 2026 budget deficit below the EU's 3% threshold.",
+       "scope": "national",
+       "source_url": "https://ijr.com/discover/italy-scales-back-planned-defense-increase-9d13526a"
+      },
+      {
+       "headline": "Wildfire planes return after summer",
+       "summary": "Italy's fleet of wildfire-fighting aircraft has returned home after an exceptional summer of operations across Europe.",
+       "scope": "national",
+       "source_url": "https://www.malaymail.com/news/life/2026/10/03/italys-wildfire-planes-are-finally-home-after-an-exceptional-summer/237371"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T00Z",
+     "window_start": "2026-10-02T18:00:00Z",
+     "window_end": "2026-10-03T00:00:00Z",
+     "image": "images/rome/2026-10-03T00Z.webp",
+     "topics": [
+      {
+       "headline": "New Roma Stadium Approved for Pietralata",
+       "summary": "The technical and economic feasibility project for Roma’s new stadium at Pietralata has been formally approved by the services conference.",
+       "scope": "local",
+       "source_url": "https://ca.sports.yahoo.com/news/roma-stadium-approved-certainty-built-123500509.html"
+      },
+      {
+       "headline": "Italy Raises Economic Growth Forecasts",
+       "summary": "Italy raised its economic growth forecasts and confirmed this year's budget deficit will fall within EU limits for the first time since 2019.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/money/economy/italy-hikes-growth-outlook-but-budget-deficit-to-rise-from-next-year/ar-AA2drRXm"
+      },
+      {
+       "headline": "Italy Draws with France in Paris",
+       "summary": "Italy secured a 1-1 draw against France in the UEFA Nations League, with Alessandro Bastoni equalizing for the Azzurri.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/france-held-1-1-by-italy-in-zidane-home-debut-after-olise-stunner/ar-AA2drARA"
+      },
+      {
+       "headline": "Italy Seeks EU Fiscal Flexibility",
+       "summary": "Italy and Greece have requested more fiscal wriggle room from Brussels due to rising inflation and fuel prices.",
+       "scope": "national",
+       "source_url": "https://www.ft.com/content/d2f01dd2-2fde-4d3b-aff0-f82aa9e05296?syn-25a6b1a6=1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "timezone": "America/Toronto",
+   "style": "Group of Seven",
+   "paintings": [
+    {
+     "slot": "2026-10-04T00Z",
+     "window_start": "2026-10-03T18:00:00Z",
+     "window_end": "2026-10-04T00:00:00Z",
+     "image": "images/toronto/2026-10-04T00Z.webp",
+     "topics": [
+      {
+       "headline": "Canada Peru Friendly Kickoff",
+       "summary": "Canada hosts Peru in a crucial international soccer friendly at Stade Saputo.",
+       "scope": "national",
+       "source_url": "https://sports.yahoo.com/articles/usa-vs-mexico-canada-vs-192000645.html"
+      },
+      {
+       "headline": "Trade Talks Remain Difficult",
+       "summary": "US officials state that Canada trade negotiations are active but difficult, with zero tariffs not currently on the table.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ca/news/other/us-says-canada-trade-talks-are-still-active-but-difficult-issues-remain-and-zero-tariffs-aren-t-on-the-table/ar-AA2dunBJ"
+      },
+      {
+       "headline": "Data Center Groundbreaking Ceremony",
+       "summary": "Yondr broke ground on its first Canadian facility, a 27MW data center in Toronto.",
+       "scope": "local",
+       "source_url": "https://www.datacenterdynamics.com/en/news/yondr-breaks-ground-on-27mw-data-center-in-toronto-canada/"
+      },
+      {
+       "headline": "Skyline Global Photography Ranking",
+       "summary": "A new report ranks Toronto's skyline among the most photographed in the world.",
+       "scope": "local",
+       "source_url": "https://www.blogto.com/city/2022/01/toronto-skyline-one-of-worlds-most-photographed/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T18Z",
+     "window_start": "2026-10-03T12:00:00Z",
+     "window_end": "2026-10-03T18:00:00Z",
+     "image": "images/toronto/2026-10-03T18Z.webp",
+     "topics": [
+      {
+       "headline": "Royal Visit Kicks Off Historic Tour",
+       "summary": "King Charles III and Queen Camilla arrived in Canada to begin a ceremonial visit that includes the opening of Parliament.",
+       "scope": "national",
+       "source_url": "https://globalnews.ca/news/11196888/canada-royal-visit-king-charles-iii-2025/"
+      },
+      {
+       "headline": "Carney's Economic Overhaul Faces Union Pushback",
+       "summary": "Prime Minister Mark Carney's efforts to reduce U.S. dependence and accelerate major projects are clashing with organized labor resistance.",
+       "scope": "national",
+       "source_url": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions"
+      },
+      {
+       "headline": "Third Transmission Line Powers Downtown Growth",
+       "summary": "The Ontario government and City of Toronto are installing a third electricity transmission line to support new development in downtown Toronto.",
+       "scope": "local",
+       "source_url": "https://news.ontario.ca/en/release/1005992/ontario_and_toronto_building_historic_third_transmission_line_to_power_downtown_toronto"
+      },
+      {
+       "headline": "Health Coalition Protests Bike Lane Removal",
+       "summary": "Ontario health-care workers gathered in downtown Toronto to denounce the provincial plan to remove bike lanes on three major roadways.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-ca/news/other/ontario-health-care-coalition-denounces-provinces-plan-to-remove-bike-lanes-across-toronto/ar-AA2dduYA"
+      },
+      {
+       "headline": "New Nonstop Flight Links Toronto to Tobago",
+       "summary": "Caribbean Airlines is launching a new nonstop flight connecting Toronto and Tobago, enhancing direct travel between the two destinations.",
+       "scope": "national",
+       "source_url": "https://www.caribjournal.com/2026/10/02/toronto-tobago-new-flights/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T06Z",
+     "window_start": "2026-10-03T00:00:00Z",
+     "window_end": "2026-10-03T06:00:00Z",
+     "image": "images/toronto/2026-10-03T06Z.webp",
+     "topics": [
+      {
+       "headline": "Trump bans Canadian goods, threatens annexation",
+       "summary": "President Trump signed proclamations banning Canadian goods and posted an annexation map, escalating the trade war.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/trump-bans-canadian-goods-posts-an-annexation-map-and-now-his-own-party-sees-midterm-damage/ar-AA2draUT"
+      },
+      {
+       "headline": "Carney's economic overhaul clashes with unions",
+       "summary": "Prime Minister Mark Carney's push to reduce US dependency and attract investment is facing resistance from organized labor.",
+       "scope": "national",
+       "source_url": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions"
+      },
+      {
+       "headline": "Toronto ranked world's best city",
+       "summary": "A global consultancy ranked Toronto as the best city in the world, outranking other major global hubs.",
+       "scope": "local",
+       "source_url": "https://www.blogto.com/city/2025/11/toronto-outranked-canada-worlds-best-cities/"
+      },
+      {
+       "headline": "Yondr breaks ground on data center",
+       "summary": "Data center developer Yondr broke ground on its first Canadian facility, a 27MW site in Toronto.",
+       "scope": "local",
+       "source_url": "https://www.datacenterdynamics.com/en/news/yondr-breaks-ground-on-27mw-data-center-in-toronto-canada/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T00Z",
+     "window_start": "2026-10-02T18:00:00Z",
+     "window_end": "2026-10-03T00:00:00Z",
+     "image": "images/toronto/2026-10-03T00Z.webp",
+     "topics": [
+      {
+       "headline": "Toronto Ranks World's Best City",
+       "summary": "Toronto has been ranked the best city in Canada and a top global destination in a new international consultancy report.",
+       "scope": "local",
+       "source_url": "https://www.blogto.com/city/2025/11/toronto-outranked-canada-worlds-best-cities/"
+      },
+      {
+       "headline": "Third Transmission Line Powers Downtown",
+       "summary": "Ontario and Toronto are installing a third electricity transmission line to support new housing and economic growth in the downtown core.",
+       "scope": "local",
+       "source_url": "https://news.ontario.ca/en/release/1005992/ontario_and_toronto_building_historic_third_transmission_line_to_power_downtown_toronto"
+      },
+      {
+       "headline": "Carney Overhaul Clashes With Unions",
+       "summary": "Prime Minister Mark Carney's economic reforms to attract investment are facing significant resistance from organized labor groups.",
+       "scope": "national",
+       "source_url": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions"
+      },
+      {
+       "headline": "Canada Backs $30B Oil Pipeline",
+       "summary": "The federal government has given full backing to a 1,250-kilometre pipeline to transport Alberta oil to the Pacific coast.",
+       "scope": "national",
+       "source_url": "https://www.upstreamonline.com/energy-security/mission-critical-canada-backs-30-billion-oil-export-pipeline/2-1-2053147"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moscow",
+   "name": "Moscow",
+   "timezone": "Europe/Moscow",
+   "style": "Constructivism",
+   "paintings": [
+    {
+     "slot": "2026-10-04T00Z",
+     "window_start": "2026-10-03T18:00:00Z",
+     "window_end": "2026-10-04T00:00:00Z",
+     "image": "images/moscow/2026-10-04T00Z.webp",
+     "topics": [
+      {
+       "headline": "Moscow faces largest drone attack",
+       "summary": "Ukraine launched its largest ever drone attack on Moscow and the surrounding region, resulting in casualties and significant disruption.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/moscow-targeted-by-largest-ever-drone-attack-on-final-day-of-russias-parliamentary-election/ar-AA2cBDY1"
+      },
+      {
+       "headline": "Moscow ranks top in sports",
+       "summary": "A new report highlights Moscow's status as a global sports leader, with 80% of residents satisfied with the city's athletic facilities.",
+       "scope": "local",
+       "source_url": "https://www.vedomosti.ru/press_releases/2026/09/23/moskva--sportivnii-megapolis"
+      },
+      {
+       "headline": "Zelensky vows refinery strikes",
+       "summary": "President Zelensky announced that Ukraine will intensify attacks on Russian oil refineries in response to Moscow's new doctrine targeting civilian infrastructure.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/money/general/zelensky-vows-more-oil-refinery-strikes-in-russia-despite-trump-appeal/ar-AA2dvk3E"
+      },
+      {
+       "headline": "Budget prioritizes defense spending",
+       "summary": "Russia's draft 2027 budget plans to sharply increase defense spending while cutting education funding and raising taxes to sustain the war effort.",
+       "scope": "national",
+       "source_url": "https://www.malaymail.com/news/world/2026/10/04/more-guns-less-schooling-russias-2027-budget-goes-all-in-on-war/237540"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T18Z",
+     "window_start": "2026-10-03T12:00:00Z",
+     "window_end": "2026-10-03T18:00:00Z",
+     "image": "images/moscow/2026-10-03T18Z.webp",
+     "topics": [
+      {
+       "headline": "Moscow hit by record drone attack",
+       "summary": "Ukraine launched its largest-ever drone attack on the Russian capital during the final day of parliamentary voting.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/moscow-targeted-by-largest-ever-drone-attack-on-final-day-of-russias-parliamentary-election/ar-AA2cBDY1"
+      },
+      {
+       "headline": "Air defenses activate in Moscow region",
+       "summary": "Russian air defense systems opened fire in the Moscow region, causing loud explosions during the Ukrainian strike.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-gb/news/other/explosions-rock-moscow-region-as-russian-air-defenses-open-fire/ar-AA2duFix"
+      },
+      {
+       "headline": "Putin warns of nuclear deployment",
+       "summary": "President Putin stated Russia is prepared to use nuclear weapons to defend the Kaliningrad exclave if threatened.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/world/russia-s-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow/ar-AA2dn9JQ"
+      },
+      {
+       "headline": "US-Russia talks involve oil deal",
+       "summary": "Negotiations between the US and Russia regarding Ukraine now include a multibillion-dollar oil deal linked to Trump allies.",
+       "scope": "national",
+       "source_url": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html"
+      },
+      {
+       "headline": "Moscow sports infrastructure report released",
+       "summary": "A new report highlights Moscow's development as a sports metropolis, with 80% of residents satisfied with local conditions.",
+       "scope": "local",
+       "source_url": "https://www.vedomosti.ru/press_releases/2026/09/23/moskva--sportivnii-megapolis"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T06Z",
+     "window_start": "2026-10-03T00:00:00Z",
+     "window_end": "2026-10-03T06:00:00Z",
+     "image": "images/moscow/2026-10-03T06Z.webp",
+     "topics": [
+      {
+       "headline": "Putin warns NATO over Kaliningrad",
+       "summary": "Russian President Vladimir Putin threatened to use all available weapons, including nuclear options, if NATO attempts to isolate the Kaliningrad exclave.",
+       "scope": "national",
+       "source_url": "https://kyivindependent.com/putin-vows-russia-will-respond-with-all-weapons-at-our-disposal-if-attacked-by-nato/"
+      },
+      {
+       "headline": "Moscow builds new gas tankers",
+       "summary": "Russia is constructing new liquefied natural gas tankers to circumvent Western sanctions and prepare for the EU's planned ban on Russian LNG imports in 2027.",
+       "scope": "local",
+       "source_url": "https://euromaidanpress.com/2026/10/02/sanctions-keep-catching-russias-gas-tankers-so-moscow-is-building-new-ones-uk-says/"
+      },
+      {
+       "headline": "Moscow named sports megapolis",
+       "summary": "A new report highlights Moscow's rapid development in sports infrastructure, noting that 80% of residents are satisfied with the city's facilities for physical activity.",
+       "scope": "local",
+       "source_url": "https://www.vedomosti.ru/press_releases/2026/09/23/moskva--sportivnii-megapolis"
+      },
+      {
+       "headline": "Russia plans winter infrastructure strikes",
+       "summary": "Ukrainian officials revealed intercepted Russian plans to cut off major cities from power, heat, and water during the upcoming winter.",
+       "scope": "national",
+       "source_url": "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html"
+      },
+      {
+       "headline": "Latvia votes amid security fears",
+       "summary": "Latvians are holding parliamentary elections with security concerns over Russian expansionism dominating the political agenda alongside cost-of-living issues.",
+       "scope": "national",
+       "source_url": "https://www.economist.com/the-world-in-brief/2026/10/03/433e76c3-6b70-4c58-bcf7-efdc98dbf514"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T00Z",
+     "window_start": "2026-10-02T18:00:00Z",
+     "window_end": "2026-10-03T00:00:00Z",
+     "image": "images/moscow/2026-10-03T00Z.webp",
+     "topics": [
+      {
+       "headline": "Putin warns NATO over Kaliningrad nuclear threat",
+       "summary": "Russian President Vladimir Putin warned that Moscow is prepared to use all weapons, including nuclear, to defend its Baltic exclave of Kaliningrad against perceived NATO escalation.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/putin-warns-west-that-russia-is-prepared-to-use-all-weapons-to-protect-kaliningrad/ar-AA2dmXmv"
+      },
+      {
+       "headline": "Russia conscripts 120,000 men for war",
+       "summary": "Russia announced the conscription of 120,000 men, a move that contradicts previous assurances that conscripts would not be sent to fight in Ukraine.",
+       "scope": "national",
+       "source_url": "https://kyivindependent.com/russia-to-conscript-120-000-men-again-promises-they-wont-be-sent-to-fight-in-ukraine/"
+      },
+      {
+       "headline": "Moscow rated top global sports city",
+       "summary": "A new report indicates that Moscow has become a top global leader in sports development, with 80% of residents satisfied with local sports conditions.",
+       "scope": "local",
+       "source_url": "https://www.vedomosti.ru/press_releases/2026/09/23/moskva--sportivnii-megapolis"
+      },
+      {
+       "headline": "Moscow expands winter sports infrastructure",
+       "summary": "The city continues its active development of sports facilities, maintaining its status as a sports metropolis with high resident satisfaction.",
+       "scope": "local",
+       "source_url": "https://www.vedomosti.ru/press_releases/2026/09/23/moskva--sportivnii-megapolis"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "timezone": "America/Mexico_City",
+   "style": "muralism",
+   "paintings": [
+    {
+     "slot": "2026-10-04T00Z",
+     "window_start": "2026-10-03T18:00:00Z",
+     "window_end": "2026-10-04T00:00:00Z",
+     "image": "images/mexico-city/2026-10-04T00Z.webp",
+     "topics": [
+      {
+       "headline": "Mexico-US Soccer Friendly Kicks Off",
+       "summary": "The US men's national team hosts Mexico in a highly anticipated international friendly match in Arizona.",
+       "scope": "national",
+       "source_url": "https://www.nbcsports.com/soccer/live/usmnt-vs-mexico-live-updates-score-goals-highlights-stats-2026-october-3"
+      },
+      {
+       "headline": "Judge Halts Border Barrier Construction",
+       "summary": "A federal judge barred the administration from building a border barrier through Big Bend National Park pending environmental review.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/judge-bars-building-of-texas-mexico-border-barrier-in-big-bend-national-park/ar-AA2dsfKY"
+      },
+      {
+       "headline": "Sheinbaum Leads Presidential Race",
+       "summary": "Claudia Sheinbaum, credited with reducing violent crime in Mexico City, is the front-runner in the upcoming presidential election.",
+       "scope": "local",
+       "source_url": "https://www.latimes.com/world-nation/story/2024-05-31/mexico-presidential-election-claudia-sheinbaum"
+      },
+      {
+       "headline": "City Becomes Global Film Hub",
+       "summary": "Mexico City is experiencing a rise as a global film production center driven by major streaming platforms.",
+       "scope": "local",
+       "source_url": "https://www.yahoo.com/entertainment/movies/articles/netflix-amazon-drive-mexico-city-130026257.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T18Z",
+     "window_start": "2026-10-03T12:00:00Z",
+     "window_end": "2026-10-03T18:00:00Z",
+     "image": "images/mexico-city/2026-10-03T18Z.webp",
+     "topics": [
+      {
+       "headline": "Arca Tierra Wins Global Sustainability Award",
+       "summary": "The Arca Tierra chinampa restoration project in Mexico City has been recognized with the 2026 Champions of Change Award for its sustainable agriculture efforts.",
+       "scope": "local",
+       "source_url": "https://mexiconewsdaily.com/culture/mexicos-citys-chinampa-restoration-project-arca-tierra-wins-2026-champions-of-change-award/"
+      },
+      {
+       "headline": "Sheinbaum Leads Presidential Race Amid Crime Drop",
+       "summary": "Claudia Sheinbaum is the front-runner for the Mexican presidency, highlighted by a 50% reduction in homicides in Mexico City during her tenure as mayor.",
+       "scope": "local",
+       "source_url": "https://www.latimes.com/world-nation/story/2024-05-31/mexico-presidential-election-claudia-sheinbaum"
+      },
+      {
+       "headline": "USMNT Faces Mexico in Rivalry Friendly",
+       "summary": "The US men's national team prepares to host Mexico in a high-stakes international friendly match in Arizona, marking a key moment in the 2030 World Cup cycle.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/usa-vs-mexico-friendly-prediction-start-time-how-to-watch/ar-AA2dtRnM"
+      },
+      {
+       "headline": "Analysts Trim Inflation Forecasts for Mexico",
+       "summary": "Private sector analysts polled by the central bank have slightly lowered their inflation predictions for 2026 and 2027 while raising economic growth estimates.",
+       "scope": "national",
+       "source_url": "https://www.reuters.com/world/americas/mexico-analysts-slightly-trim-inflation-forecast-2026-2027-2026-10-01/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T06Z",
+     "window_start": "2026-10-03T00:00:00Z",
+     "window_end": "2026-10-03T06:00:00Z",
+     "image": "images/mexico-city/2026-10-03T06Z.webp",
+     "topics": [
+      {
+       "headline": "Judge halts border wall in Big Bend",
+       "summary": "A federal judge barred the US administration from constructing a border barrier through Big Bend National Park pending environmental review.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/judge-bars-building-of-texas-mexico-border-barrier-in-big-bend-national-park/ar-AA2dsfKY"
+      },
+      {
+       "headline": "Sheinbaum leads presidential race on safety",
+       "summary": "Claudia Sheinbaum, the front-runner for the Mexican presidency, is highlighted for her administration's significant reduction in violent crime in Mexico City.",
+       "scope": "national",
+       "source_url": "https://www.latimes.com/world-nation/story/2024-05-31/mexico-presidential-election-claudia-sheinbaum"
+      },
+      {
+       "headline": "Chinampa restoration wins global sustainability award",
+       "summary": "The Arca Tierra initiative in Mexico City received the 2026 Champions of Change Award for its sustainable agriculture and wetland restoration efforts.",
+       "scope": "local",
+       "source_url": "https://mexiconewsdaily.com/culture/mexicos-citys-chinampa-restoration-project-arca-tierra-wins-2026-champions-of-change-award/"
+      },
+      {
+       "headline": "Mexico City emerges as global film hub",
+       "summary": "Streaming giants Netflix and Amazon are driving Mexico City's rise as a major center for global film production.",
+       "scope": "local",
+       "source_url": "https://www.yahoo.com/entertainment/movies/articles/netflix-amazon-drive-mexico-city-130026257.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T00Z",
+     "window_start": "2026-10-02T18:00:00Z",
+     "window_end": "2026-10-03T00:00:00Z",
+     "image": "images/mexico-city/2026-10-03T00Z.webp",
+     "topics": [
+      {
+       "headline": "Presidential Dual Citizenship Reform Approved",
+       "summary": "The Mexican constitutional reform requiring presidential candidates to renounce dual citizenships is fast-tracking toward final approval.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/mexico-to-prohibit-presidents-from-holding-dual-citizenship/ar-AA2dqVXY"
+      },
+      {
+       "headline": "IMF Calls for Debt Reduction",
+       "summary": "The International Monetary Fund stated that Mexico needs greater fiscal efforts to put its national debt on a declining trajectory.",
+       "scope": "national",
+       "source_url": "https://www.sacbee.com/news/nation-world/national/article317473537.html"
+      },
+      {
+       "headline": "Film Industry Boosts City Economy",
+       "summary": "Streaming platforms like Netflix and Amazon are driving Mexico City’s rise as a global film hub, creating new economic opportunities in the capital.",
+       "scope": "local",
+       "source_url": "https://www.yahoo.com/entertainment/movies/articles/netflix-amazon-drive-mexico-city-130026257.html"
+      },
+      {
+       "headline": "Plaza de Toros Hosts Music",
+       "summary": "The Monumental Plaza de Toros La México is transitioning into a major music venue, hosting upcoming international concerts following legal reforms.",
+       "scope": "local",
+       "source_url": "https://www.billboard.com/music/latin/plaza-de-toros-la-mexico-venue-2025-1236145329/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "timezone": "Asia/Kolkata",
+   "style": "Mughal miniature",
+   "paintings": [
+    {
+     "slot": "2026-10-04T00Z",
+     "window_start": "2026-10-03T18:00:00Z",
+     "window_end": "2026-10-04T00:00:00Z",
+     "image": "images/mumbai/2026-10-04T00Z.webp",
+     "topics": [
+      {
+       "headline": "Mumbai Airport Terminal One Overhaul",
+       "summary": "Adani Airports will begin renovating the 60-year-old Terminal One at Mumbai International Airport in January 2027 to address structural safety concerns, with flights temporarily shifting to other terminals.",
+       "scope": "local",
+       "source_url": "https://www.abplive.com/business/a-section-of-mumbai-airport-t1-to-be-redeveloped-saya-adani-airport-3197309"
+      },
+      {
+       "headline": "Jawahar Dweep Becomes Plastic-Free",
+       "summary": "The Mumbai Port Authority declared its Jawahar Dweep Marine Oil Terminal India's first plastic-free facility, marking a significant environmental milestone for the city's port operations.",
+       "scope": "local",
+       "source_url": "https://swarajyamag.com/infrastructure/mumbai-ports-jawahar-dweep-becomes-indias-first-plastic-free-oil-terminal"
+      },
+      {
+       "headline": "India Wins Asian Games Hockey Gold",
+       "summary": "The Indian men's hockey team defeated Malaysia in the final to win a historic gold medal at the 2026 Asian Games, securing a ticket to the 2028 Los Angeles Olympics.",
+       "scope": "national",
+       "source_url": "https://www.sportingnews.com/in/tsn/news/india-malaysia-hockey-live-score-result-highlights-asian-games-2026-final/e70e5e6ee4d9afe6e268a7c4"
+      },
+      {
+       "headline": "India Beats Pakistan in Cricket Final",
+       "summary": "India defeated Pakistan by 19 runs in the gold medal match of the 2026 Asian Games men's cricket competition.",
+       "scope": "national",
+       "source_url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T18Z",
+     "window_start": "2026-10-03T12:00:00Z",
+     "window_end": "2026-10-03T18:00:00Z",
+     "image": "images/mumbai/2026-10-03T18Z.webp",
+     "topics": [
+      {
+       "headline": "Mumbai Airport Terminal Redevelopment Begins",
+       "summary": "Adani Airports will begin phased redevelopment of Mumbai Airport's Terminal 1B in 2027, temporarily shifting 9% of traffic to Navi Mumbai.",
+       "scope": "local",
+       "source_url": "https://www.oneindia.com/india/mumbai-airport-terminal-1b-redevelopment-phased-2027-start-012-8224217.html"
+      },
+      {
+       "headline": "Underground Metro Line Fully Operational",
+       "summary": "Mumbai's first fully underground Aqua Line metro is now fully operational, easing travel across the city.",
+       "scope": "local",
+       "source_url": "https://timesofindia.indiatimes.com/life-style/travel/news/mumbais-first-fully-underground-metro-is-now-operational-routes-ticket-prices-and-more/articleshow/124406982.cms"
+      },
+      {
+       "headline": "India Wins Asian Games Hockey Gold",
+       "summary": "India defeated Malaysia to win historic hockey gold at the Asian Games 2026, securing a ticket to the 2028 Olympics.",
+       "scope": "national",
+       "source_url": "https://www.sportingnews.com/in/tsn/news/india-malaysia-hockey-live-score-result-highlights-asian-games-2026-final/e70e5e6ee4d9afe6e268a7c4"
+      },
+      {
+       "headline": "India Beats Pakistan in Cricket Final",
+       "summary": "India defeated Pakistan by 19 runs in the Asian Games 2026 men's cricket final to claim the gold medal.",
+       "scope": "national",
+       "source_url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T06Z",
+     "window_start": "2026-10-03T00:00:00Z",
+     "window_end": "2026-10-03T06:00:00Z",
+     "image": "images/mumbai/2026-10-03T06Z.webp",
+     "topics": [
+      {
+       "headline": "Mumbai Metro Aqua Line Fully Operational",
+       "summary": "Mumbai's first fully underground metro, the Aqua Line, has begun full operations to ease city travel.",
+       "scope": "local",
+       "source_url": "https://timesofindia.indiatimes.com/life-style/travel/news/mumbais-first-fully-underground-metro-is-now-operational-routes-ticket-prices-and-more/articleshow/124406982.cms"
+      },
+      {
+       "headline": "Jawahar Dweep Becomes Plastic-Free Terminal",
+       "summary": "The Mumbai Port Authority declared its Jawahar Dweep Marine Oil Terminal India's first plastic-free facility.",
+       "scope": "local",
+       "source_url": "https://swarajyamag.com/infrastructure/mumbai-ports-jawahar-dweep-becomes-indias-first-plastic-free-oil-terminal"
+      },
+      {
+       "headline": "India Wins Asian Games Hockey Gold",
+       "summary": "India's women's hockey team secured a historic gold medal at the 2026 Asian Games in Aichi-Nagoya.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-in/sports/hockey/hockey-india-announces-rs-11-lakh-reward-for-each-player-after-historic-asian-games-gold/ar-AA2dqAqf"
+      },
+      {
+       "headline": "Asian Games Cricket Final India Pakistan",
+       "summary": "India and Pakistan are set to clash in the men's T20 cricket final at the 2026 Asian Games.",
+       "scope": "national",
+       "source_url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-03T00Z",
+     "window_start": "2026-10-02T18:00:00Z",
+     "window_end": "2026-10-03T00:00:00Z",
+     "image": "images/mumbai/2026-10-03T00Z.webp",
+     "topics": [
+      {
+       "headline": "CJP Protests Demand Election Chief Resignation",
+       "summary": "Hundreds of supporters of the Gen Z-led Cockroach Janta Party protested in Mumbai and Delhi, demanding the resignation of Chief Election Commissioner Gyanesh Kumar over voter list revisions.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/hundreds-from-india-s-gen-z-led-cockroach-party-protest-seek-election-chief-s-resignation/ar-AA2dqEM8"
+      },
+      {
+       "headline": "CBI Arrests CPWD Engineer In Bribery",
+       "summary": "The Central Bureau of Investigation arrested five individuals, including a CPWD executive engineer, in Mumbai for allegedly accepting a bribe of 5 million rupees.",
+       "scope": "local",
+       "source_url": "https://www.amarujala.com/india-news/maharashtra-updates-mumbai-cbi-cpwd-engineer-bjp-shiv-sena-nagpur-pune-palghar-politics-crime-and-other-news-2026-10-03"
+      },
+      {
+       "headline": "Mumbai Litfest Opens At NCPA",
+       "summary": "The Mumbai Literature Festival is set to open at the National Centre for the Performing Arts, featuring prominent authors and cultural figures.",
+       "scope": "local",
+       "source_url": "https://www.loksatta.com/sampadkiya/columns/mumbai-literature-festival-2026-ncpa-dates-speakers-details-ssb-93-6169931/"
+      },
+      {
+       "headline": "India Wins Asian Games Hockey Gold",
+       "summary": "The Indian women's hockey team secured a historic gold medal at the Asian Games, ending a 44-year wait by defeating China in the final.",
+       "scope": "national",
+       "source_url": "https://www.sportingnews.com/in/tsn/news/hockey-asian-games-2026-india-squad-schedule-scores-results/94c837c98c437f7b81a1fa9d"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "subjects": [
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "hours": [
+    6,
+    18
+   ],
+   "painting": {
+    "slot": "2026-10-03T18Z",
+    "window_start": "2026-10-03T06:00:00Z",
+    "window_end": "2026-10-03T18:00:00Z",
+    "image": "images/ai/2026-10-03T18Z.webp",
+    "topics": [
+     {
+      "headline": "AI-Designed Vaccine Enters Human Trials",
+      "summary": "Researchers at the University of Cambridge have initiated human trials for a next-generation vaccine designed by artificial intelligence to protect against mutating viruses.",
+      "scope": "topic",
+      "source_url": "https://www.thenews.com.pk/latest/1404859-ai-breakthrough-worlds-first-vaccine-designed-by-ai-enters-human-trials"
+     },
+     {
+      "headline": "Gemini 4 Argon Launches for Cyber Defense",
+      "summary": "Google has rolled out its most advanced model, Gemini 4 Argon, initially available to cyber defenders with significant improvements in coding and complex professional work.",
+      "scope": "topic",
+      "source_url": "https://www.msn.com/en-us/money/markets/google-rolls-out-gemini-4-argon-its-most-advanced-ai-model/ar-AA2dirCw"
+     },
+     {
+      "headline": "Canada Launches National AI Safety Council",
+      "summary": "Prime Minister Mark Carney established a new national council to advise the government on AI strategy, safety, and deployment.",
+      "scope": "topic",
+      "source_url": "https://www.msn.com/en-ca/news/other/ottawa-launches-new-national-ai-council-to-advise-on-safety-deployment/ar-AA2drCQO"
+     },
+     {
+      "headline": "OpenAI Suspends PewDiePie Over Distillation",
+      "summary": "PewDiePie claims OpenAI suspended his account twice while he was building Ajax, a 9-billion-parameter AI model intended for local hardware.",
+      "scope": "topic",
+      "source_url": "https://cryptobriefing.com/openai-bans-pewdiepie-ajax-ai-model/"
+     },
+     {
+      "headline": "Trump Orders 'Super Intelligence' Rebranding",
+      "summary": "President Trump signed an executive order directing federal agencies to replace the term 'artificial intelligence' with 'Super Intelligence.'",
+      "scope": "topic",
+      "source_url": "https://www.wonderwall.com/politics/president-donald-trump-renames-ai-super-intelligence-artificial/"
+     }
+    ],
+    "date": "2026-10-03"
+   }
+  },
+  {
+   "id": "health",
+   "name": "Health science",
+   "style": "Haeckel",
+   "hours": [
+    18
+   ],
+   "painting": {
+    "slot": "2026-10-03T18Z",
+    "window_start": "2026-10-02T18:00:00Z",
+    "window_end": "2026-10-03T18:00:00Z",
+    "image": "images/health/2026-10-03T18Z.webp",
+    "topics": [
+     {
+      "headline": "HHS Launches SURPASS Trial Transformation Program",
+      "summary": "The US Department of Health and Human Services launched the SURPASS program to modernize clinical trial infrastructure using AI and adaptive designs to reduce costs and patient burden.",
+      "scope": "topic",
+      "source_url": "https://www.appliedclinicaltrialsonline.com/view/hhs-launches-surpass-program-three-complementary-initiatives-transform-clinical-trial-design-infrastructure"
+     },
+     {
+      "headline": "New Drug Alleviates Severe Sunlight Pain",
+      "summary": "A clinical trial demonstrated that a new medication can effectively treat the insufferable pain caused by sunlight in patients with rare photosensitivity conditions.",
+      "scope": "topic",
+      "source_url": "https://www.msn.com/en-us/news/other/clinical-trial-helps-treat-womans-insufferable-pain-from-sunlight/ar-AA2dtU1A"
+     },
+     {
+      "headline": "Blood Pressure Change Triples Death Risk",
+      "summary": "A study of 57,000 UK participants identified a specific hidden change in blood pressure patterns that significantly increases the risk of death and stroke.",
+      "scope": "topic",
+      "source_url": "https://www.mirror.co.uk/news/health/hidden-blood-pressure-change-triples-37712784"
+     },
+     {
+      "headline": "Joint Supplement Linked to Dementia Progression",
+      "summary": "New research suggests that a commonly used joint health supplement may accelerate the progression from mild cognitive impairment to dementia.",
+      "scope": "topic",
+      "source_url": "https://www.msn.com/en-in/news/other/could-this-popular-joint-supplement-turn-mild-cognitive-impairment-into-dementia-new-study-finds-link/ar-AA2d6k1c"
+     }
+    ],
+    "date": "2026-10-03"
+   }
+  }
+ ]
+}

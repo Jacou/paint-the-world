@@ -1,0 +1,43 @@
+{
+ "days": [
+  {
+   "date": "2026-10-03",
+   "count": 2,
+   "subjects": {
+    "ai": "archive/2026-10-03/ai-06Z.webp"
+   }
+  },
+  {
+   "date": "2026-10-02",
+   "count": 50,
+   "subjects": {
+    "ai": "archive/2026-10-02/ai-18Z.webp",
+    "health": "archive/2026-10-02/health-18Z.webp"
+   }
+  },
+  {
+   "date": "2026-10-01",
+   "count": 50,
+   "subjects": {
+    "ai": "archive/2026-10-01/ai-18Z.webp",
+    "health": "archive/2026-10-01/health-18Z.webp"
+   }
+  },
+  {
+   "date": "2026-09-30",
+   "count": 51,
+   "subjects": {
+    "ai": "archive/2026-09-30/ai-18Z.webp",
+    "health": "archive/2026-09-30/health-18Z.webp"
+   }
+  },
+  {
+   "date": "2026-09-29",
+   "count": 50,
+   "subjects": {
+    "ai": "archive/2026-09-29/ai-18Z.webp",
+    "health": "archive/2026-09-29/health-18Z.webp"
+   }
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "date": "2026-10-03",
+ "subjects": [
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "slot": "06:00",
+   "image": "archive/2026-10-03/ai-06Z.webp",
+   "headlines": [
+    "Gemini 4 Argon Launches",
+    "AI Vaccine Enters Human Trials",
+    "Warner Files AI Safety Bill",
+    "AWS Releases Open-Source Decision Model",
+    "Trump Renames AI to Super Intelligence"
+   ]
+  }
+ ],
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-02T18:00:00Z",
+     "window_end": "2026-10-03T00:00:00Z",
+     "image": "archive/2026-10-03/london-00Z.webp",
+     "headlines": [
+      "UK EV Sales Hit Record High",
+      "Power Subsidy Scheme Opens for Re-Industrialisation",
+      "London Child Poverty Reaches England's Highest",
+      "London Economy Growth Story Upended"
+     ]
+    }
+   ]
+  }
+ ]
+}
