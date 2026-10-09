@@ -1,0 +1,700 @@
+{
+ "date": "2026-09-29",
+ "subjects": [
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "slot": "18:00",
+   "image": "archive/2026-09-29/ai-18Z.webp",
+   "headlines": [
+    "OpenAI cancels Astra 6.1 over safety",
+    "White House AI regulation summit held",
+    "OpenAI unveils Dots personalized agents",
+    "AMD acquires World Labs for $8.2B"
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health science",
+   "style": "Haeckel",
+   "slot": "18:00",
+   "image": "archive/2026-09-29/health-18Z.webp",
+   "headlines": [
+    "Infections Cause One-Eighth of Global Cancers",
+    "Ultra-Processed Foods Linked to Higher Disease Risk",
+    "REM Sleep Reduces Risk of 83 Diseases",
+    "AI Chatbots Linked to Psychological Harm"
+   ]
+  }
+ ],
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "archive/2026-09-29/london-00Z.webp",
+     "headlines": [
+      "Fire causes major London travel chaos",
+      "Waterloo Bridge faces imminent shutdown risk",
+      "Five men released on terror plot bail",
+      "UK government urges public stockpiling"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "archive/2026-09-29/london-06Z.webp",
+     "headlines": [
+      "Five London Men Released Over Terror Plot",
+      "Thames Water Leak Disrupts London Supply",
+      "UK Diesel Prices Hit Record Highs",
+      "Government Vows to Get Britain Working",
+      "UK Sanctions Chinese Cyber-Attack Actors"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "archive/2026-09-29/london-12Z.webp",
+     "headlines": [
+      "RAF Fairford terror suspects released on bail",
+      "Thames Water outage affects 18 London postcodes",
+      "UK government warns of Russian cyber threats",
+      "Argentina threatens legal action over Falklands oil"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "archive/2026-09-29/london-18Z.webp",
+     "headlines": [
+      "RAF Fairford suspects released on bail",
+      "London faces extreme heat and climate crisis",
+      "Britain pays highest borrowing rate since 1999",
+      "Burnham pledges to tackle national issues"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "archive/2026-09-29/new-york-00Z.webp",
+     "headlines": [
+      "Nor'easter leaves NYC flooding, downed trees",
+      "City Council subpoenas AI firms for testimony",
+      "Senate passes college sports NIL overhaul bill",
+      "OpenAI delays model release over security"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "archive/2026-09-29/new-york-06Z.webp",
+     "headlines": [
+      "Nor'easter floods New York coast",
+      "Unemployment system upgrade pauses benefits",
+      "News groups challenge White House ban",
+      "OpenAI cancels model over safety"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "archive/2026-09-29/new-york-12Z.webp",
+     "headlines": [
+      "Jack Smith Defies Prosecution Threats",
+      "US Forces Exit Iraq Bases",
+      "New York Awards Renewable Contracts",
+      "Unemployment System Replacement Underway"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "archive/2026-09-29/new-york-18Z.webp",
+     "headlines": [
+      "Nor'easter brings flooding to New York",
+      "Subway rider killed by A train doors",
+      "US bans Canadian imports effective immediately",
+      "Jack Smith defends Trump prosecutions"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "archive/2026-09-29/san-francisco-00Z.webp",
+     "headlines": [
+      "Gas prices hit record high",
+      "Coastal flooding threatens Bay Area",
+      "Senate passes college sports bill",
+      "Fuel economy standards scaled back"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "archive/2026-09-29/san-francisco-06Z.webp",
+     "headlines": [
+      "BART Transit System Faces Financial Crisis",
+      "Food Bank Costs Spike on Diesel",
+      "White House Press Ban Challenged in Court",
+      "Diesel Export Ban Threatens Gas Prices"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "archive/2026-09-29/san-francisco-12Z.webp",
+     "headlines": [
+      "Bay Area faces coastal flood advisory",
+      "Unusual week of 70-degree weather",
+      "US forces exit Iraq bases",
+      "Hegseth directs military to defend elections"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "archive/2026-09-29/san-francisco-18Z.webp",
+     "headlines": [
+      "SF Mint relocation debate intensifies",
+      "Police data retention slashed to 30 days",
+      "US blocks Canadian goods imports",
+      "Jack Smith defends Trump prosecutions"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "archive/2026-09-29/tokyo-00Z.webp",
+     "headlines": [
+      "Record-breaking rain streak hits Tokyo",
+      "Typhoon Dujuan causes four deaths",
+      "New typhoon approaches Japanese islands",
+      "Ransomware disrupts major railway systems"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "archive/2026-09-29/tokyo-06Z.webp",
+     "headlines": [
+      "Record 34-Day Rainfall Streak Ends",
+      "Typhoon Surigae Threatens Kanto Region",
+      "Rice Surplus Crushes Farmer Prices",
+      "Japan Confronts China at U.N."
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "archive/2026-09-29/tokyo-12Z.webp",
+     "headlines": [
+      "Tokyo Sets Record 34-Day Rain Streak",
+      "Magnitude 4.9 Earthquake Strikes Eastern Japan",
+      "Japan Wins Dramatic Friendly Against Venezuela",
+      "Record High for Skilled Foreign Workers"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "archive/2026-09-29/tokyo-18Z.webp",
+     "headlines": [
+      "Tokyo sets 34-day rain record",
+      "M4.9 earthquake strikes eastern Japan",
+      "Japan explores military humanoid robots",
+      "Fusion startup begins power tests"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "archive/2026-09-29/beijing-00Z.webp",
+     "headlines": [
+      "Beijing bans drone possession and storage",
+      "Travel curbs expand to AI talent families",
+      "US and China cut tariffs on $60bn goods",
+      "Trump disputes ambassador's claim on arms sale"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "archive/2026-09-29/beijing-06Z.webp",
+     "headlines": [
+      "US-China Tariff Cuts Announced",
+      "Beijing AI Talent Travel Bans",
+      "Robot Pharmacy Launches in Shanghai",
+      "Hengrui Signs Obesity Drug Deal",
+      "Rare Earth Leverage Warnings"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "archive/2026-09-29/beijing-12Z.webp",
+     "headlines": [
+      "US-China tariff cuts on $60bn goods",
+      "China factories rebound in September",
+      "Beijing park pavilion opens to public",
+      "Universal Studios adds Fast & Furious ride",
+      "China warns Japan on WWII history"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "archive/2026-09-29/beijing-18Z.webp",
+     "headlines": [
+      "Beijing unveils new property and economic stimulus measures",
+      "Beijing completes citywide ultra-fast charging network",
+      "US and China agree $60 billion tariff cuts",
+      "China warns Japan over Taiwan remarks"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "archive/2026-09-29/paris-00Z.webp",
+     "headlines": [
+      "Public sector strike disrupts Paris transport",
+      "Pope Leo draws massive Paris crowds",
+      "France wins Nations League match",
+      "Government collapse triggers political crisis"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "archive/2026-09-29/paris-06Z.webp",
+     "headlines": [
+      "Pope Leo's Mass Draws 800,000",
+      "Public Sector Strike Paralyzes Paris",
+      "Government Collapse Triggers Political Crisis",
+      "France Wins Late in Brussels"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "archive/2026-09-29/paris-12Z.webp",
+     "headlines": [
+      "Public sector strike disrupts Paris transit",
+      "Firefighters camp on Champs-de-Mars",
+      "Pope Leo concludes historic France visit",
+      "France proposes EU budget reform"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "archive/2026-09-29/paris-18Z.webp",
+     "headlines": [
+      "Public sector strike disrupts Paris",
+      "Firefighters camp on Champs-de-Mars",
+      "Pope Leo concludes France visit",
+      "Macron expands nuclear arsenal"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "archive/2026-09-29/berlin-00Z.webp",
+     "headlines": [
+      "Left-wing victory reshapes Berlin politics",
+      "Developers warn of housing chaos",
+      "AfD surges in state elections",
+      "Germany hits solar record"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "archive/2026-09-29/berlin-06Z.webp",
+     "headlines": [
+      "Left Party Wins Berlin State Election",
+      "Berlin Withdraws Olympic Bid",
+      "AfD Surges in Eastern Germany",
+      "Germany Pledges ICC Support"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "archive/2026-09-29/berlin-12Z.webp",
+     "headlines": [
+      "Left Party Wins Berlin State Election",
+      "Berlin Withdraws Olympic Bid",
+      "AfD Surges in Northeastern Germany",
+      "Germany Sets Solar Power Record"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "archive/2026-09-29/berlin-18Z.webp",
+     "headlines": [
+      "Left Party wins Berlin state election",
+      "Plan to seize 200,000 apartments",
+      "AfD surges in northeastern state",
+      "CDU calls election results a disaster"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "archive/2026-09-29/rome-00Z.webp",
+     "headlines": [
+      "Roma Stadium Construction Formally Approved",
+      "Verdict Imminent in Regeni Murder Trial",
+      "Italy Dominates Turkey in Nations League",
+      "Meloni Coalition Wins Calabria By-Election"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "archive/2026-09-29/rome-06Z.webp",
+     "headlines": [
+      "Roma stadium construction approved",
+      "Ancient Rome mosaic unveiled",
+      "Italy dominates Turkey in Nations League",
+      "Esposito brothers start for Italy",
+      "First proton therapy center in Rome"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "archive/2026-09-29/rome-12Z.webp",
+     "headlines": [
+      "Roma stadium approval confirmed",
+      "Ancient mosaic unveiled in Rome",
+      "Italy wins Nations League match",
+      "Meloni passes by-election test"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "archive/2026-09-29/rome-18Z.webp",
+     "headlines": [
+      "Italy bond spread hits 100 points",
+      "Oil firms cap fuel prices",
+      "Italy completes Iraq troop withdrawal",
+      "Ancient Rome mosaic unveiled",
+      "New proton therapy center opens"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "style": "Group of Seven",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "archive/2026-09-29/toronto-00Z.webp",
+     "headlines": [
+      "US Import Ban on Canadian Goods Begins",
+      "Trump Slams Canada as 'Worst Country'",
+      "Steel Plant Idles Due to Tariffs",
+      "Ontario Backs Northern Shield Energy Corridor",
+      "Education Unions Prepare for Strike Votes"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "archive/2026-09-29/toronto-06Z.webp",
+     "headlines": [
+      "US bans Canadian alcohol and dairy imports",
+      "Trump labels Canada worst trading partner",
+      "Severe storm floods Toronto streets",
+      "Mayoral candidates address trade war impact"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "archive/2026-09-29/toronto-12Z.webp",
+     "headlines": [
+      "US Ban on Canadian Imports Takes Effect",
+      "LNG Canada Phase 2 Expansion Approved",
+      "Toronto Hit by Destructive Storm",
+      "New Affordable Housing Residence Opens"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "archive/2026-09-29/toronto-18Z.webp",
+     "headlines": [
+      "US Ban Blocks Canadian Imports",
+      "Affordable Child Care Extended",
+      "New Affordable Housing Opens",
+      "Canada GDP Stalls in July"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moscow",
+   "name": "Moscow",
+   "style": "Constructivism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "archive/2026-09-29/moscow-00Z.webp",
+     "headlines": [
+      "Moscow refinery hit by drone barrage",
+      "Restaurant bomb attack labeled terrorist act",
+      "Russia approves record 2027 military budget",
+      "Putin orders army expansion amid war"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "archive/2026-09-29/moscow-06Z.webp",
+     "headlines": [
+      "Largest drone attack hits Moscow",
+      "Kremlin seizes Western retail assets",
+      "Putin orders massive army expansion",
+      "Drone strike hits Kyiv Academy"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "archive/2026-09-29/moscow-12Z.webp",
+     "headlines": [
+      "Ukraine launches massive drone attack on Moscow",
+      "Kremlin seizes control of Western retail assets",
+      "Putin orders army expansion to 1.55 million",
+      "Russia threatens nuclear response over Kaliningrad"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "archive/2026-09-29/moscow-18Z.webp",
+     "headlines": [
+      "Moscow Seizes Western Corporate Assets",
+      "Ukrainian Drones Strike Moscow Overnight",
+      "Military Aircraft Crashes in Amur Region",
+      "Estonia Blames Russia for Arson",
+      "Record Military Budget Cuts Welfare"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "style": "muralism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "archive/2026-09-29/mexico-city-00Z.webp",
+     "headlines": [
+      "Hurricane Polo threatens Baja coast",
+      "Migrant caravan moves toward US border",
+      "Mayor's aides killed in shooting",
+      "Immersive Mictlán exhibit returns"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "archive/2026-09-29/mexico-city-06Z.webp",
+     "headlines": [
+      "Hurricane Polo threatens Mexico's Pacific coast",
+      "Mexico seeks early US trade deal",
+      "Families demand Ayotzinapa military records",
+      "Aztec codex displayed in Mexico City"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "archive/2026-09-29/mexico-city-12Z.webp",
+     "headlines": [
+      "Hurricane Polo strikes Baja California",
+      "Tropical Storm Rachel tracks Pacific",
+      "Migrant caravan crosses into Mexico",
+      "Aztec Codex exhibited in Mexico City"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "archive/2026-09-29/mexico-city-18Z.webp",
+     "headlines": [
+      "Hurricane Polo strikes Baja California",
+      "Cartel violence flares after El Mencho killing",
+      "Political violence shocks Mexico City",
+      "Migrants stranded by US border closure"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "style": "Mughal miniature",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-09-28T18:00:00Z",
+     "window_end": "2026-09-29T00:00:00Z",
+     "image": "archive/2026-09-29/mumbai-00Z.webp",
+     "headlines": [
+      "Mumbai-Ahmedabad Bullet Train Launches 2027",
+      "CJP Protest Ban Sparks Tension",
+      "Asian Games Medal Surge",
+      "Russian Oil Supply Tightens"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-09-29T00:00:00Z",
+     "window_end": "2026-09-29T06:00:00Z",
+     "image": "archive/2026-09-29/mumbai-06Z.webp",
+     "headlines": [
+      "Mumbai Aqua Line Metro Fully Operational",
+      "Bullet Train Safety Systems Announced",
+      "India Climbs Asian Games Medal Tally",
+      "India-US Trade Talks Advance"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-09-29T06:00:00Z",
+     "window_end": "2026-09-29T12:00:00Z",
+     "image": "archive/2026-09-29/mumbai-12Z.webp",
+     "headlines": [
+      "Sun Pharma raises billion-dollar debt",
+      "Antilia blast suspect granted bail",
+      "RBI liquidity drain impacts rates",
+      "India secures UN Security Council support"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-09-29T12:00:00Z",
+     "window_end": "2026-09-29T18:00:00Z",
+     "image": "archive/2026-09-29/mumbai-18Z.webp",
+     "headlines": [
+      "Mumbai airport chaos from strong winds",
+      "Thunderstorms cause severe waterlogging in Mumbai",
+      "India rejects Turkey's Kashmir comments",
+      "India wins Asian Games athletics gold"
+     ]
+    }
+   ]
+  }
+ ]
+}

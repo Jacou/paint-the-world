@@ -1,0 +1,1795 @@
+{
+ "updated": "2026-10-09T12:00:00Z",
+ "next_update": "2026-10-09T18:00:00Z",
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "timezone": "Europe/London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "2026-10-09T12Z",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "images/london/2026-10-09T12Z.webp",
+     "topics": [
+      {
+       "headline": "Labour secures London seat victory",
+       "summary": "Andy Burnham's Labour Party won a parliamentary by-election in London, defeating the Green Party challenge.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-gb/news/world/uk-pm-burnhams-labour-fends-off-left-wing-greens-in-london/ar-AA2dSkBj"
+      },
+      {
+       "headline": "London faces extreme heat challenges",
+       "summary": "A climate action event in central London was cancelled due to extreme heat, highlighting the city's adaptation struggles.",
+       "scope": "local",
+       "source_url": "https://www.aljazeera.com/news/2026/6/26/feeling-the-heat-the-uk-is-cooking"
+      },
+      {
+       "headline": "UK gas stocks face winter crisis",
+       "summary": "Britain risks running out of gas stockpiles by the end of winter, raising fears of an energy crisis.",
+       "scope": "national",
+       "source_url": "https://www.yahoo.com/news/world/articles/britain-risks-running-gas-end-070000543.html"
+      },
+      {
+       "headline": "New sanctions target Russian oil",
+       "summary": "The UK government issued 38 new sanctions targeting Russian oil companies and their shadow fleet of tankers.",
+       "scope": "national",
+       "source_url": "https://www.upi.com/Top_News/World-News/2026/10/09/Russia-sanctions/7691791527011/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-09T06Z",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "images/london/2026-10-09T06Z.webp",
+     "topics": [
+      {
+       "headline": "UK Downgrades Jerusalem Consulate",
+       "summary": "Britain has downgraded its east Jerusalem consulate to a mission following a dispute over settlement trade bans.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/britains-east-jerusalem-consulate-is-downgraded-to-a-mission-in-dispute-with-israel/ar-AA2dQ1qD"
+      },
+      {
+       "headline": "BBC and Channel 4 Merge Talks",
+       "summary": "Preliminary discussions are underway between the BBC, Channel 4, and the government regarding a broader operational tie-up to cut costs.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/exclusive-britains-bbc-channel-4-discuss-broader-tie-up-to-cut-costs-sources-say/ar-AA2dP2hw?ocid=BingNewsVerp"
+      },
+      {
+       "headline": "London Climate Week Heat Cancellation",
+       "summary": "A central London climate change meeting was cancelled due to extreme heat, highlighting the city's struggle to adapt to rising temperatures.",
+       "scope": "local",
+       "source_url": "https://www.aljazeera.com/news/2026/6/26/feeling-the-heat-the-uk-is-cooking"
+      },
+      {
+       "headline": "London Marathon Named Easiest",
+       "summary": "The London Marathon has been ranked the UK's easiest marathon due to its flat course and generous cut-off times.",
+       "scope": "local",
+       "source_url": "https://uk.news.yahoo.com/london-marathon-named-uks-easiest-150019657.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T12Z",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "images/london/2026-10-07T12Z.webp",
+     "topics": [
+      {
+       "headline": "Last coal plant closes, ending era",
+       "summary": "Britain’s final coal-fired power station shuts down, marking the end of 142 years of coal generation.",
+       "scope": "national",
+       "source_url": "https://www.latimes.com/world-nation/story/2024-09-30/britains-last-coal-fired-electricity-plant-is-closing-it-ends-142-years-of-coal-power-in-the-uk"
+      },
+      {
+       "headline": "UK faces Israeli consulate closure threat",
+       "summary": "The UK is preparing to expel Israeli diplomats if Israel closes its consulate in East Jerusalem over sanctions.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/britain-likely-to-expel-israeli-diplomats-if-jerusalem-consulate-closes-sources-say/ar-AA2dFik5"
+      },
+      {
+       "headline": "London climate meeting cancelled by heat",
+       "summary": "A central London climate action event was cancelled due to extreme heat, highlighting adaptation challenges.",
+       "scope": "local",
+       "source_url": "https://www.aljazeera.com/news/2026/6/26/feeling-the-heat-the-uk-is-cooking"
+      },
+      {
+       "headline": "Sadiq Khan wins historic third term",
+       "summary": "Sadiq Khan secured a landmark third consecutive term as Mayor of London, defeating his rival by a large margin.",
+       "scope": "local",
+       "source_url": "https://www.bbc.co.uk/news/uk-england-london-68952475"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T00Z",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "images/london/2026-10-07T00Z.webp",
+     "topics": [
+      {
+       "headline": "UK Weighs Chinese EV Tariffs",
+       "summary": "The UK government is reconsidering its stance on Chinese electric vehicles, potentially imposing tariffs after previously ruling them out.",
+       "scope": "national",
+       "source_url": "https://fordauthority.com/2026/10/uk-weighs-chinese-ev-tariff-two-years-after-saying-it-wouldnt/"
+      },
+      {
+       "headline": "Last Coal Plant Closes",
+       "summary": "Britain’s final coal-fired power station is shutting down, marking the end of 142 years of coal-generated electricity in the country.",
+       "scope": "national",
+       "source_url": "https://www.latimes.com/world-nation/story/2024-09-30/britains-last-coal-fired-electricity-plant-is-closing-it-ends-142-years-of-coal-power-in-the-uk"
+      },
+      {
+       "headline": "London Climate Week Cancelled",
+       "summary": "A central London climate action event focused on extreme heat was cancelled due to the very conditions it sought to address.",
+       "scope": "local",
+       "source_url": "https://www.aljazeera.com/news/2026/6/26/feeling-the-heat-the-uk-is-cooking"
+      },
+      {
+       "headline": "Gulf Investors Target East London",
+       "summary": "Investors from the Gulf region are shifting their focus from luxury central London homes to property development in East London and the suburbs.",
+       "scope": "local",
+       "source_url": "https://www.arabianbusiness.com/life/gulf-investors-shift-from-trophy-london-homes-to-uk-property-development"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "timezone": "America/New_York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "2026-10-09T12Z",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "images/new-york/2026-10-09T12Z.webp",
+     "topics": [
+      {
+       "headline": "Mamdani demands ICE leave after shooting",
+       "summary": "Mayor Zohran Mamdani called President Trump to demand the end of ICE operations in New York after an agent shot a man near a child in the Bronx.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/get-ice-out-mamdani-calls-trump-after-feds-shoot-man-near-child-in-nyc/ar-AA2dRqZH"
+      },
+      {
+       "headline": "State declares measles disaster emergency",
+       "summary": "Governor Kathy Hochul declared a statewide disaster emergency and sought federal assistance as measles cases spread across New York.",
+       "scope": "local",
+       "source_url": "https://www.cbc.ca/news/world/new-york-state-measles-disaster-emergency-9.7370148"
+      },
+      {
+       "headline": "US budget deficit hits two trillion",
+       "summary": "The US federal budget deficit is projected to reach $2 trillion due to rising entitlement costs and interest payments on national debt.",
+       "scope": "national",
+       "source_url": "https://www.foxbusiness.com/video/6406527908112"
+      },
+      {
+       "headline": "Green card freeze at tech firms",
+       "summary": "The Trump administration suspended green card processing for major tech companies like Microsoft and is probing universities over visa fraud.",
+       "scope": "national",
+       "source_url": "https://time.com/article/2026/10/09/us-immigration-visa-fraud-green-card-h1b-j1-microsoft-adobe/"
+      },
+      {
+       "headline": "Hurricane Isaias targets Gulf Coast",
+       "summary": "Hurricane Isaias intensified to a Category 2 storm and is forecast to make landfall in the Florida Panhandle, Alabama, and Mississippi.",
+       "scope": "national",
+       "source_url": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-09T06Z",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "images/new-york/2026-10-09T06Z.webp",
+     "topics": [
+      {
+       "headline": "Mayor Demands ICE Withdrawal After Shooting",
+       "summary": "New York Mayor Zohran Mamdani called President Trump to demand the immediate removal of federal immigration enforcement from the city following an incident where an ICE officer shot a man near a child in the Bronx.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/get-ice-out-mamdani-calls-trump-after-feds-shoot-man-near-child-in-nyc/ar-AA2dRqZH"
+      },
+      {
+       "headline": "State Declares Measles Disaster Emergency",
+       "summary": "Governor Kathy Hochul declared a statewide disaster emergency and sought federal assistance to combat a measles outbreak that has resulted in 124 cases across New York.",
+       "scope": "local",
+       "source_url": "https://www.cbc.ca/news/world/new-york-state-measles-disaster-emergency-9.7370148"
+      },
+      {
+       "headline": "Pentagon Announces Livestreamed Firing Squad Execution",
+       "summary": "The Pentagon announced that the Army will livestream the firing squad execution of Nidal Hasan, the Fort Hood shooter, in an unprecedented move scheduled for December.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/us-to-livestream-army-firing-squad-execution-of-fort-hood-shooter-pentagon-says/ar-AA2dRjwH"
+      },
+      {
+       "headline": "Army Reports Systemic Failures in Collision",
+       "summary": "The U.S. Army identified numerous systemic breakdowns that contributed to the midair collision near Washington, D.C., and recommended safety fixes to prevent future tragedies.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/army-finds-systemic-failures-behind-dc-midair-collision-and-calls-for-safety-fixes/ar-AA2dQ1Jf"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T12Z",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "images/new-york/2026-10-07T12Z.webp",
+     "topics": [
+      {
+       "headline": "Measles Emergency Declared Amid Rising Cases",
+       "summary": "Governor Hochul declared a state disaster emergency as New York reported 108 measles cases, expanding vaccine administration authority.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/measles-surge-triggers-state-of-emergency-in-new-york/ar-AA2dGbOU"
+      },
+      {
+       "headline": "Love Canal Residents Demand Waste Testing",
+       "summary": "Residents in the Love Canal area are urging state officials to test for leaks after digging a backyard pool exposed waste-like material.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/new-york-love-canal-residents-say-backyard-pool-dig-exposed-waste-push-state-to-test-for-leaks/ar-AA2dJa1z"
+      },
+      {
+       "headline": "Judge Blocks Migrant Fines for Non-Compliance",
+       "summary": "A federal judge ruled that the Trump administration's imposition of civil penalties on migrants for ignoring deportation orders was unlawful.",
+       "scope": "national",
+       "source_url": "https://www.foxnews.com/politics/federal-judge-blocks-trump-administration-fines-up-1-8m-migrants"
+      },
+      {
+       "headline": "City Bans AI-Driven Grocery Pricing Algorithms",
+       "summary": "A major US city enacted a first-in-the-nation law prohibiting the use of demographic and social media data to determine grocery prices.",
+       "scope": "national",
+       "source_url": "https://www.mlive.com/business/2026/10/major-us-city-bans-ai-grocery-pricing-in-first-in-the-nation-law.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T00Z",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "images/new-york/2026-10-07T00Z.webp",
+     "topics": [
+      {
+       "headline": "New York Declares Measles Emergency",
+       "summary": "Governor Hochul declared a state disaster emergency to expand vaccine access as New York reported 108 measles cases this year.",
+       "scope": "local",
+       "source_url": "https://gizmodo.com/new-york-declares-disaster-emergency-as-us-measles-cases-hit-a-35-year-high-2000822193"
+      },
+      {
+       "headline": "Autumn Festivals Celebrate Rural Heritage",
+       "summary": "New York state residents are encouraged to visit unique fall festivals featuring pumpkin displays and ski jumping across rural communities.",
+       "scope": "local",
+       "source_url": "https://www.aol.com/articles/unique-fall-festivals-visit-across-090417000.html"
+      },
+      {
+       "headline": "US Measles Cases Hit Decade High",
+       "summary": "The United States is experiencing its highest measles case count in 35 years, with nearly 3,900 total cases reported in 2026.",
+       "scope": "national",
+       "source_url": "https://www.latintimes.com/inside-worst-us-measles-year-since-1991-why-new-york-just-declared-statewide-emergency-599874"
+      },
+      {
+       "headline": "Woman Conscious After Execution Failure",
+       "summary": "Christa Pike, who survived a botched execution in Tennessee, is now conscious and speaking, a development her attorneys described as medically unprecedented.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/news/christa-pike-is-awake-and-speaking-after-failed-execution-lawyer-says/ar-AA2dHdRR"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "timezone": "America/Los_Angeles",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "2026-10-09T12Z",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "images/san-francisco/2026-10-09T12Z.webp",
+     "topics": [
+      {
+       "headline": "Bay Area data center moratoriums approved",
+       "summary": "San Francisco and Oakland have approved 45-day pauses on new data center development in response to community pushback.",
+       "scope": "local",
+       "source_url": "https://www.cbsnews.com/sanfrancisco/news/san-francisco-oakland-data-center-backlash-45-day-moratoriums-approved/"
+      },
+      {
+       "headline": "Uniqlo returns with downtown street festival",
+       "summary": "Uniqlo is celebrating its return to downtown San Francisco with a free street festival featuring local DJs, artists, and food vendors.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/uniqlo-returns-to-downtown-san-francisco-with-a-free-street-festival/ar-AA2dQ2hI"
+      },
+      {
+       "headline": "US budget deficit projected at $2 trillion",
+       "summary": "The US federal budget deficit is projected to reach $2 trillion as spending on entitlement programs and debt interest climbs.",
+       "scope": "national",
+       "source_url": "https://www.foxbusiness.com/video/6406527908112"
+      },
+      {
+       "headline": "Green card freeze hits tech firms",
+       "summary": "The Trump administration has suspended green card processing for major tech companies and is probing student exchange visas.",
+       "scope": "national",
+       "source_url": "https://time.com/article/2026/10/09/us-immigration-visa-fraud-green-card-h1b-j1-microsoft-adobe/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-09T06Z",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "images/san-francisco/2026-10-09T06Z.webp",
+     "topics": [
+      {
+       "headline": "Fleet Week Air Shows Return",
+       "summary": "The Blue Angels headline three days of aerial performances during San Francisco's annual Fleet Week celebration.",
+       "scope": "local",
+       "source_url": "https://www.nbcbayarea.com/news/local/san-francisco-fleet-week-2026-air-show-schedule/4155202/"
+      },
+      {
+       "headline": "Uniqlo Launches Downtown Street Festival",
+       "summary": "Uniqlo returns to downtown San Francisco with a grand opening featuring local DJs, artists, and family activities.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/uniqlo-returns-to-downtown-san-francisco-with-a-free-street-festival/ar-AA2dQ2hI"
+      },
+      {
+       "headline": "Tech Giants Lead AI Push",
+       "summary": "Bay Area technology companies are leading a $2.4 billion White House initiative for AI and science development.",
+       "scope": "national",
+       "source_url": "https://www.bizjournals.com/sanfrancisco/news/2026/10/08/genesis-mission-ai-nvidia-openai-anthropic.html"
+      },
+      {
+       "headline": "Army to Livestream Execution",
+       "summary": "The Pentagon announced it will livestream the upcoming firing squad execution of the Fort Hood shooter.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/us-to-livestream-army-firing-squad-execution-of-fort-hood-shooter-pentagon-says/ar-AA2dRjwH"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T12Z",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "images/san-francisco/2026-10-07T12Z.webp",
+     "topics": [
+      {
+       "headline": "Fleet Week Geofences Manage Robotaxi Traffic",
+       "summary": "San Francisco has implemented strict geofencing for robotaxis to prevent gridlock during the upcoming Fleet Week festivities.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/san-francisco-sets-strict-robotaxi-geofences-to-prevent-fleet-week-gridlock/ar-AA2dHZUc"
+      },
+      {
+       "headline": "Mill Valley Premieres San Francisco Drama",
+       "summary": "The Sundance award-winning film 'Josephine,' set in San Francisco, made its Bay Area premiere at the Mill Valley Film Festival.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/san-francisco-set-josephine-makes-bay-area-premiere-at-mill-valley-film-festival/vi-AA2dIyDi"
+      },
+      {
+       "headline": "Judge Blocks Migrant Fines",
+       "summary": "A federal judge ruled that the Trump administration's imposition of civil penalties on migrants for ignoring deportation orders was unlawful.",
+       "scope": "national",
+       "source_url": "https://www.foxnews.com/politics/federal-judge-blocks-trump-administration-fines-up-1-8m-migrants"
+      },
+      {
+       "headline": "Skydance Completes Warner Acquisition",
+       "summary": "Paramount Skydance has finalized its $81 billion acquisition of Warner Bros. Discovery, merging two major Hollywood studios.",
+       "scope": "national",
+       "source_url": "https://apnews.com/article/skydance-paramount-warner-bros-merger-hollywood-ellison-6176e95ed00d9c2e3afe7bbe7e9935bb"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T00Z",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "images/san-francisco/2026-10-07T00Z.webp",
+     "topics": [
+      {
+       "headline": "Blue Angels Grace Fleet Week Skies",
+       "summary": "Six US Navy Blue Angels jets performed a choreographed flight over the East Bay as a highlight of San Francisco's Fleet Week.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/blue-angels-arrive-in-the-bay-area-for-san-francisco-fleet-week/ar-AA2dCpw1"
+      },
+      {
+       "headline": "New Leader for American Conservatory Theater",
+       "summary": "Elizabeth Williamson, a Bay Area native currently at Geva Theatre, was named the new leader of the American Conservatory Theater.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/entertainment/general/american-conservatory-theater-has-a-new-leader-with-bay-area-roots/ar-AA2dHaqa"
+      },
+      {
+       "headline": "Newsom Monitors Threats to CA Cities",
+       "summary": "Governor Gavin Newsom directed state officials to monitor potential threats after President Trump suggested Iran could target Los Angeles and San Diego.",
+       "scope": "national",
+       "source_url": "https://www.huffpost.com/entry/newsom-says-state-to-monitor-threats-after-trump-says-iran-can-hit-democrat-led-cities_n_6ac53870e4b0613dcc56abaf"
+      },
+      {
+       "headline": "Christa Pike Conscious After Failed Execution",
+       "summary": "Christa Pike, who survived a botched execution in Tennessee, is conscious and talking, a development her attorneys described as medically unprecedented.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/news/christa-pike-is-awake-and-speaking-after-failed-execution-lawyer-says/ar-AA2dHdRR"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "timezone": "Asia/Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "2026-10-09T12Z",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "images/tokyo/2026-10-09T12Z.webp",
+     "topics": [
+      {
+       "headline": "Japan declares cyber space emergency",
+       "summary": "The Japanese government has issued a warning for increased vigilance against a surge in cyberattacks, with the financial regulator advising banks to tighten identity verification.",
+       "scope": "national",
+       "source_url": "https://www.ft.com/content/2d4333d1-8119-44a4-a5a5-2ee9ef2544fa?syn-25a6b1a6=1"
+      },
+      {
+       "headline": "PM vows careful yen scrutiny",
+       "summary": "Prime Minister Sanae Takaichi stated that the government will continue to closely monitor exchange rates and inflation to respond appropriately to economic developments.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/japan-pm-vows-to-keep-watching-yen-inflation-moves-carefully/ar-AA2dRM54"
+      },
+      {
+       "headline": "Tokyo named world's best city",
+       "summary": "Tokyo was named the world's best large city in a leading U.S. travel magazine's reader survey, prompting joy among local officials.",
+       "scope": "local",
+       "source_url": "https://www.asahi.com/ajw/articles/15457416"
+      },
+      {
+       "headline": "Hitachinokuni trail opens to public",
+       "summary": "The 350km Hitachinokuni Long Trail in northern Ibaraki Prefecture, the country's longest loop trail, has fully opened after seven years of development.",
+       "scope": "national",
+       "source_url": "https://www.timeout.com/news/japan-new-walking-trail-hitachinokuni-long-trail-100926"
+      },
+      {
+       "headline": "Calls for female emperor rise",
+       "summary": "A recent poll indicates that 72% of the Japanese public favor allowing Princess Aiko to take the throne, challenging traditional succession laws.",
+       "scope": "national",
+       "source_url": "https://www.theguardian.com/world/2026/oct/09/japan-royal-throne-lineage-princess-aiko-forbidden-ascending"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-09T06Z",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "images/tokyo/2026-10-09T06Z.webp",
+     "topics": [
+      {
+       "headline": "Japan-China tensions escalate over Taiwan remarks",
+       "summary": "Japan and China have intensified their diplomatic dispute at the UN and through travel advisories following Prime Minister Takaichi's comments on Taiwan.",
+       "scope": "national",
+       "source_url": "https://www.aljazeera.com/news/2025/12/5/japan-china-continue-to-spar-at-un-over-takaichi-remarks-on-taiwan"
+      },
+      {
+       "headline": "AI lowers barrier for cyberattacks in Japan",
+       "summary": "Japanese and South Korean companies are strengthening defenses against a wave of cyberattacks that experts say are becoming cheaper and more accessible due to AI.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/south-korea-japan-buffeted-by-hacks-as-ai-lowers-bar-for-cybercriminals/ar-AA2dRW5D"
+      },
+      {
+       "headline": "Tokyo named world's best big city",
+       "summary": "Tokyo was named the best large city in the world by a leading U.S. travel magazine, delighting local officials.",
+       "scope": "local",
+       "source_url": "https://www.asahi.com/ajw/articles/15457416"
+      },
+      {
+       "headline": "Kusama exhibition opens in Tokyo",
+       "summary": "A new international exhibition featuring giant balloon sculptures and silver spheres by the late Yayoi Kusama has opened in Tokyo.",
+       "scope": "local",
+       "source_url": "https://nationalpost.com/video/856cdc74-c31f-11f1-b9b3-1a5c77c6cb95/japans-polka-dot-queen-works-on-display-at-tokyo-exhibition"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T12Z",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "images/tokyo/2026-10-07T12Z.webp",
+     "topics": [
+      {
+       "headline": "Tokyo Mayor Koike Wins Third Term",
+       "summary": "Yuriko Koike secured a third term as Tokyo Governor with over 2.9 million votes in the recent election.",
+       "scope": "local",
+       "source_url": "https://www.bbc.com/japanese/articles/c720zkxp900o"
+      },
+      {
+       "headline": "Tokyo Named World's Best Big City",
+       "summary": "Tokyo was voted the world's best large city in a leading U.S. travel magazine's reader survey.",
+       "scope": "local",
+       "source_url": "https://www.asahi.com/ajw/articles/15457416"
+      },
+      {
+       "headline": "PM Takaichi Warns on Bond Yields",
+       "summary": "Prime Minister Sanae Takaichi stated the government may review spending plans if government bond yields move sharply.",
+       "scope": "national",
+       "source_url": "https://finance.yahoo.com/economy/policy/articles/takaichi-says-japan-may-review-063447010.html"
+      },
+      {
+       "headline": "Beer Makers Raided Over Cartel Suspicion",
+       "summary": "Shares of major Japanese beer makers fell after the Fair Trade Commission raided four firms on suspicion of collusion.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/money/economy/shares-of-japan-beer-makers-fall-after-raids-over-cartel-suspicion/ar-AA2dJ9US"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T00Z",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "images/tokyo/2026-10-07T00Z.webp",
+     "topics": [
+      {
+       "headline": "Okinawa Murder Sparks National Outrage",
+       "summary": "The arrest of a U.S. Marine on suspicion of killing an Okinawan woman has intensified tensions over the presence of American military bases in Japan.",
+       "scope": "national",
+       "source_url": "https://www.cbc.ca/radio/asithappens/outrage-japan-u-s-marine-okinawan-woman-murder-9.7371553"
+      },
+      {
+       "headline": "Japan Leads Asian Oil Reserve Push",
+       "summary": "Japan aims to finalize action plans with Asian partners to bolster regional crude oil reserves at an AZEC ministerial meeting in the Philippines.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/japan-aims-to-agree-on-action-plans-with-asian-partners-to-bolster-oil-reserves/ar-AA2dDHj8"
+      },
+      {
+       "headline": "New Rules for Foreign Founders",
+       "summary": "Japan has introduced new language and filing requirements for foreign founders and property owners as inward investment stocks reach record highs.",
+       "scope": "local",
+       "source_url": "https://www.usatoday.com/press-release/story/47223/japan-adds-two-filing-rules-for-foreign-founders-and-property-owners-as-inward-investment-stock-hits-a-record/"
+      },
+      {
+       "headline": "Janu Hotel Opens in Azabudai",
+       "summary": "Aman's more affordable sister brand, Janu, has opened its first hotel in Tokyo's Azabudai Hills neighborhood, offering pared-back luxury to a younger clientele.",
+       "scope": "local",
+       "source_url": "https://www.aol.com/articles/aman-more-affordable-sister-brand-081506000.html"
+      },
+      {
+       "headline": "Hayabusa2 Engineers Find Clever Fix",
+       "summary": "Engineers have devised a solution to restore propulsion for Japan's Hayabusa2 asteroid probe, which lost its last working engine during its extended mission.",
+       "scope": "national",
+       "source_url": "https://gizmodo.com/japans-asteroid-probe-lost-its-last-working-engine-engineers-have-a-clever-fix-2000822183"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "timezone": "Asia/Shanghai",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "2026-10-09T12Z",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "images/beijing/2026-10-09T12Z.webp",
+     "topics": [
+      {
+       "headline": "Beijing Launches Elderly Care Innovation Lab",
+       "summary": "Beijing established a new laboratory to integrate research and industry for elderly care services.",
+       "scope": "local",
+       "source_url": "https://www.msn.cn/zh-cn/health/%E9%80%9A%E7%94%A8/%E5%8C%97%E4%BA%AC%E6%8F%AD%E7%89%8C%E6%88%90%E7%AB%8B%E4%B8%BA%E8%80%81%E5%AE%9E%E9%AA%8C%E5%AE%A4-%E6%8E%A8%E5%8A%A8%E6%9B%B4%E5%A4%9A%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C-%E4%BA%A7%E5%93%81%E6%9B%B4%E5%BF%AB%E6%9B%B4%E7%B2%BE%E5%87%86%E6%9B%B4%E6%8C%81%E7%BB%AD%E8%90%BD%E5%9C%B0%E5%BA%94%E7%94%A8/ar-AA2dSdOJ"
+      },
+      {
+       "headline": "Tesla China Sales Accelerate in September",
+       "summary": "Sales of Tesla electric vehicles manufactured in China rose by 5% year-on-year in September.",
+       "scope": "local",
+       "source_url": "https://money.usnews.com/investing/news/articles/2026-10-09/teslas-china-made-ev-sales-quicken-in-september"
+      },
+      {
+       "headline": "China Allocates 550 Billion Yuan for Growth",
+       "summary": "China released 550 billion yuan in unused debt quotas to support local infrastructure and finances.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/money/economy/china-ramps-up-fiscal-push-to-meet-growth-target/ar-AA2dTebW"
+      },
+      {
+       "headline": "China Issues AI Safety Guidelines",
+       "summary": "New national guidelines mandate monitoring and emergency response systems to ensure AI safety and controllability.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/china-issues-guidelines-for-new-productive-forces-including-ai/ar-AA2dTEkS"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-09T06Z",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "images/beijing/2026-10-09T06Z.webp",
+     "topics": [
+      {
+       "headline": "EU Trade Envoy Challenges Beijing Deficit",
+       "summary": "European Union officials are in Beijing warning that the trade deficit is unsustainable, prompting a sharp diplomatic response from Chinese authorities.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/in-beijing-eu-trade-envoy-says-deficit-with-china-unsustainable/ar-AA2dMr52?ocid=BingNewsVerp"
+      },
+      {
+       "headline": "Djokovic Wins Seventh Beijing Open Title",
+       "summary": "Novak Djokovic claimed his seventh China Open title after his opponent retired, delighting the crowd with Mandarin remarks.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-in/news/other/novak-djokovic-speaks-mandarin-to-wow-beijing-crowd-after-china-open-triumph/ar-AA2dGd0E?ocid=BingNewsVerp"
+      },
+      {
+       "headline": "Gig Workers Gain New Labor Protections",
+       "summary": "China has announced draft rules mandating that online platforms sign formal employment contracts with millions of gig workers.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/money/general/china-draft-rules-offer-millions-of-gig-workers-employment-contracts/ar-AA2dPgd1?ocid=BingNewsVerp"
+      },
+      {
+       "headline": "China Nominates Official to Lead WHO",
+       "summary": "China has nominated health official Song Li to lead the World Health Organization, marking a significant diplomatic move.",
+       "scope": "national",
+       "source_url": "https://www.thestar.com/news/world/asia/china-nominates-health-official-to-lead-who/article_aa380677-de4b-58ee-a4cd-be5ca227464e.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T12Z",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "images/beijing/2026-10-07T12Z.webp",
+     "topics": [
+      {
+       "headline": "EU Trade Chief Arrives in Beijing",
+       "summary": "EU Trade Commissioner Maroš Šefčovič has arrived in Beijing for high-stakes negotiations aimed at curbing Chinese imports and preventing a trade war.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-nz/news/other/eu-trade-chief-heads-to-beijing-under-pressure-to-deliver-on-chinese-imports/ar-AA2dJt5o"
+      },
+      {
+       "headline": "Beijing Opens Anti-Dumping Probe on EU",
+       "summary": "China has initiated an anti-dumping investigation into specific chemical imports from the European Union just days before the start of bilateral trade talks.",
+       "scope": "local",
+       "source_url": "https://eutoday.net/china-opens-new-eu-anti-dumping-probe/"
+      },
+      {
+       "headline": "Beijing Central Axis Heritage Renewal",
+       "summary": "The Beijing Central Axis, recently inscribed on the World Heritage List, is undergoing revitalization efforts that blend historical preservation with modern urban life.",
+       "scope": "local",
+       "source_url": "https://news.cctv.com/2024/09/17/ARTIZmzoJwdTbqG7YAxynYsz240917.shtml"
+      },
+      {
+       "headline": "China Plans WHO Leadership Bid",
+       "summary": "Beijing is preparing to nominate a candidate for the leadership of the World Health Organization, seeking to expand its global influence following US withdrawal.",
+       "scope": "national",
+       "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/china-plans-late-entry-into-who-leadership-race-sources-say-2026-10-06/"
+      },
+      {
+       "headline": "Record Renewable Energy Installation Pace",
+       "summary": "China is installing wind and solar capacity equivalent to five large nuclear power stations per week, significantly outpacing global renewable energy targets.",
+       "scope": "national",
+       "source_url": "https://www.abc.net.au/news/science/2024-07-16/chinas-renewable-energy-boom-breaks-records/104086640"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T00Z",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "images/beijing/2026-10-07T00Z.webp",
+     "topics": [
+      {
+       "headline": "Djokovic claims seventh Beijing title",
+       "summary": "Novak Djokovic won his seventh China Open title after Alex de Minaur retired injured in the final.",
+       "scope": "local",
+       "source_url": "https://www.olympics.com/en/news/china-open-2026-djokovic-wins-seventh-beijing-title"
+      },
+      {
+       "headline": "Beijing Central Axis heritage thrives",
+       "summary": "The Beijing Central Axis, a new World Heritage site, is revitalizing cultural life through active preservation and transmission.",
+       "scope": "local",
+       "source_url": "https://news.cctv.com/2024/09/17/ARTIZmzoJwdTbqG7YAxynYsz240917.shtml"
+      },
+      {
+       "headline": "China targets WHO leadership",
+       "summary": "China plans to field a late candidate for the World Health Organization leadership to expand its global influence.",
+       "scope": "national",
+       "source_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/china-plans-late-entry-into-who-leadership-race-sources-say-2026-10-06/"
+      },
+      {
+       "headline": "US-China nuclear talks emerge",
+       "summary": "The United States and China are discussing reciprocal nuclear site visits to address concerns about a new arms race.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/us-and-china-discussing-reciprocal-nuclear-site-visits-amid-concerns-about-a-new-arms-race/ar-AA2dEZEF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "timezone": "Europe/Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "2026-10-09T12Z",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "images/paris/2026-10-09T12Z.webp",
+     "topics": [
+      {
+       "headline": "Student Protests Close Paris Schools",
+       "summary": "Over 150 high schools in Paris were closed as police dispersed thousands of students protesting poor educational conditions.",
+       "scope": "local",
+       "source_url": "https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools"
+      },
+      {
+       "headline": "Notre-Dame Rings Olympic Bells",
+       "summary": "Notre-Dame de Paris is set to resonate again with the iconic Olympic bell, marking a cultural revival for the cathedral.",
+       "scope": "local",
+       "source_url": "https://lactualite.com/actualites/notre-dame-de-paris-accueille-la-cloche-emblematique-des-jeux-olympiques-de-paris/"
+      },
+      {
+       "headline": "Government Collapse Sparks PM Search",
+       "summary": "France's government collapsed in a confidence vote, forcing President Macron to seek a fourth prime minister amid political instability.",
+       "scope": "national",
+       "source_url": "https://www.cbc.ca/news/world/france-confidence-vote-government-collapse-1.7628123"
+      },
+      {
+       "headline": "Borrowing Costs Alarm Candidates",
+       "summary": "Skyrocketing borrowing costs are raising concerns about economic stability, with presidential candidates facing criticism for their lack of alarm.",
+       "scope": "national",
+       "source_url": "https://www.ft.com/content/67a64928-6278-4a83-8f9c-4ec9dcf26039?syn-25a6b1a6=1"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-09T06Z",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "images/paris/2026-10-09T06Z.webp",
+     "topics": [
+      {
+       "headline": "Student Protests Close Paris Schools",
+       "summary": "Over 150 high schools in Paris were closed as police dispersed thousands of students protesting poor educational conditions.",
+       "scope": "local",
+       "source_url": "https://www.nytimes.com/live/2026/10/08/world/france-protests-students-schools"
+      },
+      {
+       "headline": "Céline Dion Recovers After Stage Fall",
+       "summary": "Céline Dion slipped and fell during her Paris residency but recovered on stage to reassure fans and continue her performance.",
+       "scope": "local",
+       "source_url": "https://www.yahoo.com/entertainment/music/articles/c-line-dion-falls-onstage-214404367.html"
+      },
+      {
+       "headline": "France Faces Rising Borrowing Costs",
+       "summary": "France's borrowing costs are skyrocketing, raising concerns among political candidates ahead of the presidential elections.",
+       "scope": "national",
+       "source_url": "https://www.ft.com/content/67a64928-6278-4a83-8f9c-4ec9dcf26039?syn-25a6b1a6=1"
+      },
+      {
+       "headline": "Government Pledges Action on Schools",
+       "summary": "The French prime minister addressed the nation, promising to hear students' demands for better school resources despite ongoing unrest.",
+       "scope": "national",
+       "source_url": "https://www.npr.org/2026/10/08/nx-s1-5993896/as-protests-continue-across-france-the-countrys-prime-minister-addresses-the-nation"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T12Z",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "images/paris/2026-10-07T12Z.webp",
+     "topics": [
+      {
+       "headline": "Student protests reach peak intensity",
+       "summary": "Hundreds of thousands of students and parents demonstrated across France, causing the closure of nearly 900 schools and resulting in over 6,000 detentions.",
+       "scope": "local",
+       "source_url": "https://www.nbcnews.com/world/europe/france-protests-riot-police-students-tear-gas-fires-education-rcna601878"
+      },
+      {
+       "headline": "Government suspends stun grenade use",
+       "summary": "The interior minister announced a suspension of stun grenade usage by police at student demonstrations ahead of a prime ministerial address.",
+       "scope": "local",
+       "source_url": "https://www.rfi.fr/en/international-news/20261007-france-suspends-stun-grenade-use-at-student-protests-ahead-of-pm-speech"
+      },
+      {
+       "headline": "Bank of France rejects ECB aid",
+       "summary": "The head of the Bank of France stated that while the economic situation is serious, the country does not currently require assistance from the European Central Bank.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/france-does-not-need-ecb-help-at-present-says-bank-of-france-head/ar-AA2dINRA"
+      },
+      {
+       "headline": "Fiscal pressure limits spending room",
+       "summary": "Financial market pressure and bond selloffs indicate that France has no room for fiscal mistakes ahead of the next presidential election.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/bond-selloff-leaves-france-no-room-for-fiscal-mistakes-citadel-executive-says/ar-AA2dI9eO"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T00Z",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "images/paris/2026-10-07T00Z.webp",
+     "topics": [
+      {
+       "headline": "Nationwide student protests demand school funding",
+       "summary": "Over 250,000 people joined nationwide demonstrations and school blockades to demand increased investment in France's education system.",
+       "scope": "local",
+       "source_url": "https://www.theguardian.com/world/2026/oct/06/protests-schools-blockade-streets-france"
+      },
+      {
+       "headline": "Notre-Dame welcomes Olympic bell installation",
+       "summary": "The Notre-Dame de Paris cathedral is preparing to install the emblematic bell of the Paris Olympics, marking a step in its restoration.",
+       "scope": "local",
+       "source_url": "https://lactualite.com/actualites/notre-dame-de-paris-accueille-la-cloche-emblematique-des-jeux-olympiques-de-paris/"
+      },
+      {
+       "headline": "Government collapses amid fiscal turmoil",
+       "summary": "France's government was toppled in a confidence vote, forcing the President to appoint a fourth prime minister amidst rising debt costs.",
+       "scope": "national",
+       "source_url": "https://www.cbc.ca/news/world/france-confidence-vote-government-collapse-1.7628123"
+      },
+      {
+       "headline": "Trump misattributes French protests to migration",
+       "summary": "President Donald Trump incorrectly blamed the French student protests on mass migration and Islam, ignoring the actual demands for education reform.",
+       "scope": "national",
+       "source_url": "https://www.politico.com/news/2026/10/06/trump-french-schools-protest-01109067"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "timezone": "Europe/Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "2026-10-09T12Z",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "images/berlin/2026-10-09T12Z.webp",
+     "topics": [
+      {
+       "headline": "Berlin Coalition Talks Begin After Antisemitism Deal",
+       "summary": "The Left Party, Greens, and SPD have agreed on measures to address antisemitic incidents, clearing the path for exploratory talks to form Berlin's next state government.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/germanys-left-to-start-berlin-coalition-talks-after-antisemitism-deal/ar-AA2dQaaN"
+      },
+      {
+       "headline": "UK PM Visits Berlin for Security Talks",
+       "summary": "UK Prime Minister Andy Burnham is in Berlin to launch a new bilateral treaty and discuss European security threats with Chancellor Friedrich Merz.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-in/news/other/germany-news-uks-burnham-merz-to-talk-security-in-berlin/ar-AA2dNR8A"
+      },
+      {
+       "headline": "Former Spy Chief Arrested in Espionage Scandal",
+       "summary": "August Hanning, former head of Germany's foreign intelligence service, has been arrested on charges of passing state secrets to a foreign intelligence agency.",
+       "scope": "national",
+       "source_url": "https://www.telegraph.co.uk/world-news/2026/10/09/germany-ex-spy-chief-suspect-passed-secrets-chinese-general/"
+      },
+      {
+       "headline": "Germany Doubles Growth Outlook on Manufacturing Rally",
+       "summary": "Germany more than doubled its 2026 economic growth forecast following a stronger-than-expected first half driven by robust exports and government spending.",
+       "scope": "national",
+       "source_url": "https://www.bloomberg.com/news/articles/2026-10-08/germany-doubles-2026-growth-outlook-as-manufacturing-rallies"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-09T06Z",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "images/berlin/2026-10-09T06Z.webp",
+     "topics": [
+      {
+       "headline": "Berlin Coalition Talks Begin After Deal",
+       "summary": "The Left Party agreed to antisemitism measures, clearing the way for exploratory coalition talks to form Berlin's next state government.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/germanys-left-to-start-berlin-coalition-talks-after-antisemitism-deal/ar-AA2dQaaN"
+      },
+      {
+       "headline": "Berlin Withdraws Olympic Bid",
+       "summary": "Berlin's mayor announced the city's withdrawal from the race to host the 2036 Olympic and Paralympic Games.",
+       "scope": "local",
+       "source_url": "https://sports.yahoo.com/articles/berlin-quits-leave-munich-cologne-083341273.html"
+      },
+      {
+       "headline": "Germany Raises Economic Growth Forecasts",
+       "summary": "The German government more than doubled its 2026 growth outlook, citing robust exports and a surge in government spending.",
+       "scope": "national",
+       "source_url": "https://www.bloomberg.com/news/articles/2026-10-08/germany-doubles-2026-growth-outlook-as-manufacturing-rallies"
+      },
+      {
+       "headline": "UK PM Visits Berlin for Treaty",
+       "summary": "UK Prime Minister Andy Burnham visited Berlin to launch a new bilateral treaty and discuss defense cooperation with Chancellor Merz.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-in/news/other/germany-news-uks-burnham-merz-to-talk-security-in-berlin/ar-AA2dNR8A"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T12Z",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "images/berlin/2026-10-07T12Z.webp",
+     "topics": [
+      {
+       "headline": "Berlin Left poised to win city election",
+       "summary": "The Left party is leading in Berlin's state election, with its candidate Elif Eralp declaring her intent to become the city's governing mayor.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/de-de/nachrichten/other/berlin-news-eralp-ich-will-berlins-regierende-b%C3%BCrgermeisterin-werden/ar-AA2cCLUm"
+      },
+      {
+       "headline": "Former spy chief arrested for treason",
+       "summary": "August Hanning, former head of German foreign intelligence, was arrested on suspicion of obtaining state secrets for a foreign service.",
+       "scope": "national",
+       "source_url": "https://www.newsobserver.com/news/nation-world/world/article317507127.html"
+      },
+      {
+       "headline": "AfD wins historic Saxony-Anhalt election",
+       "summary": "The far-right Alternative for Germany secured a breakthrough victory in Saxony-Anhalt, positioning itself to lead a state parliament for the first time since 1945.",
+       "scope": "national",
+       "source_url": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war"
+      },
+      {
+       "headline": "German factory production hits 18-month high",
+       "summary": "German industrial production rose to its highest level in a year and a half in August, signaling a fragile but positive economic recovery.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/money/economy/germany-factory-production-at-highest-level-for-18-months/ar-AA2dJvq4"
+      },
+      {
+       "headline": "Kenyan community thrives in Berlin markets",
+       "summary": "Kenyan residents in Berlin are successfully cultivating and selling fresh local vegetables like managu and sukuma wiki, strengthening community ties.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-xl/news/other/germany-based-kenyan-woman-excited-after-finding-kenyan-man-selling-managu-sukuma-wiki-in-berlin/ar-AA2drsDw"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T00Z",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "images/berlin/2026-10-07T00Z.webp",
+     "topics": [
+      {
+       "headline": "AfD Wins Historic State Election Victory",
+       "summary": "The Alternative for Germany secured a landmark victory in Saxony-Anhalt, positioning itself to lead a state parliament for the first time since 1945.",
+       "scope": "national",
+       "source_url": "https://www.nytimes.com/2026/10/06/world/europe/germany-afd-saxony-anhalt.html"
+      },
+      {
+       "headline": "Former Spy Chief Arrested For Espionage",
+       "summary": "August Hanning, the former head of Germany's foreign intelligence service, was arrested on allegations of spying for a foreign power.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/germany-arrests-a-former-foreign-intelligence-chief-on-spying-allegations/ar-AA2dF7jh"
+      },
+      {
+       "headline": "Berlin Peace Statue Faces Diplomatic Pressure",
+       "summary": "Local officials face intense diplomatic pressure from Japan regarding the removal of the statue commemorating World War II comfort women.",
+       "scope": "local",
+       "source_url": "https://thediplomat.com/2024/10/berlins-peace-statue-faces-removal-amid-japanese-pressure/"
+      },
+      {
+       "headline": "Left Party Leads Berlin Election Polls",
+       "summary": "The Left party is currently leading in polls for the Berlin state election, with its candidate expressing ambition to become the city's mayor.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/de-de/nachrichten/other/berlin-news-eralp-ich-will-berlins-regierende-b%C3%BCrgermeisterin-werden/ar-AA2cCLUm"
+      },
+      {
+       "headline": "First CRISPR Gene Therapy Patient Treated",
+       "summary": "A patient in Germany received the first approved CRISPR-based gene therapy treatment, marking a significant milestone in medical innovation.",
+       "scope": "national",
+       "source_url": "https://www.handelsblatt.com/themen/deutschland"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "timezone": "Europe/Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "2026-10-09T12Z",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "images/rome/2026-10-09T12Z.webp",
+     "topics": [
+      {
+       "headline": "Meloni Wins Final Electoral Reform Approval",
+       "summary": "Italy's parliament has granted final approval to Prime Minister Meloni's contested overhaul of the electoral system, a move criticized by opposition parties as a power grab.",
+       "scope": "national",
+       "source_url": "https://www.washingtonpost.com/world/2026/10/08/italy-meloni-electoral-reform-elections-stability-opposition-constitution/f6207910-c30d-11f1-8170-681419af1cc9_story.html"
+      },
+      {
+       "headline": "Industrial Output Dips Unexpectedly in August",
+       "summary": "Italian industrial production fell 1.3% in August, a sharper decline than forecasted that casts a shadow over the eurozone's third-largest economy.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/money/economy/italy-industrial-output-dives-unexpectedly-in-august/ar-AA2dSJPn"
+      },
+      {
+       "headline": "Rome’s New Stadium Formally Approved",
+       "summary": "The technical and economic feasibility project for AS Roma’s new stadium at Pietralata has been formally signed off by the services conference.",
+       "scope": "local",
+       "source_url": "https://ca.sports.yahoo.com/news/roma-stadium-approved-certainty-built-123500509.html"
+      },
+      {
+       "headline": "Refugee’s Journey to University Directorship",
+       "summary": "Darius von Güttner Sporzyński, who arrived at Italy’s Latina Refugee Camp nearly 50 years ago, has risen to become a university director in Rome.",
+       "scope": "local",
+       "source_url": "https://www.osservatoreromano.va/en/news/2026-10/ing-010/from-italy-s-largest-refugee-camp-to-a-university-director-in-ro.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-09T06Z",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "images/rome/2026-10-09T06Z.webp",
+     "topics": [
+      {
+       "headline": "Meloni's Electoral Reform Passes Final Vote",
+       "summary": "Italy's parliament gave final approval to a contested overhaul of the electoral system, which critics argue favors the ruling coalition ahead of next year's general election.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/world/italys-meloni-forces-through-new-electoral-law-ahead-of-vote-opposition-cries-foul/ar-AA2dPdJh"
+      },
+      {
+       "headline": "Intesa Sanpaolo Takeover of MPS Gains Momentum",
+       "summary": "The bid by Intesa Sanpaolo to acquire Monte dei Paschi di Siena was strengthened after MPS shareholders voted against defensive measures, paving the way for a major banking merger.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/bid-by-italys-intesa-bank-to-take-over-mps-gets-boost/ar-AA2dPSdj"
+      },
+      {
+       "headline": "Rome Stadium Project Approved for Construction",
+       "summary": "AS Roma announced that the long-awaited stadium project in the Pietralata area has received final approval to begin building, marking a new phase for the club.",
+       "scope": "local",
+       "source_url": "https://ca.sports.yahoo.com/news/roma-welcome-phase-stadium-project-173500492.html"
+      },
+      {
+       "headline": "Foreign Ministry Cyberattack Contained",
+       "summary": "Italy's Foreign Ministry confirmed that a cyberattack on its website was successfully mitigated by security systems without interrupting diplomatic services.",
+       "scope": "national",
+       "source_url": "https://ijr.com/discover/italy-s-foreign-ministry-mitigates-website-attack-without-disruption-15d7f608"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T12Z",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "images/rome/2026-10-07T12Z.webp",
+     "topics": [
+      {
+       "headline": "Roma stadium approval at Pietralata",
+       "summary": "The Conferenza dei Servizi formally approved the technical and economic feasibility of AS Roma's new stadium at Pietralata.",
+       "scope": "local",
+       "source_url": "https://sports.yahoo.com/articles/roma-stadium-approved-certainty-built-123500509.html"
+      },
+      {
+       "headline": "Belgium beats Italy in Rome",
+       "summary": "Belgium defeated Italy 1-0 at the Stadio Olimpico, marking their first competitive win against the Azzurri in decades.",
+       "scope": "local",
+       "source_url": "https://sports.yahoo.com/articles/italy-booed-rome-belgium-lead-194500226.html"
+      },
+      {
+       "headline": "Regulator probes AI music startup",
+       "summary": "Italy's antitrust authority opened an investigation into AI music startup Suno over potentially unfair terms of service.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/italy-regulator-probes-ai-music-startup-suno-over-terms-of-service/ar-AA2dHMdx"
+      },
+      {
+       "headline": "Tax evasion figures rise",
+       "summary": "New government data reveals that Italy's tax evasion is higher than previously estimated and continues to rise.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/italys-tax-evasion-above-expected-and-rising-treasury-report-shows/ar-AA2dFv2T"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T00Z",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "images/rome/2026-10-07T00Z.webp",
+     "topics": [
+      {
+       "headline": "Rome's New Stadium Formally Approved",
+       "summary": "The Conferenza dei Servizi has officially signed off on the technical and economic feasibility of AS Roma's new stadium at Pietralata.",
+       "scope": "local",
+       "source_url": "https://sports.yahoo.com/articles/roma-stadium-approved-certainty-built-123500509.html"
+      },
+      {
+       "headline": "Record Pet Travel to Rome",
+       "summary": "Starwood Pet Travel reported record demand, highlighted by a family moving eleven pets to Italy via a nonstop flight to Rome.",
+       "scope": "local",
+       "source_url": "https://finance.yahoo.com/small-business/articles/nonstop-rome-starwood-pet-travel-133700697.html"
+      },
+      {
+       "headline": "Electoral Reform Passes Initial Vote",
+       "summary": "Italy's lower house approved part of Prime Minister Meloni's contested electoral reform, clearing a key hurdle for next year's election.",
+       "scope": "national",
+       "source_url": "https://www.usnews.com/news/world/articles/2026-10-06/italys-electoral-reform-clears-initial-confidence-vote-hurdle"
+      },
+      {
+       "headline": "Tax Evasion Figures Rise",
+       "summary": "New government data reveals that Italy's tax evasion is higher than previously estimated and continues to trend upward.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/italys-tax-evasion-above-expected-and-rising-treasury-report-shows/ar-AA2dFv2T"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "timezone": "America/Toronto",
+   "style": "Group of Seven",
+   "paintings": [
+    {
+     "slot": "2026-10-09T12Z",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "images/toronto/2026-10-09T12Z.webp",
+     "topics": [
+      {
+       "headline": "Anne Carson Wins Nobel Prize",
+       "summary": "Canadian poet Anne Carson has been awarded the 2026 Nobel Prize in Literature for her bold and inventive work.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-in/news/other/canadian-writer-anne-carson-wins-2026-nobel-prize-in-literature/ar-AA2dOSA9"
+      },
+      {
+       "headline": "Toronto Skyline Global Icon",
+       "summary": "A new report ranks Toronto's iconic skyline among the most photographed cityscapes in the world.",
+       "scope": "local",
+       "source_url": "https://www.blogto.com/city/2022/01/toronto-skyline-one-of-worlds-most-photographed/"
+      },
+      {
+       "headline": "Aviation Education Program Launches",
+       "summary": "Toronto Pearson and Ingenium have launched a first-of-its-kind aviation education program connecting over 1,600 students with real-world careers.",
+       "scope": "local",
+       "source_url": "https://www.cantechletter.com/newswires/toronto-pearson-and-ingeniums-canada-aviation-and-space-museum-launch-first-of-its-kind-airport-based-aviation-education-program/"
+      },
+      {
+       "headline": "US-Canada Trade Stance Firm",
+       "summary": "US Trade Representative Jamieson Greer stated that the United States is maintaining its position in trade negotiations with Canada.",
+       "scope": "national",
+       "source_url": "https://finance.yahoo.com/economy/policy/articles/canada-reach-trade-deal-apos-143744666.html"
+      },
+      {
+       "headline": "Heat Pump Rebate Launched",
+       "summary": "The federal government launched a $2 billion National Heat Pump Rebate Program to support household energy efficiency.",
+       "scope": "national",
+       "source_url": "https://cleanenergycanada.org/response-new-major-heat-pump-initiative-connects-households-to-canadas-electricity-ambitions/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-09T06Z",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "images/toronto/2026-10-09T06Z.webp",
+     "topics": [
+      {
+       "headline": "Toronto Skyline Ranked World's Most Photographed",
+       "summary": "A new report ranks Toronto's iconic skyline among the most popular in the world for photography.",
+       "scope": "local",
+       "source_url": "https://www.blogto.com/city/2022/01/toronto-skyline-one-of-worlds-most-photographed/"
+      },
+      {
+       "headline": "Province Begins Removing Toronto Bike Lanes",
+       "summary": "Ontario officials have started removing bike lanes on Bloor Street West in Etobicoke following a court victory.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-ca/news/other/ontario-will-officially-begin-removing-toronto-bike-lanes-on-tuesday/ar-AA2dPZIe"
+      },
+      {
+       "headline": "Anne Carson Wins Nobel Prize",
+       "summary": "Canadian poet Anne Carson has been awarded the 2026 Nobel Prize in Literature for her inventive work.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-in/news/other/canadian-writer-anne-carson-wins-2026-nobel-prize-in-literature/ar-AA2dOSA9"
+      },
+      {
+       "headline": "Canada Launches Heat Pump Rebate Program",
+       "summary": "The federal government launched a $2 billion National Heat Pump Rebate Program to support household energy efficiency.",
+       "scope": "national",
+       "source_url": "https://cleanenergycanada.org/response-new-major-heat-pump-initiative-connects-households-to-canadas-electricity-ambitions/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T12Z",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "images/toronto/2026-10-07T12Z.webp",
+     "topics": [
+      {
+       "headline": "Toronto Aviation Education Program Launches",
+       "summary": "Toronto Pearson and Ingenium launched a first-of-its-kind airport-based program connecting 1,600 students with aviation careers.",
+       "scope": "local",
+       "source_url": "https://www.cantechletter.com/newswires/toronto-pearson-and-ingeniums-canada-aviation-and-space-museum-launch-first-of-its-kind-airport-based-aviation-education-program/"
+      },
+      {
+       "headline": "New Downtown Transmission Line Approved",
+       "summary": "Ontario and Toronto approved a third underwater electricity transmission line to support new homes and economic growth in downtown.",
+       "scope": "local",
+       "source_url": "https://news.ontario.ca/en/release/1005992/ontario_and_toronto_building_historic_third_transmission_line_to_power_downtown_toronto"
+      },
+      {
+       "headline": "USMNT Caps Perfect Window vs Canada",
+       "summary": "The United States men's national team defeated Canada 1-0, completing a perfect four-win international friendly window.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/justin-ellis-scores-again-as-young-us-squad-beats-canada-1-0/ar-AA2dIkOs"
+      },
+      {
+       "headline": "Trump Tariffs Target Canadian Jobs",
+       "summary": "New U.S. trade retaliation measures are heating up the trade war, with potential impacts on Canadian industries and jobs.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ca/news/other/you-tariff-my-steel-i-ll-ban-your-booze-inside-trump-s-heavy-handed-retaliation-targeting-canadian-jobs/ar-AA2dHF5Y"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T00Z",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "images/toronto/2026-10-07T00Z.webp",
+     "topics": [
+      {
+       "headline": "Toronto Ranks World's Best City",
+       "summary": "Toronto has been ranked as the best city in Canada and among the world's top destinations in a new global consultancy report.",
+       "scope": "local",
+       "source_url": "https://www.blogto.com/city/2025/11/toronto-outranked-canada-worlds-best-cities/"
+      },
+      {
+       "headline": "Aviation Education Program Launches at Pearson",
+       "summary": "Toronto Pearson and Ingenium have launched a unique aviation education program connecting over 1,600 students with the airport's workforce ecosystem.",
+       "scope": "local",
+       "source_url": "https://finance.yahoo.com/small-business/articles/toronto-pearson-ingeniums-canada-aviation-110000877.html"
+      },
+      {
+       "headline": "Record Trade Surplus Before Tariffs",
+       "summary": "Canada's trade surplus with the U.S. widened to a record C$11.2 billion in August as exporters rushed shipments ahead of new tariffs.",
+       "scope": "national",
+       "source_url": "https://finance.yahoo.com/economy/policy/articles/canada-u-exports-surge-8-173454503.html"
+      },
+      {
+       "headline": "Emera and Canadian Utilities Merge",
+       "summary": "Emera and Canadian Utilities have agreed to a C$72 billion merger that will create a major Canadian-headquartered energy infrastructure company.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ca/money/topstories/emera-to-buy-canadian-utilities-to-create-72b-energy-powerhouse/ar-AA2dGtx8"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moscow",
+   "name": "Moscow",
+   "timezone": "Europe/Moscow",
+   "style": "Constructivism",
+   "paintings": [
+    {
+     "slot": "2026-10-09T12Z",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "images/moscow/2026-10-09T12Z.webp",
+     "topics": [
+      {
+       "headline": "Ukraine Reclaims Eastern Territory",
+       "summary": "Ukrainian forces are successfully pushing back Russian troops in the east using drones and unmanned ground vehicles.",
+       "scope": "national",
+       "source_url": "https://www.npr.org/2026/10/09/nx-s1-5996414/bracing-for-hurricane-isaias-ukraine-pushes-russia-back-iran-war-impact-on-midterms"
+      },
+      {
+       "headline": "Yandex Data Centers Hit By Drones",
+       "summary": "Ukrainian drone strikes have disabled multiple modules at Yandex data centers in the Kaluga and Ryazan regions.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ca/news/other/russias-yandex-says-second-data-centre-hit-by-drone-attack/ar-AA2dSzxI"
+      },
+      {
+       "headline": "Siberian Lab Death Investigation Concludes",
+       "summary": "Russian authorities announced that health checks on contacts of a deceased Siberian lab worker are complete, stating no emergency exists.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ca/health/general/russia-says-checks-following-siberian-plague-lab-death-are-complete/ar-AA2dQV00?ocid=BingNewsVerp"
+      },
+      {
+       "headline": "Britain Targets Russian Oil Fleet",
+       "summary": "Britain issued 38 new sanctions targeting Russian oil companies and its shadow fleet of tankers.",
+       "scope": "national",
+       "source_url": "https://www.upi.com/Top_News/World-News/2026/10/09/Russia-sanctions/7691791527011/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-09T06Z",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "images/moscow/2026-10-09T06Z.webp",
+     "topics": [
+      {
+       "headline": "Yandex Data Center Drone Strike",
+       "summary": "Ukrainian drones struck a Yandex data center in Ryazan, leaving the company uncertain if equipment can be restored.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/technology/tech-companies/russia-s-yandex-says-it-is-unclear-whether-data-centre-can-be-restored-after-drone-strike/ar-AA2dQuV8"
+      },
+      {
+       "headline": "Siberian Plague Secrecy Concerns",
+       "summary": "Residents and officials express distrust over the lack of transparency regarding a suspected plague case in Siberia.",
+       "scope": "local",
+       "source_url": "https://www.dailynews.com/2026/10/08/russia-secrecy-plague-soviet-era/"
+      },
+      {
+       "headline": "Ukraine Conflict Stalemate Acknowledged",
+       "summary": "The Kremlin agreed with US Secretary of State Rubio that the conflict in Ukraine has reached a stalemate.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-gb/news/other/kremlin-russia-agrees-with-rubio-that-ukraine-conflict-is-in-a-stalemate/ar-AA2dQn5l"
+      },
+      {
+       "headline": "NATO Baltic Drone Wall Prep",
+       "summary": "NATO is shifting to active defense in the Baltic region, building a 'drone wall' in response to Russian aggression.",
+       "scope": "national",
+       "source_url": "https://www.cbc.ca/news/world/how-nato-is-prepping-in-the-baltic-skies-for-a-possible-confrontation-with-russia-9.7371091"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T12Z",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "images/moscow/2026-10-07T12Z.webp",
+     "topics": [
+      {
+       "headline": "Moscow Hit by Record Drone Assault",
+       "summary": "Ukrainian drones executed the war's largest attack on Moscow, striking the Volodarsk fuel depot and killing two people.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-us/news/other/moscow-targeted-by-largest-ever-drone-attack-on-final-day-of-russias-parliamentary-election/ar-AA2cBDY1"
+      },
+      {
+       "headline": "United Russia Wins Wartime Election",
+       "summary": "Russia's ruling party secured a decisive victory in parliamentary elections held concurrently with the massive drone strikes.",
+       "scope": "local",
+       "source_url": "https://www.cnbc.com/2026/09/20/russias-ruling-pro-putin-party-on-track-to-win-wartime-election.html"
+      },
+      {
+       "headline": "Siberian Plague Lab Death Inquiry",
+       "summary": "The US and WHO are pressing Russia for transparency following the death of a laboratory technician in Irkutsk, raising global health concerns.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/checklists-masks-and-mystery-what-we-know-about-the-plague-scare-in-russia/ar-AA2dGX8b"
+      },
+      {
+       "headline": "NATO Warns of Hybrid Escalation",
+       "summary": "Former US officials warn that Russian hybrid warfare tactics in Europe are entering a dangerous new phase that current deterrence fails to address.",
+       "scope": "national",
+       "source_url": "https://www.foreignaffairs.com/russia/russias-hybrid-war-has-entered-dangerous-new-phase"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T00Z",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "images/moscow/2026-10-07T00Z.webp",
+     "topics": [
+      {
+       "headline": "Moscow region hit by massive drone swarm",
+       "summary": "Russia reported intercepting nearly 900 Ukrainian drones overnight, with strikes hitting the largest oil depot in the Moscow region and killing two people.",
+       "scope": "local",
+       "source_url": "https://wtop.com/world/2026/10/russia-says-nearly-900-ukrainian-drones-downed-and-moscow-region-fuel-depot-reportedly-burns/"
+      },
+      {
+       "headline": "Fuel depot fire disrupts Moscow energy",
+       "summary": "The Volodarskaya linear production and dispatch station, the largest oil facility in the Moscow region, caught fire following the nighttime drone attack.",
+       "scope": "local",
+       "source_url": "https://news.liga.net/en/war/news/russias-largest-oil-depot-in-the-moscow-region-is-on-fire-following-a-drone-attack-video"
+      },
+      {
+       "headline": "Global scrutiny on Siberian plague death",
+       "summary": "International officials and the WHO are demanding transparency from Russia regarding the death of a laboratory worker at a Siberian anti-plague institute, raising concerns about bioweapons.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/rubio-urges-russia-to-share-more-information-on-plague-lab-worker-s-death/ar-AA2dFQ1Z"
+      },
+      {
+       "headline": "Tanker crew rescued after Black Sea attack",
+       "summary": "Emergency crews rescued the 23-member crew of a Liberian-flagged tanker that was set ablaze off Russia's Black Sea coast after an unmanned vessel attack.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/russia-says-tanker-crew-rescued-in-black-sea-after-attack-set-ship-ablaze/ar-AA2dHfRc"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "timezone": "America/Mexico_City",
+   "style": "muralism",
+   "paintings": [
+    {
+     "slot": "2026-10-09T12Z",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "images/mexico-city/2026-10-09T12Z.webp",
+     "topics": [
+      {
+       "headline": "Hurricane Simon intensifies off Pacific coast",
+       "summary": "Hurricane Simon is rapidly strengthening into a Category 4 storm as it approaches Mexico's Pacific coast, prompting severe weather warnings.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/hurricane-simon-quickly-intensifies-off-mexico-s-pacific-coast/ar-AA2dSKA1"
+      },
+      {
+       "headline": "Prison riot kills ten in Sinaloa",
+       "summary": "A violent disturbance during visiting hours at a prison in Sinaloa state resulted in ten deaths and sixteen injuries.",
+       "scope": "national",
+       "source_url": "https://apnews.com/video/prison-riot-in-mexicos-violence-plagued-sinaloa-state-kills-10-and-leaves-16-injured-056cd27fb00a4041a24c549ff5fd523c"
+      },
+      {
+       "headline": "Monarch butterfly completes perilous migration",
+       "summary": "The first of twenty-nine tagged monarch butterflies from the Canadian Prairies has successfully reached Mexico to overwinter.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ca/news/other/1st-of-29-monarch-butterflies-tagged-on-canadian-prairies-reaches-mexico-after-perilous-migration/ar-AA2dR3pN"
+      },
+      {
+       "headline": "Azteca stadium grants World Cup access",
+       "summary": "Box and suite holders at Mexico City's Azteca stadium have secured free access to 2026 World Cup matches through a new agreement.",
+       "scope": "local",
+       "source_url": "https://www.reuters.com/sports/soccer/mexico-citys-azteca-stadium-box-holders-get-automatic-world-cup-access-2025-09-11/"
+      },
+      {
+       "headline": "IndyCar race cancelled for 2026",
+       "summary": "The NTT IndyCar Series will not hold a race in Mexico City in 2026, despite local advocacy for the event.",
+       "scope": "local",
+       "source_url": "https://www.forbes.com/sites/brucemartin/2025/09/13/why-indycar-will-not-be-racing-in-mexico-city-in-2026/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-09T06Z",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "images/mexico-city/2026-10-09T06Z.webp",
+     "topics": [
+      {
+       "headline": "Hurricane Simon Threatens Pacific Coast",
+       "summary": "Tropical Storm Simon is forecast to rapidly intensify into a major hurricane before striking Mexico's Pacific coast this weekend.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/storm-simon-seen-exploding-into-major-hurricane-before-hitting-mexico/ar-AA2dQZHM"
+      },
+      {
+       "headline": "Prison Riot Kills Ten in Sinaloa",
+       "summary": "A deadly riot during family visiting hours at the El Castillo Penitentiary in Mazatlan left ten people dead and sixteen injured.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/prison-riot-in-mexico-s-violence-plagued-sinaloa-state-kills-10-and-leaves-16-injured/ar-AA2dRnbv"
+      },
+      {
+       "headline": "Monarch Butterfly Migration Milestone Reached",
+       "summary": "The first of 29 endangered monarch butterflies tagged in Canada has successfully reached Mexico to overwinter after a perilous five-week journey.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-ca/news/other/1st-of-29-monarch-butterflies-tagged-on-canadian-prairies-reaches-mexico-after-perilous-migration/ar-AA2dR3pN"
+      },
+      {
+       "headline": "NFL Game Returns to Mexico City",
+       "summary": "The NFL returns to Mexico City for a match between the San Francisco 49ers and the X, continuing a century-old tradition of American football in the capital.",
+       "scope": "local",
+       "source_url": "https://www.nfl.com/international/games/mexicocity/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T12Z",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "images/mexico-city/2026-10-07T12Z.webp",
+     "topics": [
+      {
+       "headline": "Mexico City Mayor's Aides Killed",
+       "summary": "Two aides to the Mexico City mayor were killed in a point-blank shooting, shocking the city and raising fears of rising political violence.",
+       "scope": "local",
+       "source_url": "https://www.reuters.com/world/americas/brazen-murders-threaten-mexico-citys-image-pocket-safety-violent-nation-2025-06-05/"
+      },
+      {
+       "headline": "Plaza de Toros Becomes Music Venue",
+       "summary": "The Monumental Plaza de Toros La México is transitioning into a major music venue, hosting high-profile international concerts following legal reforms.",
+       "scope": "local",
+       "source_url": "https://www.billboard.com/music/latin/plaza-de-toros-la-mexico-venue-2025-1236145329/"
+      },
+      {
+       "headline": "Mexico Loses to Chile 2-0",
+       "summary": "Chile defeated Mexico 2-0 in Los Angeles, extending the winless streak of new national team coach Rafael Márquez.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/sports/soccer/chile-strikes-twice-after-halftime-to-beat-mexico-2-0-woes-deepen-for-m%C3%A1rquez/ar-AA2dIZtY"
+      },
+      {
+       "headline": "Trump Claims Sheinbaum Objected to Name",
+       "summary": "President Trump claimed Mexican President Sheinbaum called him to object to his renaming of the Gulf of Mexico to the Gulf of America.",
+       "scope": "national",
+       "source_url": "https://www.primetimer.com/news/she-said-no-no-president-trump-claims-mexican-president-called-him-when-he-renamed-gulf-of-mexico-the-gulf-of-america"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T00Z",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "images/mexico-city/2026-10-07T00Z.webp",
+     "topics": [
+      {
+       "headline": "Cartel Leader Arrested in Jalisco",
+       "summary": "Mexican authorities arrested Iván Cazarín Molina, a high-ranking CJNG figure linked to fuel smuggling and violence, in Zapopan.",
+       "scope": "national",
+       "source_url": "https://www.yahoo.com/news/world/articles/alleged-jalisco-cartel-leader-accused-175747746.html"
+      },
+      {
+       "headline": "Gasoline Imports Squeeze Private Suppliers",
+       "summary": "Private gasoline imports in Mexico fell by 34% in August as state pricing structures left little room for competition.",
+       "scope": "national",
+       "source_url": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2887355-mexico-price-cap-squeezes-private-gasoline-imports"
+      },
+      {
+       "headline": "Chinese Automakers Eye Mexico Plants",
+       "summary": "A top Nissan executive predicts Chinese brands will begin building vehicles in Mexico near the US border within three years.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/nissan-warns-that-chinese-automakers-will-build-cars-in-mexico/ar-AA2dHfZ0"
+      },
+      {
+       "headline": "Record US Exports from Mexico",
+       "summary": "Mexico’s exports to the United States reached a record $60.6 billion in August, widening the trade gap with the US.",
+       "scope": "national",
+       "source_url": "https://www.riotimesonline.com/mexico-exports-us-record-august-2026/"
+      },
+      {
+       "headline": "Condesa Neighborhood Cultural Evolution",
+       "summary": "Mexico City continues to draw record international arrivals, with neighborhoods like Condesa evolving while maintaining their distinct cultural identity.",
+       "scope": "local",
+       "source_url": "https://www.forbes.com/sites/lmowery/2025/12/02/best-of-mexico-city-where-to-eat-and-sleep-on-your-next-trip/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "timezone": "Asia/Kolkata",
+   "style": "Mughal miniature",
+   "paintings": [
+    {
+     "slot": "2026-10-09T12Z",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "images/mumbai/2026-10-09T12Z.webp",
+     "topics": [
+      {
+       "headline": "Voter roll deletions spark nationwide protests",
+       "summary": "Millions of names removed from electoral rolls have triggered widespread demonstrations across India, with opposition parties alleging the move unfairly benefits the ruling party.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/explainer-why-india-s-tens-of-millions-of-voter-deletions-have-led-to-widespread-protests/ar-AA2dSWaU"
+      },
+      {
+       "headline": "Musk challenges Ambani over Starlink delays",
+       "summary": "Elon Musk publicly questioned Mukesh Ambani's influence, claiming that oligarchs are blocking the launch of Starlink in India despite regulatory compliance.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/elon-musk-questions-ambani-s-influence-as-starlink-india-launch-stalls/ar-AA2dNHr0"
+      },
+      {
+       "headline": "Heatwave warning issued for Mumbai region",
+       "summary": "The India Meteorological Department issued a heatwave warning for the Mumbai Metropolitan Region and Konkan belt, effective until October 12.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-in/weather/meteorology/imd-issues-heatwave-warning-for-mumbai-region-konkan-till-oct-12/ar-AA2dThKO"
+      },
+      {
+       "headline": "CyberTech Asia to debut in Mumbai",
+       "summary": "Maharashtra Chief Minister Devendra Fadnavis announced that the global cybersecurity platform CyberTech Asia will hold its India debut in Mumbai in March 2027.",
+       "scope": "local",
+       "source_url": "https://theprint.in/india/cybertech-asia-to-make-india-debut-in-mumbai-in-march-2027-fadnavis/3066391/"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-09T06Z",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "images/mumbai/2026-10-09T06Z.webp",
+     "topics": [
+      {
+       "headline": "Mumbai Heatwave Alert Issued",
+       "summary": "The India Meteorological Department issued a yellow alert for Mumbai and surrounding areas due to a significant temperature surge reaching 38°C.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-in/news/other/mumbais-first-heatwave-alert-thane-swelters-solapur-hottest-in-october-since-2002-will-schools-shut/ar-AA2dRCAX?ocid=BingNewsVerp"
+      },
+      {
+       "headline": "Residents Push Back on Data Centers",
+       "summary": "Mumbai residents are protesting the rapid expansion of artificial intelligence data centers, citing environmental and infrastructure concerns amidst the national AI boom.",
+       "scope": "local",
+       "source_url": "https://www.miamiherald.com/news/business/article317550245.html"
+      },
+      {
+       "headline": "Sensex Slumps to 32-Month Low",
+       "summary": "India's benchmark Sensex index fell to its lowest level in 32 months driven by surging oil prices and a weaker rupee.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/money/economy/india-s-sensex-slumps-to-32-month-low-on-oil-surge-foreign-exodus/ar-AA2dOBgG"
+      },
+      {
+       "headline": "Musk Criticizes India Over Starlink",
+       "summary": "Elon Musk publicly accused Indian authorities of blocking Starlink's entry, while the government rejected the claims of bias in the approval process.",
+       "scope": "national",
+       "source_url": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T12Z",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "images/mumbai/2026-10-07T12Z.webp",
+     "topics": [
+      {
+       "headline": "RBI hikes rates amid inflation",
+       "summary": "India's central bank raised interest rates for the first time since 2023 as inflation exceeded targets for three consecutive months.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/money/markets/india-s-central-bank-hikes-rates-for-the-first-time-since-2023-as-inflation-creeps-up/ar-AA2dIlN6"
+      },
+      {
+       "headline": "Sabarmati bullet train bridge completed",
+       "summary": "The 480-meter high bridge over the Sabarmati River, a key milestone for the Ahmedabad-Mumbai bullet train project, has been completed.",
+       "scope": "national",
+       "source_url": "https://hindi.moneycontrol.com/india/sabarmati-bullet-train-bridge-12-story-high-and-480-meter-long-bridge-completed-crosses-a-key-milestone-article-2445846.html"
+      },
+      {
+       "headline": "Mumbai airport entry debate sparks",
+       "summary": "A viral post by a Mumbai CEO criticizing immigration and customs hassles at Indian airports has ignited a national debate on travel efficiency.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-in/news/other/mumbai-ceo-flags-india-airport-entry-hassles-sparks-debate-over-immigration-customs-forget-tourism/ar-AA2dIEmu"
+      },
+      {
+       "headline": "Taal Tribe celebrates classical arts",
+       "summary": "The sixth edition of The Taal Tribe festival is showcasing the immersive baithak tradition of Indian classical music in Mumbai.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-in/news/other/celebrate-indias-classical-arts-at-this-immersive-celebration-in-mumbai/ar-AA2dIlt0"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-07T00Z",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "images/mumbai/2026-10-07T00Z.webp",
+     "topics": [
+      {
+       "headline": "Nationwide protests over voter list revisions",
+       "summary": "Indian authorities detained opposition leaders during widespread demonstrations demanding the resignation of the Election Commission chief over controversial voter roll changes.",
+       "scope": "national",
+       "source_url": "https://www.msn.com/en-us/news/other/india-detains-opposition-lawmakers-protesting-against-election-chief/ar-AA2dFtmf"
+      },
+      {
+       "headline": "Mumbai airport transition plans delayed",
+       "summary": "The civil aviation ministry asked Adani Airport Holdings to pause the planned shift of international flights to Navi Mumbai to allow time for a detailed transition strategy.",
+       "scope": "local",
+       "source_url": "https://skift.com/2026/10/06/airlines-get-more-time-on-mumbai-airport-cuts-but-the-move-to-navi-mumbai-is-still-coming/"
+      },
+      {
+       "headline": "BMC launches Participate Mumbai platform",
+       "summary": "The Brihanmumbai Municipal Corporation launched a new digital platform enabling citizens and corporations to engage with over 450 civic projects.",
+       "scope": "local",
+       "source_url": "https://www.abplive.com/states/maharashtra/bmc-participate-mumbai-civic-development-450-projects-citizens-csr-ngos-ann-3198417"
+      },
+      {
+       "headline": "India bids for 2036 Olympics",
+       "summary": "The International Olympic Committee confirmed India as one of seven countries bidding to host the 2036 Summer Games.",
+       "scope": "national",
+       "source_url": "https://www.espn.com/olympics/story/_/id/50115796/india-qatar-7-bidders-want-host-2036-olympics"
+      },
+      {
+       "headline": "NAAR named India's best restaurant",
+       "summary": "Mumbai's NAAR was named India's best restaurant for 2026, with the city dominating the top 50 list in the national awards.",
+       "scope": "local",
+       "source_url": "https://www.msn.com/en-in/money/topstories/naar-named-indias-best-restaurant-2026-mumbai-goa-dominate-top-50-list/ar-AA2dHdvN"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "subjects": [
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "hours": [
+    6,
+    18
+   ],
+   "painting": {
+    "slot": "2026-10-09T06Z",
+    "window_start": "2026-10-08T18:00:00Z",
+    "window_end": "2026-10-09T06:00:00Z",
+    "image": "images/ai/2026-10-09T06Z.webp",
+    "topics": [
+     {
+      "headline": "Trump declares AI term users enemies",
+      "summary": "President Trump stated that anyone using the term 'Artificial Intelligence' instead of 'Super Intelligence' is considered an enemy of the White House.",
+      "scope": "topic",
+      "source_url": "https://www.primetimer.com/news/trump-says-white-house-will-consider-anyone-who-uses-artificial-intelligence-instead-of-super-intelligence-an-enemy"
+     },
+     {
+      "headline": "OpenAI unveils hundreds of math breakthroughs",
+      "summary": "OpenAI released 722 reports claiming mathematical breakthroughs, sparking debate among experts regarding the rigorous verification of the findings.",
+      "scope": "topic",
+      "source_url": "https://www.dongascience.com/en/news/80240"
+     },
+     {
+      "headline": "India to release AI regulation paper",
+      "summary": "India announced it will publish a consultation paper on AI regulation within a month, focusing on safety and trust in key sectors.",
+      "scope": "topic",
+      "source_url": "https://www.newsbytesapp.com/news/science/ashwini-vaishnaw-india-to-release-ai-regulation-paper-november-2026/tldr"
+     },
+     {
+      "headline": "Anthropic advises candidates on AI policy",
+      "summary": "Anthropic launched a presidential engagement effort to advise political candidates on AI policy ahead of the 2028 election.",
+      "scope": "topic",
+      "source_url": "https://finance.yahoo.com/economy/policy/articles/anthropic-launching-presidential-engagement-effort-231452188.html"
+     },
+     {
+      "headline": "Mistral launches model outperforming rivals",
+      "summary": "French AI startup Mistral unveiled a new model that it claims outperforms some Chinese competitors, ending a five-month gap in releases.",
+      "scope": "topic",
+      "source_url": "https://www.rappler.com/technology/mistral-large-4-ai-model-launch/"
+     }
+    ],
+    "date": "2026-10-09"
+   }
+  },
+  {
+   "id": "health",
+   "name": "Health science",
+   "style": "Haeckel",
+   "hours": [
+    18
+   ],
+   "painting": {
+    "slot": "2026-10-06T18Z",
+    "window_start": "2026-10-05T18:00:00Z",
+    "window_end": "2026-10-06T18:00:00Z",
+    "image": "images/health/2026-10-06T18Z.webp",
+    "topics": [
+     {
+      "headline": "Shingles vaccine linked to lower heart risk",
+      "summary": "A major Oxford study finds that the shingles vaccine Shingrix is associated with a reduced risk of heart disease.",
+      "scope": "topic",
+      "source_url": "https://www.msn.com/en-us/health/diseases-and-conditions/shingles-vaccine-may-also-protect-your-heart-major-study-finds/ar-AA2dGkjL"
+     },
+     {
+      "headline": "Gas stoves harm restaurant cook health",
+      "summary": "New research indicates that cooks working in U.S. restaurant kitchens using gas stoves face significant health risks.",
+      "scope": "topic",
+      "source_url": "https://www.yahoo.com/news/us/articles/gas-stoves-put-restaurant-cooks-090000265.html"
+     },
+     {
+      "headline": "Weight-loss drugs linked to hair loss",
+      "summary": "A new study associates popular weight-loss and diabetes medications like Ozempic and Wegovy with an increased risk of hair and nail problems.",
+      "scope": "topic",
+      "source_url": "https://www.dailypost.co.uk/news/health/ozempic-wegovy-mounjaro-linked-hair-34716619"
+     },
+     {
+      "headline": "Midlife habits slow cognitive decline",
+      "summary": "Research identifies regular physical activity and maintaining healthy blood sugar levels as key midlife habits linked to slower cognitive decline.",
+      "scope": "topic",
+      "source_url": "https://www.msn.com/en-us/health/mindandbody/new-study-finds-2-midlife-health-habits-that-are-linked-to-slower-cognitive-decline/ar-AA2bY23O"
+     },
+     {
+      "headline": "Omega-3 boosts brain levels without cognitive gain",
+      "summary": "A clinical trial found that while omega-3 supplements increased DHA levels in the brain, they did not improve memory or cognitive function.",
+      "scope": "topic",
+      "source_url": "https://www.yahoo.com/news/science/articles/omega-3-reality-check-study-152833007.html"
+     }
+    ],
+    "date": "2026-10-06"
+   }
+  }
+ ]
+}
