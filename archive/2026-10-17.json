@@ -1,0 +1,177 @@
+{
+ "date": "2026-10-17",
+ "subjects": [
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "slot": "06:00",
+   "image": "archive/2026-10-17/ai-06Z.webp",
+   "headlines": [
+    "Anthropic pushes AI safety bill",
+    "Meta releases Muse Wonder model",
+    "Apple bans AI nudify apps",
+    "AI technique fights breast cancer",
+    "China curbs AI tech exports"
+   ]
+  }
+ ],
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/london-00Z.webp",
+     "headlines": [
+      "London Council Faces Reform Councillor Ouster",
+      "Knife Incidents Mark Horror Week In Schools",
+      "UK Risks Losing Key European Space Role",
+      "FTSE 100 Sees Strongest Rally In Months"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/new-york-00Z.webp",
+     "headlines": [
+      "Wall Street Slides on AI and Oil Worries",
+      "State Secures Record Land Deal on Long Island",
+      "US Markets Retreat Amid Tech Sector Sell-Off",
+      "Air Traffic Controllers Reach Pay Deal"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/san-francisco-00Z.webp",
+     "headlines": [
+      "Golden Gate Conservancy Hosts Trails Dinner",
+      "House of Air Closes After Presidio Lease Dispute",
+      "Bay Area Job Losses Reported in September",
+      "US Stocks Fall Amid Tech Sector Credit Fears",
+      "Air Traffic Controllers Reach Pay Deal with FAA"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/tokyo-00Z.webp",
+     "headlines": [
+      "Japan Launches Mission to Phobos",
+      "Tokyo Actors Set AI Voice Rules",
+      "False Earthquake Alert Retracted",
+      "Foreign Residents Hit Record High"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/beijing-00Z.webp",
+     "headlines": [
+      "China Tightens AI Export Controls",
+      "Youth Exchange Bridges US-China Divide",
+      "EU Negotiates Hybrid Vehicle Export Limits",
+      "China Warns EU Against Trade War"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/paris-00Z.webp",
+     "headlines": [
+      "Macron urges calm before nationwide protests",
+      "Mayors demand recognition of 1961 massacre",
+      "Private capital maintains faith in France",
+      "New nonstop flights link US to Paris",
+      "Lumiere Festival illuminates French cities"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/berlin-00Z.webp",
+     "headlines": [
+      "Germany and France Ease Car Emissions Rules",
+      "Berlin Students Join French Protest Solidarity",
+      "Germany Confirms Nvidia AI Partnership",
+      "New Species Discovered in German Collection",
+      "Berlin Wellness Flagship Opens"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/rome-00Z.webp",
+     "headlines": [
+      "Italy probes Israeli officials over flotilla",
+      "FAO honors women heroes in Rome",
+      "Rome Film Festival red carpet glamour",
+      "New biodiversity discoveries across Italy",
+      "Air traffic delays resolved in Italy"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,384 @@
+{
+ "date": "2026-10-07",
+ "subjects": [],
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "archive/2026-10-07/london-00Z.webp",
+     "headlines": [
+      "UK Weighs Chinese EV Tariffs",
+      "Last Coal Plant Closes",
+      "London Climate Week Cancelled",
+      "Gulf Investors Target East London"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "archive/2026-10-07/london-12Z.webp",
+     "headlines": [
+      "Last coal plant closes, ending era",
+      "UK faces Israeli consulate closure threat",
+      "London climate meeting cancelled by heat",
+      "Sadiq Khan wins historic third term"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "archive/2026-10-07/new-york-00Z.webp",
+     "headlines": [
+      "New York Declares Measles Emergency",
+      "Autumn Festivals Celebrate Rural Heritage",
+      "US Measles Cases Hit Decade High",
+      "Woman Conscious After Execution Failure"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "archive/2026-10-07/new-york-12Z.webp",
+     "headlines": [
+      "Measles Emergency Declared Amid Rising Cases",
+      "Love Canal Residents Demand Waste Testing",
+      "Judge Blocks Migrant Fines for Non-Compliance",
+      "City Bans AI-Driven Grocery Pricing Algorithms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "archive/2026-10-07/san-francisco-00Z.webp",
+     "headlines": [
+      "Blue Angels Grace Fleet Week Skies",
+      "New Leader for American Conservatory Theater",
+      "Newsom Monitors Threats to CA Cities",
+      "Christa Pike Conscious After Failed Execution"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "archive/2026-10-07/san-francisco-12Z.webp",
+     "headlines": [
+      "Fleet Week Geofences Manage Robotaxi Traffic",
+      "Mill Valley Premieres San Francisco Drama",
+      "Judge Blocks Migrant Fines",
+      "Skydance Completes Warner Acquisition"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "archive/2026-10-07/tokyo-00Z.webp",
+     "headlines": [
+      "Okinawa Murder Sparks National Outrage",
+      "Japan Leads Asian Oil Reserve Push",
+      "New Rules for Foreign Founders",
+      "Janu Hotel Opens in Azabudai",
+      "Hayabusa2 Engineers Find Clever Fix"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "archive/2026-10-07/tokyo-12Z.webp",
+     "headlines": [
+      "Tokyo Mayor Koike Wins Third Term",
+      "Tokyo Named World's Best Big City",
+      "PM Takaichi Warns on Bond Yields",
+      "Beer Makers Raided Over Cartel Suspicion"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "archive/2026-10-07/beijing-00Z.webp",
+     "headlines": [
+      "Djokovic claims seventh Beijing title",
+      "Beijing Central Axis heritage thrives",
+      "China targets WHO leadership",
+      "US-China nuclear talks emerge"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "archive/2026-10-07/beijing-12Z.webp",
+     "headlines": [
+      "EU Trade Chief Arrives in Beijing",
+      "Beijing Opens Anti-Dumping Probe on EU",
+      "Beijing Central Axis Heritage Renewal",
+      "China Plans WHO Leadership Bid",
+      "Record Renewable Energy Installation Pace"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "archive/2026-10-07/paris-00Z.webp",
+     "headlines": [
+      "Nationwide student protests demand school funding",
+      "Notre-Dame welcomes Olympic bell installation",
+      "Government collapses amid fiscal turmoil",
+      "Trump misattributes French protests to migration"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "archive/2026-10-07/paris-12Z.webp",
+     "headlines": [
+      "Student protests reach peak intensity",
+      "Government suspends stun grenade use",
+      "Bank of France rejects ECB aid",
+      "Fiscal pressure limits spending room"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "archive/2026-10-07/berlin-00Z.webp",
+     "headlines": [
+      "AfD Wins Historic State Election Victory",
+      "Former Spy Chief Arrested For Espionage",
+      "Berlin Peace Statue Faces Diplomatic Pressure",
+      "Left Party Leads Berlin Election Polls",
+      "First CRISPR Gene Therapy Patient Treated"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "archive/2026-10-07/berlin-12Z.webp",
+     "headlines": [
+      "Berlin Left poised to win city election",
+      "Former spy chief arrested for treason",
+      "AfD wins historic Saxony-Anhalt election",
+      "German factory production hits 18-month high",
+      "Kenyan community thrives in Berlin markets"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "archive/2026-10-07/rome-00Z.webp",
+     "headlines": [
+      "Rome's New Stadium Formally Approved",
+      "Record Pet Travel to Rome",
+      "Electoral Reform Passes Initial Vote",
+      "Tax Evasion Figures Rise"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "archive/2026-10-07/rome-12Z.webp",
+     "headlines": [
+      "Roma stadium approval at Pietralata",
+      "Belgium beats Italy in Rome",
+      "Regulator probes AI music startup",
+      "Tax evasion figures rise"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "style": "Group of Seven",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "archive/2026-10-07/toronto-00Z.webp",
+     "headlines": [
+      "Toronto Ranks World's Best City",
+      "Aviation Education Program Launches at Pearson",
+      "Record Trade Surplus Before Tariffs",
+      "Emera and Canadian Utilities Merge"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "archive/2026-10-07/toronto-12Z.webp",
+     "headlines": [
+      "Toronto Aviation Education Program Launches",
+      "New Downtown Transmission Line Approved",
+      "USMNT Caps Perfect Window vs Canada",
+      "Trump Tariffs Target Canadian Jobs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moscow",
+   "name": "Moscow",
+   "style": "Constructivism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "archive/2026-10-07/moscow-00Z.webp",
+     "headlines": [
+      "Moscow region hit by massive drone swarm",
+      "Fuel depot fire disrupts Moscow energy",
+      "Global scrutiny on Siberian plague death",
+      "Tanker crew rescued after Black Sea attack"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "archive/2026-10-07/moscow-12Z.webp",
+     "headlines": [
+      "Moscow Hit by Record Drone Assault",
+      "United Russia Wins Wartime Election",
+      "Siberian Plague Lab Death Inquiry",
+      "NATO Warns of Hybrid Escalation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "style": "muralism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "archive/2026-10-07/mexico-city-00Z.webp",
+     "headlines": [
+      "Cartel Leader Arrested in Jalisco",
+      "Gasoline Imports Squeeze Private Suppliers",
+      "Chinese Automakers Eye Mexico Plants",
+      "Record US Exports from Mexico",
+      "Condesa Neighborhood Cultural Evolution"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "archive/2026-10-07/mexico-city-12Z.webp",
+     "headlines": [
+      "Mexico City Mayor's Aides Killed",
+      "Plaza de Toros Becomes Music Venue",
+      "Mexico Loses to Chile 2-0",
+      "Trump Claims Sheinbaum Objected to Name"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "style": "Mughal miniature",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-06T18:00:00Z",
+     "window_end": "2026-10-07T00:00:00Z",
+     "image": "archive/2026-10-07/mumbai-00Z.webp",
+     "headlines": [
+      "Nationwide protests over voter list revisions",
+      "Mumbai airport transition plans delayed",
+      "BMC launches Participate Mumbai platform",
+      "India bids for 2036 Olympics",
+      "NAAR named India's best restaurant"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-07T06:00:00Z",
+     "window_end": "2026-10-07T12:00:00Z",
+     "image": "archive/2026-10-07/mumbai-12Z.webp",
+     "headlines": [
+      "RBI hikes rates amid inflation",
+      "Sabarmati bullet train bridge completed",
+      "Mumbai airport entry debate sparks",
+      "Taal Tribe celebrates classical arts"
+     ]
+    }
+   ]
+  }
+ ]
+}

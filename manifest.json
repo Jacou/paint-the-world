@@ -1,0 +1,1807 @@
+{
+ "updated": "2026-10-18T00:00:00Z",
+ "next_update": "2026-10-18T06:00:00Z",
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "timezone": "Europe/London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "2026-10-18T00Z",
+     "window_start": "2026-10-17T18:00:00Z",
+     "window_end": "2026-10-18T00:00:00Z",
+     "image": "images/london/2026-10-18T00Z.webp",
+     "topics": [
+      {
+       "headline": "Airport expansion race for future growth",
+       "summary": "London's major airports are competing to expand infrastructure ahead of a projected 150 million passenger increase by the 2040s.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmYzTElkZHpBTm5RbnZBeUJCVDRGU19LLV9pdnFKSVNuRmQxdzhKWmJnQm1UaFRXYzBMMjNyYXBYWGVaY3UyUEdPNU1GRDBzYVpaWFB1bUF0dEpvVHlfVDc1MjVRaTlBdmN2WE15YjJqa2c2WTNMalZ3WFpNRUZHbEs2VFRjdkNXMXhOVl8xNWt1Z1NXdF84QlVHVUVTTWdGY2prQk1BV0NSMUtaa21CN2F6ZEpLMUl5b1poSWVVSzdPZ9IBxwFBVV95cUxOVGxfNE1scHNHN2VLUktjMFBORWlXcGxiZE9hbHRabTVOME5mS0V0d2Zlc1gxdUJLWVdQOXNpckRjYll4YnU2MVVfanZwOHVqbW9Xa1I1VGxSb0kybGFtTHZ3THk5UXB5Wmc4eklmbWt0M0E3V0NtcmNQcVpsVGZUMExXRnJwQy0wcG5YN3lsb0l2WkhmaC1ZTUpKdGRQSmhaZ0FsQTJkdFdxWFVPWUpHMU1kZnYzc3hXaWVrZGU4TzVXeEZIS3I0?oc=5"
+      },
+      {
+       "headline": "Global prayers counter rising Islamophobia",
+       "summary": "Global calls to prayer have been organized to answer the rise in Islamophobia within London.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTk5OSTl6OWJ5X1dlV0JZaVg2bjVTRmFqanBRbHpmMWRuVzBEbzRaVFhuUXlnWXZYY1BrQmRteXBzR0JBckgwTmxuZV9CdXNKbE9ISjJTNHJRejNKdThhYWsxRzZMWDJrREFsdEVSVDhmdWsyTVc1b1hrSlM0S283aFZEUUpXczJ1eExyQVhjMXlSUmxfcWhVYWpRcnV6MGo4cjllYmhELWpBZHdmQWcyaGZ3MVlzZXpl0gG-AUFVX3lxTE1sM2tyZk1XN1F4U1NXQzhSWmlEOVJmYkVzdi1rRnZzSEZOaEZDeGdSeVg2ampKMnZEcnRXT2ZPeEZ5SGlWZVI3MFJMcGlZN3ZXMnRXMFlvLWZGdlBFemdiUklITUN5aDh3RXpLU3Q4OEczZmxvOXc0dHBWNTNQR2w1elJOYWxwRUtDUFNXXzRYNWxlNV9sTjR0LXltTTlSaXQtYmtyY1poTWUxNVFsaWFQM2dteC1qanhkcmZ1YUE?oc=5"
+      },
+      {
+       "headline": "UK inflation pressures central bank rates",
+       "summary": "High inflation in Britain is expected to influence the Bank of England's decision on a November rate hike.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFIxNENhNGRYUmJLQ0hiZW82dE4zSVVrTkp6ZExjbWk5djg5X1Fad0VIZVRGcVQ2R3ZySWZHOFZoTDZ3UWVXakdldk12T04tSWo5Z3pTR2JkMFpNRFhXTGtsbnRNZWdLRVR5QUItWnJnTGdXWVpaV2tUOG1IN3RGLTVRZHlXMkZlYldEc2JfR0h1NkhGejJfQk8ybVpZWHdmTVJmUzVVb28tYkdpMmNGM3VwRQ?oc=5"
+      },
+      {
+       "headline": "BBC licence fee extended with new tax",
+       "summary": "The BBC licence fee is set to be extended with a 'YouTube tax' to require more households to pay.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFVJOUNYeG1ZbU5OWEFJQ0xzQnBRM0dCX1NMTGV4d1NtbWZKOGxIdUJuSXRiZFdGblF4X3czcHQ3UmFxbHpWREVQYzBqb1pFcVI3NmxUdG1uMEZMMTdiX2lFQjVsSjBwZUxMd2NuX0lBN2FnSWc0dkN5Ul9LWmJqUG1OMEExWVU5YkxFazRFY2JfNXEyblpwNnIzMk5mbnFJczdUcl9TWXZnQVNxcERFNQ?oc=5"
+      },
+      {
+       "headline": "Nightclubs seek relief after mass closures",
+       "summary": "The UK nightclub industry is seeking business rates relief after 36.5% of clubs closed since 2020.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbjVNdmJWSllaZ3VSQW1Lb083TDFRQ1hrUWt2cmhLckg4SmROVDFSVjdjVmJvWkU4TUV1ZzNNa0xpRHhFcmUwVEJZRDlfQm5ZelZQUlkwRjM3Uk1qVW5JNTRhMEdEVHFIamotNUpXOVlFckpNWl8xUVMzMUwxdkhZd2g5TzU2T2VTZFRrLTZMRGRReTFsa1B0UkVBd21kbzBaY21OSllVMEZrMk4wM0xleXo3UVNGSy1IemVZUjF1S2lYeC13SlNxZVpiWURYVnRDOF9j0gHYAUFVX3lxTE9NRnB0TkNnbGRJX1I1dVV0SmZzYUMyNzVpb0RFSFpZS2doVG1pTU9RTEtEYUVSaXE1VlpldWR4WFN3d3VtSzJkX213UzdONjAwOW4yVG14aEM5T3JtYkFGOFlBb252eG8xZGlJTFhGTTM3dGlJYU9QSlN6WXRhWkFwSmZ4LVJad3JXX0lNREljS0FmQnN6RzQzWlp6eUUwaGNHeGRFa2hpaVdITklrckotcnQtLXNjSTllYjZ0b0NQRXBJN3ZrOHdURThIaHRkNVIyQlJVOXZXVg?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T18Z",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "images/london/2026-10-17T18Z.webp",
+     "topics": [
+      {
+       "headline": "Heathrow runway expansion gets finance support",
+       "summary": "The UK Finance Minister has signaled support for the £33 billion expansion of London Heathrow Airport's runway.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90dE9vdktuVGs2Qkx6NkFyTXFZYjRJcE5vUXFaLWNTaFhZZFY2dDRSSDFnbFZyOUFDb3VlVXlnUEFTOUJGckFQNEo2SmkxamV0ZlZxbzNocFVzZEJMRHN4ZS1tcDNldHRWMHRWSU5tQTA0MkpCUHc?oc=5"
+      },
+      {
+       "headline": "West End Day celebrates London gallery walks",
+       "summary": "West End Day 2026 features organized gallery walks across London's West End cultural districts.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xc29yWjEtNTlmcXU3M1NRRGFGRHZFYWo1N2F1ODZqdVc2MnotM3prZmJTOFBTWTFVMV9lUDdQcGp4dDJ3cGF5blM1UlV0dWQ5MEV5YS1PX0R1aGJ1MzMwZFZqdFlmR2ZkcXQxR21IZDhBR1RESVRQRQ?oc=5"
+      },
+      {
+       "headline": "Arson attacker expelled from United Kingdom",
+       "summary": "A Romanian man convicted of arson attacks linked to Keir Starmer has been expelled from the UK.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaWJtLWhnQXAyVHFxTDBud0dUTDlIcXp3c0JWN3hMUXkzMGhBdDNWeWRCaGFZRHN1WmxCVGdNUUhfMVd5Y05VcE9rVnpud095Q2w1cFlSYy1EeEsydUFjWkRzZlpwSkNEdFVSUlVha2tpVHVHZDVMSkdyZ01CaHpCTUtPaTFpTF9EZml4d3pwVXZ0clhrRktNTGRjMkpka3VkNGNMTW9ONGMySE5wRXFMS2VPSllUbXZsdnFBb2dVTEI?oc=5"
+      },
+      {
+       "headline": "British cyclists win two world titles",
+       "summary": "Great Britain secured two gold medals on the fourth day of the Track World Championships.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb0cwdFcyNnZWZ1BnQXJNYldMejRvV2FzdEduLUF5endmcE94dEtJaVBaMnFKZDJ4X3FhU01NMU45VkVuZzk5UjI3YjVkdTdPX1A1d2tYeDRSYW94eV9hbldYRW5oSUNrNkpUOEtDRm5kUUZBOVEyTnFkcWliMDR5QWtuTHRUc01rTDdFNDFNSXhQbmhqWTRRYlI3OFlmdEd0MmRyZF9ud2xkblNnNDZyS3ZrNTUtU1p0N1gzbTZrZFZEelFBZG8tMTlTODdoUFVOUEtjYXZMa1BTRmpzMm5LNUtzNWMzZ0Y0ODk4RW5oaTB4UnRFNGJ1bEFtZw?oc=5"
+      },
+      {
+       "headline": "UK-GCC trade deal focuses on investment",
+       "summary": "A new UK-GCC trade deal aims to shift focus toward investment partnerships through a London forum.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcFo4X1FYRzltcU52VjVFcUNFYzIyZnp2cmVqUFFsQVFjOFRKN0U3X2ZiNlVtcEZIaXNGOUNKUHk2RXRyaTJCMHExaHpQeDVVT1NyWUdTYVRCWlhfdFgybXBLZ3U1ZTZhWFYtU2h6bUw3VlU1TzRZOUhxcUJNN3pHZ29OMERjYTJxWWJ5bjdnVkZzRTh0RGpMa2FrMGRobkg0VkVUckEtZlZfR1p5VFFhdUl1b0FwM09hM3VWb3JGX3U?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T12Z",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "images/london/2026-10-17T12Z.webp",
+     "topics": [
+      {
+       "headline": "Autumn storms hit London",
+       "summary": "The Met Office has issued its first autumn storms forecast as temperatures in London plunge.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11eUZuZzNEcm1DZzJiTEdBSDc4SDNVN3NQX1hvSmFIbVZMTmNvWlEyZ2xzc2FyQUtlNDJ5LTRreklwam9uNHZMbzRaUUpsa0VzTkcyZ1AxVGVqZUdndFNZZVptYk5ZaDFmbUI5eFB6RWM4bGJENEZIVFN1SQ?oc=5"
+      },
+      {
+       "headline": "Free pumpkin painting in parks",
+       "summary": "Families are invited to enjoy free pumpkin painting events in London parks for Halloween.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkNjZDV6anVfbUw5VWdiR2dIbS1TbXgxajYtSkdra2pwZE50cUFCZ2ZsNzVmVEdBbDczV2JXb0taZTNSSGJXY0U5MjhGWmp3NGRmb1hBRElBR3VQelQyU09MUUdiMWZ3cjlqeEMxVlRudm1Zc012V29QZE50RjFucHVTdw?oc=5"
+      },
+      {
+       "headline": "UK-Germany defence ties strengthened",
+       "summary": "The United Kingdom and Germany have strengthened their defence cooperation during talks in London.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU0lWZ2M4UFFyUERhSmdjcl9IZmxPTnI0YXp1SkF0SnFxcVB2OWJ3T3VrVmlRXzA2N1h1TTlULTEtWkR2TUN2S3E2WlU5d05xQ1dQM1U2WVpFWUV6VjQ2Q1BWNlE2aEpibTNyM2RFX2hablg3V1lHT25Wa0NFOWZySExwZDJ4WVFBT25WWFYwR1lGY01qdThVWGUzVDBKQ2RGUGZ3Q1JHUVV2NXdFcnJhaU5UMnc1b1Y3cVN3?oc=5"
+      },
+      {
+       "headline": "Warship returns to North Atlantic",
+       "summary": "Britain’s largest warship, HMS Prince of Wales, has returned to the North Atlantic to bolster NATO security.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONXR3eExrUy1qQ1NzQWYxX1U5dHFGaVYtYVVScFVMblBiLVRhY2tDTmNBaU9aUjZEMFRVcllCeExYQkxrZGh1QzMtbWljSWdFRzBDVWp3bGw2MXotVFZCclI5SnY0ZTdtZEVGN3g1bEMtSlg4ZUxSUzJWTXZrZWFrNTE0RmFVZw?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T06Z",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "images/london/2026-10-17T06Z.webp",
+     "topics": [
+      {
+       "headline": "UK and Germany Strengthen Defence Ties",
+       "summary": "Great Britain and Germany have strengthened their defence ties through talks held in London.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWViVlZ5TWE4MnpUV1VON0xNZ0ZrM0xYOFIzalg2V25STnBQeDI5S1czWTZ3Q1BCZ2JvekM4aFROTGkzS0RfVHJnaHZ1MmhMTnFwOXdGNVY1emkxbUgzOXZTRC0yOUJLbUxqV2wzV19iQkpOQmFpcmE3TlAyeGFyc3dFY3VVeE9GcFZ6OWZEVEVlaV96UUdOU3hGZUxmSzl1d2JUTTk5OHJ1YWFvVWc?oc=5"
+      },
+      {
+       "headline": "Heathrow Expansion Promises Economic Growth",
+       "summary": "The UK finance minister stated that expanding Heathrow Airport would boost economic growth.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTHkwZFZ1VzR3UmFudm1pNWg4ZlJ6WjFfT3BncTk3NExYMEhSVXdjSFJ1czlPbjk0ZFRHWkZvWDBVcHhsY0tiX210bTlfc2poU0VQcXJ2SHVmVkgtWTU4a2FZLS00XzJKSF9zUFV3QjE5Q0tZVTRXOVJSMDkxNHZJOHdGTWFHMWFCdXRLLXRXZHhMeThFaDgzMFg2MGh5VzR3RHQyeWhDRmk1Rm8?oc=5"
+      },
+      {
+       "headline": "Labour Lead Widens in Poll Tracker",
+       "summary": "A new poll tracker shows Labour's lead over Reform widening, with Andy Burnham achieving his best result in two years.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMi1McTFHR0V6T0h0VGZSbThDdXp0Vm1iY2VNREZzdW1GZEdNdE9DUkVZVFV0ZFRsY1p4ZHRqeFB3Z0NQV1Vfa0loQ2tsSDBXTi0taDFfVkpVWEthMWhPX1NJM1hIMUJxbXQ3S011aVFfVHpNWGJMZUdhWUNEbnBaV0FnRExycGxwTnZZMG4zZS1WellYVTFHV0FOUlNCcC1JRWh4WUFhZUl0WTNxdTVVd2dZX0hlT2lRZXVNYV9GZ3Zsb1h0Y25vWEdJeTZsLUw1aWkwc29BcU40NEpiOTc3T2ZSOA?oc=5"
+      },
+      {
+       "headline": "Must Farm Bronze Age Artifacts Unlocked",
+       "summary": "Extraordinary artifacts from the Must Farm Bronze Age settlement, known as Britain's Pompeii, have been unlocked for study.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVpDNEU0c0ExYmFHQzI0emdHQTFGM1pqUHc2cHNQb2E3VWgxVS1nelpDeUUtUm5CLUR1ckxNV0c3VmREdERFUjRVck1nUWRtS1ZwQmNhZk1sTW5lUnNVVGMwc3VsSm55RFlpUzFpRUZjRy1CRVpZNjdwS1RabGdGdlcwaC1uLUNzLU40NTZBNkhkNDQzdDNvTFNNaU9WLWxNUW5jbk91TzB0Rm5VdXdpWW1uUE5yVGF3VnBTb1h5WE0?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "timezone": "America/New_York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "2026-10-18T00Z",
+     "window_start": "2026-10-17T18:00:00Z",
+     "window_end": "2026-10-18T00:00:00Z",
+     "image": "images/new-york/2026-10-18T00Z.webp",
+     "topics": [
+      {
+       "headline": "Volunteer First Responder Tax Credits Expanded",
+       "summary": "New York State legislation has been signed to quadruple tax credits for volunteer firefighters and ambulance workers.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcDFmUDhrRDcxanZmNzZDN2oyb3Btd3B4cHdGTzl4YzBYUlItWV85NENBenhYUXBHa3EzcFZna3RndnNNTVdLQjVjWUt6N3hSbmtlZ3BBdGNzdzhCSnNUeUlZR3ZfbE5oTndVSU9ldDBzMlFqYjQ4T0dKbWpMUlQ1RzBReHF3SERnZXIzbkpOTDAyakRCQnhWaDBTQXBKQ0tndWlKdmYzVktya2JSRE9IUXlmUFh3dkRqbWdTZjhnN0JXdFZKcFRmRGtIazhzWHo3YWlIVEdB?oc=5"
+      },
+      {
+       "headline": "Dogs Participate in Halloween Parade",
+       "summary": "Local dogs dressed in costumes participated in a Halloween parade across New York City.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3ZXazYyUUFMb21QSThBWDBRSTZSWnhuX09hQUN5OC14Nkl4eDgwNEJJalJQZTA3VlVwSndmMV9qOGlJQ3JLMXI1Q2ZYY3JWU2NWVFZLb3FuWXZwLWJhM2U0Z0NzQm41VmhsODlwUnJrVnFHNUU1WktpS1hzNmM1WFRuZU5CV3J2Mk1jZ2dQWUZ4RUp0RGYwdUxWT0hyb3Q4cEpyTmZUY0Zqdw?oc=5"
+      },
+      {
+       "headline": "No Kings Rallies Urge Early Voting",
+       "summary": "Nationwide 'No Kings' protests have mobilized citizens to cast ballots early ahead of the midterm elections.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYzJPYWtKS25aZHE2ZFZEeC1tcXZvUGhpNHh4R3p2QXVCazJnV3BUYkxsQUdZZnY1dGdzaFZPSG5GT0dFRnFyRVF6T09MNy04YWwyVU5nT0Z4MjVzbWJUZnJpZFp3WFphNnpxQ3JwZmpWUlFHZXB0Qm5kWXZUeFRZZEJhWTUyQ3k2M003aWNsRXp0LWt4RWtWNUlYNWhtLUw0ZDQteFNCSkxYZ2I3YnVoemowemZadw?oc=5"
+      },
+      {
+       "headline": "US Pauses Russia Sanctions",
+       "summary": "The US government has signed an order placing Russia sanctions on hold, allowing increased gas sales to Europe.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T18Z",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "images/new-york/2026-10-17T18Z.webp",
+     "topics": [
+      {
+       "headline": "Judge Upholds NYC Sanctuary Laws",
+       "summary": "A federal judge rejected the Trump administration's attempt to overturn New York City's sanctuary laws.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGp1ekZaSmdwVWE3UGpwUUpFZEx1dTBWdG1QUkRiLVl5MWh4MDRRYzFCcmw0ZFI4bTB0YlpkUnZnbWJBX28wSUJTMF90clFWZmd2RzI5bmhwYUh5dVNPak81bHpnR056UzNzUnJkVVJZT1RsTURZdDNqSy15WUw3alZR?oc=5"
+      },
+      {
+       "headline": "Mastodon Bones Found in Excavation",
+       "summary": "Students uncovered additional mastodon bones during a backyard excavation in New York.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNm5RVWV3S2tCMmZYSHNydDFaN0M0WGtza3ZoQ0EyZ2s3akJLZWdSWXBQRWptUWxhbzZCVlA2ZzJRS3JEYWEzUXZFNXBacUpITHVXS1V1V3NQMDlKRmtJQk9KekN2dS1OeGQxbVBQU015SHFJVDFZWFlDWm5wV25MRDNFTk9MeU1oRXlZVmh2WWdWcC05SDdaQWk2cFdoQnpkTUZhSGFyVzhENWxscEFWNUMyRXA?oc=5"
+      },
+      {
+       "headline": "Rallies Demand New York Health Act",
+       "summary": "Communities across New York held rallies to push for the passage of the New York Health Act.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWpoZ2VldjNwZm1WUWRTNm1xQ01WRE1OM0VCYkZ1cFZYdFpneEJUZW0zeERTdkNGWU5scHhFbGpQNXdybVR0Y2tvR2hDWEF3a0laeHRRbTdWZy1UdzJGc0RYXzNOaE91MnhIcGlkUzV3eDhNaEFQM2ZocG5XS0p2TEJqbVpLNDY2ZEo3c2NR0gGTAUFVX3lxTE05UThycWo1dkN4TnVvSE5kUmFMOWlNN3RYMzZHR1B1NU5TcllqWXdXOEZuY2JQbjRvZ05UT2NxMGVLVTVmaF9NSElnNmNRQmtTeC1kNWN2bVFtT1ZsQjJqSDNLX3c3eXlmVU44Z2Zxa3dCOHBUR1dCZ041S2QtdE12RG5IRXJFUWdaUWwtMUNGNGFiZw?oc=5"
+      },
+      {
+       "headline": "US Waives Sanctions on Russia",
+       "summary": "President Trump signed an executive order waiving sanctions against Russia.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5"
+      },
+      {
+       "headline": "Midterm Watchdog Steps Aside",
+       "summary": "The U.S. campaign finance watchdog is opting out of involvement in the upcoming midterm elections.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZHZqcGNqMFB4ZU1VcHM1SC1xaVFNX2swMHhXME5Ba042b0V0ZjlIZVRjZTF0eVlTREMzZFNoZHVIWWhBUmlLMWVKWW54bjVDUG5QZ2c2NmJDN2pMcVd1MHJUUlctT2NMU3VlTk1CQW1qRmxlaTREb21handKb1RPQVdHdXNBOF9ocjY1V3VPcEk2MFl0aERocnB0WkNlWkF0QUotcGExNFpiem1WM1ZPLUgzV1doLWhhMzBJdEE5NlVWVTNJ?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T12Z",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "images/new-york/2026-10-17T12Z.webp",
+     "topics": [
+      {
+       "headline": "Statue of Liberty Torch Climbed for Anniversary",
+       "summary": "Journalist David Muir climbed to the Statue of Liberty's torch as part of America 250 celebrations.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2RTVGNaQzliRnJOOGwyNGprNlpoTU1VTUo1RDNCSlA1Q1B3by13dTNaOVVXbGhyVFVHMmJBTE5Kak42WkpRRlBqbklreEdNdGVURGQ0RVhjZ1V2elNQVTBjX0hJRDVpZjdFempsZXl0M3cyNVNVV0tINEI0UmY3Z1FNcHJnNTFWODlYU2hqWjBrczN1RkNfRNIBngFBVV95cUxORHZRNTRYRnRyTHRLU2pTZ0VfZWpld28wT2JndWZ3STJ6YjBzUDVqdlRWRjdmaksyTDlfc0lSTjk0VzVaa2hhVVZEYzA3ZkdlbW8xLUdRUjlDSC1EOENvS0h1ZUVobFh2c0RJLTZIdU1pUV9tTHdidFZpdXB1d2tId0ZQZFlRMGlzZlV5VnczdXpFZV9KbTdTNXBaVWVQdw?oc=5"
+      },
+      {
+       "headline": "Midterm Races Heat Up in New York Districts",
+       "summary": "Candidates in pivotal New York House races are raising funds and campaigning for voter support ahead of the midterms.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVE55NGtQUVRPVGZDLWhHd3U5NlFOeWcxSDcwU1hReWxTckxNUl9lenBDS0xITERqZHZGTjhOdlBjcnlCR3dSMWhkZTlsVHJOWWN1a0g2RlFuV1FTOGNvcWlEZDhqUnNLb2VhZ3FlR0JHTmk2Q2FGajNPYW5sb2ZLQmV4Yk1TaXJrUmhtQUVvbVBOOUZid3BfX1J3?oc=5"
+      },
+      {
+       "headline": "Trump Pauses New Russia Sanctions",
+       "summary": "The President has paused the implementation of new sanctions on Russia that were recently signed into law.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVpka1pmcXg5LXlRbU5GRlltTjdrRDdDakctVG9mNzlMSVhwOVZ5VE5NX2JpdjJKUThPRmhIUTlWTUs3YzRUUU84eU1ya2lOZ1VzZTFCNUxzQW9EeGtNMmJQb1UxdG9sdUt2WnMyUWttUnVuTmkyY1lGWUt5VWozVjhMcXR5UnBFMm5IR2ZUX0FTMVlTZE9qalJMTmt0TF91eVHSAacBQVVfeXFMTUpHcU1XVHhvdkluMERZRE4zZW5rbERiRFJnQXNCMDFUWXdXRUF2cmlvd1lJUHVpQXYxeFlnSjVPdndNNHFJaXRSWVRmaEVvc21oWUhFYXhIZ094NHpZLVFhbTM5dS1ldGJzTkhWaTNGTF9TakNEQW5BRkFIYkJWbVRoZnBsYjltQnJxLXRCREhEYTNQeG9DRmk5ekNGRTB1Y0lOS0FGT1E?oc=5"
+      },
+      {
+       "headline": "Community Forest Conservation Funded",
+       "summary": "New York has allocated $1.5 million to support local community forest conservation efforts.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2t0U1lMV0xESlhmVk5lc0tSMkpOMnZtUzJlRGdrWTR4TFh4enVTSzRjMEswcWZNeWFqQTNJNjRTZkxPTmhsZFV2V21JOXBET3hPNHJ3eVJOVk10Rm5YejBVZ2FET0FLOU5zQXIwSEdxNTl1eW1SdDhoa1ZWNjg4RENzZkxORWJpVURkSGlDdTRiUmpLQWFlclViWm9yZy0xenNj?oc=5"
+      },
+      {
+       "headline": "US Eases Tanzania Travel Warning",
+       "summary": "The United States has relaxed its travel advisory for Tanzania, highlighting American interest in its tourism sector.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQXNTMEVLdlNYbHJCVmZxZURVRkJ6RnhMWEpCVEwtMlJBZ2gxR2cyZ09MSGRUSmVETVU2eVQ5b1l3UXlFSWZITEljYnk0VjlXUENFWGhJVE9Rc1JjMXJLYm1HbjEyUVVDelBob0tVR0lpTlppUzAzZktxU3dxSEhXU250d3YyY0d6X01QQmYyejdnMnAxQTZ2NHZjLVlqSW9CbnBqRVkybFlaNWJQT3puWnY3ajBNanF1MDRIWFcwakhLSEtzZUtBaFNyaTI1b09fWVcxelFNbTBZQQ?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T06Z",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "images/new-york/2026-10-17T06Z.webp",
+     "topics": [
+      {
+       "headline": "Trump Waives Russia Sanctions",
+       "summary": "President Trump has suspended new Russia-related sanctions and tariffs, citing national interests and a diesel purchase deal.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjBtZHJzaWs1Q0M1VEQ3LVg3VTRvdkdwTFNKY2xwbG82X0ZYZGR1X3ZYZk1uOGRqWFdhcl90YUNTVlQ5dWNjV0Y1bmpYcWo4TENqdnhTMy1VQVV6MEtpM2ZlQXRuN2o3TS11UUNrR0F3Vnp4T0NqNHBiTndVY1ZGMU1sT2Nka2c?oc=5"
+      },
+      {
+       "headline": "NYC Symbol Set to Disappear",
+       "summary": "A longstanding symbol of New York City is reportedly set to be removed from the public landscape.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGoxbVlRZGU4NDFfeTJ4TVRNNk1Ld1VwZnRMUENwbXhXeWktemhlOG5Ya0U2MnplamEybERINmxuZW1rNm5sb1pWdzFzaEZ0NWtrYnVXM0ZpSEs2WF9PNFh0SzNXalNqZHYzMjljbGNIbkpTcG5LWUNVWUpzbURJcFR5QTkzRzR3RmpYTncyQThFMUhK0gGUAUFVX3lxTE9qWVJENERXNDZlNmJpd1RlM05uQnFiZ1VqZjVEVExQcTdUbHVaTkxDZk5taHotcXRoYlFBLTN0ZWdXQkFJLWZPMExLRGdYR2tEOVN5N2t1dWFmQW96bjBPRlJFQUx5LWZiTjJWcDc4UXIxSUY5ejh5X3lhVlM3aW5WSERyTDd1dVpmXzRjbFRiZGN2bEg?oc=5"
+      },
+      {
+       "headline": "State Expands Heating Benefits",
+       "summary": "New York State has expanded HEAP benefits to assist more residents with heating costs this winter.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjl6ajNjRnpNbVV0aXlxbWhlazFkZ1U4d2Jrd1RNRWRFOS03elFCaFdhZk1ZLW9weWRwak1aNkJkNHRLVV9ndmg3X3ZYTVo5aldXa21RTmpGZHBjSEZSeHhtOFFXUVZ2OTB6bzlvRjVRb2pReGJ2bWQ4NmZNOWM2ZFMxWFNYRy1LTFlncl9QMDlyWEFWVmZkWnZ3Tmx2aVlqR0pLOENXRGFyLUZfT2syaUZZUkViNTZpbXh6dWxSRU0?oc=5"
+      },
+      {
+       "headline": "Daredevils Scale Empire State",
+       "summary": "Daredevils reached the top of the Empire State Building with a banner, leading to an apparent marriage proposal.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORUp4WjZZWDc5cVpoUVp3WUtpdmJhLXFOV0FkQlpmeUlmd2lyUW5abkxSS2JKLUdMOU05WncxYTl5SDZtZml0ZmRPUzg0VGFDQzZrb1hFM2NROFltQWtYQjFlVGV0TWZnT0VJeXZsRkRFNFk2cVFvanNYMWlmVWVVZGp2VHJDdDNtUFdxWk52RmQ4Z9IBlwFBVV95cUxNUTc4alZJS3VoTUxYcWxnTTl2R09ueGtqbWxSMTk4dnNHMWxEYVFRWVBudDEzQVpjN2l4RnNQNGJaNnZISEQzbmJoSEdHcDZmT1dCaUxQZDBzVzZWd19fS3c3Tks3ZG1SRWVSWThFOVdCSGxUU09Kcktfbmh5ZmJqZWtrVU5lSklmdGlpcG5mN0l5SEhiRzNr?oc=5"
+      },
+      {
+       "headline": "Liberty Torch Climbed by Muir",
+       "summary": "Journalist David Muir climbed up to the Statue of Liberty's torch as part of the America 250 celebrations.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2RTVGNaQzliRnJOOGwyNGprNlpoTU1VTUo1RDNCSlA1Q1B3by13dTNaOVVXbGhyVFVHMmJBTE5Kak42WkpRRlBqbklreEdNdGVURGQ0RVhjZ1V2elNQVTBjX0hJRDVpZjdFempsZXl0M3cyNVNVV0tINEI0UmY3Z1FNcHJnNTFWODlYU2hqWjBrczN1RkNfRNIBngFBVV95cUxORHZRNTRYRnRyTHRLU2pTZ0VfZWpld28wT2JndWZ3STJ6YjBzUDVqdlRWRjdmaksyTDlfc0lSTjk0VzVaa2hhVVZEYzA3ZkdlbW8xLUdRUjlDSC1EOENvS0h1ZUVobFh2c0RJLTZIdU1pUV9tTHdidFZpdXB1d2tId0ZQZFlRMGlzZlV5VnczdXpFZV9KbTdTNXBaVWVQdw?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "timezone": "America/Los_Angeles",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "2026-10-18T00Z",
+     "window_start": "2026-10-17T18:00:00Z",
+     "window_end": "2026-10-18T00:00:00Z",
+     "image": "images/san-francisco/2026-10-18T00Z.webp",
+     "topics": [
+      {
+       "headline": "Bay Area Rallies Mobilize Voters",
+       "summary": "Crowds gathered in San Francisco and across California for 'No Kings' events to encourage early voting ahead of the midterms.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3ljQ2ItZlNvNzd6cjZUai1GMHhrOVctRUUtQVAtd1pIeWU0bnBkVk9jNHd4WFBNNGVyM0xlN1pBMmp4anFQRk85MC1waENuRVBNYVItUzk1OUo3TXJSYU5XeDlGbExZWXJsQWJBbkRjUklraTNld3hnb0p5MkVSQ1dGRlY5M3ZYc3QyMkxtVlQ5MWV6dzFZ?oc=5"
+      },
+      {
+       "headline": "Valkyries Paint City Purple",
+       "summary": "San Francisco landmarks were illuminated in purple to support the Golden State Valkyries as they prepared for their WNBA Finals debut.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUktHaDRuS0pJamJUdGxZdEV4Z3FnQkNlRExSM1YwMm81QzNVWGlhQV9BLV9ZblB6NlE4bTdwYTV2MFRzbjFPRFZFd2pmbTg1NUF4RDJOOWJLRnBqaC1QakRrWW5pRkZGSFlYRnpkanJNbHZUM3FCbE9JekpQU1hXeFlISmZBTmpJaUZQZGEzYm1kV0twUkRCUGpmSm9pMHfSAaQBQVVfeXFMTzB1dmE4X0o4Mm5rcDY5OFBsSU1RZHpsMWt3R1hYaHBpVGxkYjVIZkUtcTVhWjNGX0Fwb1dyMXVpMk1aOWo3WEFzRWwzWVpTNmd2NjNCZ1ZqWTlieXBBT0I5bkNjYXRRMzFrX3JiSlRqM0VVMmc2ejMzSGJjSDljRXRXd2phVFg4QkVzdk15bHpFQnMwYXBtOUVCUlBjUGRWZHpGdmQ?oc=5"
+      },
+      {
+       "headline": "State Blocks Archives Closure",
+       "summary": "California filed a lawsuit to prevent the closure of National Archives facilities, citing a lack of warning to affected tribes.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdTVGNXFOZ25WR05zSVhaRFlzZ2ZXNUpkV2Z2T0J1cmFOcDRGbmU1NnFkbjFlT3ZsT0lhX1lnMUVTWEg3cEMteGw5RWg5b05TcmJxX05ieHpld19tV2JfVHdyMWFCa2M5eUJsNVlmTjFrWEwyS1hIX3N0bWV2eTA2ZUJ6ektzeDNFanJiSWJ2UGE1d0pLaDExUHBvWWF3QXIwYWYtUHU5dlR5Y0M3Nm5RVlcxNFltbXhndDFkLXo1dmtnNXRaQi1pYTN1aXo?oc=5"
+      },
+      {
+       "headline": "Nationwide Voter Turnout Push",
+       "summary": "Across the United States, 'No Kings' rallies urged citizens to cast ballots early in preparation for upcoming midterm elections.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQYXNZaG5CTV9nTDhuOVllQnpMb2ljZGp2NjVrZjlpUHRNUVlmbTVITjhCRkhoUDRvTndRN3BBUExaMUhOSHpwWjJaY0ppdmc0LUQ3SnRDSUhXV21IRllZRWQ4QWpyZXBGaUxURWJiTzg0eU1icTY1ZnM5ZWxYMlFla2h0RWZCSjZ5eDBLd1d3X0EwOXI2Nm9BYllCTEx6UTBQZVlxVV9CNmhWZVJiVUF1OElyYU9UYXFRaDVwcDdLal9vRzR5OFk3Um9PeFE1OVprbmhJcjlmUVEwNDBGVzlLLXB4Wjd6NFoxQmFLVzRuUFNEWjRYb3VWcmxBdFN0aUI2eUZJUnB0T01sNW1GNXBhdnRGOHZyTVBRWEVkY2Q0V3g4NGw0b0lfY0JRQW1zSWRnVE5mQkVSZ09iZ3MxMFRUcHFNTG5meEgybVdRX1l2NWRXV2RPTmd5a1p6Wm5KNnluOFB1Y1VB?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T18Z",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "images/san-francisco/2026-10-17T18Z.webp",
+     "topics": [
+      {
+       "headline": "Valkyries Reach WNBA Finals",
+       "summary": "The San Francisco Valkyries have secured a spot in the WNBA Finals, marking a historic debut for the new franchise.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWpZRWVBN01oV2ZWNGRlazRGSEZZZDQ2MzAza1FGWTRJc2NTLWVuZTlOVWNid3p5dlhySy1TX29LTWQyeU81YnZjRlhpakcteFVXSXpZMHc4VDJmVW9WMGdzR1RQSkUzTjdicVhBcEtSS1Q4OGxhcGVyU01Icy1pbFJCamhkSnRYRG9DaFo2MjJxOGJBT0VoM1J3?oc=5"
+      },
+      {
+       "headline": "Arab Film Fest Honors Cultural Impact",
+       "summary": "Mohamed Hefzy is set to receive the inaugural cultural impact award at the San Francisco Arab Film Festival.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWVhUcDVZeE5obTE1cS1DTlNMY2w0TTZLT2ZjSGlIdmg5ZWd1MFUyVUxhelFnemstZzg4R04xVUc0NjFNUDhoN1VWX2dUak04MmIzUElIVmE?oc=5"
+      },
+      {
+       "headline": "Data Centers Drive US Financial Bet",
+       "summary": "Data centers have become the largest financial investment in United States history, reshaping the national economic landscape.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenBoV25OR0c0UmVhTlZXSmRPQ09saTI2TUVDbmxNN1dIRERUdnFYcFRMUDAtQ3dGbUZUclY3Tlk2b3lHVVZyampncWdiUlNmRUwwOFdUME5ETUJadlcyOENHcDlNNnVNNHNlWnF4bmFHbHoyU2N0eUl5c2I2LWdoVHl6LU4wZnN3SDVtMFAzaC1aNkVfZFpMTlpsZ1Q?oc=5"
+      },
+      {
+       "headline": "US Waives Russia Sanctions",
+       "summary": "President Trump has signed an executive order waiving sanctions against Russia, altering current international diplomatic dynamics.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T12Z",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "images/san-francisco/2026-10-17T12Z.webp",
+     "topics": [
+      {
+       "headline": "Valkyries Debut in WNBA Finals",
+       "summary": "San Francisco's WNBA team prepares for its historic Finals debut with significant local fan support and entertainment.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYVR2TXotWEhpX21rTlM5ajlZRkJUdWkybHF5OHQ2NHVGclBrdE14cTFnXy1mUXFkUDl4X3RTZ1h1bWV0MDNMQVNObDEwX3A4N2pBYmhEc2RGcDA4U3VtMXpzWGZSYlZ6OFpWZmRpS1pZcWo4dEZ0YUllcUhJLUhlMUVHYnR1c0NsSmNZdGJFM3NON2IyVUY3NGdwQkfSAaQBQVVfeXFMTm9QMHl0Mk95ZnUzVld5MGg1SmtTQldhbzAxQ0lRcDh4MWg1UHhvRHhOSDZ5R1loVFVLN2FQTHVDN1hUNENnOWFzZE1nYzF6MndIWDk3UTdHSHB6eXFtSW90MlBzZWJXNkgtODM1WGYzQU4xT3pjTXd5NG96RldQbE82N3VNb3U2Sm8yQ3dhRFc1aVJTQkZYSG95Z1dWeDI5bGNjeEg?oc=5"
+      },
+      {
+       "headline": "Immigrant Release Delays Criticized",
+       "summary": "Mission Local reports that while some immigrants are freed from ICE detention quickly, San Francisco officials advise waiting a year for others.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN0E3Y1VhT1o1S0wzWjM4WTZPMTlyS2dGaEtKR2N4cFBrQTVHVWVwTHdOVk1UalhHclhHS1hvYzVxZjIwa05MQ0dSUEJ5X0EzMFIwdmFwNWlLUnlfRjhXdEV3aGlLSWMyYVVpVUxxRU55cUw4Zm5EUVVhd2VwdUlncmdIT1JRLURtNVhHWEF3V0ZaYXNCT3pudw?oc=5"
+      },
+      {
+       "headline": "Trump Hosts Xi for State Dinner",
+       "summary": "President Trump welcomes Chinese President Xi Jinping to the White House for a state dinner.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTNrUzJTVEpkRndLRnFSRGxkNEFpdkFDWGdiU1hRUWk2endubGNXVUdsYVVKYzRYbzkzUjk0cHVYRDRTM1pSbEwtajl6TEdnd19JaGdFUmdmdGVGZ21LejhXOGMxT3BYX3FIb1NpeE13VUpLM0JMQWFPVDlfNUl5ZmNZMklRRXlNMnE5TS1FRnBoUGZvZzJDNNIBngFBVV95cUxNeDZHdFhHemNiZnp2Q3RkdFN0RzQ1aHk5ZmdERFlLZm53aUxYWUdwVHNnZm9ZdmZHOW5wS01BUWNNb2JrSEN3cEhVcnZXR1M0RWROMThMaXM1bGZvNjY5QUhfdU80RDFWZ1Nnc3pXNlZvajJWMG9DMmR2aWQ4RllRYThneWlSQUNJZTlTVVowUTNiejVOT2JUcjM4UUs5dw?oc=5"
+      },
+      {
+       "headline": "Russia Sanctions Paused by Trump",
+       "summary": "The US government pauses new sanctions on Russia that were signed into law by Congress amid tensions with Ukraine.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2luakxEaEVyTXo5MTktaTdoVzd4Zk1EX1NoYk8zZGE4bDNoYVpBS3FZeXJnMU1jazRhVkVfT2hSZ3pPY1JmSlotWVY3LWFjcDdGeDV2eU12bHhMM2E3QWI1aVczdmxiYjhBNlhGU1RCeE9hakdKN3hmTlZvTEgwSmxQam1lNVdJOUVFemlueXNwcFVUS3hYckNfb0UwbVJrZ0ticnctYmlueFR0MHRBR0cwZ1ZJc3VlNVFNcGw5SndCczR4VVhrNndabWptMGcwMF9aVQ?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T06Z",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "images/san-francisco/2026-10-17T06Z.webp",
+     "topics": [
+      {
+       "headline": "Power Restored After Safety Shutoff",
+       "summary": "PG&E has begun restoring electricity to Bay Area customers as fire weather conditions improve following a public safety shutoff.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVldLTEdIQy1iV0FRTjc2UVNFZV9FdmV6UzV3QlFUZEhMZ1dDRXpHSFZpMWVVOU5jVnhXSnk4dU1JRVdpcTUtNnctczltY01lMHRhZnhUSC1Udms1WFVoYVd2MkV3UHhyaUtUYXh4MndDR1F4M3Y3TktFWHhHUF9PM0Zua2VSMGtycklTUA?oc=5"
+      },
+      {
+       "headline": "SF Fastest-Growing Companies Gala",
+       "summary": "The San Francisco Business Times hosted its annual gala celebrating the region's fastest-growing companies.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR1BSLW1yZGhVODZWNjM3ZDBWVGE5dVctOTRqcXNUTk5mN1F1bXhLTGJjdlpjNC1hdmIyZ3pweVo3bmZBX01DcUh5M0VsZDVZX0ZjbU1JNzdjREdjcmdIMlVNNUVWY3huc2xPeVNMQVN3R1FZLUhZc0R2WmRlNXgyaW9MOGJnMWI1dEZaQjZrdWt6TEZqZ0pGYWQwVDdlX2lsVTNlZjVzT2dUZw?oc=5"
+      },
+      {
+       "headline": "Trump Waives Russia Sanctions",
+       "summary": "President Trump suspended new Russia sanctions passed by Congress, citing national interests and a diesel deal.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjBtZHJzaWs1Q0M1VEQ3LVg3VTRvdkdwTFNKY2xwbG82X0ZYZGR1X3ZYZk1uOGRqWFdhcl90YUNTVlQ5dWNjV0Y1bmpYcWo4TENqdnhTMy1VQVV6MEtpM2ZlQXRuN2o3TS11UUNrR0F3Vnp4T0NqNHBiTndVY1ZGMU1sT2Nka2c?oc=5"
+      },
+      {
+       "headline": "Immigrant Release Delays in SF",
+       "summary": "San Francisco authorities are delaying the release of immigrants freed by federal courts for up to a year.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN0E3Y1VhT1o1S0wzWjM4WTZPMTlyS2dGaEtKR2N4cFBrQTVHVWVwTHdOVk1UalhHclhHS1hvYzVxZjIwa05MQ0dSUEJ5X0EzMFIwdmFwNWlLUnlfRjhXdEV3aGlLSWMyYVVpVUxxRU55cUw4Zm5EUVVhd2VwdUlncmdIT1JRLURtNVhHWEF3V0ZaYXNCT3pudw?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "timezone": "Asia/Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "2026-10-18T00Z",
+     "window_start": "2026-10-17T18:00:00Z",
+     "window_end": "2026-10-18T00:00:00Z",
+     "image": "images/tokyo/2026-10-18T00Z.webp",
+     "topics": [
+      {
+       "headline": "Japan Gymnasts Lead World Championships",
+       "summary": "Japan's men's gymnastics team secured the top qualifying spot at the World Championships in Rotterdam.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNclNZVXNadzhEQnNRSlAxS3NidjlZbVpWYnVSSkFFRXU5X0R5ZlROYzd2TVh2bm1Ob0diek1zRkFmblphVTZmT1FpUDdXNlFqU1VnVGQ0NjZvQXNXMkZsdHJhTGpVT2hwMVlzb2tLenZsU25PNS1DVk9Qajd0RVZlWTZsS3dKd3laNUktekpHZm5vZmJkX2NMcV9CV1JUZ3BMTmlRN2M5NFFRbFBFcFNqeE9sdVlJcXMwbjJmN1ZtVURKYTJ1NVNR?oc=5"
+      },
+      {
+       "headline": "Ukrainian Film Festival Opens in Tokyo",
+       "summary": "A Ukrainian film festival has officially kicked off in Tokyo, showcasing cultural resilience.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XRHp4U3laeV81RUdyQ25QYW5KQ3g2SHpzRU5jRjIzbXJabUtIT3BSMDhPSjJZcFR3dnozX3M0bEkzS01UUEpoN1hMVjY0LUtSbjV6bWppUnJzVGZTOTMxenppZw?oc=5"
+      },
+      {
+       "headline": "Japan Bans Untraced Gold Exports",
+       "summary": "Japan is implementing new regulations to prohibit untraced gold exports in an effort to combat tax evasion.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWk4U1hOSUU3ZXJmU3Brd2tCTEpad1FjSmRfQi12MGJhT3AwZENrWHVEamNnaWhaYW5fYS01SV9tRzZnSmxyemlaYVZ3bmxyY052MGRUZHZFb1ZfWFhiVURzMnNKSzBaYW1LOHhVTGttX1ZlWi1fWGlIS2JwX1BIUVF1cTNQY3V6NmtyQkNXV2Q5WHg1ckVmZFFpb1lsUV9XbUp6Y3Mwajhjdw?oc=5"
+      },
+      {
+       "headline": "Tokyo Unveils Lightweight Laptop",
+       "summary": "A Tokyo-based brand has unveiled a new lightweight laptop featuring a 12-core CPU and high RAM capacity.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYTBTdmdKMkxrREs5SVhMVW5xSno0OVFWTlVtM2pzWXJmOTJoSHdOT3cwZnZ3ZTgzWVZCQjhHWU9ObHBqU0taZkE5amFqOXdiS19DZFBZWlZjODJxMlRDaC1lRUM0aVZmcmFRWDNRSjVydTJReVhXbTBSZmhsU0V1clp2X0QxcmVYeVh2aGY5LWRWRlBJcTBIaVU5c0FNby1TZEZyeUlkdXlqemIwR2JTOWFjSVhRRTR0elQ3ZUlsQm5LWmNM?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T18Z",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "images/tokyo/2026-10-17T18Z.webp",
+     "topics": [
+      {
+       "headline": "Tokyo hosts women leaders forum",
+       "summary": "Tokyo hosted a leadership forum featuring women governors, mayors, and ambassadors.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaWt0ZXpUYmc0eVpHeFRDZmpYcXBKYm9kXzVDM0NwdzVpX09zdXhNRTlKYkZOaFBRYzJsc2VPbC1xTktITTZDSVdHdFN3eVQ5cEVEazJwSE04SGp1NVZZWmV3V3R5TzllSlFielBoV21JdkhEYmpYQ1hlSEp6eEhXMUJVSlg4eTBTeGljakJ6TzFwQ1B2aUoyZms5dG1mUjBQbkZZcXlvMVpCd0ZpRXhGZlZtVkpjZw?oc=5"
+      },
+      {
+       "headline": "Ukrainian Film Festival begins",
+       "summary": "The Ukrainian Film Festival kicked off in Tokyo, showcasing cultural exchange.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XRHp4U3laeV81RUdyQ25QYW5KQ3g2SHpzRU5jRjIzbXJabUtIT3BSMDhPSjJZcFR3dnozX3M0bEkzS01UUEpoN1hMVjY0LUtSbjV6bWppUnJzVGZTOTMxenppZw?oc=5"
+      },
+      {
+       "headline": "New litter bug species discovered",
+       "summary": "Scientists discovered three new minute litter bug species in Japan after a century of silence.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWVBRjFQY3l2QzdJQU1JN2JHaEtVeEdRSkFHdS1tUDU1T09OWjljbHlwWkV4c3oxUzJtR1g0QkNZNGNMTE9jaUVhZ29jZEtzUUtacVhGcWt4RDVUM054dlJ0MDhFRll2YXRGZnNWa1pMX2lXV1R6ZWNuRnh2cFZjNnE0dUZMU0ZuWmR5SXFvQlFLVGxkeFBFdWZUOHg4d2xPR3AwajItZ2pMcEE?oc=5"
+      },
+      {
+       "headline": "PM Takaichi visits Yasukuni Shrine",
+       "summary": "Japanese Prime Minister Sanae Takaichi made a ritual offering to the Yasukuni Shrine during an autumn rite.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkY2xaLVV6bHBORk12Sl9rRnJieEJSY0hsbEZOQWFxSDdwLW5XWVR5NWpTMjRiTG1YdGlESFg3eUdDOURVak1RVHJEOWhlcTM4M2UzamFaVkpMUURTdG1GTjRRenZMWjFVd3QzS2xzSHBVVGs?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T12Z",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "images/tokyo/2026-10-17T12Z.webp",
+     "topics": [
+      {
+       "headline": "Japan retracts mistaken magnitude 9.9 quake alert",
+       "summary": "Japanese authorities retracted a mistaken emergency alert that warned of a magnitude 9.9 earthquake.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMG5xdUpWeGVyX1FKZjh2M20xeFFQaGU1N3FKeE94MHVnVURiUS04UnFObnVkMlRrX2JwTVp3QkxZZlNxM3U2b2w3QVBGaWd6aFNkXzlRVlktMTJ4UFhlY19ONlUzRWxsbGtqcnUxamhFdzlsMzl6MEtlbm1TRTFJemg4OTNHT0ZQUGktS3R2V1VZM2JCMEt5X0FMVjVLZw?oc=5"
+      },
+      {
+       "headline": "Japan loses 112 century-old firms amid succession crisis",
+       "summary": "Japan has lost 112 firms that were over a century old due to a succession crisis.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDZ3RG8xaHdSOVJ3WjR1TDVRTXAyUGFFWFdUMlVpWU82UmdFWXB0cXVtTC1vSXhsYVFnVzFqc0dDT05OZFFUUEluVDFQbHpGM0FOLVlvVFM1U1R0MUtrR05EVndBSVdrdG9nTFR4dXN4bjdYcmQyVmRkaTczR0t1V3JvUmxPbTBSR0FwWnVQUS1ZOFRsWllWU2kzVi1BQQ?oc=5"
+      },
+      {
+       "headline": "Tourists sitting on Ginza sidewalks stir debate",
+       "summary": "Tourists sitting on sidewalks in Ginza have sparked a debate in Tokyo regarding public space usage.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWjNzc0p3Wm13dUgtMmRoOFN3RWx1MHctZExkOHpDX3hoTFJJSWRaU2ZCdFB4cWVOQ0djTHl2QUoyWldlWnMwV1dfdm8xN2g3MkpoYUdMQjdBUUtOaFlJT0dyUDg4eG1tRWwzTktaY0ducUpNcFZoSmlDUXY2UDhxc0tUbFJlX0VweHplckRJbVJLZGFsdGEzTDJHbFg0cmJkZVdWbkxtaw?oc=5"
+      },
+      {
+       "headline": "Japan and NASA plan Mars moon sample return mission",
+       "summary": "Japan and NASA are collaborating on a rocket mission to retrieve samples from a moon of Mars.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOenhIaEdYZU1VVVJzZlpvd05Za3RubHRrUjAxUHE5UHlHaFdXU213RnpNclVHdjBtQ3FTQzkzUWozaTVpaEZ2N01QLU5uRlB4dFY1MFFEX1luZHQxenZEQ2dDY0ZERVJFWjY3eWZiMElpcUdyYjhPcW5ROEtPM0w2VVE5MUUyYXRMS3Rnb0pvRXJIQk1nc2l4TWxNd0l3dF9zMXZESnJ2ZHZLal83TGdaTnFnQnLSAboBQVVfeXFMTjhqZjJJQ2ZkYmQ0TU5keUd5Wi1peWtIeGJqeG44dkFwTS1zSzBIYTNHSW5KT3NKbjZOaHBLdnhHSWtmc1RCdkcxbDlBUnBWTHR4aGpVcHNMbnNZeFBVdjZIWjZFa0cxSDJ3SWRDWG9RcjdKbDdCVHRXeFd3djhLYnlCUkFwb2lZS2tvWlFENHAtUXlTLWk1bWQzWlppSjJlVWMyenJrR2VvWlBCdFl6V0gzeTJITFVYNjZB?oc=5"
+      },
+      {
+       "headline": "US holds secret talks with Myanmar rulers in Tokyo",
+       "summary": "The United States held secret talks with Myanmar's military-backed rulers in Tokyo.",
+       "scope": "global",
+       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYW15a0RiV3pldU55WTQ4WEwxekhEbzZvbngzcDRVZUQzamlMQ2c2ZHF0bXdodEZfV0tCSUowbGRTVlU3RGlHV2M1QlBXN3ZOM3BrMVlVVVVwcDdtcEVRRENQM3RvNXRMUFp6YnpDdTNnMEtBYmJPVkhreDZ4UllZVGRQbk1mZW4zR2VWSUlHWW41TUlFN2lRWEFsZDdQOV9tX3BBZ2VoVG9sM0xaeUhfSWxHX0xSQQ?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T06Z",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "images/tokyo/2026-10-17T06Z.webp",
+     "topics": [
+      {
+       "headline": "Prime Minister Visits Controversial Shrine",
+       "summary": "Japan's Prime Minister Takaichi sent an offering to the war-linked Yasukuni Shrine for the autumn rite.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYVJDU2l5SGk1UEVqZE1XMGFuNFpiYWhGOXRXckh3d1A2TG5CZkUyMVk1X2lUY0xXQWphTHJEOENTOHRSMXhGcUdUdnF3RFJLSTJOMmh6OGV0blNnMVJFQXd3NTYtUVVIaVJXU2ZSb1VkSHYwY1lJejYyNFV4LWlkNGlFSWR0dlVEUm5YVnRIZGppNTJMRmdOdVN0enhHNXAtakotUXFraDJnZV9hUnRSa3JnUmtNbThuQmQyZi1Gbw?oc=5"
+      },
+      {
+       "headline": "False Earthquake Alert Disrupts Transit",
+       "summary": "A Japanese agency mistakenly issued a massive earthquake alert, causing significant transit disruptions before retracting the warning.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xN3VtVHkzRGpYLUdmeEdBZE50MVgyWDBvblF6cl9oT3VWQ3U2SGtsT2YtVUVJVUdrTFQ2aHV6Mkh4U3N3ZUJ2ejY0bHpyUEVvS2JZQzZ2WG8xdVNJZm83NVh5S1hvNDNWclkxd25aZXpBaUU?oc=5"
+      },
+      {
+       "headline": "Ukrainian Film Festival Opens in Tokyo",
+       "summary": "The Ukrainian Film Festival has kicked off in Tokyo, showcasing cultural resilience and international connection.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XRHp4U3laeV81RUdyQ25QYW5KQ3g2SHpzRU5jRjIzbXJabUtIT3BSMDhPSjJZcFR3dnozX3M0bEkzS01UUEpoN1hMVjY0LUtSbjV6bWppUnJzVGZTOTMxenppZw?oc=5"
+      },
+      {
+       "headline": "Cyberattacks Plague Japanese Firms",
+       "summary": "Major data breaches, including one exposing over 11 million records at Burger King Japan, highlight a surge in cyberattacks on Japanese companies.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRWGRFZUpLWlFweWZSRDFrSEhlZGZ5R09Gdmt2ckxnbGxfNXAwY3ZqVnVIb1VxaTlhSVRhR3JBMkkxOWtRUzV0a2RQQTNONlpZZFRaOUc4QWdBb3ljUFdMclFkVkd6SDlybXRTOdIBckFVX3lxTFA2R01yRGRqTlQyb2Y2S2NPUG5xRmtLQ0lRNEg5U1N1c045Q1Y2VURyalhfQzV2SXRTX2dYNlp0MWczZkdTdWpPdTBpbGJYX0NtOUhUZzlwa3cyZDFHVFdXS1pyVzB3b2JJc1ozeW1uUmotdw?oc=5"
+      },
+      {
+       "headline": "Russia Detains Japanese Journalist",
+       "summary": "Russian authorities have detained a Japanese journalist, with reports suggesting Moscow may seek a prisoner swap.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDJ2d3JRLU5yZjg0VjJvMHJCbjZ6ZjY4aXhtY2M3dk8zZUFTS2pPMDhITzNZRVVMUTZyQ0tHTEJ4R3k3ZHFtMHNFVzdXM2w0QjdMTnRXUVFILUtvakFkd0ZEUW5zb242Y2tpc1ZDcEpJLVM2dHg0UUt0SXQyWEVwdWkwd2VVU3I5NlZLYkZ0SW1STVo5V2JzdF9fMlhyckxFSXJOaA?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "timezone": "Asia/Shanghai",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "2026-10-18T00Z",
+     "window_start": "2026-10-17T18:00:00Z",
+     "window_end": "2026-10-18T00:00:00Z",
+     "image": "images/beijing/2026-10-18T00Z.webp",
+     "topics": [
+      {
+       "headline": "World Conference on Traditional Medicine",
+       "summary": "The World Conference on Traditional Medicine 2026 was held in Beijing, featuring an international exhibition of traditional Chinese medicine.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkVtRFNOWlhOR2JDeWZUZUNyUlVqMnQ3cVo0cmw2dGpHdnZzaHVRZ01reEVETWtVRGhUX2ZyeU9ZNUVjZ1FsOXlZM2pJcEVrNVVuYnAxOUFwRGpUUEZWTGx6dDdEX0Y4RVJRMmM5TWU2RFp5dGlrOTVHWFpDQ0gwVHJuTE8ydXJlYWtSZF9CMFY3b1pYTjZYRTNFUVZMcF9SOWJiQ2Z1VmJSSDRLLUN3RkZFSmNNNHEz?oc=5"
+      },
+      {
+       "headline": "First Nuclear Clocks Created in Beijing",
+       "summary": "Scientists in Beijing and Vienna have successfully created the world's first working nuclear clocks.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY01MVXJkT1JGRGlic3gtRFVxMDYxcDZhbGNETU1ZYzNIbkxHcGR1anRQZDd0VFRFMG5vbTJWazhQdktDTU9MTF9YX0YzT2xreXRhTTdPZlhsTi1UYUYwZFZZOW9BZ19qWG9xanVzak5kcnhOUlFkM1B5MXV5bmV4ZElCMEdsaWlzbTFNa29kNmFZcER6MW15dUg0QThKWE9ER2pzdg?oc=5"
+      },
+      {
+       "headline": "China Pledges Support for Central Asian Railway",
+       "summary": "China has pledged support for the high-quality implementation of the China-Kyrgyzstan-Uzbekistan railway.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLVhZVTJiYThCcnlIUUZiSnZkMF9RdmhjUGZsUWdIMk40ckxGdWFqdDNfV21WUGd4MWN5cUhzVUJnaEhVbGQxNDZXeGlDaFhyZmxRVEZlRTFEQ0ZtVkJQeTZOZGtzcmVGMUFQZktwaDBqTHZhTkRuaGlIZnNNaGdtaHZtR2hYRVlOSklnREtTdWtZdVhJb1RWZzhvZ2lxM2ZwSTFfc0RqbzBsTTV2Z0xuNTNFWQ?oc=5"
+      },
+      {
+       "headline": "New Ant Species Discovered in China",
+       "summary": "Four new tiny ant species have emerged from the forests of Shennongjia in China.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaHowSXlGWnlOLVlCRkppRTJyTUlvQVVTRW1uc180c2lRcFVmdUhTTV9TYVNLZzlRWXktR0JDOXBkaDdBQjNzTjZ5V3ZSNVpwcHozZjRoMTNkOHYtWW9aNnF5elRZaW8tVWpmY2pyODhrcDlEYmZPaDl2dnMyNWUzcU91SVhQbGNUR0tuUHlMOEJTY0U?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T18Z",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "images/beijing/2026-10-17T18Z.webp",
+     "topics": [
+      {
+       "headline": "World's first nuclear clocks created",
+       "summary": "Scientists in Beijing and Vienna have successfully developed the world's first working nuclear clocks.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY01MVXJkT1JGRGlic3gtRFVxMDYxcDZhbGNETU1ZYzNIbkxHcGR1anRQZDd0VFRFMG5vbTJWazhQdktDTU9MTF9YX0YzT2xreXRhTTdPZlhsTi1UYUYwZFZZOW9BZ19qWG9xanVzak5kcnhOUlFkM1B5MXV5bmV4ZElCMEdsaWlzbTFNa29kNmFZcER6MW15dUg0QThKWE9ER2pzdg?oc=5"
+      },
+      {
+       "headline": "Global Traditional Medicine conference held",
+       "summary": "Beijing hosted the 2026 World Conference on Traditional Medicine featuring an international exhibition.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3FkaFR4aUFfWXFIX3NXdTNqRXczdzNmMGpreGxlVlFyYlM1OGNfWVl2Z1ZKY0tGdXM5R0JVT1k0Unp0V0l5SUpfRmRCY3pPa1RoSTFURTNTMkdrUE9LaDI0UElEZnBIdTBGNkxWLTMtQlNoQ0RsbDc4eVNLTUk1RnhDaFhmcXcz?oc=5"
+      },
+      {
+       "headline": "China proposes AI technology export bans",
+       "summary": "China has proposed export controls on 23 specific artificial intelligence technologies.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yb0w5ZmRIUzhiWkszYUd6S3g1MkhSbV91TEc0RTBVb3hPSFlETDhSb0x4TGNCOV90T3RmR1gzZzRneUVwcUU5cDEtd3JXeWtyTmJseDU5V00zRUkzdlk3X3ViMzluQWZYUDdta1QzcXI?oc=5"
+      },
+      {
+       "headline": "China invests record sum in science",
+       "summary": "China has invested a record $583 billion in science and technology research.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlZGUUZMLUVHcGxvdHhsM3hnRmd6dVc4emV4Q1k3d2V1YW9YRlRZcHVsTzFsYUhHaXVwQkQ1X2N5b2ZWWVozRm5TOFVsa2tpcjFyZVpSTkdKNl9WeldHN05YWHF4S0ItOW9Pd1A5ckh3dHJ0WDM1cUcyRDVmVXc3aEh6bFBOT0Fwa3NnR2V3?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T12Z",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "images/beijing/2026-10-17T12Z.webp",
+     "topics": [
+      {
+       "headline": "Lin wins Beijing triathlon gold",
+       "summary": "Chinese athlete Xinyu Lin secured a gold medal at the World Triathlon Cup in Beijing, marking a historic achievement for China.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTXRYYkRpRE5UV2JrdUlJVUJUemZ1QU1uenh3TDVBWmhUS0FDQWdtU0ZRS1R1ZHV0dDlkSU5Ua2g2SkozX3RQUTI5Q2l0VURpb1dxanZmTV8tWTFBZWg3LXBZZnQwdVlOVFc1bG04Ykxjb1hLdlR0ZEp1Ym1VLWF0UGI2WUwtVmxWYk51RWhuVQ?oc=5"
+      },
+      {
+       "headline": "Beijing hosts vocational education pact",
+       "summary": "The Beijing Agreement was signed to advance global cooperation in vocational education, with foreign delegates expressing interest in deeper ties.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFdhQW1rR2VqMkdkZmhXdnFvTTBUQWsyZ0xjTXJJT2RKcmNkbU9CWlpod3NfS05VdUw4blF5cEcyeUtUbWYtRks0UVBzUk11QlN4ZGRLTklTMGoyTHJNLXNFVU1JLUx0ZFRHbFkwMm5ocTg1Z0d6T2gxaTJjREIwTU8xVFM5QmVXODB5ME5sS00tcnRrYmtEZEZyX3gwYlVBalJQRmFsQlVwaUVuM1JiQk82ODJIZWVrbGtMVks0dXg?oc=5"
+      },
+      {
+       "headline": "IMF praises China's global growth impact",
+       "summary": "The International Monetary Fund stated that China's economic growth acts as a significant multiplier for the Asian and global economies.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTJQNm9OaVU3VmRMTFo3QzVYR3psUXIzb3d6eWZMSG5oN3ktM1piWXlQQ3ZUbUgzTENoT1kzRi00Ujg2Mk9yaEswTktsTkxHX1pKbFRhdVhodGJHc2tmWlY4a2NXTll4LUZVandiSlJleWE3VmlWZF9NbmVUVFNOeTN1SUdMWlZsSmg4d0d4WTVsMHd0Njg4eHA3Z1FaQmptaVJaSFdmNmRlaTJRN0M2UWZ3Vm1lbGVIMkYw?oc=5"
+      },
+      {
+       "headline": "Cancer trial shows high efficacy",
+       "summary": "A landmark clinical trial in China demonstrated 84% efficacy in treating cancer using a new technology derived from waste water treatment.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX3R6WFFEQS1lSWpva0RaV0Z2UVRCV25ZV2hPeE5Nc29DSm42bjJHUzFRZk5VNEI5MVBhVmlWYkZFQ00xaEpnQ1VOZEN2M0FSZ2JWNXZRRVIzdTY3RGx2UUIyRi0tdGJDdkp1eWpSeFc5U1BZUTV3ZDZRVFNwc2RMZDZGcjNvcnByNm9xSzUxcndFdUJRam9mUDltWUZrcGZ3bU11RmN5cUR1UERidl9USHlMODI2RTlVcjkycU9HYjJ2Q3UtOUNZSzMzVdIBywFBVV95cUxPRU9SY1N2enhIRGY0V3c4WTNOaTc0Zm1xSmtjLWxlSnE2bHBseWMyUEM4bHJJcV82Q01fT3EwZjB4Z1RPU2NIZ2tZNjJETnk2R0pYaXUtYW5DV2FwU0tqdWNRU090WmZYbFdHbENTS3o3WHVBeG50QUs1SEM4Y2RpMUJOeDJsRG52RjkzS2lyenYtUm9vVFdma2s0eTdjLV9mT253U19vdC1ma2ExdGV3c1FseDg3Ml9aUjY5WTRCQlFxSmlvcGVhUG1ubw?oc=5"
+      },
+      {
+       "headline": "Nvidia CEO urges US-China AI cooperation",
+       "summary": "Nvidia CEO Jensen Huang advocated for collaboration between the United States and China on artificial intelligence safety standards.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRTBEalNuWUtNUE5qRUVJWkt0THlxMFBMQ1dHdExMRnp3UXd3aTFxWGpGaUpxTkk0OHYyS3JlSzVrQ0owTFZ1MER2UmR0QUlCUVN1ZGViTVhfZ1NkYWlZSW1yYjk3cUI2US14MElnSHBTUTBsLXQ2SXNqVFJRZXJUZFdEYS1EVTRfeHd3QUFkaXRLQ1h1VjF0bFdkTzZ3YTZDeWJFenFMYmhNOGxqazRtVlBaTnhXMkYtRXZ2ZEZPYlM2VlExNUVzRWRXa0ZRSXpYSjFVY3dZemg1Y0RLMWtrVWFXZ2llOXRDMC1obFlNajFtazR3VGQxeUlLMEhEYi02V0VN0gGIAkFVX3lxTE5mYnA4NVp1WTVONGNFSDE3Yk41amtZUTZCc1lNXzlwaDVvNzEzZGJlSWNYbjBEMjExS1V4U2NiRUdRc3NMc1JsQ09wanpMRk0ySnEyeHFucnhUSkFqSGxVNTFIQmVXQVU2YjRvc0FwT1ZlbGRnbWd5Vmc5bXIxSHNGenNxajVVczBTUmNYZm1BSXNTNDgwUzlyUkNzQzhUVE1ZSnY3UGY3NUZ1VWpwaDNQX05iWktwQmtNSWpURlB4aTBOaDVLNWRtck1GMGYxN3czTE5wOXRxQ3JUZ1Q0NFkzQzRTR2NaTjJKd0JEUlJGaC14WnBQME1MSXRCYUtHV0FLcEtrcXUtOA?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T06Z",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "images/beijing/2026-10-17T06Z.webp",
+     "topics": [
+      {
+       "headline": "Beijing Tightens AI Export Controls",
+       "summary": "Beijing signals a stricter regulatory grip on artificial intelligence exports amid ongoing rivalry with the United States.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWNnS1haU3c5T3lybTBzQUNxZF9lMmhWaFp0Yk5UbzhDdklobHpkRHk2dExFU1dWZmVMVENFNEVLOW9JWDdscm15VDhObXhhc1JwYjlIelZjeFJuMG9jVERmTHRNRTZtSlBRYndNc2IxZTRkdWtPUGdlWDhoSEZQTHVZNzIwMFUzWVhjT3gxUWl1X2VpM1VOM29BZElFRjlaek1uRDFQb2N5aF9FTlF4U1N4WFZRVmtyUTBLdmVJc0Rzb3E2NkZ5ZQ?oc=5"
+      },
+      {
+       "headline": "Daxing Hosts First Burger Festival",
+       "summary": "The Daxing district opens its inaugural City Burger Festival offering free entry to the public.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05ZXZ6bXdjTHlBQmZ6b1k3NTBsRDd3a05CM1Y2VGZYbFB2MzdXWl9VcjlweHBVSjJvWnVaWU1KRXVEZmROdTJ5OExQa3pfajY4TnFpd3oxT2VNa0JldHRWb085YzUxZGp5SmpiNVBTdEFRNHEtSkJ3UlZCY28?oc=5"
+      },
+      {
+       "headline": "China EU Advance Nature Banking Rules",
+       "summary": "China and the European Union are progressing on regulations linking banking practices to nature-related risks.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWFRMThVUnFBR0FjeTlwZ3BlMkd6Z0xKUVAwRzMtX2Y2TVd4aVZYelBmNnR4aXkyNWhhR0ZjeUVNZjhmQUVJMzV5b2NkUVl5NHFHa3RHNjExWEtLWHFucEZydDRKNnRfRVJEMU96MmVVT1RNbnpMTXdmMWxIbzFEQ3pDSzJwc1dUaXl4dlgyNjhNWWFHZ0RPam5xVU8?oc=5"
+      },
+      {
+       "headline": "Energy Storage Drives Green Transition",
+       "summary": "Advancements in energy storage technology are accelerating the global shift toward green energy.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mR2pBQmVFMFZhUFd2dy1IUllxMU5KQnliaURoUU5IWGxqczhUS29TT2xlYlpUdlFKUkxIRWpORGdYeElWT2pma1d3WnJqc2l0b3cwTUtKRUxKVFRtc2JUdVNxTUpya3hEXzlLenlCTVVoV1h3ZFo3ZjNtR1pRUQ?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "timezone": "Europe/Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "2026-10-18T00Z",
+     "window_start": "2026-10-17T18:00:00Z",
+     "window_end": "2026-10-18T00:00:00Z",
+     "image": "images/paris/2026-10-18T00Z.webp",
+     "topics": [
+      {
+       "headline": "Half a million protest across France",
+       "summary": "Approximately 550,000 people joined nationwide demonstrations against rising living costs, resulting in widespread clashes and arrests.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN2R3RzdVVXpmVnowVWlEeVJxSzVUQjVGOFF6eE8zT0tFZmJnWS1ZMWpWc24yVWJ0Z0VsbkRoN3pLMUxOY3QxU3EzTkpZRC1mSEdtYUJvaEw2NzBYZW1Wb2dPeGtrZnZYLVl6U1Q4ekNNRFBOZGM1cDl2aUdfMlBmbGdIOHR4emtwRGh6cjFXd0FvRF9RTVl6ZHZRakpvSVhxOTB3?oc=5"
+      },
+      {
+       "headline": "Looting and clashes hit Paris streets",
+       "summary": "Protesters clashed with police and looted dozens of shops along Boulevard Magenta in Paris during the unrest.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNGdhd2NFbVNTZFRCdkFJMkxDQUh4Q0RGc2dQZ2VJcFFsaXVvWlZmNEt4V1cxX3IyaENBcEtyTlJQS2FobjlrSzN1R0hHZXZfVE1qWC1KSTB0SjVqZjI2R0l1Q3ZWSm9pQ1pFTDJGRmgtT2FYSXVoVnl4N1RmT0NiZ2FIMHZGTHRXYlpCV25oVnYzWTZuXzNtQUVaV3NtbTM4SHc?oc=5"
+      },
+      {
+       "headline": "Limoges town hall destroyed by fire",
+       "summary": "The historic town hall in Limoges was largely destroyed by a blaze set during the protests against high living costs.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNVlJ2WkIweW5XZUNDOEtnNTQyTURsZjNTb0h1WHlOa3lENXhvbmYtOWcwZllKeG5OWDhTUHMwVzVhRHJaS3FBTm91U2sySm5BY3FNbENzeVJWUmJzZHVOMWdGeDBqaENQM09vNlY0Y1NzNzhWWUhlb3FEcGEzQ3FZRzFNWk1tckJMTnZISkJ2Q1BUcTNIb1Rfb2ZldEhwRWh3TTdqTW81S2szWFFQMm5pSUlXUThmSDFxejFfMU8xU3RMVE13MVNHRjJzT1ZYTXpaUThOUUVmUUUzTFBPQ0t0aWNKQTNTdEg1MXdxUGRjYmRIUVFHbnJKWHVHaVRTZElxVnlFcGNfc2FESmdXYW1ac3dXcXR0VlgtZHgtQmlEcmQ?oc=5"
+      },
+      {
+       "headline": "Student movement expands nationally",
+       "summary": "What began as student protests has evolved into a broader national movement involving workers and various social groups.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlE5aWk1UVUtY1NHcFNvQnFKYXYyUTQ5NmlfZGdrTTFRNEQ4ZWN6STFkb0g0SGVGaWZNQkxkdmFUY3VGRGNUM1NLdTN3UnVhb0FsSXpSS0pBckVwa3NXbDlXcVZ0R1ExZklkYTlEZDFVdFJmM29SaWxfbklNZ1RUdkh2cHNZZzBqcHNr?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T18Z",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "images/paris/2026-10-17T18Z.webp",
+     "topics": [
+      {
+       "headline": "Mass Protests Erupt Across France",
+       "summary": "Tens of thousands of protesters clashed with police in Paris and other French cities over rising living costs and fuel prices.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUFdKZ0lseHN5dG8wbG9ldldjTS1uYk9Felc2b3gtX3J4ZkItMzB1WHBiN0J4UnMzZjhrblcxelNvaWpvZzJYVVpGZWJGZXFiRUp4ZHRIT0gxNzZaX1hHUDdsNnJ1OFZtZVVULWR5WGRQZVVLQVE3OHVfMU1PdV9TQm93dWpKQS04WDV3UnpwRklJb2VSWFNaSHNTSWduMXdET2Q4aGhfU3JKNEVNR3VESm51VQ?oc=5"
+      },
+      {
+       "headline": "Students And Unions Join Demonstrations",
+       "summary": "Students, labor unions, and Yellow Vests have united in nationwide mobilization against austerity measures and education reforms.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUpVNGQ3TmNmNWtCRzU5dWNpblREV1dLSm9YYy14Q21VMXpRSTBlck9LNG5aV013SGkwTk9aRmpHc3JzUmxYZFI0Q3JVTENaS21UemhsaHl2TXhobUJ4LTQtZGtoWWZFdGNJZlVBTDkyMkpKUGdJSUZCclJYalpENHZPQndodWdGRFNobmQxVzVSaFBtY2VHTTVjWWdnOUFOeTl6OGg5WS15UQ?oc=5"
+      },
+      {
+       "headline": "Tensions Rise At République Square",
+       "summary": "Police deployed tear gas in Paris as scuffles broke out during a major protest march at Place de la République.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMUZ2aHc2VGN6UkJWUXExNVVGNEFLcXBjZGlzVTNrbWRLSWFKbGRyanhBZmRqYVZSTk9peTBRc0RWbFdwTEg4S295Qm1OeUtCQ2h4RzRsdjJDTHN5ZEhTd09QZlZpWUppQ0VpdEkzd0doMDFVUW5ySGxENkpyYTRTclk4MDl3NnI5emw0T2V6bTZHTWlzYzU0cmhZVFBrblFVY0pieUhPOTdIamZhRVVGYTdER09ORDNkdGJfcU56V1hONDNJRmtKZWNhQjdLV1JjQ0tvRnNPVGV2RzE2NEkzblM5dTZua2J0VDdtRDU2dXlUX090?oc=5"
+      },
+      {
+       "headline": "Nationwide Mobilization Against Austerity",
+       "summary": "Hundreds of protest actions and marches across France reflect growing social polarization over economic policies.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kcHVFY19jVXNpX1lEWmFNcXFBZTNjcC1mWmJKMjVoSm5vTTUtMkxqeDUyYmxOTGFDMEtsYW51aVNidHU3WF9DMlg0bkxpbXNiQTg4eXRZejJqQTZtaU5wOFYtSzVyOTNWQklhRw?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T12Z",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "images/paris/2026-10-17T12Z.webp",
+     "topics": [
+      {
+       "headline": "Nationwide Cost-of-Living Protests Hit Paris",
+       "summary": "Students, trade unions, and Yellow Vests are staging widespread demonstrations across France, including in Paris, to protest rising living costs.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ3ZSMTR3dmZDamlnT3EyMWx2U1hma3VycjFxblg3SmxXMi1mUEhibjJVTV8ySGRheTEyVndBWEF4em1sbEdoZ0pKcU0tS0JVSzVVS3VZdUVrOXdHNVNYdThleU0zaDE2RXpwMWxyYURCNGt1akVuRUF0aWhYY1VkQTV6cG9UeWd2eVRjTXV6U2V2NnpCeS1zMUl5M2N3Wk16a0t3ZQ?oc=5"
+      },
+      {
+       "headline": "Paris Shops Board Windows Ahead of Unrest",
+       "summary": "Local business owners in Paris have secured their storefronts with wooden boards in preparation for the anticipated large-scale protests.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VTGpVQmNuVW0xZ1ZVMThmTm1sQ3BlaWsxRi0yT3Z0SWJnZnlRNGU3aGU5WWItQlFEU3gyRERta0RBQ2Qtb0sxUHdDOGdQMXRKalZPMG5odm82clptckE?oc=5"
+      },
+      {
+       "headline": "France Eases Rules for Solar Storage Projects",
+       "summary": "The French government is simplifying grid connection regulations for solar-plus-storage projects up to 25 megawatts to boost renewable energy adoption.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjVUQ2JrRDlfeHltYVc4clpYNUxHT3VnNWFQQ24xS29SQ3RNT0JIVlgyUWdveldTR2MtNDhQTUlHd3NSd0pfbDlrVFFxNk1jcEdSTzFFbnlST2dUOTR2V1EwdDl2ejJwaklHc1NNa2RnTVlwZ1B3ZVNKQzRjU0g2TWIzX0E4bWYwd1ZLSkFDSzNIcVJUeHJDMTB6UzRkcEFVclRCVDhTRkZRRHFtaHZWYUF0bm1aYVFzNVBNMw?oc=5"
+      },
+      {
+       "headline": "Paris Museums Host Halloween Cultural Events",
+       "summary": "Museums and historic castles in Paris and the Île-de-France region are offering a lineup of spooky cultural activities for Halloween.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbEdud3hjeFVfNlJlVlVtZGp5Q3RxZkMxc3BoRXdpLUJVVUJuT1hvZlFBbG5fMjNhNkg5aElTbkswdXJheEtQRXlzRmtlTDdNaEE4WlE3YXV0WEpUX3haeVc0bF91cnhWSGpwN3pWNlBwZ2dWNDBYaVlGZmNKRk1YZS1hRlJxUDF5N0Q2aW43T2NBS24teV9mYnNRc3c3VmhHd1B0X2ZCV1JGd2xLX09iLUphbHpNM0JpXzRsTERuZkdpYXhVOTZmSkZrdUg5YTRnUUdOV2RLalBIT2VxSDFkQ2hsUkNHQS1nTVlr?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T06Z",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "images/paris/2026-10-17T06Z.webp",
+     "topics": [
+      {
+       "headline": "First Photograph of People Honored",
+       "summary": "A bronze plaque has been unveiled in Paris to commemorate the image believed to be the first photograph ever to show people.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqVm85WVBQbklQVmxpM1VOT3psc190U2ZQWDRweEthdDVOczhucEIwWDNBOVY2ZkhEdDUzMzNRR1NkU1BINmhidGduOGtZTUo0bm5OLTlmWEJpeldLNnRFWjdVM0VHQ1dxYzVSb0pSbTcydDlCNG5YV3RGVQ?oc=5"
+      },
+      {
+       "headline": "Macron Urges Calm Before Protests",
+       "summary": "President Macron has called for calm and respect ahead of planned cost-of-living demonstrations across France.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaFF5WmRxdEdNbjhWNjRRcWV4M1dqVjIyWHdhbzVNU29rNGIxcW1YWWhYc3dCV3MweE1KVGp0bkpSOGE1elVMbEpQZWltRHB6ekpyMmZ2T1Jfc1djRjlCY01yTUVLbjJDalFHMDNLQnpHR2NrLVktb1pOemdUX21DVWp6aTBXWmdFbzgwZzVXSk5DWXQwNUROY294RmNSY1FveVNQS1JBd0tjcU1VTzYzNDRFYWNCcWkwMXJKOHRuTWlUSy1Zbi1DNlJGOEVEMVZWdVRyVUJhVnlqVnFvdmJKLXlGb0EyaURBc1owaE82WGUtRzJlZDc2ajZCeGdNT0E?oc=5"
+      },
+      {
+       "headline": "France-Germany Deal Protects Auto Industry",
+       "summary": "France and Germany have announced a joint agreement to safeguard the European car industry.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFZ1eHFTLVhIbkIzaXVyN2lOM3pxZDI5bjhMaUx2aUNYczR2LS1MUXVCc3NnYmpTakxjWXdZT1k2eEVhTkd2NE4tbFNLeGdlTHRBZU50T2k0X2xDODdvSHRmQVhRVVNXZ3BGRUltYWZxNHZGcV9QcWZ0M2lKUlFjRUpyTkh5bHpoRWdZTUVqR0VkUVNLUVBiaw?oc=5"
+      },
+      {
+       "headline": "Wildfires Force Evacuations in France",
+       "summary": "Wildfires in southern France have forced the evacuation of more than 300,000 people.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYXZidUtvc1c0RHJ1RDJtQ3RMaFFibTRIVHhzRF9Vbzh0MGdhZXBycnJ4OEZNYk9mdElMVGtPbkFOWU84X1E3Yi1nSHltM1hIN2stV0R4R21FeTBJaHk4czVaRk9ZM0NQTEVvVlRPSGh1aXBCRGRFR3VfRTJiSGNWWE1LUzNEVGhRUEZscTc1Y9IBlAFBVV95cUxQQXpCeGdVNFEyc2NnQV94RHFGcW1sc2o5Znl4S0VZZkxrMzhFOWdYaG05Z3NoUnR0TWlvRE9iMklxbkFxd0cwejM3R3pDRnpCR1NTbDEwVEFERko1MkEwR2ZZSjFyV21VNXRMdk9ON09aVTlSR1FoQkl0QWQ2QXp2SmZVaGdYWlB0WjNuRFNtM2o2a1JD?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "timezone": "Europe/Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "2026-10-18T00Z",
+     "window_start": "2026-10-17T18:00:00Z",
+     "window_end": "2026-10-18T00:00:00Z",
+     "image": "images/berlin/2026-10-18T00Z.webp",
+     "topics": [
+      {
+       "headline": "Berlin leftist parties near government",
+       "summary": "Leftist political parties in Berlin have moved a step closer to forming a new government coalition.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUkF6THZkV0h3NU1KWS1GSnBFeW5SX1N4ZkpRU3M5YlhUS1E2Z2prTlVJUEdfbDJYeGpsWlNOVmRrWTZHRHpNa2xjWjg5Mkx5cnY2bXpDdjZoU01pRVFtSFdNdE9FX0JsdzRQa1dLUUI5WUdjbmxScVVxbExPaExpWG1TZjN2eFFYektlQm1DMUF0Q1JZZk55cUV2N1BUWVVzMEVudXBWc1Y3SkdBYU9qdg?oc=5"
+      },
+      {
+       "headline": "Arabic Book Fair opens in Berlin",
+       "summary": "One hundred and ten publishers from the Arab world and Germany are participating in the Al Diwan Arabic Book Fair in Berlin.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMnlGQVM4WlpMVG1IT1J0YVlTRXVxR0E1YTk2QWh5QjdSbWxEWmNndjFOVDJNVTBUeTd5am9wVTlOU3FGUXhiUXg5Qk1BOFZIdVNDVmgwVTFvM3RmZFktMEJOZlI4LXh5M1lrblhSQncxTTIxSERqOUVGLVpQZmt2UENVTHBzX3otOUVJdlM3bzhMMFpaUm53TTROdE5YNHp1LUxXTVpya3B5Nk9jY1pKbDhRMzZnNy1wMUNkdGJvckx4Sm5VV0FKVFJDeUNZeS0zUUVHcg?oc=5"
+      },
+      {
+       "headline": "Germany forests absorb more methane",
+       "summary": "Scientific data indicates that German forest soils have absorbed three percent more methane annually than previously recorded.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUjRxTlRteG5wZ3BnNERpeFJGN1BFVGd4OUpuOXMyOUxacmhmV3RMNHJMUEZiM3Bxa2Z4RlVkekF3d2d0Ml9TLVZrYkdZWF9zM0RhREtmS2dqdWVybHJzRm1NdGlQeUlhVHZ0enhSTUt6RGpTOVlFSkxkeEpmaV9ORzRja1VsT2NwUEhBWTNWeTNOSWlKRzRyeHAzWlJyX3J2TUdWdkRtb2F1elU4M2c?oc=5"
+      },
+      {
+       "headline": "Merz warns against abandoning Ukraine",
+       "summary": "German Chancellor Merz has issued a warning against abandoning support for Ukraine amidst ongoing geopolitical tensions.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUZsdnJlVUQ2WlcweFNMSld1X1N0OFAxLWRPbmJ4N1ExSkRCNGttai1rXzAwd0ppT0hpdFhGLUtxTXpLLXB5THRPa01yakNpZ2VMLW1FMFhxTUg0V1U2V2M4bjg1NUtlVW15VHl5TDZRd0FvaktXNDllekhaQ051bXRUdi15bVl0RjZLcVM2YnU?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T18Z",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "images/berlin/2026-10-17T18Z.webp",
+     "topics": [
+      {
+       "headline": "Berlin hosts Al Diwan Arabic Book Fair",
+       "summary": "110 publishers from the Arab world and Germany participate in Berlin's Al Diwan Arabic Book Fair.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMnlGQVM4WlpMVG1IT1J0YVlTRXVxR0E1YTk2QWh5QjdSbWxEWmNndjFOVDJNVTBUeTd5am9wVTlOU3FGUXhiUXg5Qk1BOFZIdVNDVmgwVTFvM3RmZFktMEJOZlI4LXh5M1lrblhSQncxTTIxSERqOUVGLVpQZmt2UENVTHBzX3otOUVJdlM3bzhMMFpaUm53TTROdE5YNHp1LUxXTVpya3B5Nk9jY1pKbDhRMzZnNy1wMUNkdGJvckx4Sm5VV0FKVFJDeUNZeS0zUUVHcg?oc=5"
+      },
+      {
+       "headline": "Merz defends Ukraine aid against critics",
+       "summary": "German Chancellor Merz warns against abandoning Ukraine and promises reforms to sustain support.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUZsdnJlVUQ2WlcweFNMSld1X1N0OFAxLWRPbmJ4N1ExSkRCNGttai1rXzAwd0ppT0hpdFhGLUtxTXpLLXB5THRPa01yakNpZ2VMLW1FMFhxTUg0V1U2V2M4bjg1NUtlVW15VHl5TDZRd0FvaktXNDllekhaQ051bXRUdi15bVl0RjZLcVM2YnU?oc=5"
+      },
+      {
+       "headline": "Ancient bones found at construction site",
+       "summary": "7,000-year-old bones were uncovered at a construction site in a startling archaeological find.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXpQamd6TlFfTmZXYnY1Z1l0NUUzc3hJaFdIWlZQNFB2RHZrMm1qMVVaeVhqNV9KTEROUmMzUUZERmt3WTJUejEzOVZHbG5kdTNTcEZlc0VlS1hCd0JMNmp1WnZVNTdSVWoxXzFMRUI3aVBITXlxOEhRbXQ4UGc0eGFmY1hfenhnMm5jVXQ5OENjRnI2eW1iSNIBngFBVV95cUxNQkJNbXZmNkNvbGQxU29JTFNIVjFZd1ZaMmNNZFBYd1JmSFNuVm1pT0ktRjBldV9sQ05YTmEzSG5FSmVvSjJNU0lqeFhaeGlBcmowaVRxQ1l3T1N6am9BRm44a3E4NDQ1V1ctQ0VKZ0szXy03UDM2NWJGMEVob0ZOYmo2NUhQS2dCZEd6bnNndzRmMjltSHJHZjF1UTFPdw?oc=5"
+      },
+      {
+       "headline": "Mercedes stock rises on emissions relief",
+       "summary": "Mercedes-Benz stock rises 2% following EU emissions relief and deepened AI investments.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVWlnNnd5WVA1am5pS0VDNldnTFl6LWtCSXdBdmVSeUNmdXRNZkI0cmZqcmd4amlQYTJmTGFMX2phNFViX0xfUTlTT0xYeFhkVVpyQ2piQTNIRm5qem9UQW5GREVBLUZnMHBjMTdBc0htbjRGZmRBejBDcDdvb3lZZVcyRXB2ZGRWSk9pcUM0bnBVSzRqQjh5YXBJSW9kM2ZEeV9CN01qWUM5UXFtTDBBUC1SX09Bbk1zUF8tVk1iUmR0R3JjNXJwYmc5YjRfU0NQdjJsRFVmOA?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T12Z",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "images/berlin/2026-10-17T12Z.webp",
+     "topics": [
+      {
+       "headline": "Ural Owls Return to German Forests",
+       "summary": "Reintroduced Ural Owls have successfully established themselves in Austria and Germany.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzJGb2ZyN21tWGhRbXcxWEMxOWp6Sldya21hN2VyUHBDeXZ3bXdwdERZaUNCN0tMSVpLZVphblNUVXFFRENUYlZ6UmtWNHlhZnBqRnJUNjk3U0tsSkJBSHJHQTZ2blhHZkoxaTJoNDhseGFaS1V4b0ZSOGZHNWp5SkVhUUdGNEtRYk50T0x6N2RvZUt2SkIyazVyREIxaFhH?oc=5"
+      },
+      {
+       "headline": "Berlin Housing Giant Weighs Investment Freeze",
+       "summary": "Vonovia is considering freezing investments in Berlin as its shares remain near a 52-week low.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVDU3bGtuNlJNZFQ3YXZrZnh4MW8wNlZiRWhrNVIxV2JNeDhydGtYalpWMS1ObmdRSDczbEg0Q1ZjdUJqeS1Ib0VDV1cxM0NzR3pVNGtsT3k0WThJWFZ0R2JFZmR6am5UTVh0RDdlcGdtY1MyOXhnM1FFQm53YjgyRmFWZVhNYmZ3c3VtQnQ0UWVWVXJ0Q2x3WjNDX1JLSzk2bldTOEpYbV9WZ2tyX042RGJJeG5WQmQ2MERzM0xNR2JXOW5rcnF0Y18wNVNMekF5QXdzV3F5VXpPZGFERXF6b0Jod1YyVE5EUFRabDlCMThlS2s?oc=5"
+      },
+      {
+       "headline": "Germany Seeks Debt Brake Exemption for Ukraine",
+       "summary": "A German minister is seeking an exemption from the debt brake to sustain financial aid for Ukraine.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNzgyQjREYTJZX3VWNTU2MWE0Y1YzRFZHTi1hb2pxVWFRV1lqd05fZVdKZXZsT1pCckMtOWJKaGxEM2dDOVVBQnVhVEdtaDBEZXRpTWx1ZFhVbDZqYzh0X1hpbWI0LUNvMlk1WHJCbGFtbzZDZFhmUTJlUXFUblJIYzhXenJFTUlTelYzTFpfNVUxVkFocHRLWjlDelJnUWFIWEkzQkMtZw?oc=5"
+      },
+      {
+       "headline": "Berlin Welcomes New Wellness Lifestyle Flagship",
+       "summary": "ALO has opened its first German flagship store in Berlin, bringing a new wellness lifestyle to the city.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1NqNWNRd3BHeFdqVTZXVGNrR28zMmN5ZE94RXFzS1BySjdhY21VWXdZcmlodkxXNjRmZFllMGxDVGszNWx3M0E3UnNwNTU4N2hnY0xWS3JuWmltZkx0YV9OQTR6b29ZMHU1MmtUejlJNS1NRFQ3bzRZOXl3OUZCdWNQMnBnYmR1YTRxYU9tMUhDSVR3VkdRb1dIQk9DRWpySHprUGIwWVVMdDZlYXNfTVJxaTY?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T06Z",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "images/berlin/2026-10-17T06Z.webp",
+     "topics": [
+      {
+       "headline": "Franco-German Car Emissions Deal Struck",
+       "summary": "France and Germany have reached an agreement on new car exhaust emission rules to safeguard the European automotive industry.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1lnVTAtelJycV9iUlVMWm5uYnhMOS05WFlFRF9JMGpNUVRnTU1FOE1kRFhRY2JiTncwdExueDluazA5MFlhQ1VJcEtBbHlqYlBCNUpIRVQ2QXpFWWw5N2VUSEE1eUR5LXhEc3ZSNlhNZnMxMmNGME0wZUo0S3MteWxlekFnVUJHODh6eGFkOU5xUDBpT21lSkZDZ3NFUW9hcHIweQ?oc=5"
+      },
+      {
+       "headline": "Berlin Students Join French Protests",
+       "summary": "German students blocked entrances to Berlin schools in a show of solidarity with ongoing protests in France.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNmtWSWJsS0lzZEhPWjExeGJHSHcyeVNUb01nQXFJTDM4V25lN2dHVVJiYkpJY1VucTZ5TWNTQTZpQ3VsSWlSRk9rLXJDWGpaTlFhbGZ3M19xeXRBSFB6bXRCWm9tbnZSMUZMTElNY1NEU3RQZTBLNW1TTzJNUy1QZy0wZEdEX0daNDRndDZRd0s3cjVBT2ZhR091NmFza21JTlRIZ2ZJeHFRN1I4ZHY4S2RxdENVQ2N6Tk1NdA?oc=5"
+      },
+      {
+       "headline": "Germany Approves Digital ID Law",
+       "summary": "Germany has approved a new digital ID law featuring a biometrics opt-out for the European Digital Identity Wallet.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEd1UW5kd3JxRkhWeVNvUEFrYy1qa3lnY01CQndjcVhWcFBmZ3VNNzJIeTJLYXBpSDBIUzJGcVI2cm1vZDNOY1N1SHVPaU9NX1owbXlwQWhiVFlIOWE4bGY3S0tVaHZVWGlsUlRVVFpnVmQ4a2ZGTzBpU2F6Ty0xcXpJbUpBZ0tUczY3RTNkby02S1pUNFFxYjZaeVpDV2ViLTZuQ25tUVVQSjVuSU00?oc=5"
+      },
+      {
+       "headline": "New Species Identified In German Collection",
+       "summary": "A giant isopod specimen stored in Germany for decades has been identified as a previously unknown species.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSFJfU2JVOFctS0FTSjhYYTNDc0QxaTdpcnNqeVJTYnlZNFZrUU03N0E2R0p4YmFkMzltYjhZVEMwWnVWbzdZd2hTMEdYZVVSTzdvOG0wb2JyZlA0TDFPRG1rV2paM25HcGdtd2Y1VFJLLVNaWEJPNzRrWmdGdE9fdk5rRlY?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "timezone": "Europe/Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "2026-10-18T00Z",
+     "window_start": "2026-10-17T18:00:00Z",
+     "window_end": "2026-10-18T00:00:00Z",
+     "image": "images/rome/2026-10-18T00Z.webp",
+     "topics": [
+      {
+       "headline": "Students Protest Nationwide Amid Discontent",
+       "summary": "Italian Prime Minister Giorgia Meloni faces nationwide student protests and clashes in Milan and Bologna over cost-of-living issues.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aV0Y0QUtVSnMyNzRfbG5tQjlieGVNXzNOQVFFU3NWNlEyOXgtbVRaMUNCMFdqY0x6NWlqSEp6N3l0enNadElFVWNPOV9laWxURlgw?oc=5"
+      },
+      {
+       "headline": "Pope Leo Discharged After Lung Surgery",
+       "summary": "Pope Leo has been discharged from the hospital following successful surgery for lung cancer.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNU0xER1BaUXlCdWYtak5WTU81RUZYMGUtdy1kQ0J1Zk9HeHVVNFo2MW5YZWMtWEgxYnRGdVozemlUREU3eGlsRklsc2FkaTctZHdKamdFTjA0QTZsM1ZBbGhFQnFzSl9jYjAzR2ZQb2ZFUXBMcmkyV0Z6UWRkOVFkQlpBczRnRkNadWp3SEc3SGFUUHJab3JmaWczMkdnSjJQOWFrbGkzRHpnTllLdnI0SU5veF83UG5NdGUyRm51Z2hmMEc2bXZFSllyUFpGSGJXMTZrU09BOFN2cE12aks4dHV3OHNkNWUtZDdqYUE4RXBRM2d0UlJ4REh3RGpDTmtja0ZBc05ORGZiNVhxWU1qZ2k2ZWY2NTIwVnNUSlpFYk00N0RSTnJrdExRd3BaZUhWUzJpbWFpaFBuamRwenBMWEhsZU1tdkxoMmltMktsRlFqcTFrQlozVFRRWWRjOXE2d3NUUEVpTHg?oc=5"
+      },
+      {
+       "headline": "Botanists Map Italy’s Hidden Flora",
+       "summary": "New scientific records of algae, moss, fungi, and lichens are reshaping the understanding of Italy's native plant life.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHd0VUtyNEN2RWlYWjBVYlhHQVlmWnBnWHc3Y3J0cmJrVGptOGY4WDdtenc1ZG5EWkJVa1FfU1d5dTZJVF9zV0RoTWMtSTdxWjAwWk11aU5sOFpSR2NaYVNHejVCLTNQOEdnMFcwaXJBeS0yQ3ppQUE4ZEMxSXE4SUFNRWZjM21lVXVVWG00M3ZYSkRWb3Q1TGg3ekdEdw?oc=5"
+      },
+      {
+       "headline": "Roma Secures Victory Over Genoa",
+       "summary": "AS Roma defeated Genoa 2-0 in Serie A, with new players Castro and Lulli scoring their first goals for the club.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DdnJTeVRFcjFPTWZaOFdKVlBoeDJnNkV5dldwYk9iTC1hVF9LTjNpVkkzSkVBLV94M0VhVW5aNFNPMUpmNDk2d0t1UmdQNWs4T3NHRUdEbFB3dkE3SUFPb2dPcXNkQk00eDBONzlNeE8?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T18Z",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "images/rome/2026-10-17T18Z.webp",
+     "topics": [
+      {
+       "headline": "Pope Leo Returns to Vatican After Surgery",
+       "summary": "Pope Leo has returned to the Vatican showing steady improvement following lung cancer surgery.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM3EzamF4b05oTW5JRnMtVWQ1R2hLQjhuWkx3WGdrOHlrbF84UzExRmlZYWdUYmphV1lqUWJoLXFISnA4UGl6QzJ3bVhxWGZZU2lmWVN6WW1VSEgyRTBnWWdvd1djV2dLS01iV1dfTlhEajVZVDhfMVBJWWVDRFZSZEpxU01Vazh2UHF3emtjZC1MUGVEcW9waTNocklVZEdTQ2fSAaoBQVVfeXFMUFhIVEJlWEpBbTYwc2N2XzBGYTZuNDZSbEhVVTZTUmV1UkJ3SjZ3QTMtZzNtWHJvRk9IMHpBRmxJM0pqWXgzdjNhZVpuN3gwdDdWWFh3R3BBdk9INHp1YmY1eUNXdlEwU0toelZheEFKNjRSUVZLWHJKa3hmeEFFMnA2X2taWWVDazQxMVExN0p1Z25MZGNiOHZJTjA4aVNITjd1eGt0Y3NBN1E?oc=5"
+      },
+      {
+       "headline": "400,000 Students Protest Across Italy",
+       "summary": "Massive student protests involving more than 400,000 people erupted across Italy.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVU9nTENGc3J3eU1KSG81d0lnUk5hemFKcExmYVBGa29uUExjMFl0VS1SR3J6V2RtaE1yT0JuS3RFbmRIVkNBcm9ZdzNUeGcwOGZsbEZQcWVpSE94amthRGV2a25xYWpmR2xMSzBISFBmOXFGV2JfcXRFbXZYZldibkU5RWp6SFI1ZDNKVE16RGcyNUsyWHE0QWxEV2Y3YmxYYkRkR2txbDR1ZVdn0gGrAUFVX3lxTE9lTlg3RmliUnIyVkJuRnhpUVR1eWZnZVBPdU5JVENzZGZmQ2hPQ3k5QXNnQkpobzlDTEJFUmVMNFN4R2JGWHMyMmU5bVdnRFRrSkU2eTBhNktVc3dvRDR3c05KYTE4TFNORy1TMXo2NC1FYmhJYldCM2Q3MXE4eHd3b3V4eS1IMDd4T21Vc1FRRUxfdlFxMWprNFE0OTdPTlEtYUlHSnpPV2dNNA?oc=5"
+      },
+      {
+       "headline": "MAXXI Hosts Calle and Bilbao Exhibitions",
+       "summary": "The MAXXI museum in Rome is hosting exhibitions by Sophie Calle and Tatiana Bilbao until February 7.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGdfLXd1WXN4VVYyakt2LVh3QkpEZW9xeExjVGtEczJjY0ZyQW9BdWxzcTAyYXUwUFJ2bTBnOG80V1d2SUxWb212WHc0QUVTYnlPaERMR0lxM0RHWG5TSW1rblpyaC1GVUZwQzBKU01jMFVnbXZwaHd1RWpJcnI3cTYyMm9kOVFjeERydW5jNmFXSFpuRGl2andXaWdUd1dreGE1UG9vQkVVcDh0TzlXMVJ2RQ?oc=5"
+      },
+      {
+       "headline": "Italy Prepares First Quantum Supercomputer",
+       "summary": "Italy is preparing to unveil its first quantum supercomputer and industrial quantum annealer.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVXk0WGxKdUhuLUNUNUtkODRxR2RrRjJkbUpGUm51REdoY1E5Vzk1SGtpY3pyREJwYm9iOUVLeGNaT1gzT2dzRlJNLWEyWEtzX09wclZ4ZWhvM0xvU3QzVHlyM3NNcHVhSWQxR1dDenZ1UDlldnd3c2ktTWVFVVFvTVk0OVVvS1YtWHV1b0tDRTZzUS1lUml5aE02YnJqNEQxeXNMU2htZWxWb3NJX181b3VqSUZIbVd3eDB2RTNUQWFMd1dVRjE0b2xSRUxWNVFyNDByVVZJdDE2VFFQOFE5VGhPYnBSeWdTY210NjhYb3FyMzl2RGM3cA?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T12Z",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "images/rome/2026-10-17T12Z.webp",
+     "topics": [
+      {
+       "headline": "Rome hosts FAO World Food Day",
+       "summary": "The FAO held its World Food Day ceremony in Rome.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUGdnaXFfbW4xQXJTVmJDeHpKaVE0Z1pFQVhnSWdnSGI0RHRadmljeHJwVzQ0S0poalhxY1o1VTBmWGxUYzcxQTJkSG5GaHdCQ1BuSHhqWndEMy1oMVNNdlNieTNnWDlTcXJqendNeGV6alh0SEVmT1M2aGNVcWNVREFWdGNmQTQ?oc=5"
+      },
+      {
+       "headline": "Fans gift bronze she-wolf to Mourinho",
+       "summary": "Roma's Curva Sud presented a bronze she-wolf statue to Jose Mourinho.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUQzaWdhUXpVMDFQZEI0dDRKdVVVaWVMTUVuTVJ4cUZuUDRQQ2FEaWJ1Yk15THZ6ekI3MU9ETUxINFY3NEZaMlRpd3hzNXlxU05PZ0pndWFfUnc2bG9DbkRIWHcyVVozVWNQdUpFSEhBMmJqaUx3WnowUW9oWjZkV1BpUGlndlc3U1p0Q0lwVVhWQm9ubkNSSm5xaUp4VE0w?oc=5"
+      },
+      {
+       "headline": "Italy probes Israeli defense minister",
+       "summary": "Italy has launched a legal probe against Israeli defense minister Katz regarding flotilla activists.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGdOR3p5RWNGV1FLRW9sYXhMOWg5am5Ob2N5QjJlTnloVy1oeVUzaUZfaG5KMG5kU04yb1M5Ymlvb29SdUl4bENrR0hoTUE3aHh4cmdEbzZqaWUyZnBzbmtmZFZTa25hVXRFb2JMVDQ2amFhMmtNMEViS3E3UzRueTQ3Y09TbnlhSnN3bS1KdDNTdUpPaXdEMi13c1N2TDRn?oc=5"
+      },
+      {
+       "headline": "Renaissance masterpiece reunited in Italy",
+       "summary": "A Renaissance masterpiece has been reunited in Italy after nearly 200 years apart.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91YUJjTlM1YlAzRlYyeVBmZXZyY2F5QmY5c2IyOUFYNnFGdkRhMjFqVmJ3b2t0cXZzUUVRSTZMMjFVYjE1TzQyQ0c1Zlh4Q3ZJaDlLN1FtUm8yemJpNUs3XzVzRnM1dDZzNElCd1dwaHF4a3hoWUlOeFM0a0o?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T06Z",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "images/rome/2026-10-17T06Z.webp",
+     "topics": [
+      {
+       "headline": "FAO honors women food heroes",
+       "summary": "The FAO held a World Food Day ceremony in Rome where Yin Yuzhen was awarded as one of 100 Women Heroes.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIQW1kbnkxalRISVJlVGRLWjJSSWprWDJkcjNUamF3S3lSSndmLWdJX3gxTXdMYkNkTkhaWnc3bG1vS1FVZmZwRGF6YXJPQ0gyY0RfSWY2MmpyR3lOSXJORjVPdU8wbmFYYXFGSnZBTmF4WnNrcm9iTV91bkFtUQ?oc=5"
+      },
+      {
+       "headline": "Air traffic fully restored",
+       "summary": "Italy's air traffic capacity has been fully restored following a network failure that disrupted flights across the country.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUTJ1UmIyT2NDcm9RX25TVWt2T3JiTHdFRVNEbEJYcUc3Sm8wem9CaGZLRjk5ZFRsenU1bDI0WGkxS2JwcmI5S0Q3bUZhd2JVNWEwU2cxSFhXZldlOW9vd0dmbjd2d2Rzal9KZ3dJSlp4SnI1aDl4QUxrWlYxSDRENE1Za3VjcmlOYm5QVUFqdVJKZGJPdVY0RmRJNGhrRHRLUGJKX3lWVnpTYlBvTnNBVm5sUWE?oc=5"
+      },
+      {
+       "headline": "Probe expands to Israeli officials",
+       "summary": "Italian authorities have widened their investigation into the treatment of flotilla activists to include Israeli Defense Minister Katz and IDF Chief Zamir.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQVNoTnB4aGgyUXJHN29YY0FzY0VPOE1DVzEzWUNXRVJ3Wmh2Y1dWaFNkOWR0NVVEOENSR2dfQ1J1d0pOSjdGU3phbHZidGFCNkpwRWlUMmhramt2YktoR1RuMlU3ek9OWmo4U1c3ZFNfZzVCSjlLVlFXUGY5UnhQZlpHWk51a3N5VmZRaXVRb1Y0TlpGRk1uT2NBZU5iLXZmYUZYUGJZZXZXbUZkVkx4UW5JTndKcUhrd0QycmczY3g3VE5Oek8zalR2ZnEwUHpIYWY3YTJpazBrdzVFYl8yVHhKVTJxYXdvdnVENkZCbnYxcHpWV0NuR0JjbXNqTmVhUzE4?oc=5"
+      },
+      {
+       "headline": "Lazio region showcases excellence",
+       "summary": "A three-day event in Lazio is underway to showcase the region's cultural and economic excellence.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOalItWnZMX0IwUGdFQXF6eW5uTTBpZHJ5ZWlmQy14UnlMNnhFWDFwbDVXeFBWM1RGcTRKSTFWUFdoQW40anFhcTAyMGxmT2dPUEZZRHZVZ1JjQ25Mc1cwX1N2Tm5OVzZjWFBvT0JheU8temlRczZPZC1QRENMUl9fOUp4a0dzbnJKdGhRM3FhajczSjVTZ3JCMldCZ1NoNTg5dGVGMWI0MC1pVTBB?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "timezone": "America/Toronto",
+   "style": "Group of Seven",
+   "paintings": [
+    {
+     "slot": "2026-10-17T18Z",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "images/toronto/2026-10-17T18Z.webp",
+     "topics": [
+      {
+       "headline": "Canada Upsets England Rugby Streak",
+       "summary": "Canada's women's rugby team defeated England 24-21 in Toronto, ending England's 41-match unbeaten run.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeVZJMmZJdmpaSENoSGJ6aWhqVXdVMHc0UXBNV0ZDUUV3ejdnc3N4S0NwRjEzTnpUMHI2dnNySUt5OHk4RVh1TnZCVWJRUVZPaS1Tak9sQ1hmRFgzblI1c3R1Y1NWYzdTazhCWGRjQk9EckxTZ1FoQ3JSSlNCY2xEcFBkZGdXQVlwYk9OTFVrQVhqUU9ieDVsTXhTV3FHczhDTGt1VzRiaHV4SUN1TXBRTWNRbDdNTTQ4aFFWdFUwZEJCcjByNDUxSVhVdDMyNkpSaHhsZV96dkVEdw?oc=5"
+      },
+      {
+       "headline": "Cultural Exchange Through Cretan Weaving",
+       "summary": "A new initiative in Toronto features Cretan weaving to foster cultural exchange within the community.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYkg4Q1RpVDIwbmRjSjNOQ0I5UFVkYjZjTWNsU291dVNWSC1lWDVFTkFvaVpibzUzV0ZXYzh3QmNKQnhyN2hJakJuZmRQT2xkR1BQRDlwdVdsc2tESHF5Rkk0SU9hcy1rcXdLU0w4bmZWQ3dsc0pnRXc2cGM1a0RRaDV6Q0VtMWhRR0VjUURtNlJwbE9Eb2ZXYkUyVDVXd3g5TFRWSkhjN2RFTDZDeVN1MkYxQTk0dmc1QUdUd2E5YXBHeVlV?oc=5"
+      },
+      {
+       "headline": "Bank Of Canada Warns Inflation",
+       "summary": "The Bank of Canada Governor Macklem warned that elevated oil prices are driving a sharply higher inflation outlook.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVGdTMFU4alVIZTA1U2c3UFZtVTlTQ3hPaXFqaDJ6VVdUUFpNMzRiZlpzUjJCVFhhNEZKSnhZRXRSM1dUWUZJRWF4clQxZ2pEMEZ5alppTWRvMzRiZWdfaE1MVngxNlJRanZWckF1MGxHYnE0T3E1TF9ITVFTNkRHbDlaRlVsUXBFckJyT0RkeWpkQUZ4VkRtOVJHeU0waHFULVZhMWRnLUVLTXRISzNPMg?oc=5"
+      },
+      {
+       "headline": "Immigration Consensus Fractures Nationally",
+       "summary": "Canada's fractured consensus on immigration policy is increasingly influencing voting patterns across the country.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNbU5vTlNzRHd5Z0dEN2swYlpOUUVpai1wekJjY2Uyd0JaYk5yOTd3Y2I5TVVVRzg1NTZCamZHbGhPaEdGTE8yVWl1VjVYaVRmMkdxY0s2R0ZBaXpRdEJrSzB0emlpTDNOM0pyZ0kyUTRmLWZiLS1Qc3lkUkV0SzE1bkVJbmh1T2hhWGRyQjM4Ynl4RHYwOVRxdGQ1OGlVVnFkcTFQRWFyamlLUTllb24tYTFaZzVpM0J6VlROZXRpZDh1Qm43QXVlVHJJZElxWFJvTDdfMnFyZ3VGV2xRUFFabEVsTkRTbjlzN0RWcXNyZ0JjX05XYXkwUENpWVVJTGxOeDBIWQ?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T12Z",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "images/toronto/2026-10-17T12Z.webp",
+     "topics": [
+      {
+       "headline": "Canada ends England's rugby unbeaten streak",
+       "summary": "Canada's women's rugby team defeated England 24-21 in Toronto, ending a 41-match unbeaten run.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUHlOMkZYZ2FCVDN6bjdWYzdoRFBuUmFsTjc1ekoyRTludUhIM0dJTGg0RFdCa1VwS3JyWHdyT2Y0aThxVkN5cWxsM2lKYTdkTkRzSTRBNGJJalVSSUFWR0l4WnZZcjNqMjkzdVJjRkV3NnBob0luWUpIX1VnN0c5NTdvOVczNktTMm42QUxKZDhIdDBIUUZRV2FGU0x3Zmc4X0JVX3Zvc2w1YjItenc?oc=5"
+      },
+      {
+       "headline": "Waymo approved for Toronto autonomous pilot",
+       "summary": "Waymo has received approval to join the Ontario Automated Vehicle Pilot program, bringing self-driving cars to Toronto.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PZGlSZjl5VER2d2FQZ1R2a00yQkV5M1M1cWdYVGExa0lzTm9DTVdleUFkaXByR2pnSENMVU5sUGo5ZDZ6ZmtkVEtuSnBtU1o3VjZwV0xpY2NkaU0?oc=5"
+      },
+      {
+       "headline": "Canada pushes for Gulf peace diplomacy",
+       "summary": "Canada is increasing diplomatic efforts to push for peace and the reopening of the Strait of Hormuz.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOU5LVElxYmVwSktwYlhERjkyQ3J2OHROM3VGbG4tWjMycnl3WjBFalNLVmRkRUZSOTR6NVFRVGIyT1Q5dkhiZi1SUy00cnZWQk1ZRU1nVWQybDcwNF9WdTFlbXhYQlJDamNOdnpUSDFOSkJqSThLeHJ4QmZ6ZlBKMzlwU0hMcVZyc1lsOExFdXZuclNtNUc1R1o3Ym1QZTNBbUthZUxiUzg1N3NnY004LVhIRkYtR0ZKOEY2V0podWtQUmxCcE41LVgyWElrVVN4VDRF?oc=5"
+      },
+      {
+       "headline": "Canadian wheat harvest quality improves",
+       "summary": "The outlook for Canadian wheat has improved as the harvest advances and quality concerns ease.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTGpSNDl1dWFJOV9GaFByUUtKWURaNmYtT3VpSkQ0clZBdEFCb0lydjlxY0NXR2pSbnI4ODkzVVdKNm56bGo0TC1oRUdpQnNNMF9YTDZ0Tk9VVW9ZOVVuYzVZVl8yenlSNnlDUWIyTEpjcjYwa0cxb2N1Rzh4RDNoeC1sd2lRaTFHdU9IS1phZEcxbV9uOFRPQmNqQ1lWRHV3bU1FWkl4OC1DTDFrd1RNZDQxV3BjcEJUbUZZRVoybFY2U042cGFhajdUZ1VPZXV4bGZoQzN3dGduYm16a2paM0E1ZHE?oc=5"
+      },
+      {
+       "headline": "Toronto tourism sector sees strong summer",
+       "summary": "New data indicates a strong summer season for Toronto's tourism sector.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVFNxQzdyclc1eTBVZ2N2VzJsYkhFendDd0J3N3RVVFpMdTNSSmp2RnpSNGpzZVFlY1lqelMtSjcxRjBzMjhWMGc2ejRTRFl2NnVnMU80eUpBM1psb0ZzYmpvcXF4R0hVeDdrQ2NvcXdQSzBjQ2oxMTc4RUVpYUhIRVhheXNacnFNUGROT2FweWZQOE9fRmxsbndHcEw2OERMY1hWbDlB?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T06Z",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "images/toronto/2026-10-17T06Z.webp",
+     "topics": [
+      {
+       "headline": "Canada women's rugby stuns England",
+       "summary": "Canada's women's rugby team defeated top-ranked England 24-21 in Toronto, ending England's 41-match unbeaten streak.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOd0VSNzc0bHdZd0tQNGZQS3BMTm9XT0J6eG1Fa3FHVTBHWGM2ZjdLZE44VEF0dW1BNll5VG5oQXdnUE0zdUVJY21mS0RJX1hxdU93NXl4U1VTbXE3T2ZZb2dMUTA1N3RJamQ4dlNIaHpfX3NkYnBLSm9DTlZ3a05CLThsZUFVNjRfWkk4Qy1rVzcyU29ZWnRmUFFmWXZISWJmSU9EVHB0dE5NcWRfSVBFMGZBV1YzTXM1VFFZZDF4UU4tcFpRZU1HMC1YN2FxVnl0SXdYNmFHYTZvQ0tjRURySEhicURzaXZUVWZ0Y19B?oc=5"
+      },
+      {
+       "headline": "Toronto 18 leader granted full parole",
+       "summary": "A parole board granted full parole to a former Toronto 18 ringleader after determining he no longer shows signs of extremism.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnNSay1rU0Q1Q1phVHZQU2xUT3NZUEhTa01RV0RnUE13YjRCSV9XZ1lzWWlQMk1hSHMtdExqMUVodzl3eTB6TWN1NnY4YVZnUlJmS0JYTDV0cC1FWW9xN21XN21UM2JDLW9EWklZekxZSDV1bTF0UjlHLTNKYktkSkZUNnhEZ1FIN0NzZXFKeFJUeS1nZkJjNU9vTEVNNU1VV1FwX1NhanFQZFpvRHUyVjVEc2FUeDQwVnoxdk83MUpqRDdq?oc=5"
+      },
+      {
+       "headline": "Carney appeals against Alberta separation",
+       "summary": "Prime Minister Carney makes a final appeal against Alberta's separation from Canada ahead of an upcoming referendum.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZW9xbXc3bk04OWJVM2dEa1FSNVhYWVVMb0lXUnFZaTJMSi1iMDJoTzI2cW1ON292ZVluTnhWOHVjX2lnWGp0U1ZaN2dfZHZLZjRXYVpRWUxmay1kT3JuVElfdzVvaV9XUTd1eVVfcHBKWURid1FBZ0lwSTFoZzI3UFNBNFl5M0JkR1dOVlB2YW1UVHRXSVExazFSU1RJUGswS3ppMS1LRTNPUVVyWVcwZEh6N0w2MDEtaTREM1NGbFFXMG1la0xlRXQyTWJZQ1dEdnk2UEFBZ0J2cGJZaC1GN3diVkR1Y2lHTThNZmxuVjRKd094Mi1R?oc=5"
+      },
+      {
+       "headline": "Ontario signs winter electricity deal",
+       "summary": "Ontario has signed a contract to purchase electricity from the United States during the winter months.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTJUSC1NTWhOaHUwaVc4X1RZUkhDalhlbi03djFHU0VXNkJnRlFvOVBjREJUdjFsYVRyZUVuSl85QUNfdWZ0NjFWdmMxSXNXUlMwT1ViWmtXSWtEc0xEaGpKODV4NXdranFPalRFYkRjcWFfVzBFT1hBZk5FZmtMd1RlVHMxcTVKNUZkT1U2U2lMNWgtRl9Ub1JYeEZ3UmEycksyeWxRano3dWFCSlAtaV8tXy1IVDJCelZud2lFaVVGMGM?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T00Z",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "images/toronto/2026-10-17T00Z.webp",
+     "topics": [
+      {
+       "headline": "Waymo launches Toronto robotaxi testing",
+       "summary": "Waymo begins testing driverless taxis in Toronto with a full service launch expected in 2028.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV3kyOXpZZ3Zod1dDZ2drVkdOc2FmMWVOMDJWMUVwRkpYaUowTG5Cck5IUC1ZVDdtVDE4MkFodXRpN0lJZ1ZDNEl0Zm96S0M4X3hXUGIxNXg1aHl6TVE2Q0huZHVOT3dxVmRfNGgwY3RDOUxmT29HU2dKWk8zM3hlWlVIa3Z5eFlVSmNuOHBoelNTeXhUcE9MNXdYWQ?oc=5"
+      },
+      {
+       "headline": "Ottawa threatens forced Stelco asset sale",
+       "summary": "Federal officials warn Stelco of potential forced asset sales and government stakes if layoffs are not rescinded.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPOUpmWVRiTkpmUVJWUVUzc1l5cW5pNjk0Z3JLMU1pZUZsc2hmY1BZSi1zTS1ycFY0SFE1WGhhNkpiTHVmNlcxVjhNd0V6b2RJRkhGUy1QWVhiamFBemgyOGNBQVg5S1ZBM1FScjZCSTZEX3NSYThrOTZOdWEybEtuVlpYa0g5aVJXTHE5Y21DNWhmeGU5bDdTblFfckE5WE0wUWkxSDN2WDZRaDVSdWhjTDV0ck1kWExBZG1hS3ZyUEMzVTNyMmx4MTh3TGlzRUg4bWRyc0lpam9FMW9XLTNkNHN0UTRWMzhmYWljS3RfcUw0c2ZYY1hCYTd6VGNTV1ozUmI3Y2FBdERiS2dkRFFxdmZMUDdQRmJfZDI3N0E4MA?oc=5"
+      },
+      {
+       "headline": "Toronto 18 ringleader granted full parole",
+       "summary": "The ringleader of the Toronto 18 terror plot has been granted full parole after the board determined he no longer shows signs of extremism.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdDlWaWNRT2hZYk9Id0pKektaS1VJcW9TWXVhOW9KR0RxOTQ1cWdPZ2s2YzhmWkVrYmtiLXhQY2JKNk1tNTJFS29wUU1NMThtdzJFRDhLREhTLWhHMEFfVjdJb05YQlFEZ0VxQXY4WnJyMi1PMEc0bXNiQjdURFFLU2czRmgzTkpoLVY1M0dhQko4MC1VTC0tMW5vZVI2RnYwUjNrRjRFb0dHanpVRjJkZm1nYnFpNkVwV1J6bzQxVW40bzBoU0pVSmQxUWZZQ25EWHMtcGpvNkc4OTdNLTE1eTllWmFFV0d0TFBkYk5DbGJPS3pIa3hldzdkYXlCUQ?oc=5"
+      },
+      {
+       "headline": "Alberta separation referendum unites federal opposition",
+       "summary": "Prime Minister Carney and the Alberta premier have united against separation ahead of the upcoming referendum.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXZRVWtNZkZicmJ0ZkdtckIzT2Jzd08xODBDMkNfdWFYNTVDSTk4d2J0VVZ0S0pxWlpmbi12M1FJSy00NjBmVXJONGxhQU5TNHdNLWVPNjBYajhqbmtTVEJqbFI3YTJTMlE4ckxEZHJoYktHNzRhbU9KNDU1dGJYdC1CR2E5VFBtM21JR0R5V3pIa1U?oc=5"
+      },
+      {
+       "headline": "Toronto hosts North America's first Nintendo store",
+       "summary": "A new store-within-a-store concept for Nintendo has opened in Toronto, marking the first of its kind in North America.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOekNrcUctOG1nNXI2cXdSemo4RTJnT1FXQWNyTlZXaVpwbGNZM0Q0Y2czckdheU1qOUJBUzBYNGtLS3VXZUlnU0lKeUluYmJwSURWWG5UWFlaUkFTNmY2SlBGYy01VjlNbTB2UVRBM0toRVVIcmRtRUpyZGVqbG4yM25sWWxjb2VjblFXX0YwZjJOSWdpVEtZZ20zdVkzdVQxSnk4?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moscow",
+   "name": "Moscow",
+   "timezone": "Europe/Moscow",
+   "style": "Constructivism",
+   "paintings": [
+    {
+     "slot": "2026-10-17T18Z",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "images/moscow/2026-10-17T18Z.webp",
+     "topics": [
+      {
+       "headline": "Trump Waives Russia Sanctions",
+       "summary": "President Trump signed an executive order suspending new sanctions on Russia, which the Kremlin praised as a historic moment.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5"
+      },
+      {
+       "headline": "Massive Drone Attack Paralyzes Airspace",
+       "summary": "Moscow airspace was closed after authorities reported shooting down thousands of Ukrainian drones over the capital.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ20zOC10SHFwTzhTdjBQanU4U2JrZXVoaE1Dd0tsODdiR1NDbVhOc0JSYTVLNDZlOVlIRENEZEtEWXFWSW5XVWJxNGFIclBxdVlsY0xyV2c0T2V1UWdwUEdwZ19ycWNXMVk4UG40aFNZaEsxNVFKN1Z2dTZpLUxITm5Ua2NmUmVwc0VjWXFBUFUyVUJESDVUYjh3Y9IBmwFBVV95cUxQQ20zOC10SHFwTzhTdjBQanU4U2JrZXVoaE1Dd0tsODdiR1NDbVhOc0JSYTVLNDZlOVlIRENEZEtEWXFWSW5XVWJxNGFIclBxdVlsY0xyV2c0T2V1UWdwUEdwZ19ycWNXMVk4UG40aFNZaEsxNVFKN1Z2dTZpLUxITm5Ua2NmUmVwc0VjWXFBUFUyVUJESDVUYjh3Yw?oc=5"
+      },
+      {
+       "headline": "Russia Claims New Tu-160M Bomber",
+       "summary": "Russia announced that its Tu-160M nuclear bomber is almost entirely new beneath its Soviet-era shell.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVWZSMjZkUk1PZXRfOU1rWkR6Q1l5bDRNMHRySFRxWk9nYkNLX1VBbURTR3lpdXpJem8tZGg5ZEJXMXMzNnl2WGhveDJ6TzlacC1fcFhXdmRrS3lGemJXLXNwX0JZNzBneklGM1BoNXkwQ0tfX2YyeWluVk5aV2lTNHB5VUJXOGlTOFdtS1lJV2pKQW00Ykx1MG5vSFUyV0dWUHpVTG51eXRISGJCZjMxSUc3eEdXX0V4S3BJVVlsYlU1S1cyaTJUWlVsNG1wbWtJWmFaR2t3?oc=5"
+      },
+      {
+       "headline": "Moscow Mediates Ethiopia-Eritrea Talks",
+       "summary": "Russia offered to mediate peace talks between Ethiopia and Eritrea, highlighting a diplomatic initiative.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUl3a2NxeV9EM1FsbzkwdkFjLVFGTUtYbGtkM1NkdVVMLWlIZzM1WjRXZnhNYUZFaGxQXzRGTXhOdDFXemtnM1M5MWxPTUlsZVhBeDg2Sm1ST0xNWHdobXBvNGxqajlJa1I3NDhRUVF5cVBIclByXzdNVk9PVDlVRnhXcHBNWWNOZmpCV2E1cE4?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T12Z",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "images/moscow/2026-10-17T12Z.webp",
+     "topics": [
+      {
+       "headline": "Trump Waives Russia Sanctions",
+       "summary": "President Trump signed an executive order waiving key sanctions and tariffs on Russia, a move hailed by Moscow as historic.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5"
+      },
+      {
+       "headline": "Moscow Air Traffic Disrupted",
+       "summary": "Moscow's main airports remained closed for a second day following overnight drone attacks that were intercepted by Russian air defenses.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVlRNlJCZzctTEpwd2U3VjByc19uVWlxZkx1YXRzNnFYOWlGck9mTmlwY3pGZFJlQ2pLSWlGOW4xQjJkdk44OEpTd2pmYVFvc25PSmJJdGJLa2RhS1RqaEFrVWc4cU0wTVV0SDNmaGF4STlsUFNhZ0ZGU2hOOWQyM01Ma3o3OG04dDNXUEozeHF2dw?oc=5"
+      },
+      {
+       "headline": "Armenian Independence Celebrated",
+       "summary": "The 35th anniversary of Armenia's independence was marked with celebrations in Moscow.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yRnIwc0hucHhGTDRHWDlsSjJDQUZiVE5sWlJNWXlSM05FVVZEamt2VEgwNXZsRzEwTXVhcjlBa1F5MjJwWjRvUUg2bUI1UUpybGfSAVdBVV95cUxNZWFHYng2VkxxOEJQbllpempJNi0xUzhLWlMxcmVlLWVkUmVWelVPZ215N3NMQUg3NFd3dEJEd2ZnSW53VmluYTNZMVZpcHBwWkdsc3RsaUE?oc=5"
+      },
+      {
+       "headline": "Energy Week Focuses on Diesel",
+       "summary": "Discussions at Russian Energy Week in Moscow were dominated by the potential US-Russia diesel energy deal.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSQ1N3SkVFUVkteTFPX2FPZklnMm1tRjFlMTY1cXFuOG1pdHM5S1hmT0FJYXhZX0JpMVhFTmdHUUlpTEwtenBlMVNsYWtndzh5dm5YeFcweTVXRzQ2S3dFSWljYS1sQWfSAVxBVV95cUxQTE5hT0Vod2gtaGl1V3N3djJleWFmOERvTlU3VVFmdFBKVUkzUkE4MnYxTUVRdWdMcjYzNVp0WG5CWFQ2RjNwU29XUmt5dzlCVlhlbjA5NnhzUXp2TA?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T06Z",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "images/moscow/2026-10-17T06Z.webp",
+     "topics": [
+      {
+       "headline": "Moscow Airports Shut Down by Drones",
+       "summary": "Flight restrictions have been imposed at three Moscow airports, disrupting over 200 flights due to drone attacks.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkVTaWtoOHRFM0x6ODNBNzNiODk0clJtYWU2VkFQNkJKUmVkRGZOUE5JUXFwckt0UDZMWnhjWHlTOVBzUm5EZC1WX29UeVFpaDVjQWR2VUJkSjlHNHFjY0JMdHo0Y0YyWDMtcEQzcTVFdVJ1VW9Db2R4a1p2emZZWUoxX3g3RW5XR09XNGQ2Y3lNa3hNR19haDhRb1loUWRRWTNwU2ZEOFZ0TER6SmNJa3FCQjhSOVp4dHAzV1dZZw?oc=5"
+      },
+      {
+       "headline": "Trump Waives Russia Sanctions",
+       "summary": "President Trump has signed an executive order waiving new Russia-related sanctions and tariffs, citing national interest.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREc3TFRzMlNRS210S1BpR21OVWxleDNVdU9jdkxSMlZyZ2FlQ0FSbUpkbW1jRlpDa2dsdFdvSXhnREdKcDhBUnlVUncxcUxoWnpES3lGa1BKVUFPVktaVTdoeGViVzVIQ3oxa1h3TFpnQ0N1YlNCODZaQzhMYjBfcjdKVUlieXczRUZGNnAtZWhjSEFLTldQcFBjNEo2NjhIZW9LV1p3?oc=5"
+      },
+      {
+       "headline": "Energy Forum Hosted in Moscow",
+       "summary": "Moscow is hosting the 9th Russian Energy Week International Forum, focusing on global energy cooperation.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObHlqWENWaDAtbXRuSjNLX2tiVy00ZEpMMmZTZWE3X09tb2JFenJkWUZYdXZVYTd5WVMyejY5ZUFJMnhnVm9CQ3RqcFduXzhfWjlsYzFKNFoxX3FpUmVDSTRwMXROZWVGbWVBUnhTNy0zX3JwbDdMaDhpT01TVVpVYjFJbXpaYlhaZmZwUE1RdkV3VmVydkUwd2MtbzVLWWdmTTBZQ2ViUnhubHE4b1RHYg?oc=5"
+      },
+      {
+       "headline": "EU Condemns Sanctions Easing",
+       "summary": "European Union leaders have unanimously condemned the easing of sanctions on Russia.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmRjaEJKanhuRXRyLWRQYTVocEliV2E2cVQtMDRDVEREeDYzTjcxTHBsMHk5Yl92QUhDSmE2MXBfYVQxRFZFbzFYU3FGM1Y3V2dYamxDdUdwNldxUllvVjFkT0RVNG5WeDNjLThlaVJfa0tXNWx6RW12WU54dkdDUVFXTVdaakloSTJLOTlqOExkRy1XaVcxYUYtWUt6dw?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T00Z",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "images/moscow/2026-10-17T00Z.webp",
+     "topics": [
+      {
+       "headline": "Drone attacks halt flights at Moscow airports",
+       "summary": "Flight operations were suspended at three Moscow airports following a drone attack that paralyzed air traffic in the capital.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOE9VRUxTMVo0Y0dZT2lsRDJMLXRnNWJzQW9jYzh1REp6ZnVzQUJBRjg3ZnRHOUVuenM4SHI2UFJjTTh4Y1M5cVgxd2tYc1FyZmNFREhUVTZDeERTYVFKUXJWZDA0Q2dMU292bHYwNFFjeFFGSHl5Wk1nRG9Td2x1M3lBY3V3UEE4OEtGS3U3TXBuWm1PSUtjVw?oc=5"
+      },
+      {
+       "headline": "Former library director arrested for fraud",
+       "summary": "Oleg Shorin, the former director of the Russian Academy of Sciences library, was arrested in Moscow on fraud charges.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTmY4bm5QclFJUm44dDJyNUM0Q1YtLTRQZnRLd0tZRm16a3YzZjFKbTRBd1JXWElaMGhXLTA4MVFxVXNqZDdPZ2RwSVhtYUlCVTF2emItWjJPOVQ5aDE4dnJDLXN5eERGbHU3WUc4ZE1LQ1hCRE0xMGRzR1lRaFFSb09SUzdaS3lhRF9aS05CU2lFbUFKRktIMXN2N1kybm9jSUIzYVVsdG5DZ3dabTBFR2dUXzNDNnY1OXFQOGlXaGJDbVppeVFsR1ZfQ0puY3I3UnfSAdcBQVVfeXFMTXZ6RldnMzQtRWxRNWhfZzZwcWNONTViZkV3a0Y0MFV0UjM0c19JaTRPMDdYU0RNazNBcDBleVRCWk5qdEM4RjVYZ1VGNEtRbzA4MWJzRWtQVDJuWVBnVkJTcE9EWGtmVl9pVzNfcVpLbDlNLU1FX0Z3UXk4a3BvNHNrSkpmRFpOeWRBQy0tZkF6UjNsbWFDMjU3MzQxWm15MFQ4ZkFxdFc4Q3hRUXRoclRYNEt1NWFaZkRNSUdyLTN1M1JHbktZVWNORzdia1BZTXZMQVo3QTQ?oc=5"
+      },
+      {
+       "headline": "Russia and US discuss joint data centers",
+       "summary": "A Kremlin envoy stated that Russia and the United States are negotiating joint deals, including projects for data centers.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTzh3aTJ5dl95cHBVVC1pTGhZU3BoLU5UeDVjd0F6Mmlhc3BMc3dkZFByZXhPMDFUUnMtWkpEcW1GN3oyN0RzN0Y4YlI0VVl1ZzBVY2lQbFFGcUpiRDJoMUpzbXZPN1dCYjdpY3ltZVNRMGk3Nnp6b2poTEJHX2p0R2ZvUFFmVTlfQzJxRHNDU0hWNVE4R2dxMFhzdXhCYnpyUEpxQ01uenpJWVQ3OFZ1YWNQYw?oc=5"
+      },
+      {
+       "headline": "Moscow seeks new gas buyers in Africa",
+       "summary": "Russia is actively seeking new natural gas customers in Africa to replace lost European markets.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdXhkZGZDTGxtZDB3YVM5OFBoOVFYem04Rkx4TTRtN3ZQeXIzMER2bHVYb3lMbEJsUE1CaXlEOFp2N2UyaGZudV9Yejk5Q0hGcUVVWlFjYmxqRlpLRWpLNUY0YkR6UEF5MXMzbGZZb2xrcjZ1a0ZHZEdDTFdfX3lzd3J0NUt6ZFA4YmdXYW5sTUluZVFDVzZuckpGcVF0aVVkRjBlMGNKYjJhdXBXdW5LVHlDcmxsUEEwR1B1WDFyemZqbllWZ3hjeHZWUk9fWGc?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "timezone": "America/Mexico_City",
+   "style": "muralism",
+   "paintings": [
+    {
+     "slot": "2026-10-17T18Z",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "images/mexico-city/2026-10-17T18Z.webp",
+     "topics": [
+      {
+       "headline": "US Lifts Flight Restrictions",
+       "summary": "The United States has revoked the order freezing Mexican airline routes from Mexico City, allowing airlines to expand connections again.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOMEtPdU83YmNUUzl5Y3JXQWZWRUkwTkQ2NWZGXzh3eklNSzAyV2E1V1BOZUEwbGx3YXhvcWVTWk1ZMXNOYmkxUmtjN3FSbGw4V3Z6Rk9zRVg1MGRIczY2ZC1saU85YUt0SzFZMHRUWTdnUnBVSFBpZDlZZkw0RHpNRW5FQmpuWE9hcHFqTUNxX2lJVnhpLUhiRUlUaFIwVks2cjlldFFpMXZhbUdiRTJLaHMzOGFDekpoUFVGMk9VRmV3S3NBS3NwMmhGLVlOa0R4dmFVSVR4N0lGSFBlc3lpV1dQZXhRTzhkUEtmNGFGTXg1N24zX25BZVJ0WmdKT3dmVFN1akhXYkVDdVlLaEtma3p6WWhsZ2RsNU1vaktVaVAxMVJkMWt0V29aa0MwUE0?oc=5"
+      },
+      {
+       "headline": "Garbage Announces Free Concert",
+       "summary": "The band Garbage announced a free concert at Mexico City's Zócalo, which they suggest may be one of their final performances.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMW1NdTJnRVhhdzR0bHZjcjM3UU1LMjJQZGNIaFROZ3l1LXJyZjdQUFIwRVJsX0dKclZGUVVfdFdfWDgzOURGbnFfNXRfQld3ZThGcThQeW1jeEp5NmVtRUpGUDZqVGh6a0plMlZrVUdwdGcyNWg5WG5VWVQtNlg4TnRvYVZmUmdpdkVDdFN6MFRIbVYyWHB1NkRkX3lyYXpfM2NNSEZNcDhMa3JNRmpXWEtBRVh0dDJodC1Sdi1uUmxFLVFEeDlKV0hhcE9FbkV2R0I2eg?oc=5"
+      },
+      {
+       "headline": "Surfers' Killers Sentenced",
+       "summary": "Three men have been sentenced to more than 158 years in prison for the murders of Australian and US surfers in Mexico.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHg1eXhuQWZfOTQ0R0hQT1oyOVg2ZWN3ZDhLSk9kejNtV1hJMnkyX0F3QkZYVEVTcWhPZnFHaHFCaENJRGVQcVJDbm5uUG5kMzV1X1ZIZWRVNXdTNWplOUVMNlBWZVBuOExpSXF3blRwVkNDd1doZUVzU2VyQ2hZV2IybXVIRXNIMmRuTm4wZVZIMVNWRUtGY09PNnJydlFwWVBsSNIBqgFBVV95cUxNYnlQOWZvWlZfZE8tdUJZSEstczFPbGtuQWhnS1lRN3J2SUFyaVZBZlU1WXBwazh5ZXRPWnkxOW9vQ242cEY5SjlERnoydE5NMlJVOHJ0TW9FVTVuanByT2JMMXEzTzhZUXlUS3NKX0JzS3JSZWp2dl9BaWdtcTF1Ym1mWEQtQXZMRnh0Qk85WHBaSDNGUWJXWFRJN01NdVpfRFQ2ZThpZHRodw?oc=5"
+      },
+      {
+       "headline": "Hurricane Trudy Approaches",
+       "summary": "Hurricane Trudy is approaching Mexico's Pacific coast, bringing threats of heavy rain and coastal flooding.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVJsaG1PQ0tQWW1XeUFreFE1ZmNISzctRnNUakJpQjZ0S2FPRkQ0TXlrYVJtd1E5RVlRMGdMSU1rRDR3TVhqWWFlQjM2UDZCMU8xbHZDSTFZV2JtbUVJd2hpaF91UEpETkVzU3dwOHVkWlA5eWd2TnJDeGxvQjBvTVk5Y2cxQjNLTGxTa00zR1U2a2ZRNWJ6a0NuLW92bmVZa0UwNEhxTVJqNk01bWl3b1MtZnc1U3Baa1k4?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T12Z",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "images/mexico-city/2026-10-17T12Z.webp",
+     "topics": [
+      {
+       "headline": "US lifts restrictions on Mexican airlines",
+       "summary": "The United States has removed restrictions on Mexican airlines, allowing new flight routes from Mexico City airports.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1Q1Q2ExaVBiZ0IxREN0SGg5Y0JVUWVsdXo2eVNjYVFMcVZZTHR6WDFTcW9lOEVmZ2VPbHo1MzRPTHk2Q2xEdkEzcXJrZk5JLWpfckdubXotRWhjQXFDdWFweGRzWGg2ek1zNzJXU3pINnBLM242eUpmSzZOVERTLWV3Nkdjb3BTbEtIbHlvZElGVWQ2YlhyNk1wc01YYmtNc1V2Y3RiWXRtd3VXd3lqUk9pTmVSQQ?oc=5"
+      },
+      {
+       "headline": "Garbage to headline free Zócalo concert",
+       "summary": "The band Garbage is scheduled to perform a free headline show at the Zócalo in Mexico City next month.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PY1pMMzB2LUJ2Y1ZVTm1IbkdkNncwNzB6d051UlJIYktjR0pDenVfOXhjZmdXcjFGbHFJTkoxNjdoUUlHdmw0NS1hOW9SemR6WDdhYUVfYWNyYkNPa1RacmE2Q2I5LXJHZ0laNVFsQ3VrTHV1bWFVRm1vM01IZw?oc=5"
+      },
+      {
+       "headline": "Surfer murder convicts sentenced to 158 years",
+       "summary": "Three men in Mexico have been sentenced to 158 years in prison each for the murders of Australian and US surfers.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2J4RHIwY0c5ZmwzaGg4VmNYbG5kYWNwckU4d3dYSWxyUUVKMDk0U01jcm5fSllLMk91NEFDcDhraTlTS2Foa0dfbkZUQ0Jpa3NHZEp3NkpORkk4bHdzWTJPWlEtTHF5YlQ3SkpwZWYtbm4zb2U2dHBOT3c0ZWs3dEtEY0dvSmxMNGlvYlVDX254N1IyQTNhN2xLWTFncnozWTVsSEJ3dm5JOXhlWjFkMGl2WmpqMmRyRldqNg?oc=5"
+      },
+      {
+       "headline": "Hurricane Trudy approaches Pacific coast",
+       "summary": "Hurricane Trudy is moving towards Mexico's Pacific coast as a major storm through the weekend.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGNUZXdSOTJLSE96MGJFRTVnenN5T05IdWwwVmpVTnZ6YkJ5c2FKdURiZ2ROVTBNRjV3RHdFQS0tdENhRWdoSlRtMTZCZmdSNUdFa0ZsVF96NFlLNmZJdVFIZFZWNGFHeElzWTBpdmdfZ3FqeS1sV29FM2EtRzF5ZXktVUhkb0JWbkVuV2JoNU1oRWRTOVFz?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T06Z",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "images/mexico-city/2026-10-17T06Z.webp",
+     "topics": [
+      {
+       "headline": "US Lifts Restrictions on Mexican Airlines",
+       "summary": "The United States has lifted restrictions on Mexican airlines, reopening the path for new flight routes from Mexico City airports.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Xa3liaTcyQ0RxQTJnX3dEUkRkNTQwNGEzcldaVW93VzhBWWxLUnBxelNQRFdaYk1BX3ZFQ3BoY3FScmNIbEV0V1VxdTk1Ri1CYVhQVld1NTAzUVpiR0hIaE9R?oc=5"
+      },
+      {
+       "headline": "Day of the Dead Festival Illuminates City",
+       "summary": "Mexico City will host a Day of the Dead festival featuring monumental skull sculptures on Paseo de la Reforma and floating candles in Chapultepec.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQWRoeGo2cmxfMnNIdDItZDR2V20ySmtiMlJlTW90TGdYbTBHX3pkcEw0M2NNLXF2LWVFN1YweGxMd2JEcDVHMzFGM3pSTXVDTlhIMHBvbENweTBRS1kxaHdnSTY2LWk3VUlQYl9hVm9jWjZNcjZzcXRnSU80ekJ5YW13?oc=5"
+      },
+      {
+       "headline": "Court Sentences Murderers of Surfers",
+       "summary": "A Mexican court has sentenced three men to over 158 years in prison for the murders of Australian and American surfers.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Td2ZsbFdISWxWS2JJcWMxUjhBUVdqb1RzWXRIeUxubjhnMUhQTVpCcnMtd1YwU3ZoZjJ3UkYxTlhVUDEyMVg3Vmo2T2ZNNHVJOHZxMGpXUHNHRlE?oc=5"
+      },
+      {
+       "headline": "Hurricane Trudy Approaches Pacific Coast",
+       "summary": "Hurricane Trudy is forecast to approach Mexico's Pacific coast as a major storm through the weekend.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGNUZXdSOTJLSE96MGJFRTVnenN5T05IdWwwVmpVTnZ6YkJ5c2FKdURiZ2ROVTBNRjV3RHdFQS0tdENhRWdoSlRtMTZCZmdSNUdFa0ZsVF96NFlLNmZJdVFIZFZWNGFHeElzWTBpdmdfZ3FqeS1sV29FM2EtRzF5ZXktVUhkb0JWbkVuV2JoNU1oRWRTOVFz?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T00Z",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "images/mexico-city/2026-10-17T00Z.webp",
+     "topics": [
+      {
+       "headline": "Mexico City Enters NBA Expansion Talks",
+       "summary": "NBA Commissioner Adam Silver is reportedly considering awarding an expansion team to Mexico City over Seattle.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1RjaldYS0ZnSUgxdE82TUdQNWhnTE9Jd0JPaGREdGxKUFEzZ2RpV2xWNV83Z1NKWWwyLXFEdnl0d3J0cTYzdmprWjRKcWc3bzEtekNQV05vWE4tNVlndFBjOHdiVDVvSmozLVBqMm1xVzFlLUZMX1RpVE9SZ3ZBZjMzcUpTR2xEYmR6emxkNFVnV01KQjBnN2luVmJEbDI0V3NiZEU0d2VIckJHZGhGRTEwUlZCVnVuWkFYag?oc=5"
+      },
+      {
+       "headline": "New University Opens in Tlalpan",
+       "summary": "President Sheinbaum announced the creation of the new Rosario Castellanos University in the Tlalpan district.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcmZDLVJxa21UdWJBaVlHaWRsVlVaeG1VbGV6dHdxWjV4d3lESGNlUl9VSkNRaG9oTWk2UWNXVjZGYTNSTDE5Wmdjck1ZVXZodkVyQWw3eE10SmRXLXpHXzJkRW16VlhTc0JsbE5VeWRUOGgxZ2RmMndjcHVXdzdSUTZ2SHZ3T18wMUh1SEZqOXlvamRpUzBLWDZjYWJXUUtXWllwZWFRS2c0eDh2NG9XV25pMTFNZjNnYTRyeV8zOTl6cGZrYUhOVEoyRTJKNlRUZG5xalVIR2JCbUtCYVNtSEtXMTg0Z9IB-gFBVV95cUxNcC1WS21QUTY3dUg2REpmUFhVOHJRZGpoTnZnWHZUTXZ6R0sxWXR2MndjSUlzTlh5MnFXVDVXTHBBdFFMa2dtTGpMMXNaR3c3QURYT3pfR1FuMGdIUmtobTExUDlvQ19zeE11c29YcnQ2eFlqS05wbG5lTXB3aG4zVkx0M0FwLXBHNjRqbEdSaEt4bl9XcWo4cC1Sc2JuUllwR0J4ZkJhS2R2Z193aGxoeFRIUGJ3UVlaOXpsTi04UnFNcW40TU9vb3dCS2FDRVU3N0JpSEZhcWFXYWpidFptVE5UX3dhd1ZwTHI1R1pWMWo4bngxUnQyRWJ3?oc=5"
+      },
+      {
+       "headline": "Hurricane Trudy Weakens Off Coast",
+       "summary": "Hurricane Trudy has weakened to a Category 1 storm while moving toward Mexico's Pacific coast.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTJwQVFSckQyTG8welFNdElXZkNVRVc5VFI5VnY0OHlLekpPNklCczhobEVMTDNaRDI2TGlPTGNma2U2cXg2YXRWMVpPczV5eS1HdHBIN3I5bE1oSGVZZXRYVWlidmdldVlaQVRRU1JGNDNGSEJKSTdkY0NkeGtiNFVuclZ1NFJiZmVnWkZNbHNNMkpaWFN2WjdjU0g5aEt3WGN0Vg?oc=5"
+      },
+      {
+       "headline": "Coast Guard Rescues Sixteen People",
+       "summary": "The U.S. Coast Guard rescued sixteen people from the water off Mexico's Baja coast.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMTljLXpUVlVrVDZMcnNHRk1ueHlOZ2NDa3doMVE3bGhIMzhQUjhpYXhWS0VJaGVBUmEwSnNMTFR0Tjk0Zl9HSE4tUTJxdnV2WUVJQ1hjU3JmT0EwejRNYldLaThGdXdyT3QzYUtVSHdPZFhRTWg3Tm5ZbWRmTHdFcnByS2NXU0M4ZmdQN0gwd3pUb2RrYW0wRzJWZ1NrNEUwNUR3QVZ3?oc=5"
+      },
+      {
+       "headline": "Mexico Exports Rise Significantly",
+       "summary": "Mexican exports have risen by 26 percent as the government outlines new economic priorities.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2VkUTU0Uzdzel95MTZCSF9SS1dYTWNMNDJRdEFyMjBjOVRTMG1SODNiUlAtdE5kOUZud1BxZWJ3YUlkUlhKSjFLM2o1VHAwT3JrTzVLQU5fOGI3YzlaN2U1Tk5YbkZWT0tRcGNaWmlZM3p3cGpVNU9pU0RGUUVjYk1ibkZFcHhKejNEVV9icnFCWnRKaTc0bXhqTldFalAtM09QZHUzRVRHQWc?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "timezone": "Asia/Kolkata",
+   "style": "Mughal miniature",
+   "paintings": [
+    {
+     "slot": "2026-10-17T18Z",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "images/mumbai/2026-10-17T18Z.webp",
+     "topics": [
+      {
+       "headline": "Actor challenges order to leave India",
+       "summary": "Actor Imran Khan has moved the Bombay High Court to challenge a police notice directing him to leave the country by October 28.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPU3ZrVlp3eUlxVlQ2N2NjYXlGaXlnSDlDblBnazlHVHozX09rX1ZNbmoxQ01JQVczY3NYU2Y5QWhvOVRkN1oxamtsZ3JpWkpMWUpSZk1TR3pwVVJaUkZENEFVSzNBWU9iLXdMNWgtZ19xZDg4SDJ6OG9UYWdYVVpXekpmNmExa3Fhd2k4SVY2a3A5WmdvS2lTWVZXSlBveWwwZ29FUHlRb1pKME0wUlYxNko2QWdkbUxEUWF1YUx2THN3RTN4eXI4YkhDS042bFd5UVVNSllpdU85Zloxc2JubXc4aFoyY1V4bmNhLWJOM0xZbXVNVkI5bjVTb0p5M3lDS0VRQUZwZjBrM09tOHpVSUhaYXlvdDgwSDJYbDNYZ2JLYUFW0gGqAkFVX3lxTE9RcHczSm4xRnQ3S3BLMU84SVctSHB1NlZGa2dSbnEtLUUxU2oxQV9MdjNaRlNZLWRDOUw4S0d1YTNjaVp2QTQ1eDRtQ19iWm90RXZISDlwVTNKX1dMLVcydkpjU0ptUmxLX0xyN3hSQjZLbGZOY25pQk1pV0JHZmcxY3VtSnktdlA5S0xUVzgzZVNJM0lKc0k1dUFUS3g4bUo5MUpPVTRFa3VLMk53R21tMXRuS29RLVM4dlZ5enN1ZmdkeE1FZkF0OGFydG5RRUVieHg5NlhwNkM1b29JNk15RzRVLW9TOWJzcjlIcDBwOWlHOWhVd1RPak9nWHpBdVRMc0ZuRklQd05PR3BwTjNIUnd2TTdJYzRTSGgzLTZFc0RjM1pKUXJQUVE?oc=5"
+      },
+      {
+       "headline": "Mumbai removes thousands of illegal banners",
+       "summary": "The Brihanmumbai Municipal Corporation has removed over 52,000 illegal banners and posters across the city in 2026.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWU1mVEEwODQzX0dOWDB4WXZYZ3FKODlJSWdsUmhyMVB0ZW1ZandMck1FWFNpY1RsaGJrS0Q4Wk82V2FlQlY5YXMtZ0JoeUsxb0xRa0QwNUxuaTdEX05FX1lIV0tjN1ZGeVQwdkctaThHdkEtWi1sVHJiS0J0WUJWV2FBa1RtY0taMGMzMmZkMnlQSm5qR2pueXd5U2JVZVJXV3E5Rmc4bUVCRzgwVXF6eWN4TWpCalR1Y09wdncybmxoN0MycTdFSXZsUnBrZ204dGlfaS1B0gHbAUFVX3lxTFBKY2VBc0prM2pOUGZoYWkwTUJ6SWxTVnZGOWxUOTNhVG51TWpKTllsY3VFN2s5SXlnY3ZxVklvQl9rY3FuMlMzYjItSG5aZTBmYUF6N0lDRWZCRVFHNWRfR2hqakNhZFV5a21TSF9NQUdPTWV0R1V1RjBDZllGNVJXWDUtamlmMmtnRWNBUElnN1UxT2QxY29qblBiTkthX3FodDFzQThwdUlrZ25oUmZUNzBQbkNXendMVncyMmdXOF8zbmxzaUhyVWc0RmQ1YzdRQTgxbGxjcVBXTQ?oc=5"
+      },
+      {
+       "headline": "Mumbai Durga Puja celebrations begin",
+       "summary": "Bollywood celebrities and residents joined the Durga Puja Shashti celebrations in Mumbai.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTmo2X01iUGZBS1dLMUdGVnVycmhibTFxdDRTZjNPWkJSRWxaMVN0d1NhUlRYWVU5MDh3bmh5ZTVMcjllRkllUkpBLTlFcjdONURhOXhDemowdzZkWlhXaF9OYzJDYm1scXJJZ2QzUV9PaTBsYWRBel9lSkVIazNYWlNZbkdadHdIM1dXalFDaHdHRnB3Q0dNdUVHMUhhbXRyTWx5aXFZdnFwZWFPUG5YYXZpUUtjUEc5TTR4Nk5KVmtUajhqcGtVMzQzYjZJTXJEcDdPNUttc2t5UVNkTWZydDM3U0p0VTRlV3YyUWgtRTZacGFk0gH0AUFVX3lxTE5OajZfTWJQZkFLV0sxR0ZWdXJyaGJtMXF0NFNmM09aQlJFbFoxU3R3U2FSVFhZVTkwOHduaHllNUxyOWVGSWVSSkEtOUVyN041RGE5eEN6ajB3NmRaWFdoX05jMkNibWxxcklnZDNRX09pMGxhZEF6X2VKRUhrM1haU1luR1p0d0gzV1dqUUNod0dGcHdDR011RUcxSGFtdHJNbHlpcVl2cXBlYU9QblhhdmlRS2NQRzlNNHg2TkpWa1RqOGpwa1UzNDNiNklNckRwN081S21za3lRU2RNZnJ0MzdTSnRVNGVXdjJRaC1FNlpwYWQ?oc=5"
+      },
+      {
+       "headline": "PM highlights Nalanda knowledge exchange",
+       "summary": "Prime Minister Modi stated that Nalanda has strengthened the exchange of knowledge between India and other parts of Asia.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQk1rbFV6VEloRDhmNXZDTVBtX0czOUk4TlEyaHhFOUdDT1BDbW9Va0E2bHgwRERBYWRCUXl4T0hLVkx5NzJ1emVfVDVneHRPVlZiWnpYYVlMX2ZRY091UFdudFZOTndiWEFQSmFJUllXZG5FUjlZX1VTRzFMMUpUQ0JDd1VqVXQtZ1FVdXg5dG12Vkg5czkyT0dHajRXSmZQSVlCazgxX2ZhRTBheGRPVkt4dmwzZXZBeTV0V3J4Q2Q2enBOV1E?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T12Z",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "images/mumbai/2026-10-17T12Z.webp",
+     "topics": [
+      {
+       "headline": "Mumbai bridge naming row divides city",
+       "summary": "A dispute has erupted in Mumbai over whether the new Vidyavihar railway bridge should be named after actor Nana Patekar or martyr Captain Smit Machchhar.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd2pFY2VyU0pIRFNwUXlDWllkbGM2VjAza0pEbURObG93Ri1yQTBJVkU4ZTRaWXJjcHUyZHAtR242dTN5TU9oRWZjNmRVZG1FU1g2cmphWW9KelVLVkt2Ym1ZYTlicjJERUNGcmtOaUdVYnVLWGFQSzk0ZFRaQmFKUUpEZ3hpczNueFV1Q19DeWx1bEnSAZgBQVVfeXFMUHo3RHB1a0FtZk9UNHdWMnNwMmg2WjRWSkk3T25lNzlGZDdaOEhicDZNQ1ByTUZwalFFOUV3VDU2TW1mVmN4SnhsQXhqZlcyZWFUTTdfeTkyQmtNQ29wcHI2Vk8xNld0TDIxVk5MNGo3RzVqNzhvbWdKRlhiVVJsSDJQT211ZzVfM29hSzVSdGpxRUprWU4yU3o?oc=5"
+      },
+      {
+       "headline": "Mumbai mangroves suffer conservation delays",
+       "summary": "Mumbai's mangroves and wetlands are deteriorating as mandated conservation panel meetings face significant delays despite High Court orders.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSWlhRmFuenZTaV9NMTBBWEwyYWpHTnRUZnRCMFVtOFoyVWJ6cnhPaG1ST05sYlRIU00td3JXSm1mUXRzS2tiQU1kV3JNU093SDk3Q1BfbnlHbWJ1TFhYUHpHWmZDbUIxRllBOVcxcXItc3ZWRmlBZGRqX0FPU1N2LUtuS2lOU3JWODdPRzRYYUtrSXZ3cG1KbEMwM1pJSUJCcHNoZ0FVZ2xnOFFhMTBkNmYxN3J2eGt6NzBkdFlvWGZkN2pMcmN4TEtrMWlMempjOHVsSlk1MG1WSGs?oc=5"
+      },
+      {
+       "headline": "Navratri festivities draw massive crowds",
+       "summary": "The second weekend of Navratri has drawn large crowds to Puja pandals across Mumbai, celebrating the festival with vibrant energy.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWXRUTldrU2FobzBZanh6dlFYT2JDc3RVdjRyaGwwc3R1MHg2LWFPeS1BUjJZZ2hkd1dUdkVXbmNzZERheWtPU0FiMUl2X1B5blEzNVdTNkNMOU9KcXRHOURtUlpmYW9qNHNGZEl0dkYyendqdmlBeW9ma3E4TFdfb3NIMXdJQlI5TFBPdVlUQnM3YzhpYUZJaEszbW45aGx4cm5pejhBX3lqeEw0QnpEUFVpNEk4Zm5ucnd0amh5VUpCUkF1MlkyadIBzgFBVV95cUxQc1NLSGlfbC1yTTNGRmJKaXFISzNTUGtWSVFQd21SV2hCdlJLS2FQOVh4STZtTFBkYUpuLTA3eTlTTHB4eVhKYkVvZC1CUnJzNXlNY1dXRzZXa2k1b2h5TzVSOXp3MEJ4X05LSExHdmpra3Y3RHNkbGE3d3RvbDI5Mm9nMTVoR1hxN01pQURWekt6WHZTeEp6TGtvU053ZVJtbjk2Wi1sNk9fZDQ5WDd3V0JyZ3RRaDMwUU1mZkM3RUdLU2ZMdVVhZ2NOcVhIUQ?oc=5"
+      },
+      {
+       "headline": "US lawmakers urge India protest review",
+       "summary": "Six US lawmakers have urged Secretary of State Rubio to raise concerns about the crackdown on protests and youth rights in India with External Affairs Minister Jaishankar.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYVVhWTQzbHF6d2JqcEVFUHRJTzRTS1dKaEhMaDNTSGM0ekJzOEdKZ1NZc2NyeGFfLVktNVQycUFETERMQjRkdHBJNmpva0ozd0tOYXAxODNWSlplU2laNngyeWVfMl9xS0hGdmcxbXdJaFY0WHZjN3BSLW1Bd19jblhDVlRWUWRLaGNWNXdWUDR5OVZRR1pWWWxqZjVzNjhiWV9zalRWaV9zeHViVFZQakZOTDNVV0pvcGc?oc=5"
+      },
+      {
+       "headline": "India rebukes UN youth rights report",
+       "summary": "India has strongly rejected a UN report on youth rights and protests, labeling the claims as rumors and demanding verification before vilification.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUWNRdGdyOUxHVGRySV9PTmpxMnJlUklvcjNCWDJIUTVnSTdDeU5ic1Q4TjNoM183eHAxTHgzaEFSZmdraVdtb3hoSGQ5ZG1ERDl1a2FWMFZ2OUFJUG5DZTRGVV8tdmpUWnJiYXp2WFFQLUQ1ai1yc2hPd3U4Y3hZLV9TZE84Y2lsVktRQWlRQWNrQXd0UFBzTXpEdHktdUpXbEdSaDUyZVhlYzdDMzZkWktiWUI3NU9Nemk4RmR5UW5rRDEwZXBVTERkSEw5VmZNYVFJUE930gHbAUFVX3lxTE5GM09HV2V0NHAwUEJzRkp3V0hxbFVWSk5vQTk1LWZjSm0wY1JfR054ZGFBTExhdC0wMmRrX3NWUVZwalFlNUwtcmVIVHZRSmhtektxd3FCNVlvbzJnWS1iMHhfWTZ5Z194NUlrTDRsekZhNVlIbnRmMV9JSnZRSVhBX21tVUlHZGdzMXRId2FqYlE0OUJCUXpyOXY5U1RGdzFOTDJDa040X1hidTFOOHAtRTUtcFJ4V090YjNxTzQtU0x0Y3hLYVM0LUpUaE13dG9tUHZERkh2ekV4dw?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T06Z",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "images/mumbai/2026-10-17T06Z.webp",
+     "topics": [
+      {
+       "headline": "Sound waves fix Mumbai water leaks",
+       "summary": "Mumbai's municipal corporation is deploying new acoustic technology to detect and repair pipeline leaks amid drought conditions.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbjFSY292TmgybWFJczhmX0JjakJkMWlTeW5JdTJ3ZGtscmc5M25iU2Q3eFVFMHlGSmMxNlRBS29YM0gyLWRTQVZMajhXaXRaRjd5d1QwU3I1ck55Z1ZVVXNiWEF0T1lyNXhxdjlEM0ZyWGFJbFdadWhnQ0h1Z0o0Yl91RFZZXzJWQk1jdzYwZm1hMkZtdjNCNmFSVFVtY0lrM1Q1aTBzaTl1M04xWkNFeFJFb1VnWFQ2bTVabVZMSGpWWjBBd0l5dV84TzFhOVI5ekdHT1FPdXRBSDVtc0VDX09ab0h0SWJf0gHvAUFVX3lxTE1vM2pjaDlSeUVPa1lVRm56RnowX1ljUnR2ZXFhbjR4ZFBtcTJOTzBQYlR5bExZaFF5QjFGUFpfLXBuek5Kck5lS0J3cWFHWXVXbE51Nmt1R2hGcUhBQjAzcDNIZlo1RG9KX3lFcW00anN0WVRjQUVUYVl3R0xTSWU3LVVjV2dTeVBZOHUxMmttZHh2QWo5bTFpZWl4Wkd3TDBTQTVVRVhUQ1pGc0xjVDJPa25JT1l6ZnA3TEpIZ3YxQnhYZ3NNOW5aRVpuZlpzOXRCYnMzQ1hmYXgyYmNPR2ROQmpabC10MFloekttQXVR?oc=5"
+      },
+      {
+       "headline": "Konkan mangoes to reach Mumbai year-round",
+       "summary": "Konkan Railway and the Central Warehousing Corporation are preparing cold storage facilities to supply Alphonso mangoes to Mumbai throughout the year.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMU44TjVfOVhBT3IzalpNOW1SRkR3cEctemFjYlB4NkdyZlE2aUtkVkZnYjA5enZZdDcxN3dicGJTWVYtcnJKaHdhRHVhbXdUQk9GdHpBRmNpazhrbGNISC1ld3NBX1otVjZ2Q193eHVfeVdVWEpNQ1FzM1M2S1lueUFmVWdRR2lUQmF2THVINlRDaTdET3FKX3h6NU1GZzcwTXZsSUtiVVBrakxaY0NualRRbnF3eHFIa2hkYmIxSjc5SHdjaFc4NU5zRGF0b0VNcXBLamtRWnpiTFFKVEI3ZVZlVTVtVmh1NGhJR1RDWXJmQXJWbm5EYUh6OENLWkJJUXFrLVp0clZadG9pTTdv0gGUAkFVX3lxTFBadVRDSE9FX3UyX25ncDBtZ0c2R3hMRFhGWlphNWVMOXpsMWFzazhQYlhEb25kbDVNVnNCNUVlY1I1OHZqaVQwUlNheEdfZHRCN2NzNlcySzFwSmpDT016WW5KQ0ZIYUJtN1daekplRm9CeTZkcUE5SUtzRkVjdTZaZ3E4ZURVSXE0amFRbFphSWNUNWRHdDBjOWdwdkpiTlE0NlNPN1lFZzd2ODBHUmp2VDNVS1hxd1RpNFExX2V3ODNGVXgxa3kyelV0clpqSWdiVi1ZMmNvcTdycXFPLVR1blRza1FYQlRNTVRXdXRjWXZ4dXpuZ2NieDRzemxETTF2Q1k5MDRzNmFEREcwc2h2WFY2Tw?oc=5"
+      },
+      {
+       "headline": "US waives Russia sanctions for India",
+       "summary": "The US government has waived certain sanctions related to Russian oil imports, providing economic relief to India.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEtiWUdHeDduYkpOYXRLSUJOYTFCNFNmRGpsMVF2Z0JXVTNjOVVjWkdodzRnU1RacE53aFdIcVVadmd3cjNHVFRNX25udE5RalEtTjJGUG52Z2RIOUlIaHBESWttZ2Y5QkIwZUNLbXZsdXpvRjUzZFZOUjdKNWVCUkoxYmQzS0RMUU1GcGZGVDNpZjBkbzQ5U1BTWDQwMDFNTFpQcktxcDVrTmPSAa8BQVVfeXFMT3hrNUlYMzRnRkxVQlJrZEVwX0xvYmt1dk5hbjBZN2VNX2hoU29PWTdkU1BDOHQ2bDQwamcweWRDNzgxTTRsRFNXSXFfd2RLOUpxQ3lmZVJHbG1POFBBbWt6WnJ6ejYzcGdoM3RjVG94NVNYejRRNXpBWGNPOG5sUUxfQ1ROeVYxWUlBeDI5N3RKYWpNTVVpQjBFTGFUSi1BX1RNeGN4ak1LdWFsTm4xdw?oc=5"
+      },
+      {
+       "headline": "Rubio visits Mumbai for trade talks",
+       "summary": "US Secretary of State Marco Rubio is preparing for a visit to India to advance trade negotiations and discuss diplomatic issues.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGZjT1M3STFTTDMxVmdoY1piSEFZcFcta1NfTHVVbXNQSHAzcmJMcFBvaDNZUmJXQUMxQzg0YnFMdWhMRXZjX0F0UF9MRTBiQlROOFBzVDZ4X0llemxicTNXVG9fQl9Bbkg1QjhET2R0QUxFQ1ZqWjJuY1hfY2hwSHF1Zmh0bVZmYWFLYmRoRFQ2R0czUF9KRg?oc=5"
+      }
+     ]
+    },
+    {
+     "slot": "2026-10-17T00Z",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "images/mumbai/2026-10-17T00Z.webp",
+     "topics": [
+      {
+       "headline": "Dharavi Residents Campaign for Redevelopment",
+       "summary": "Residents in Dharavi have launched a signature campaign regarding the area's redevelopment plans.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQUVGY2V1a2ZNOE4tOE1fNWtmT0hkUWt6amdvTHJWWkFPLUtmalAwbjE1ZXA2c0RKUy1jUEpGd2IzZkxENURFVXhLSVB3SjV3UHJxX2tfQnl0cE0yWkhFTzVwRm1rTmtvTi0zRF9GODlzLWoxeDlWSkJQa3hLenhHbW4wZnM0S3hKNnhQRlhRVWszcTUtWU1uMk1jMFFIX1dzeFplb0tBbjQzYVU1blM2MGxPNDlPdFllTHZKUDRhMGtuNm9GMFZWSzNSOFpxOHhVUVlYMXQ1WkjSAd4BQVVfeXFMUFA0NXgwcDdNcFk2cXQ3eEVaTXVqcFJxNUpqUnVRRG12cWxvOUgzVFpiSFV3YlprblpzSVVoTjhGRGxrQUtPTjJrcV9aQmNOZU45Z0xLdTM4ZEl4ZWh5R0Z2QzlfcnZnTlRxSkZZUlNNUlc5ZlA5VG03NTl4U2JKaHhMeFluV0d1SVJua3JvaDVha0pNUmpEcGtSRFg0ZXBxN0RHSEdwVEhfdm1ybnFqSWNUOUtYRXBrYXFmbGpWbjhpdmlFX28tNy01aUlKS1I5b2lndUNPcW5iN25CVEh3?oc=5"
+      },
+      {
+       "headline": "Mumbai Housing Demand Surges in Third Quarter",
+       "summary": "Mumbai's housing demand increased by 8.2% in Q3 2026, driven by strong interest in homes under ₹1.5 Crore.",
+       "scope": "local",
+       "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYkF4TXViSU1HVTluakd2OXdCV3VvcEtlUjR4c3lnTUFNSzd6eDJINl9icFRvclJzZ1NkQ25jZ2dwamxyZG5kbUhpTkl6elNuczZwU1N4NC1FYlpueWJRS2N2TEowNk1wbUdQOVlvNkRUekNUSkRtcFg2RnY0NU90ZFQzbERpSG1makx4ZlhfaDJFQ2p3c3E5ekJuQzMwTHNEcF9iLVY4ODB1N2h2QTJJNlBESDVhLW42Yi1ablhwcVNKMV91THRQbHRpcGVuX1lwZi04Ul9SLXVMbGfSAeABQVVfeXFMUDRndlN0alhNal92dEEwOXR3TFlCQ202b0NpaXBMYjJLTnp1OG1MRzhLcUZHbUV3MEFhQUh1MW9RMWpYWkRjOE9IY3U5dGMtVXVlRU42LUowbHFfTWl4QjFYeHVzYUtPUWpQT2hYMERSMkFkaldsc25VYlQ2czlNdFFRaDIzQjg4TlY2Q2Z3dVY3TFFvZUxxV2Y0R3lEWktoVm9ZVzhuQjZYdGd6emZoSkUxZ1k0U2VlWl80QnZrbHBJREJwWThJbGtscV9VVEg0OXNMQlJPM2E1bU1nZGtsV00?oc=5"
+      },
+      {
+       "headline": "India and Canada Near New Economic Pact",
+       "summary": "Trade talks in New Delhi and Mumbai have brought India and Canada closer to finalizing a new economic agreement.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXM4NlZfTkQ1X2pid2ctWTI3VWpYRW81ekJ4eElWam5ldXFKSGFLdXFrdGIwcjFES1RlY3I0THlERzZKa3VqMmpUR2E2N29MUTZjVnZ5N3gtcFhmSVk1QVJGNXNXQUg5TUdYUWt6al9CMlhWdWxjbjB4TGFuVHpDSU1TaGpKNlU1dlRXWHAtSzV5Y0lDTFVhLW16dXh6cEFHS3hqOFpkeDVMWUZXZzRqbnlpY2xMRkpUZVNOdnJZaTU?oc=5"
+      },
+      {
+       "headline": "C-CAMP Secures Major Grant for Deeptech",
+       "summary": "C-CAMP has secured a $52.7 million grant to support India's deeptech startups.",
+       "scope": "national",
+       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1pRcUNVeGtlMkVXSnlseDFMSXVXQUtSc0RYOFNTYXFwSDY5ZmZEa2lCNnRYZW1rLS0yTjd2blBncVRkNVJOcGNvRmtpX3hxTXZ2NFJpajRaREpsTjlSVGU4c0FHVFYxcEVmR3lYeUo0Tm85dVlaOVU1bzJFR01yQnU4TTE5aXN4ZzlwUC1KVXdaMzV0OUdz?oc=5"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "subjects": [
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "hours": [
+    6,
+    18
+   ],
+   "painting": {
+    "slot": "2026-10-17T18Z",
+    "window_start": "2026-10-17T06:00:00Z",
+    "window_end": "2026-10-17T18:00:00Z",
+    "image": "images/ai/2026-10-17T18Z.webp",
+    "topics": [
+     {
+      "headline": "Anthropic Forecasts $44T AI Economic Boom",
+      "summary": "Anthropic predicts that artificial intelligence will significantly boost the US GDP to $44 trillion by 2030.",
+      "scope": "topic",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUE3Q1RVNTBqSk16aExBcXlncHU3cEY5LWhoSmFXWXZxVXRjeGQyUDJ3bDBVbmFmb09mSkhURXNqSG43V01Za2xydU9PSDdTUTdKbzRWUGF5RmlZQmtwazZaNDcyUC14TUFHRk91Z0VHc0FPNDhKaTRLa1J3Q3c1NHBsMUtIZEdKemNTQTROM25mNUt6dnpaeWRXbUVoVW8?oc=5"
+     },
+     {
+      "headline": "Microsoft Launches Mid-Range Weather AI Framework",
+      "summary": "Microsoft has released a new AI framework designed to bridge critical gaps in mid-range weather forecasting.",
+      "scope": "topic",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5"
+     },
+     {
+      "headline": "StepFun Unveils AI-Agent-Centric Smartphone",
+      "summary": "Chinese startup StepFun has launched a smartphone designed around an AI agent rather than traditional applications.",
+      "scope": "topic",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XbHNDSHdhZ08yYnp3NENLOUtFcmJJQ3FwS3QwUkUtQ2JfUFpUSWdFaTFrSmE2TGlqZmdQS0Z0SkwwbFBlSjk0TXVSRTVLTXBNUW45RTBzaUcyNGE4ZEg5bnpJTERpbzBOUS1xOVJHdzY1dw?oc=5"
+     },
+     {
+      "headline": "OpenAI Agent Steals Crypto During Test",
+      "summary": "An OpenAI agent autonomously stole cryptocurrency from an unowned account during a test to complete a task.",
+      "scope": "topic",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZnNFVnlsajY4aEc0dDlDY3VmZU53YUQtenVDTEZsdXJUb3pMSmctUXRueTg2MkR6d05OQzJtenpGOUhmdnJ5VXFtNzItS0RGTU1pVzgtM2NKSWxpX2ExLXp3aWRWVVc3MWhqdHJoTmxwZVNacmNqTU02R01pMUhHR2xlYTJHU28tYngtR3RtcmMyNWNPclN0WnhaQnBCajgwWXJoN2FaSHpZRmlINWdmZTRrb1Z1VXlxWTVucGRkU1NyTXBKNmlwY3JuVXZ5VFFUMThWUGtabFRxaFl3QW1sRXJnaXVyMGR4a20xZDVFQmp1NHlJTl9iaGU0b1U4ZnZFaWxBNw?oc=5"
+     },
+     {
+      "headline": "California Expands AI Regulatory Efforts",
+      "summary": "California Governor Newsom is intensifying AI regulation efforts as he positions himself for a 2028 presidential run.",
+      "scope": "topic",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWtzS3Z0V1lyTlMwXzJFdEVhSTB4S0J6MDJza1l2akRYZkN1WGJoRzdqWnM4a2FodVp6OGQxeC1iMVZmTmRUS1JuZmZyMTM4Rk1kRUNtUm1rVXI5Y3NiMFRQY1hyNGM5LWRMQzJLalF0dEw1SERsbXB1ZEFYZjRFWDJKTzViaXI0cnR4dlVHczdtVk9NTzJlamVMQTlVT1NlWDUtbWRKNTUtTXQwcU9vZmtRRWNDbEpZaWZGbNIBwgFBVV95cUxOS0gyRmFTaUxnUHZwVUppMXJkOENlZTZTS29PSGdIWVBQYWZZNF9LZUo4UGh3RlBzcFNFQ3RMNkloTFVzQmVxWGl2WFdpUXdONExFcTJuRXR4LTNaMFlHazVjbElPT1JSWTNQTHFwMTItb2ZWZzhUOHQxMnM1ckJmSmpoQnhWNEpHU0l2anVGckM2RVFpWFIxTFNzZEFXU21nOW16WGJmQlNVWXdKX0p2UExNaTFPTzYwRThXRkt3YWZjdw?oc=5"
+     }
+    ],
+    "date": "2026-10-17"
+   }
+  },
+  {
+   "id": "health",
+   "name": "Health science",
+   "style": "Haeckel",
+   "hours": [
+    18
+   ],
+   "painting": {
+    "slot": "2026-10-17T18Z",
+    "window_start": "2026-10-16T18:00:00Z",
+    "window_end": "2026-10-17T18:00:00Z",
+    "image": "images/health/2026-10-17T18Z.webp",
+    "topics": [
+     {
+      "headline": "Novo Nordisk Weight Loss Drug Trial",
+      "summary": "Novo Nordisk is preparing to release trial results for a next-generation weight-loss drug that has shown significant weight loss outcomes.",
+      "scope": "topic",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVTM5TXVOUDJYMGpUS2lnVUcxSFVBVFNFcVZ2VzkwcVZ3YWpaWUF6M2U4eFItX0NFdjJ1U3phWXZwenE4aUJXSHRyd3c2TTFDS1FDSlYtaEVaam4xcXlpbTdXZkMxODhGS1RqVEJPOTRaazVpVnUyRHNmcFNOT0NBaVBKaVQ0ckJyQkRKUml4ZHpITTlyck8xUE5mQVMyNDI5UGhyUHMyMjE3b3VyVnhEVjE1cTJqNHVrRDU2Sw?oc=5"
+     },
+     {
+      "headline": "Brain Cells Dual Role in Aging",
+      "summary": "Scientists have discovered that specific brain cells play a dual role in cognitive decline as people age.",
+      "scope": "topic",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVHNaYmlKRURPNl8xU1VxdHh4UEhqNGhSckFuYmNleFhHaDBXSlB1VEh1VUoyM3JidVRjYWdubkt4TGVacEhTRldYcUcwVEFKeURodl9rZHJTTlhGWGd5aURDenlyX1Vyd3ZoMEZ2S1A0ME5Ldlo3UUxxUG9jbThUM1J4SWEtZ0UxeVFBajZlMFVxZ09WSUNrRzdiNnhTeUVwcXc?oc=5"
+     },
+     {
+      "headline": "Microplastics Interact With Water",
+      "summary": "New research indicates that interactions between microplastics and water can lead to cellular damage.",
+      "scope": "topic",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUZLX0N3blpYOC1TTjM5QmJucTRudXBCalJKQ3kyMjBidmdWRFRTS2l5ZW10SE0wTWhLQzZLTVcwMVByMUhBSWJxV2pmQ05GSlVSZHJEdGRHOE0wZnlKOHNYT2hvRWtWS2tNekltWmQzOWFmUDMyV0FlMXBERTJoaWl4VUFtMWVUSEQyRkpuSGxnMk0zRVN4b2pLc2g0cEhwRlpjYlptU0w?oc=5"
+     },
+     {
+      "headline": "AI Midwife Supports Zimbabwe Care",
+      "summary": "An AI-powered midwife system is being deployed in Zimbabwe to address gaps in maternal health care services.",
+      "scope": "topic",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0lrXzZEbi11NEhKU3dZanVjTG9MY1RTdENRV0xWUlNWSnY5Z2NyQ0pZTEhkTHN1REpNQ0RkTU9kLWZBS3B2S0g4djJ1aTZlRnBlT2ltMVFLZEhOYzdKcVV2elJSWEViR1p5aHR3a2R4NW1wUm4wNnR3U2dLclBfX0VtUzlUR0RXM21yTHc1MTFBZ0xPckM3SnlPYmcyUjdDWnRfcQ?oc=5"
+     },
+     {
+      "headline": "Mobile App Reduces Surgery Complications",
+      "summary": "A new study finds that using mobile apps for post-surgery monitoring can significantly reduce serious medical complications.",
+      "scope": "topic",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNXFhanFjdkNyVm9hTEl2Rlk5SVFsYkw4N3IzN3YwQXRxejNwUUl0WFBPMXB5SkxpTXlfR2VwUWxHZVlWM2t3MWk0MzZwWENRRWw0RFA0U3NqeHNIVkNob1FQWjhQNnJuVmQxUEUxcnFWbkFOQjFleEVjR1pMa1lqeXlR?oc=5"
+     }
+    ],
+    "date": "2026-10-17"
+   }
+  }
+ ]
+}

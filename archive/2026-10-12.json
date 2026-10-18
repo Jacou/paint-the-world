@@ -1,0 +1,268 @@
+{
+ "date": "2026-10-12",
+ "subjects": [
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "slot": "18:00",
+   "image": "archive/2026-10-12/ai-18Z.webp",
+   "headlines": [
+    "Meta Launches Frontier Muse Wonder Models",
+    "OpenAI Fires Safety Researchers Amid Risk Disputes",
+    "Congressional Momentum Builds for AI Safety Rules",
+    "USA Today Sues OpenAI Over Copyright Claims",
+    "AMD Unveils Massive Core Rack for AI Agents"
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health science",
+   "style": "Haeckel",
+   "slot": "18:00",
+   "image": "archive/2026-10-12/health-18Z.webp",
+   "headlines": [
+    "Lilly weight-loss drug achieves record results",
+    "Admilparant shows promise in IPF trial",
+    "IL-18 boosts T cells for tumor therapy",
+    "Menopause causes abrupt metabolic shifts",
+    "Late-night eating linked to liver disease"
+   ]
+  }
+ ],
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-12T12:00:00Z",
+     "window_end": "2026-10-12T18:00:00Z",
+     "image": "archive/2026-10-12/london-18Z.webp",
+     "headlines": [
+      "London water outage sparks commuter outrage",
+      "Beauty salons revitalize empty high street spaces",
+      "Government blames Iran for airbase security plot",
+      "Burnham seeks new EU migration and trade deal"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-12T12:00:00Z",
+     "window_end": "2026-10-12T18:00:00Z",
+     "image": "archive/2026-10-12/new-york-18Z.webp",
+     "headlines": [
+      "Mayor Orders NYPD Use-of-Force Review",
+      "NYU Langone Opens New Imaging Center",
+      "ICE Shooting Victim Held in Poor Conditions",
+      "Trump Threatens to Flood Sanctuary Cities",
+      "US Stocks Hover Near Record Highs"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-12T12:00:00Z",
+     "window_end": "2026-10-12T18:00:00Z",
+     "image": "archive/2026-10-12/san-francisco-18Z.webp",
+     "headlines": [
+      "Coastal Flooding Threatens Bay Area",
+      "Quantum Tech Showcase in SF",
+      "Federal Agents Raid Rep. Omar",
+      "US Sanctions International Court"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-12T12:00:00Z",
+     "window_end": "2026-10-12T18:00:00Z",
+     "image": "archive/2026-10-12/tokyo-18Z.webp",
+     "headlines": [
+      "Imperial Hotel Plaza hosts pre-demolition art",
+      "Typhoon No. 29 approaches with strong intensity",
+      "Japan declares cyber emergency after hacks",
+      "US and Japan reaffirm North Korea denuclearization"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-12T12:00:00Z",
+     "window_end": "2026-10-12T18:00:00Z",
+     "image": "archive/2026-10-12/beijing-18Z.webp",
+     "headlines": [
+      "Beijing orders national blockchain network",
+      "Swift response forum kicks off",
+      "EU caps Chinese hybrid imports",
+      "Loongson launches high-performance chip"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-12T12:00:00Z",
+     "window_end": "2026-10-12T18:00:00Z",
+     "image": "archive/2026-10-12/paris-18Z.webp",
+     "headlines": [
+      "Historic Paris Market Destroyed by Fire",
+      "Student Riots Spark National Protests",
+      "Cyberattack Spoils Food in Supermarkets",
+      "French Economy Shows Minimal Growth",
+      "Stolen Renoir Paintings Recovered"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-12T12:00:00Z",
+     "window_end": "2026-10-12T18:00:00Z",
+     "image": "archive/2026-10-12/berlin-18Z.webp",
+     "headlines": [
+      "Germany Rejects Easing Russia Sanctions",
+      "Germany and UK Confirm Summit Date",
+      "Syria Joins Berlin World Health Summit",
+      "Merz Vows Electricity Tax Cut",
+      "Germany Detains Suspects Over Starlink Fire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-12T12:00:00Z",
+     "window_end": "2026-10-12T18:00:00Z",
+     "image": "archive/2026-10-12/rome-18Z.webp",
+     "headlines": [
+      "Global Food Forum hosted in Rome",
+      "Egyptian portraits displayed at Ara Pacis",
+      "Italy warns on EU budget exit risk",
+      "Germany and Italy seek EU legislative brake",
+      "Italy condemns Houthi airport attacks"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "style": "Group of Seven",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-12T12:00:00Z",
+     "window_end": "2026-10-12T18:00:00Z",
+     "image": "archive/2026-10-12/toronto-18Z.webp",
+     "headlines": [
+      "Toronto voters demand housing action",
+      "Carney rejects 51st state talk",
+      "Bombardier acquires aerostructure assets",
+      "Bike lane protests planned in Toronto"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moscow",
+   "name": "Moscow",
+   "style": "Constructivism",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-12T12:00:00Z",
+     "window_end": "2026-10-12T18:00:00Z",
+     "image": "archive/2026-10-12/moscow-18Z.webp",
+     "headlines": [
+      "US-Russia Diesel Deal Sparks Diplomatic Tensions",
+      "Scientist Sentenced Over Navalny Foundation Funding",
+      "Moscow Expands Detention Capacity Amid Shortage",
+      "Lebanese Official Seeks Stability Support in Moscow"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "style": "muralism",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-12T12:00:00Z",
+     "window_end": "2026-10-12T18:00:00Z",
+     "image": "archive/2026-10-12/mexico-city-18Z.webp",
+     "headlines": [
+      "Hurricane Simon floods Pacific coast",
+      "Mexico City budgets new city hall",
+      "Scientists warn cities are sinking",
+      "Muralism epic showcased in capital",
+      "President pledges water aid"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "style": "Mughal miniature",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-12T12:00:00Z",
+     "window_end": "2026-10-12T18:00:00Z",
+     "image": "archive/2026-10-12/mumbai-18Z.webp",
+     "headlines": [
+      "Dharavi Redevelopment Construction Begins",
+      "Classical Dance Fusion in Western Suburbs",
+      "Nationwide Protests Demand Election Chief Quit",
+      "Inflation Hits Near Two-Year High"
+     ]
+    }
+   ]
+  }
+ ]
+}

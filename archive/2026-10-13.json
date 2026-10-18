@@ -1,0 +1,575 @@
+{
+ "date": "2026-10-13",
+ "subjects": [
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "slot": "06:00",
+   "image": "archive/2026-10-13/ai-06Z.webp",
+   "headlines": [
+    "IMF Warns AI Market Risks Threaten Stability",
+    "UK Emerges as Global AI Safety Watchdog",
+    "New Framework Guides AI in Mental Health",
+    "Meta Launches Muse Wonder AI Model",
+    "Nvidia Faces Competition from Huawei in China"
+   ]
+  },
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "slot": "18:00",
+   "image": "archive/2026-10-13/ai-18Z.webp",
+   "headlines": [
+    "Anthropic Warns of Self-Replicating AI Worms",
+    "Kroger Cuts 3,000 Jobs for AI Shift",
+    "Meta Launches Muse Wonder AI Models",
+    "Rice University Unveils Major AI Initiative"
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health science",
+   "style": "Haeckel",
+   "slot": "18:00",
+   "image": "archive/2026-10-13/health-18Z.webp",
+   "headlines": [
+    "WHO Launches TB Toolkit for Mothers",
+    "BioNTech Cancer Vaccine Fails Phase 3",
+    "ADHD Linked to Cognitive Decline",
+    "Respect at Work Reduces Fear",
+    "BMS Lung Drug Meets Trial Goal"
+   ]
+  }
+ ],
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-13T00:00:00Z",
+     "window_end": "2026-10-13T06:00:00Z",
+     "image": "archive/2026-10-13/london-06Z.webp",
+     "headlines": [
+      "IMF warns UK inflation will rise",
+      "UK-EU summit date set",
+      "London Film Festival showcases 'Ink'",
+      "Rare porcelain found in London home"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-13T06:00:00Z",
+     "window_end": "2026-10-13T12:00:00Z",
+     "image": "archive/2026-10-13/london-12Z.webp",
+     "headlines": [
+      "London MPs demand EU rejoin",
+      "UK blames Iran for air base incident",
+      "Asian restaurant awards celebrate London",
+      "UK fashion brands hit by cyberattack",
+      "UK braces for severe wind warnings"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-13T12:00:00Z",
+     "window_end": "2026-10-13T18:00:00Z",
+     "image": "archive/2026-10-13/london-18Z.webp",
+     "headlines": [
+      "MI5 warns of Iranian military plots",
+      "London Stadium hits solar energy milestone",
+      "UK urges Interpol to reject Falklands arrests",
+      "UK bird populations hit record low"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-13T00:00:00Z",
+     "window_end": "2026-10-13T06:00:00Z",
+     "image": "archive/2026-10-13/new-york-06Z.webp",
+     "headlines": [
+      "Mayor skips parade, sparks debate",
+      "Governor's race heats up",
+      "Federal agents search Omar home",
+      "Publishers unite against AI",
+      "Salmon return after dam removal"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-13T06:00:00Z",
+     "window_end": "2026-10-13T12:00:00Z",
+     "image": "archive/2026-10-13/new-york-12Z.webp",
+     "headlines": [
+      "NYC 40 Under 40 honors local leaders",
+      "YMCA expands childcare capacity",
+      "State tightens two-second traffic law",
+      "SNAP cuts strain food assistance",
+      "Puerto Rican citizenship faces hurdles"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-13T12:00:00Z",
+     "window_end": "2026-10-13T18:00:00Z",
+     "image": "archive/2026-10-13/new-york-18Z.webp",
+     "headlines": [
+      "New Upstate Park Opens with Trails",
+      "Colleges Waive Application Fees",
+      "Governor Debate Scheduled",
+      "Court Grants Civil Rights Cases"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-13T00:00:00Z",
+     "window_end": "2026-10-13T06:00:00Z",
+     "image": "archive/2026-10-13/san-francisco-06Z.webp",
+     "headlines": [
+      "Bay Area honors Indigenous heritage",
+      "Affordable artist housing opens",
+      "Salmon return after dam removal",
+      "Homeowners seek insurance reforms"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-13T06:00:00Z",
+     "window_end": "2026-10-13T12:00:00Z",
+     "image": "archive/2026-10-13/san-francisco-12Z.webp",
+     "headlines": [
+      "Cliffside Rescue at Mile Rock Beach",
+      "Quantum Research Showcased in SF",
+      "Puerto Rican Citizenship Rights Debate",
+      "US Manufacturing Spending Rises"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-13T12:00:00Z",
+     "window_end": "2026-10-13T18:00:00Z",
+     "image": "archive/2026-10-13/san-francisco-18Z.webp",
+     "headlines": [
+      "Boat dwellers face displacement",
+      "Former police deputy chief killed",
+      "AI industry faces scrutiny",
+      "Court grants key data cases"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-13T00:00:00Z",
+     "window_end": "2026-10-13T06:00:00Z",
+     "image": "archive/2026-10-13/tokyo-06Z.webp",
+     "headlines": [
+      "Tokyo co-hosts Ukraine justice event",
+      "Chiikawa transforms Tokyo Skytree",
+      "Trilateral talks on missile launches",
+      "Anthropic data center in Japan"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-13T06:00:00Z",
+     "window_end": "2026-10-13T12:00:00Z",
+     "image": "archive/2026-10-13/tokyo-12Z.webp",
+     "headlines": [
+      "Tokyo Stock Market Sees Tech Selloff",
+      "Solar Cell Efficiency Breakthrough",
+      "Japan-US Review Military Conduct Rules",
+      "IMF Raises Japan Growth Forecast"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-13T12:00:00Z",
+     "window_end": "2026-10-13T18:00:00Z",
+     "image": "archive/2026-10-13/tokyo-18Z.webp",
+     "headlines": [
+      "Tokyo Shrine Honors Precious Dolls",
+      "Typhoon Recedes, High Waves Remain",
+      "Anthropic and NTT Near Data Center Deal",
+      "Japan Plans Subsidies for Crude Imports",
+      "Volcanic Lake Reopens After Eight Years"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-13T00:00:00Z",
+     "window_end": "2026-10-13T06:00:00Z",
+     "image": "archive/2026-10-13/beijing-06Z.webp",
+     "headlines": [
+      "Tim Cook celebrates Beijing app incubator",
+      "Beijing Stock Exchange marks fifth anniversary",
+      "China sanctions ministers over Taiwan ties",
+      "Jiaolong submersible prepares for Pacific dive",
+      "Viral chestnut tea brand expands to Beijing"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-13T06:00:00Z",
+     "window_end": "2026-10-13T12:00:00Z",
+     "image": "archive/2026-10-13/beijing-12Z.webp",
+     "headlines": [
+      "Visa approved for domestic card business",
+      "Beijing's hotline model praised globally",
+      "Xi urges Healthy China progress",
+      "China sanctions Belize and Paraguay"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-13T12:00:00Z",
+     "window_end": "2026-10-13T18:00:00Z",
+     "image": "archive/2026-10-13/beijing-18Z.webp",
+     "headlines": [
+      "Beijing Forum Builds Digital People's Cities",
+      "Community Workers Aid Foreign Residents",
+      "China Elevates Botswana Strategic Partnership",
+      "Tesla China Sales Drop, Exports Rise"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-13T00:00:00Z",
+     "window_end": "2026-10-13T06:00:00Z",
+     "image": "archive/2026-10-13/paris-06Z.webp",
+     "headlines": [
+      "Historic Paris Market Destroyed in Fire",
+      "Cyberattack Spoils Food in French Stores",
+      "Paris Motor Show Opens with Record Brands",
+      "Stolen Renoirs Recovered via DNA"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-13T06:00:00Z",
+     "window_end": "2026-10-13T12:00:00Z",
+     "image": "archive/2026-10-13/paris-12Z.webp",
+     "headlines": [
+      "Nationwide Student Protests Reach Paris",
+      "Cyberattack Disrupts French Supermarkets",
+      "Paris Motor Show Opens With Global Brands",
+      "Paris Ranked Second Best Travel City",
+      "CarbonFarm Raises Funds for Climate"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-13T12:00:00Z",
+     "window_end": "2026-10-13T18:00:00Z",
+     "image": "archive/2026-10-13/paris-18Z.webp",
+     "headlines": [
+      "Student Protests Sweep France",
+      "Historic Market Fire Contained",
+      "France Seizes Shadow Fleet Tanker",
+      "Kurdish Cultural House Opens",
+      "Supermarket Cyberattack Investigated"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-13T00:00:00Z",
+     "window_end": "2026-10-13T06:00:00Z",
+     "image": "archive/2026-10-13/berlin-06Z.webp",
+     "headlines": [
+      "Coalition Crisis Halts Finance Minister Trip",
+      "Housing Giant Vonovia Faces Analyst Downgrades",
+      "Germany Rejects Easing Russia Sanctions",
+      "Macaque Fossils Found in Northern Germany"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-13T06:00:00Z",
+     "window_end": "2026-10-13T12:00:00Z",
+     "image": "archive/2026-10-13/berlin-12Z.webp",
+     "headlines": [
+      "Zero Waste Foundation advances global finance dialogue",
+      "World Health Summit honours global leadership",
+      "Chancellor rejects Russian diesel deal",
+      "Germany faces record inflation since 2023"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-13T12:00:00Z",
+     "window_end": "2026-10-13T18:00:00Z",
+     "image": "archive/2026-10-13/berlin-18Z.webp",
+     "headlines": [
+      "Ukrainian Film Festival Explores Emergency Spaces",
+      "Vonovia Halts New Berlin Building Projects",
+      "Merz Prioritizes Welfare Reform Over Popularity",
+      "Germany Scrambles Jets After False Hijack Alert",
+      "IMF Predicts Stronger Growth Despite Wine Slump"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-13T00:00:00Z",
+     "window_end": "2026-10-13T06:00:00Z",
+     "image": "archive/2026-10-13/rome-06Z.webp",
+     "headlines": [
+      "Pope Leo scheduled for surgery",
+      "Sustainability medal awarded in Rome",
+      "Italian heritage celebrated in US",
+      "Hidden chambers found in Italy"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-13T06:00:00Z",
+     "window_end": "2026-10-13T12:00:00Z",
+     "image": "archive/2026-10-13/rome-12Z.webp",
+     "headlines": [
+      "Pope appoints new St. Peter’s archpriest",
+      "Salvini steps down as Lega leader",
+      "Italy seeks EU fiscal leeway for families",
+      "Italian AI storytelling reaches Seoul"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-13T12:00:00Z",
+     "window_end": "2026-10-13T18:00:00Z",
+     "image": "archive/2026-10-13/rome-18Z.webp",
+     "headlines": [
+      "Pope Leo XIV hospitalized for lung surgery",
+      "Champions League clash sees Mourinho return",
+      "Italy launches universal newborn genomic screening",
+      "NATO begins nuclear exercise in Italy"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "style": "Group of Seven",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-13T00:00:00Z",
+     "window_end": "2026-10-13T06:00:00Z",
+     "image": "archive/2026-10-13/toronto-06Z.webp",
+     "headlines": [
+      "Toronto Robotics Startup Advances Surgical Care",
+      "Scarborough Central to Mayoral Campaign Debate",
+      "PM Carney Advocates Unity Amid Alberta Referendum",
+      "Canada Secures Top Spot for Northern Lights Viewing"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-13T06:00:00Z",
+     "window_end": "2026-10-13T12:00:00Z",
+     "image": "archive/2026-10-13/toronto-12Z.webp",
+     "headlines": [
+      "Anne Carson Wins Nobel Prize",
+      "Youth Innovators Awarded $100,000",
+      "Global Leaders Meet for Peace Summit",
+      "Chinese EV Plans Impact Auto Sector",
+      "Clean Car Breakdown Continues"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-13T12:00:00Z",
+     "window_end": "2026-10-13T18:00:00Z",
+     "image": "archive/2026-10-13/toronto-18Z.webp",
+     "headlines": [
+      "Record Advance Voting in Municipal Election",
+      "Senegalese Music and Spirituality Event",
+      "Academics Call for AI Restrictions",
+      "USMCA Upholds Softwood Lumber Ruling"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moscow",
+   "name": "Moscow",
+   "style": "Constructivism",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-13T00:00:00Z",
+     "window_end": "2026-10-13T06:00:00Z",
+     "image": "archive/2026-10-13/moscow-06Z.webp",
+     "headlines": [
+      "Moscow Exchange Launches Bitcoin Trading Tests",
+      "Mayor Reports Interception of Fifteen Drones",
+      "US Pushes Diesel Deal for Peace Talks",
+      "Russia Claims Diesel Exports May Rise"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-13T06:00:00Z",
+     "window_end": "2026-10-13T12:00:00Z",
+     "image": "archive/2026-10-13/moscow-12Z.webp",
+     "headlines": [
+      "Massive Drone Swarm Disrupts Moscow Airports",
+      "Kremlin Rejects Trump's Energy Ceasefire Proposal",
+      "Moscow Condemns French Tanker Seizure",
+      "Russia and ASEAN Discuss Energy Security"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-13T12:00:00Z",
+     "window_end": "2026-10-13T18:00:00Z",
+     "image": "archive/2026-10-13/moscow-18Z.webp",
+     "headlines": [
+      "Moscow Exchange Prepares Bitcoin Trading Launch",
+      "Underground Feminists Find New Ways to Work",
+      "France Seizes Russian Shadow Fleet Tanker",
+      "Russia Detains Japanese Journalist for Spying",
+      "Russia and US May Hold New Talks"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "style": "muralism",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-13T00:00:00Z",
+     "window_end": "2026-10-13T06:00:00Z",
+     "image": "archive/2026-10-13/mexico-city-06Z.webp",
+     "headlines": [
+      "Hurricanes Simon and Rachel batter Pacific coast",
+      "Mexico City budgets for new city hall",
+      "WWF race scheduled for Chapultepec Forest",
+      "Nestlé increases investment in Mexico"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-13T06:00:00Z",
+     "window_end": "2026-10-13T12:00:00Z",
+     "image": "archive/2026-10-13/mexico-city-12Z.webp",
+     "headlines": [
+      "Hurricane Simon hits Mexico coast",
+      "Mexico City sinking crisis deepens",
+      "IMSS workers demand pay raise",
+      "IMF lowers Mexico growth forecast"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-13T12:00:00Z",
+     "window_end": "2026-10-13T18:00:00Z",
+     "image": "archive/2026-10-13/mexico-city-18Z.webp",
+     "headlines": [
+      "Mexico City Showcases Methane Action Agenda",
+      "Authorities Discuss Accelerating Electric Mobility",
+      "Hurricane Simon Weakens Along Pacific Coast",
+      "Mexico Approves Viva-Volaris Airline Merger"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "style": "Mughal miniature",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-13T00:00:00Z",
+     "window_end": "2026-10-13T06:00:00Z",
+     "image": "archive/2026-10-13/mumbai-06Z.webp",
+     "headlines": [
+      "Mumbai students win MPSC protest battle",
+      "Bullet train project clears structural hurdle",
+      "IMF raises India growth forecast to 7%",
+      "RBI takes steps to ease currency pressure"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-13T06:00:00Z",
+     "window_end": "2026-10-13T12:00:00Z",
+     "image": "archive/2026-10-13/mumbai-12Z.webp",
+     "headlines": [
+      "Mumbai Heatwave Intensifies",
+      "Navi Mumbai Cargo Growth",
+      "India Postpones UPI Fees",
+      "India Green Ammonia Talks",
+      "India-Rupee Stability Measures"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-13T12:00:00Z",
+     "window_end": "2026-10-13T18:00:00Z",
+     "image": "archive/2026-10-13/mumbai-18Z.webp",
+     "headlines": [
+      "Mumbai Tunnel Excavation Hits Milestone",
+      "Airport Flight Cut Plans Deferred",
+      "Hyundai Announces Massive India Investment",
+      "Youth Protests Over Electoral Rolls"
+     ]
+    }
+   ]
+  }
+ ]
+}

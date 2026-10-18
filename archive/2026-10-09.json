@@ -1,0 +1,397 @@
+{
+ "date": "2026-10-09",
+ "subjects": [
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "slot": "06:00",
+   "image": "archive/2026-10-09/ai-06Z.webp",
+   "headlines": [
+    "Trump declares AI term users enemies",
+    "OpenAI unveils hundreds of math breakthroughs",
+    "India to release AI regulation paper",
+    "Anthropic advises candidates on AI policy",
+    "Mistral launches model outperforming rivals"
+   ]
+  }
+ ],
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "archive/2026-10-09/london-06Z.webp",
+     "headlines": [
+      "UK Downgrades Jerusalem Consulate",
+      "BBC and Channel 4 Merge Talks",
+      "London Climate Week Heat Cancellation",
+      "London Marathon Named Easiest"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "archive/2026-10-09/london-12Z.webp",
+     "headlines": [
+      "Labour secures London seat victory",
+      "London faces extreme heat challenges",
+      "UK gas stocks face winter crisis",
+      "New sanctions target Russian oil"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "archive/2026-10-09/new-york-06Z.webp",
+     "headlines": [
+      "Mayor Demands ICE Withdrawal After Shooting",
+      "State Declares Measles Disaster Emergency",
+      "Pentagon Announces Livestreamed Firing Squad Execution",
+      "Army Reports Systemic Failures in Collision"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "archive/2026-10-09/new-york-12Z.webp",
+     "headlines": [
+      "Mamdani demands ICE leave after shooting",
+      "State declares measles disaster emergency",
+      "US budget deficit hits two trillion",
+      "Green card freeze at tech firms",
+      "Hurricane Isaias targets Gulf Coast"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "archive/2026-10-09/san-francisco-06Z.webp",
+     "headlines": [
+      "Fleet Week Air Shows Return",
+      "Uniqlo Launches Downtown Street Festival",
+      "Tech Giants Lead AI Push",
+      "Army to Livestream Execution"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "archive/2026-10-09/san-francisco-12Z.webp",
+     "headlines": [
+      "Bay Area data center moratoriums approved",
+      "Uniqlo returns with downtown street festival",
+      "US budget deficit projected at $2 trillion",
+      "Green card freeze hits tech firms"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "archive/2026-10-09/tokyo-06Z.webp",
+     "headlines": [
+      "Japan-China tensions escalate over Taiwan remarks",
+      "AI lowers barrier for cyberattacks in Japan",
+      "Tokyo named world's best big city",
+      "Kusama exhibition opens in Tokyo"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "archive/2026-10-09/tokyo-12Z.webp",
+     "headlines": [
+      "Japan declares cyber space emergency",
+      "PM vows careful yen scrutiny",
+      "Tokyo named world's best city",
+      "Hitachinokuni trail opens to public",
+      "Calls for female emperor rise"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "archive/2026-10-09/beijing-06Z.webp",
+     "headlines": [
+      "EU Trade Envoy Challenges Beijing Deficit",
+      "Djokovic Wins Seventh Beijing Open Title",
+      "Gig Workers Gain New Labor Protections",
+      "China Nominates Official to Lead WHO"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "archive/2026-10-09/beijing-12Z.webp",
+     "headlines": [
+      "Beijing Launches Elderly Care Innovation Lab",
+      "Tesla China Sales Accelerate in September",
+      "China Allocates 550 Billion Yuan for Growth",
+      "China Issues AI Safety Guidelines"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "archive/2026-10-09/paris-06Z.webp",
+     "headlines": [
+      "Student Protests Close Paris Schools",
+      "Céline Dion Recovers After Stage Fall",
+      "France Faces Rising Borrowing Costs",
+      "Government Pledges Action on Schools"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "archive/2026-10-09/paris-12Z.webp",
+     "headlines": [
+      "Student Protests Close Paris Schools",
+      "Notre-Dame Rings Olympic Bells",
+      "Government Collapse Sparks PM Search",
+      "Borrowing Costs Alarm Candidates"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "archive/2026-10-09/berlin-06Z.webp",
+     "headlines": [
+      "Berlin Coalition Talks Begin After Deal",
+      "Berlin Withdraws Olympic Bid",
+      "Germany Raises Economic Growth Forecasts",
+      "UK PM Visits Berlin for Treaty"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "archive/2026-10-09/berlin-12Z.webp",
+     "headlines": [
+      "Berlin Coalition Talks Begin After Antisemitism Deal",
+      "UK PM Visits Berlin for Security Talks",
+      "Former Spy Chief Arrested in Espionage Scandal",
+      "Germany Doubles Growth Outlook on Manufacturing Rally"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "archive/2026-10-09/rome-06Z.webp",
+     "headlines": [
+      "Meloni's Electoral Reform Passes Final Vote",
+      "Intesa Sanpaolo Takeover of MPS Gains Momentum",
+      "Rome Stadium Project Approved for Construction",
+      "Foreign Ministry Cyberattack Contained"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "archive/2026-10-09/rome-12Z.webp",
+     "headlines": [
+      "Meloni Wins Final Electoral Reform Approval",
+      "Industrial Output Dips Unexpectedly in August",
+      "Rome’s New Stadium Formally Approved",
+      "Refugee’s Journey to University Directorship"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "style": "Group of Seven",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "archive/2026-10-09/toronto-06Z.webp",
+     "headlines": [
+      "Toronto Skyline Ranked World's Most Photographed",
+      "Province Begins Removing Toronto Bike Lanes",
+      "Anne Carson Wins Nobel Prize",
+      "Canada Launches Heat Pump Rebate Program"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "archive/2026-10-09/toronto-12Z.webp",
+     "headlines": [
+      "Anne Carson Wins Nobel Prize",
+      "Toronto Skyline Global Icon",
+      "Aviation Education Program Launches",
+      "US-Canada Trade Stance Firm",
+      "Heat Pump Rebate Launched"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moscow",
+   "name": "Moscow",
+   "style": "Constructivism",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "archive/2026-10-09/moscow-06Z.webp",
+     "headlines": [
+      "Yandex Data Center Drone Strike",
+      "Siberian Plague Secrecy Concerns",
+      "Ukraine Conflict Stalemate Acknowledged",
+      "NATO Baltic Drone Wall Prep"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "archive/2026-10-09/moscow-12Z.webp",
+     "headlines": [
+      "Ukraine Reclaims Eastern Territory",
+      "Yandex Data Centers Hit By Drones",
+      "Siberian Lab Death Investigation Concludes",
+      "Britain Targets Russian Oil Fleet"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "style": "muralism",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "archive/2026-10-09/mexico-city-06Z.webp",
+     "headlines": [
+      "Hurricane Simon Threatens Pacific Coast",
+      "Prison Riot Kills Ten in Sinaloa",
+      "Monarch Butterfly Migration Milestone Reached",
+      "NFL Game Returns to Mexico City"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "archive/2026-10-09/mexico-city-12Z.webp",
+     "headlines": [
+      "Hurricane Simon intensifies off Pacific coast",
+      "Prison riot kills ten in Sinaloa",
+      "Monarch butterfly completes perilous migration",
+      "Azteca stadium grants World Cup access",
+      "IndyCar race cancelled for 2026"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "style": "Mughal miniature",
+   "paintings": [
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-09T00:00:00Z",
+     "window_end": "2026-10-09T06:00:00Z",
+     "image": "archive/2026-10-09/mumbai-06Z.webp",
+     "headlines": [
+      "Mumbai Heatwave Alert Issued",
+      "Residents Push Back on Data Centers",
+      "Sensex Slumps to 32-Month Low",
+      "Musk Criticizes India Over Starlink"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-09T06:00:00Z",
+     "window_end": "2026-10-09T12:00:00Z",
+     "image": "archive/2026-10-09/mumbai-12Z.webp",
+     "headlines": [
+      "Voter roll deletions spark nationwide protests",
+      "Musk challenges Ambani over Starlink delays",
+      "Heatwave warning issued for Mumbai region",
+      "CyberTech Asia to debut in Mumbai"
+     ]
+    }
+   ]
+  }
+ ]
+}
