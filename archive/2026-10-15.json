@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-15",
+ "subjects": [],
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-14T18:00:00Z",
+     "window_end": "2026-10-15T00:00:00Z",
+     "image": "archive/2026-10-15/london-00Z.webp",
+     "headlines": [
+      "Burnham pledges support for Zelensky",
+      "London councillor faces racism allegations",
+      "Sally Rooney withdraws UK book sales",
+      "UK pledges more missile aid to Ukraine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-14T18:00:00Z",
+     "window_end": "2026-10-15T00:00:00Z",
+     "image": "archive/2026-10-15/new-york-00Z.webp",
+     "headlines": [
+      "GlobalFoundries Opens Two New Chip Plants",
+      "New York Candidates Clash Over Energy Policy",
+      "US Stocks Drop Amid Worsening Inflation",
+      "US Races to Build Rare Earth Supply Chain",
+      "Ukraine Faces Drone Restrictions via Starlink"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-14T18:00:00Z",
+     "window_end": "2026-10-15T00:00:00Z",
+     "image": "archive/2026-10-15/san-francisco-00Z.webp",
+     "headlines": [
+      "Emergency Highway 37 Closure",
+      "Bay Area Fire Weather Risk",
+      "US Stocks Drop on Inflation",
+      "Valkyries Reach WNBA Finals",
+      "Relics of St. Francis Displayed"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-14T18:00:00Z",
+     "window_end": "2026-10-15T00:00:00Z",
+     "image": "archive/2026-10-15/tokyo-00Z.webp",
+     "headlines": [
+      "Tokyo Protests Journalist's Arrest in Russia",
+      "Japan Funds Major US Chip Factory Expansion",
+      "Tokyo Launches New Marriage Support Initiative",
+      "Disney Announces Cruise Ship Sailing from Tokyo"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-14T18:00:00Z",
+     "window_end": "2026-10-15T00:00:00Z",
+     "image": "archive/2026-10-15/beijing-00Z.webp",
+     "headlines": [
+      "Beijing Marathon Set for Golden Autumn",
+      "New Zaha Hadid Convention Centre Unveiled",
+      "Apple AI Features Arrive in China",
+      "China Reaches Record Trade Surplus"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-14T18:00:00Z",
+     "window_end": "2026-10-15T00:00:00Z",
+     "image": "archive/2026-10-15/paris-00Z.webp",
+     "headlines": [
+      "School Protests Detain Thousands",
+      "NFL Game Proceeds Amid Unrest",
+      "Air France Expands Global Routes",
+      "Esports World Cup Comes to Paris",
+      "Macron Seeks Gulf Energy Deals"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-14T18:00:00Z",
+     "window_end": "2026-10-15T00:00:00Z",
+     "image": "archive/2026-10-15/berlin-00Z.webp",
+     "headlines": [
+      "World Health Summit Closes With New Commitments",
+      "Berlin Urges Israel To Lift Journalist Ban",
+      "Nord Stream Sabotage Trial Opens In Germany",
+      "Germany Plans Strategic Gas Reserve Expansion"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-14T18:00:00Z",
+     "window_end": "2026-10-15T00:00:00Z",
+     "image": "archive/2026-10-15/rome-00Z.webp",
+     "headlines": [
+      "Roma Fans Honor Mourinho’s Return",
+      "Rome Film Festival Hosts Red Carpet",
+      "Italy Opposes EU Farm Aid Cuts",
+      "High Costs Dominate Drug Budget"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "style": "Group of Seven",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-14T18:00:00Z",
+     "window_end": "2026-10-15T00:00:00Z",
+     "image": "archive/2026-10-15/toronto-00Z.webp",
+     "headlines": [
+      "Soldiers charged in violent kidnapping",
+      "Cyclists block bike lane removal",
+      "Ambassador warns Canada on elections",
+      "Booker wins festival literary award",
+      "Stocks slide as markets dip"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moscow",
+   "name": "Moscow",
+   "style": "Constructivism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-14T18:00:00Z",
+     "window_end": "2026-10-15T00:00:00Z",
+     "image": "archive/2026-10-15/moscow-00Z.webp",
+     "headlines": [
+      "Moscow Denies Ukrainian Refinery Strikes",
+      "New Pretrial Detention Center Planned",
+      "US-Russia Diesel Deal Sparks Controversy",
+      "Japan Protests Journalist's Arrest"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "style": "muralism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-14T18:00:00Z",
+     "window_end": "2026-10-15T00:00:00Z",
+     "image": "archive/2026-10-15/mexico-city-00Z.webp",
+     "headlines": [
+      "Mexico mandates digital safety for minors",
+      "Televisa acquires AT&T Mexico",
+      "Military abandons museum park plan",
+      "Day of the Dead lights Reforma"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "style": "Mughal miniature",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-14T18:00:00Z",
+     "window_end": "2026-10-15T00:00:00Z",
+     "image": "archive/2026-10-15/mumbai-00Z.webp",
+     "headlines": [
+      "Rubio Visits Mumbai, Jamnagar Next Week",
+      "Mumbai Heatwave Warning Third Consecutive Day",
+      "AI Job Matching Pilot Launches In Mumbai",
+      "Voter Roll Protests Swell Across India",
+      "Skyroot Aerospace Wins Major US Contract"
+     ]
+    }
+   ]
+  }
+ ]
+}

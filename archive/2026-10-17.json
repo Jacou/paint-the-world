@@ -1,0 +1,676 @@
+{
+ "date": "2026-10-17",
+ "subjects": [
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "slot": "06:00",
+   "image": "archive/2026-10-17/ai-06Z.webp",
+   "headlines": [
+    "Anthropic pushes AI safety bill",
+    "Meta releases Muse Wonder model",
+    "Apple bans AI nudify apps",
+    "AI technique fights breast cancer",
+    "China curbs AI tech exports"
+   ]
+  },
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "slot": "18:00",
+   "image": "archive/2026-10-17/ai-18Z.webp",
+   "headlines": [
+    "Anthropic Forecasts $44T AI Economic Boom",
+    "Microsoft Launches Mid-Range Weather AI Framework",
+    "StepFun Unveils AI-Agent-Centric Smartphone",
+    "OpenAI Agent Steals Crypto During Test",
+    "California Expands AI Regulatory Efforts"
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health science",
+   "style": "Haeckel",
+   "slot": "18:00",
+   "image": "archive/2026-10-17/health-18Z.webp",
+   "headlines": [
+    "Novo Nordisk Weight Loss Drug Trial",
+    "Brain Cells Dual Role in Aging",
+    "Microplastics Interact With Water",
+    "AI Midwife Supports Zimbabwe Care",
+    "Mobile App Reduces Surgery Complications"
+   ]
+  }
+ ],
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/london-00Z.webp",
+     "headlines": [
+      "London Council Faces Reform Councillor Ouster",
+      "Knife Incidents Mark Horror Week In Schools",
+      "UK Risks Losing Key European Space Role",
+      "FTSE 100 Sees Strongest Rally In Months"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "archive/2026-10-17/london-06Z.webp",
+     "headlines": [
+      "UK and Germany Strengthen Defence Ties",
+      "Heathrow Expansion Promises Economic Growth",
+      "Labour Lead Widens in Poll Tracker",
+      "Must Farm Bronze Age Artifacts Unlocked"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "archive/2026-10-17/london-12Z.webp",
+     "headlines": [
+      "Autumn storms hit London",
+      "Free pumpkin painting in parks",
+      "UK-Germany defence ties strengthened",
+      "Warship returns to North Atlantic"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "archive/2026-10-17/london-18Z.webp",
+     "headlines": [
+      "Heathrow runway expansion gets finance support",
+      "West End Day celebrates London gallery walks",
+      "Arson attacker expelled from United Kingdom",
+      "British cyclists win two world titles",
+      "UK-GCC trade deal focuses on investment"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/new-york-00Z.webp",
+     "headlines": [
+      "Wall Street Slides on AI and Oil Worries",
+      "State Secures Record Land Deal on Long Island",
+      "US Markets Retreat Amid Tech Sector Sell-Off",
+      "Air Traffic Controllers Reach Pay Deal"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "archive/2026-10-17/new-york-06Z.webp",
+     "headlines": [
+      "Trump Waives Russia Sanctions",
+      "NYC Symbol Set to Disappear",
+      "State Expands Heating Benefits",
+      "Daredevils Scale Empire State",
+      "Liberty Torch Climbed by Muir"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "archive/2026-10-17/new-york-12Z.webp",
+     "headlines": [
+      "Statue of Liberty Torch Climbed for Anniversary",
+      "Midterm Races Heat Up in New York Districts",
+      "Trump Pauses New Russia Sanctions",
+      "Community Forest Conservation Funded",
+      "US Eases Tanzania Travel Warning"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "archive/2026-10-17/new-york-18Z.webp",
+     "headlines": [
+      "Judge Upholds NYC Sanctuary Laws",
+      "Mastodon Bones Found in Excavation",
+      "Rallies Demand New York Health Act",
+      "US Waives Sanctions on Russia",
+      "Midterm Watchdog Steps Aside"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/san-francisco-00Z.webp",
+     "headlines": [
+      "Golden Gate Conservancy Hosts Trails Dinner",
+      "House of Air Closes After Presidio Lease Dispute",
+      "Bay Area Job Losses Reported in September",
+      "US Stocks Fall Amid Tech Sector Credit Fears",
+      "Air Traffic Controllers Reach Pay Deal with FAA"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "archive/2026-10-17/san-francisco-06Z.webp",
+     "headlines": [
+      "Power Restored After Safety Shutoff",
+      "SF Fastest-Growing Companies Gala",
+      "Trump Waives Russia Sanctions",
+      "Immigrant Release Delays in SF"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "archive/2026-10-17/san-francisco-12Z.webp",
+     "headlines": [
+      "Valkyries Debut in WNBA Finals",
+      "Immigrant Release Delays Criticized",
+      "Trump Hosts Xi for State Dinner",
+      "Russia Sanctions Paused by Trump"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "archive/2026-10-17/san-francisco-18Z.webp",
+     "headlines": [
+      "Valkyries Reach WNBA Finals",
+      "Arab Film Fest Honors Cultural Impact",
+      "Data Centers Drive US Financial Bet",
+      "US Waives Russia Sanctions"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/tokyo-00Z.webp",
+     "headlines": [
+      "Japan Launches Mission to Phobos",
+      "Tokyo Actors Set AI Voice Rules",
+      "False Earthquake Alert Retracted",
+      "Foreign Residents Hit Record High"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "archive/2026-10-17/tokyo-06Z.webp",
+     "headlines": [
+      "Prime Minister Visits Controversial Shrine",
+      "False Earthquake Alert Disrupts Transit",
+      "Ukrainian Film Festival Opens in Tokyo",
+      "Cyberattacks Plague Japanese Firms",
+      "Russia Detains Japanese Journalist"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "archive/2026-10-17/tokyo-12Z.webp",
+     "headlines": [
+      "Japan retracts mistaken magnitude 9.9 quake alert",
+      "Japan loses 112 century-old firms amid succession crisis",
+      "Tourists sitting on Ginza sidewalks stir debate",
+      "Japan and NASA plan Mars moon sample return mission",
+      "US holds secret talks with Myanmar rulers in Tokyo"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "archive/2026-10-17/tokyo-18Z.webp",
+     "headlines": [
+      "Tokyo hosts women leaders forum",
+      "Ukrainian Film Festival begins",
+      "New litter bug species discovered",
+      "PM Takaichi visits Yasukuni Shrine"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/beijing-00Z.webp",
+     "headlines": [
+      "China Tightens AI Export Controls",
+      "Youth Exchange Bridges US-China Divide",
+      "EU Negotiates Hybrid Vehicle Export Limits",
+      "China Warns EU Against Trade War"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "archive/2026-10-17/beijing-06Z.webp",
+     "headlines": [
+      "Beijing Tightens AI Export Controls",
+      "Daxing Hosts First Burger Festival",
+      "China EU Advance Nature Banking Rules",
+      "Energy Storage Drives Green Transition"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "archive/2026-10-17/beijing-12Z.webp",
+     "headlines": [
+      "Lin wins Beijing triathlon gold",
+      "Beijing hosts vocational education pact",
+      "IMF praises China's global growth impact",
+      "Cancer trial shows high efficacy",
+      "Nvidia CEO urges US-China AI cooperation"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "archive/2026-10-17/beijing-18Z.webp",
+     "headlines": [
+      "World's first nuclear clocks created",
+      "Global Traditional Medicine conference held",
+      "China proposes AI technology export bans",
+      "China invests record sum in science"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/paris-00Z.webp",
+     "headlines": [
+      "Macron urges calm before nationwide protests",
+      "Mayors demand recognition of 1961 massacre",
+      "Private capital maintains faith in France",
+      "New nonstop flights link US to Paris",
+      "Lumiere Festival illuminates French cities"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "archive/2026-10-17/paris-06Z.webp",
+     "headlines": [
+      "First Photograph of People Honored",
+      "Macron Urges Calm Before Protests",
+      "France-Germany Deal Protects Auto Industry",
+      "Wildfires Force Evacuations in France"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "archive/2026-10-17/paris-12Z.webp",
+     "headlines": [
+      "Nationwide Cost-of-Living Protests Hit Paris",
+      "Paris Shops Board Windows Ahead of Unrest",
+      "France Eases Rules for Solar Storage Projects",
+      "Paris Museums Host Halloween Cultural Events"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "archive/2026-10-17/paris-18Z.webp",
+     "headlines": [
+      "Mass Protests Erupt Across France",
+      "Students And Unions Join Demonstrations",
+      "Tensions Rise At République Square",
+      "Nationwide Mobilization Against Austerity"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/berlin-00Z.webp",
+     "headlines": [
+      "Germany and France Ease Car Emissions Rules",
+      "Berlin Students Join French Protest Solidarity",
+      "Germany Confirms Nvidia AI Partnership",
+      "New Species Discovered in German Collection",
+      "Berlin Wellness Flagship Opens"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "archive/2026-10-17/berlin-06Z.webp",
+     "headlines": [
+      "Franco-German Car Emissions Deal Struck",
+      "Berlin Students Join French Protests",
+      "Germany Approves Digital ID Law",
+      "New Species Identified In German Collection"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "archive/2026-10-17/berlin-12Z.webp",
+     "headlines": [
+      "Ural Owls Return to German Forests",
+      "Berlin Housing Giant Weighs Investment Freeze",
+      "Germany Seeks Debt Brake Exemption for Ukraine",
+      "Berlin Welcomes New Wellness Lifestyle Flagship"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "archive/2026-10-17/berlin-18Z.webp",
+     "headlines": [
+      "Berlin hosts Al Diwan Arabic Book Fair",
+      "Merz defends Ukraine aid against critics",
+      "Ancient bones found at construction site",
+      "Mercedes stock rises on emissions relief"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/rome-00Z.webp",
+     "headlines": [
+      "Italy probes Israeli officials over flotilla",
+      "FAO honors women heroes in Rome",
+      "Rome Film Festival red carpet glamour",
+      "New biodiversity discoveries across Italy",
+      "Air traffic delays resolved in Italy"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "archive/2026-10-17/rome-06Z.webp",
+     "headlines": [
+      "FAO honors women food heroes",
+      "Air traffic fully restored",
+      "Probe expands to Israeli officials",
+      "Lazio region showcases excellence"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "archive/2026-10-17/rome-12Z.webp",
+     "headlines": [
+      "Rome hosts FAO World Food Day",
+      "Fans gift bronze she-wolf to Mourinho",
+      "Italy probes Israeli defense minister",
+      "Renaissance masterpiece reunited in Italy"
+     ]
+    },
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-17T12:00:00Z",
+     "window_end": "2026-10-17T18:00:00Z",
+     "image": "archive/2026-10-17/rome-18Z.webp",
+     "headlines": [
+      "Pope Leo Returns to Vatican After Surgery",
+      "400,000 Students Protest Across Italy",
+      "MAXXI Hosts Calle and Bilbao Exhibitions",
+      "Italy Prepares First Quantum Supercomputer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "style": "Group of Seven",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/toronto-00Z.webp",
+     "headlines": [
+      "Waymo launches Toronto robotaxi testing",
+      "Ottawa threatens forced Stelco asset sale",
+      "Toronto 18 ringleader granted full parole",
+      "Alberta separation referendum unites federal opposition",
+      "Toronto hosts North America's first Nintendo store"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "archive/2026-10-17/toronto-06Z.webp",
+     "headlines": [
+      "Canada women's rugby stuns England",
+      "Toronto 18 leader granted full parole",
+      "Carney appeals against Alberta separation",
+      "Ontario signs winter electricity deal"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "archive/2026-10-17/toronto-12Z.webp",
+     "headlines": [
+      "Canada ends England's rugby unbeaten streak",
+      "Waymo approved for Toronto autonomous pilot",
+      "Canada pushes for Gulf peace diplomacy",
+      "Canadian wheat harvest quality improves",
+      "Toronto tourism sector sees strong summer"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moscow",
+   "name": "Moscow",
+   "style": "Constructivism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/moscow-00Z.webp",
+     "headlines": [
+      "Drone attacks halt flights at Moscow airports",
+      "Former library director arrested for fraud",
+      "Russia and US discuss joint data centers",
+      "Moscow seeks new gas buyers in Africa"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "archive/2026-10-17/moscow-06Z.webp",
+     "headlines": [
+      "Moscow Airports Shut Down by Drones",
+      "Trump Waives Russia Sanctions",
+      "Energy Forum Hosted in Moscow",
+      "EU Condemns Sanctions Easing"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "archive/2026-10-17/moscow-12Z.webp",
+     "headlines": [
+      "Trump Waives Russia Sanctions",
+      "Moscow Air Traffic Disrupted",
+      "Armenian Independence Celebrated",
+      "Energy Week Focuses on Diesel"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "style": "muralism",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/mexico-city-00Z.webp",
+     "headlines": [
+      "Mexico City Enters NBA Expansion Talks",
+      "New University Opens in Tlalpan",
+      "Hurricane Trudy Weakens Off Coast",
+      "Coast Guard Rescues Sixteen People",
+      "Mexico Exports Rise Significantly"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "archive/2026-10-17/mexico-city-06Z.webp",
+     "headlines": [
+      "US Lifts Restrictions on Mexican Airlines",
+      "Day of the Dead Festival Illuminates City",
+      "Court Sentences Murderers of Surfers",
+      "Hurricane Trudy Approaches Pacific Coast"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "archive/2026-10-17/mexico-city-12Z.webp",
+     "headlines": [
+      "US lifts restrictions on Mexican airlines",
+      "Garbage to headline free Zócalo concert",
+      "Surfer murder convicts sentenced to 158 years",
+      "Hurricane Trudy approaches Pacific coast"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "style": "Mughal miniature",
+   "paintings": [
+    {
+     "slot": "00:00",
+     "window_start": "2026-10-16T18:00:00Z",
+     "window_end": "2026-10-17T00:00:00Z",
+     "image": "archive/2026-10-17/mumbai-00Z.webp",
+     "headlines": [
+      "Dharavi Residents Campaign for Redevelopment",
+      "Mumbai Housing Demand Surges in Third Quarter",
+      "India and Canada Near New Economic Pact",
+      "C-CAMP Secures Major Grant for Deeptech"
+     ]
+    },
+    {
+     "slot": "06:00",
+     "window_start": "2026-10-17T00:00:00Z",
+     "window_end": "2026-10-17T06:00:00Z",
+     "image": "archive/2026-10-17/mumbai-06Z.webp",
+     "headlines": [
+      "Sound waves fix Mumbai water leaks",
+      "Konkan mangoes to reach Mumbai year-round",
+      "US waives Russia sanctions for India",
+      "Rubio visits Mumbai for trade talks"
+     ]
+    },
+    {
+     "slot": "12:00",
+     "window_start": "2026-10-17T06:00:00Z",
+     "window_end": "2026-10-17T12:00:00Z",
+     "image": "archive/2026-10-17/mumbai-12Z.webp",
+     "headlines": [
+      "Mumbai bridge naming row divides city",
+      "Mumbai mangroves suffer conservation delays",
+      "Navratri festivities draw massive crowds",
+      "US lawmakers urge India protest review",
+      "India rebukes UN youth rights report"
+     ]
+    }
+   ]
+  }
+ ]
+}

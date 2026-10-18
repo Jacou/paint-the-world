@@ -1,0 +1,19 @@
+{
+ "date": "2026-10-18",
+ "subjects": [
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "slot": "06:00",
+   "image": "archive/2026-10-18/ai-06Z.webp",
+   "headlines": [
+    "Meta Releases Muse Frontier AI Models",
+    "Microsoft AI Framework Improves Weather Forecasts",
+    "Japan Actors Union Establishes AI Voice Rules",
+    "AI Chatbot Pilot Trains Residents in Medical Talks"
+   ]
+  }
+ ],
+ "cities": []
+}

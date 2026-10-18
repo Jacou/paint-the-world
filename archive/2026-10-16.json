@@ -1,0 +1,267 @@
+{
+ "date": "2026-10-16",
+ "subjects": [
+  {
+   "id": "ai",
+   "name": "AI",
+   "style": "Futurism",
+   "slot": "18:00",
+   "image": "archive/2026-10-16/ai-18Z.webp",
+   "headlines": [
+    "China Restricts Advanced AI Exports",
+    "Nvidia Releases Open Local AI Models",
+    "Anthropic Warns of Self-Replicating AI",
+    "CERN and Mistral Plan Physics Model",
+    "Google AI Chatbot Aids Primary Care"
+   ]
+  },
+  {
+   "id": "health",
+   "name": "Health science",
+   "style": "Haeckel",
+   "slot": "18:00",
+   "image": "archive/2026-10-16/health-18Z.webp",
+   "headlines": [
+    "New Drug Shields Celiac Patients",
+    "Nature Contact Boosts Healthy Eating",
+    "Rapid PFAS Detection Method",
+    "Soda Linked to Brain Changes",
+    "Restraint Trauma in Mental Health"
+   ]
+  }
+ ],
+ "cities": [
+  {
+   "id": "london",
+   "name": "London",
+   "style": "Turner",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-16T12:00:00Z",
+     "window_end": "2026-10-16T18:00:00Z",
+     "image": "archive/2026-10-16/london-18Z.webp",
+     "headlines": [
+      "London pitched as new UBS headquarters",
+      "Norwegian teen jailed for murder plot",
+      "Chancellor considers new investor visa",
+      "Octopus boom offers fishing opportunity"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "new-york",
+   "name": "New York",
+   "style": "Hopper",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-16T12:00:00Z",
+     "window_end": "2026-10-16T18:00:00Z",
+     "image": "archive/2026-10-16/new-york-18Z.webp",
+     "headlines": [
+      "Thousands join No Kings anti-Trump rallies",
+      "Mayor bars ICE from private parking lots",
+      "New documents reveal Exxon climate suppression",
+      "US EV sales rise, recovery expected to last"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "san-francisco",
+   "name": "San Francisco",
+   "style": "Diebenkorn",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-16T12:00:00Z",
+     "window_end": "2026-10-16T18:00:00Z",
+     "image": "archive/2026-10-16/san-francisco-18Z.webp",
+     "headlines": [
+      "Shelter Policy Overhaul",
+      "Open Source AI Week Begins",
+      "DOJ Lawsuit Against California",
+      "EV Sales Recovery"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo",
+   "style": "ukiyo-e",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-16T12:00:00Z",
+     "window_end": "2026-10-16T18:00:00Z",
+     "image": "archive/2026-10-16/tokyo-18Z.webp",
+     "headlines": [
+      "Tokyo Retracts False Earthquake Alert",
+      "Autonomous Shinkansen Train Introduced",
+      "Megabanks Complete Stablecoin Pilot",
+      "Japan Faces Surge in Cyberattacks"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "beijing",
+   "name": "Beijing",
+   "style": "shan shui",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-16T12:00:00Z",
+     "window_end": "2026-10-16T18:00:00Z",
+     "image": "archive/2026-10-16/beijing-18Z.webp",
+     "headlines": [
+      "China tightens AI export controls",
+      "Youth exchange builds US-China bridges",
+      "Beijing hosts traditional healthcare expo",
+      "Lead poisoning sentences issued",
+      "Beijing rejects disarmament talks"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paris",
+   "name": "Paris",
+   "style": "Impressionism",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-16T12:00:00Z",
+     "window_end": "2026-10-16T18:00:00Z",
+     "image": "archive/2026-10-16/paris-18Z.webp",
+     "headlines": [
+      "Paris Mayors Seek Recognition of 1961 Massacre",
+      "Cost-of-Living Protests Grip Pre-Election France",
+      "France and Germany Seal Car Industry Deal",
+      "African Fashion Takes Paris Runways",
+      "Le Gray and Vuillard Exhibitions Open"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "name": "Berlin",
+   "style": "Expressionism",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-16T12:00:00Z",
+     "window_end": "2026-10-16T18:00:00Z",
+     "image": "archive/2026-10-16/berlin-18Z.webp",
+     "headlines": [
+      "Berlin Square Renamed for Eva Mamlok",
+      "Postbahnhof Berlin Lights Up",
+      "Germany France Seal Car Industry Deal",
+      "Germany Issues More Housing Permits"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rome",
+   "name": "Rome",
+   "style": "fresco",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-16T12:00:00Z",
+     "window_end": "2026-10-16T18:00:00Z",
+     "image": "archive/2026-10-16/rome-18Z.webp",
+     "headlines": [
+      "Teatro Valle Reopens in Rome",
+      "Students Protest Across Italy",
+      "Italy Probes Israeli Officials",
+      "Air Traffic Restored After Glitch"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "toronto",
+   "name": "Toronto",
+   "style": "Group of Seven",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-16T12:00:00Z",
+     "window_end": "2026-10-16T18:00:00Z",
+     "image": "archive/2026-10-16/toronto-18Z.webp",
+     "headlines": [
+      "Waymo Robotaxis Coming to Toronto",
+      "Plan Creates 15,000 Jobs for Youth",
+      "Record $90M Lotto Max Jackpot",
+      "Canadians Slowly Return to U.S."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "moscow",
+   "name": "Moscow",
+   "style": "Constructivism",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-16T12:00:00Z",
+     "window_end": "2026-10-16T18:00:00Z",
+     "image": "archive/2026-10-16/moscow-18Z.webp",
+     "headlines": [
+      "Drone attacks close Moscow airports",
+      "Editor-in-chief detained in Moscow",
+      "US-Russia diesel deal sparks debate",
+      "EU vows to maintain sanctions"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mexico-city",
+   "name": "Mexico City",
+   "style": "muralism",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-16T12:00:00Z",
+     "window_end": "2026-10-16T18:00:00Z",
+     "image": "archive/2026-10-16/mexico-city-18Z.webp",
+     "headlines": [
+      "AI Helps Find Missing Children",
+      "Hurricane Trudy Approaches Coast",
+      "Day of the Dead Celebrations",
+      "Elotero Reflects Local Economy",
+      "NBA Expansion Rumors"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mumbai",
+   "name": "Mumbai",
+   "style": "Mughal miniature",
+   "paintings": [
+    {
+     "slot": "18:00",
+     "window_start": "2026-10-16T12:00:00Z",
+     "window_end": "2026-10-16T18:00:00Z",
+     "image": "archive/2026-10-16/mumbai-18Z.webp",
+     "headlines": [
+      "US Secretary of State to Visit Mumbai",
+      "Court Bans Firecrackers on Public Roads",
+      "Emirates NBD Merges With RBL Bank",
+      "India-US Trade Deal Nearly Complete",
+      "India Selected for Global Tourism Summit"
+     ]
+    }
+   ]
+  }
+ ]
+}
